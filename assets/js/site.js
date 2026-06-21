@@ -42,7 +42,7 @@ document.querySelectorAll("[data-apply-form]").forEach((form) => {
     ].join("\n");
     const result = form.querySelector("[data-form-result]");
     try { await navigator.clipboard.writeText(summary); } catch { /* clipboard availability depends on browser context */ }
-    result.innerHTML = `沟通摘要已生成${navigator.clipboard ? "并尝试复制" : ""}。请致电 <a href="tel:${phone}">${phone}</a> 联系黄师傅，或在企业微信中粘贴发送。`;
+    result.innerHTML = `沟通摘要已生成${navigator.clipboard ? "并尝试复制" : ""}。请致电 <a href="tel:${phone}">${phone}</a> 联络我们；黄师傅会负责后续沟通，也可在企业微信中粘贴发送。`;
   });
 });
 
