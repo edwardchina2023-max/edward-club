@@ -17,6 +17,7 @@
 ## 上海人工智能大会专题自动更新
 
 - 专题页：`waic.html`
+- 直播专题页：`waic-live.html`
 - 数据文件：`data/waic-briefing.json`
 - 生成脚本：`automation/waic_briefing.py`
 - 定时任务：`.github/workflows/waic-briefing.yml`

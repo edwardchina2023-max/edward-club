@@ -393,3 +393,71 @@ button { cursor: pointer; }
   .waic-feed-card { grid-template-columns: 92px minmax(0, 1fr); }
   .waic-feed-card img, .waic-feed-fallback { width: 92px; min-height: 150px; }
 }
+
+
+.live-cover { display: grid; grid-template-columns: minmax(260px, .55fr) minmax(0, 1fr) auto; gap: 34px; align-items: center; padding: 44px 6vw; border-bottom: 1px solid var(--line); background: #e4e1da; }
+.live-cover h2 { margin: 0 0 12px; font-size: clamp(30px, 3.5vw, 52px); font-weight: 900; letter-spacing: -.055em; line-height: 1.04; }
+.live-cover p:not(.eyebrow) { max-width: 420px; margin: 0; color: #4e5558; font-size: 13px; letter-spacing: .02em; line-height: 1.8; }
+.live-cover .eyebrow { margin-bottom: 14px; color: var(--signal); }
+.live-cover-routes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); }
+.live-cover-routes a { display: flex; min-height: 158px; flex-direction: column; justify-content: space-between; padding: 18px; color: var(--ink); background: var(--paper); text-decoration: none; transition: background .2s ease, color .2s ease; }
+.live-cover-routes a:hover { color: var(--paper); background: var(--ink); }
+.live-cover-routes span { color: var(--signal); font-size: 10px; font-weight: 900; letter-spacing: .14em; }
+.live-cover-routes strong { display: block; margin-top: auto; font-size: 22px; font-weight: 900; letter-spacing: -.045em; }
+.live-cover-routes small { display: block; margin-top: 8px; color: #667073; font-size: 11px; line-height: 1.55; }
+.live-cover-routes a:hover small { color: #c5cfcb; }
+
+.live-hero { display: grid; grid-template-columns: minmax(0, 1fr) minmax(360px, .84fr); min-height: calc(100vh - 74px); color: var(--paper); background: var(--ink); }
+.live-hero-copy { display: flex; flex-direction: column; justify-content: end; padding: 8.5vw 7vw; }
+.live-hero h1 { max-width: 1000px; margin: 0; font-size: clamp(54px, 7vw, 112px); font-weight: 900; letter-spacing: -.06em; line-height: .98; }
+.live-hero h1 em { color: var(--signal-soft); font-style: normal; }
+.live-hero .lede { max-width: 700px; margin: 34px 0 0; color: #d7d9d5; font-size: 17px; letter-spacing: .025em; line-height: 2; }
+.live-hero-meta { display: flex; flex-wrap: wrap; gap: 12px 22px; margin-top: 54px; padding-top: 24px; border-top: 1px solid var(--light-line); color: #c7d0cc; font-size: 12px; font-weight: 800; letter-spacing: .08em; }
+.live-hero-meta strong { color: var(--signal-soft); }
+.live-hero-routes { display: grid; grid-template-rows: repeat(3, 1fr); gap: 1px; min-height: 520px; background: var(--light-line); }
+.live-hero-routes a { display: flex; flex-direction: column; justify-content: center; padding: 46px; color: var(--paper); background: linear-gradient(135deg, #182024 0%, #2d3d45 100%); text-decoration: none; }
+.live-hero-routes a:nth-child(2) { background: linear-gradient(135deg, #26343a 0%, #5e7684 100%); }
+.live-hero-routes a:nth-child(3) { background: linear-gradient(135deg, #1d2327 0%, #9b2d25 120%); }
+.live-hero-routes span { color: var(--signal-soft); font-size: 11px; font-weight: 900; letter-spacing: .16em; }
+.live-hero-routes strong { margin: 18px 0 8px; font-size: clamp(28px, 3vw, 45px); font-weight: 900; letter-spacing: -.05em; }
+.live-hero-routes small { max-width: 280px; color: #cbd5d1; font-size: 12px; font-weight: 800; letter-spacing: .08em; line-height: 1.7; }
+
+.live-desk { background: #e9e6df; }
+.live-section-stack { display: grid; gap: 84px; }
+.live-group { border-top: 1px solid var(--line); padding-top: 30px; }
+.live-group-heading { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 32px; align-items: end; margin-bottom: 28px; }
+.live-group-heading span { color: var(--signal); font-size: 10px; font-weight: 900; letter-spacing: .15em; text-transform: uppercase; }
+.live-group-heading h2 { margin: 12px 0 14px; font-size: clamp(36px, 4.6vw, 76px); font-weight: 900; letter-spacing: -.06em; line-height: .98; }
+.live-group-heading p { max-width: 650px; margin: 0; color: #535b5e; font-size: 15px; letter-spacing: .02em; line-height: 1.9; }
+.live-group-heading strong { display: grid; place-items: center; width: 116px; height: 116px; border: 1px solid var(--line); border-radius: 999px; color: var(--signal); font-size: 38px; font-weight: 900; letter-spacing: -.06em; }
+.live-group-heading small { display: block; color: #596166; font-size: 10px; font-weight: 900; letter-spacing: .1em; }
+.live-link-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+.live-link-card { display: grid; grid-template-columns: 42px minmax(0, 1fr) auto; gap: 16px; min-height: 178px; padding: 20px; border: 1px solid var(--line); color: var(--ink); background: var(--paper); text-decoration: none; transition: border-color .2s ease, transform .2s ease; }
+.live-link-card:hover { border-color: var(--signal); transform: translateY(-2px); }
+.live-link-index { color: var(--signal); font-size: 11px; font-weight: 900; letter-spacing: .12em; }
+.live-link-card small { display: block; margin-bottom: 12px; color: #6a7376; font-size: 10px; font-weight: 800; letter-spacing: .08em; line-height: 1.5; }
+.live-link-card h3 { margin: 0 0 10px; font-size: 22px; font-weight: 900; letter-spacing: -.04em; line-height: 1.22; }
+.live-link-card p { margin: 0; color: #535b5e; font-size: 12px; letter-spacing: .02em; line-height: 1.7; }
+.live-link-card em { align-self: start; max-width: 130px; overflow: hidden; color: var(--steel); font-size: 10px; font-style: normal; font-weight: 900; letter-spacing: .08em; text-overflow: ellipsis; white-space: nowrap; }
+
+@media (max-width: 980px) {
+  .live-cover { grid-template-columns: 1fr; }
+  .live-cover-routes { grid-template-columns: 1fr 1fr 1fr; }
+  .live-hero { grid-template-columns: 1fr; }
+  .live-hero-routes { grid-template-rows: none; grid-template-columns: 1fr; min-height: 0; }
+  .live-link-list { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 640px) {
+  .live-cover { padding: 54px 6vw; }
+  .live-cover-routes { grid-template-columns: 1fr; }
+  .live-cover-routes a { min-height: 132px; }
+  .live-hero-copy { min-height: 560px; padding: 86px 6vw 70px; }
+  .live-hero h1 { font-size: 46px; overflow-wrap: anywhere; word-break: break-word; }
+  .live-hero .lede { font-size: 15px; }
+  .live-hero-routes a { padding: 34px 6vw; }
+  .live-group-heading { grid-template-columns: 1fr; }
+  .live-group-heading strong { width: 94px; height: 94px; font-size: 32px; }
+  .live-link-card { grid-template-columns: 34px minmax(0, 1fr); }
+  .live-link-card em { grid-column: 2; }
+}

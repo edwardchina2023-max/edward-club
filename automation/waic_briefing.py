@@ -37,6 +37,10 @@ QUERIES = [
     "site:36kr.com WAIC 人工智能大会",
     "site:huxiu.com WAIC 人工智能大会",
     "site:jiqizhixin.com WAIC 人工智能大会",
+    "WAIC 逛展 直播",
+    "世界人工智能大会 逛展 探馆 直播",
+    "WAIC 嘉宾 解读 直播",
+    "上海人工智能大会 嘉宾解读 直播",
 ]
 
 STATIC_SOURCES = [
@@ -184,9 +188,73 @@ def zh_time(dt: datetime) -> str:
     return f"{dt.month:02d}月{dt.day:02d}日 {dt.hour:02d}:{dt.minute:02d}"
 
 
-def search_item(title: str, query: str, source: str, summary: str) -> dict:
+def public_link_item(title: str, query: str, source: str, summary: str, item_type: str = "观点") -> dict:
     url = "https://www.google.com/search?" + urllib.parse.urlencode({"q": query})
-    return asdict(Item(title=title, url=url, source=source, published_at="", type="观点", summary=summary, image=""))
+    return asdict(Item(title=title, url=url, source=source, published_at="", type=item_type, summary=summary, image=""))
+
+
+def search_item(title: str, query: str, source: str, summary: str) -> dict:
+    return public_link_item(title, query, source, summary, "观点")
+
+
+def live_bucket(item: Item) -> str | None:
+    blob = f"{item.title} {item.summary} {item.source} {item.url}".lower()
+    is_live = any(word in blob for word in ["直播", "回放", "live", "视频", "视频号", "全程放送", "现场直击", "直击"])
+    is_forum_signal = any(word in blob for word in ["主论坛", "论坛", "峰会", "会议", "开幕式", "圆桌"])
+    if not (is_live or is_forum_signal):
+        return None
+    if any(word in blob for word in ["逛展", "探馆", "展区", "展台", "展商", "参展", "展览", "看展", "展馆"]):
+        return "exhibition"
+    if any(word in blob for word in ["嘉宾", "解读", "专访", "访谈", "对话", "专家", "院士", "大咖", "观点", "评论"]):
+        return "guest"
+    if any(word in blob for word in ["主论坛", "论坛", "峰会", "会议", "开幕式", "议程", "圆桌"]):
+        return "forum"
+    return "guest"
+
+
+def dedupe_dict_items(items: list[dict]) -> list[dict]:
+    seen: set[str] = set()
+    unique: list[dict] = []
+    for item in items:
+        key = re.sub(r"\W+", "", f"{item.get('source', '')}{item.get('title', '')}".lower())[:180]
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append(item)
+    return unique
+
+
+def build_live_sections(items: list[Item]) -> list[dict]:
+    buckets = {"forum": [], "exhibition": [], "guest": []}
+    for item in items:
+        bucket = live_bucket(item)
+        if bucket:
+            buckets[bucket].append(asdict(item))
+    buckets = {key: dedupe_dict_items(value) for key, value in buckets.items()}
+
+    fallbacks = {
+        "forum": [
+            public_link_item("论坛直播检索：WAIC 主论坛 / 分论坛 / 圆桌", "WAIC 2026 主论坛 分论坛 直播 回放", "Google Search", "用于补充自动新闻源未收录的论坛直播间、官方回放和媒体直播入口。", "直播"),
+            public_link_item("官方大会直播入口检索", "世界人工智能大会 官方 直播 入口", "Google Search", "优先核验官方直播、主论坛和高等级会议直播链接。", "直播"),
+        ],
+        "exhibition": [
+            public_link_item("逛展直播检索：WAIC 展区 / 探馆 / 展台", "WAIC 逛展 探馆 展区 直播", "Google Search", "用于寻找媒体、展商和创作者的现场逛展直播与回放。", "直播"),
+            public_link_item("B站逛展视频检索", "site:bilibili.com WAIC 逛展 探馆 直播", "Google Search", "补充视频平台上的展区走访、探馆和现场体验内容。", "直播"),
+        ],
+        "guest": [
+            public_link_item("嘉宾解读直播检索：专家 / 院士 / 企业家观点", "WAIC 嘉宾 解读 直播 专家 观点", "Google Search", "用于补充大会嘉宾、专家学者、企业负责人和科技创作者的解读直播。", "直播"),
+            public_link_item("公众号嘉宾解读检索", "site:mp.weixin.qq.com WAIC 嘉宾 解读 直播", "Google Search", "补充公众号文章和直播预告中的嘉宾解读入口。", "直播"),
+        ],
+    }
+    for key, fallback_items in fallbacks.items():
+        if not buckets[key]:
+            buckets[key] = fallback_items
+
+    return [
+        {"id": "forum", "title": "论坛视频直播", "en": "Forum Livestreams", "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。", "items": buckets["forum"][:30]},
+        {"id": "exhibition", "title": "逛展直播", "en": "Expo Walkthroughs", "description": "展区、展台、探馆、现场走访和新品展示类直播/回放入口。", "items": buckets["exhibition"][:30]},
+        {"id": "guest", "title": "嘉宾解读直播", "en": "Guest Commentary", "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。", "items": buckets["guest"][:30]},
+    ]
 
 
 def build_highlights(items: list[Item]) -> list[str]:
@@ -245,6 +313,7 @@ def main() -> None:
         "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
         "highlights": build_highlights(items),
         "sections": sections,
+        "live_sections": build_live_sections(items),
         "sources": sources[:14],
         "query_log": QUERIES,
     }
