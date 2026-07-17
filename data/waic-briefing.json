@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-17T13:42:48.053143+08:00",
+  "generated_at": "2026-07-17T13:49:04.292783+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 07月17日 13:42",
+  "edition_title": "上海人工智能大会公开信号追踪 · 07月17日 13:49",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 98 条、直播 16 条、论坛 24 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 98 条、直播 15 条、论坛 24 条，已按企业家阅读场景分组。",
     "证券时报：2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
     "21财经：WAIC 2026世界人工智能大会主论坛 - 21财经",
     "thepaper.cn：WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - thepaper.cn",
@@ -196,15 +196,6 @@
           "image": ""
         },
         {
-          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - shobserver.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42enQ4azlGcWNrYk5FWkpVU1AwMzdyTFNXTGF3TUpmemdpU1BfdWY5Ni04UWVtRWlxY29WSjNrc0J2YXRYYkg1N3ZYRi1mUDlfR0tGSEw5QjQ5eVUz?oc=5",
-          "source": "shobserver.cn",
-          "published_at": "2026-07-16T12:32:00+08:00",
-          "type": "直播",
-          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 shobserver.cn",
-          "image": ""
-        },
-        {
           "title": "直播丨2026世界人工智能大会云逛展：寻找AI产业链方向与答案 - 第一财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMY0RsanZycjgtTld2T19OQjJVazB6dEw3a3VUOUpIM0RNVXVoUi1oOVRlZmRxRTE1bG11NzFRa09lZUZnQWhpWmNKQ2cxZ2ZkVjU4?oc=5",
           "source": "第一财经",
@@ -238,6 +229,15 @@
           "published_at": "2026-07-15T11:56:52+08:00",
           "type": "直播",
           "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 第一财经",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026-世界人工智能大会 - live.bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmTFg3d2gyRms0TWxOT3I1aVExQXlVYWhUYjd6WWphQ1VRcFQ3QzhJNHV2Ri04Y2QybHhadkVfdTlTV3V6S2QzbkM2dmtyWGplTVlrb0NVMExxblo3bWRZVFRBcGJlUHdtZ1hRSUN6OA?oc=5",
+          "source": "live.bilibili.com",
+          "published_at": "2026-07-15T00:52:35+08:00",
+          "type": "直播",
+          "summary": "WAIC 2026-世界人工智能大会 live.bilibili.com",
           "image": ""
         }
       ]
