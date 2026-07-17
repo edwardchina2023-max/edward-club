@@ -1,0 +1,40 @@
+name: WAIC briefing auto update
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: waic-briefing
+  cancel-in-progress: true
+
+jobs:
+  update-waic-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate WAIC briefing data
+        run: python automation/waic_briefing.py
+
+      - name: Commit updated briefing
+        run: |
+          if git diff --quiet -- data/waic-briefing.json; then
+            echo "No briefing changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/waic-briefing.json
+          git commit -m "自动更新上海人工智能大会专题简报"
+          git push
