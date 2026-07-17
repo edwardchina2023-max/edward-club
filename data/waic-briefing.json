@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-17T14:09:41.765790+08:00",
+  "generated_at": "2026-07-17T14:12:21.093695+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 07月17日 14:09",
+  "edition_title": "上海人工智能大会公开信号追踪 · 07月17日 14:12",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 21 条、论坛 28 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 138 条、直播 21 条、论坛 26 条，已按企业家阅读场景分组。",
     "证券时报：2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
     "21财经：WAIC 2026世界人工智能大会主论坛 - 21财经",
     "thepaper.cn：WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - thepaper.cn",
@@ -46,7 +46,7 @@
         },
         {
           "title": "即将开幕，多款具身智能与AI基础设施新品亮相WAIC 2026 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PLU5IS3dva045TFpRZmFCLWJTandkNk05LXN1Y1lyTzJPa3hyZXhHVGxfYm1zYXBGR0R0cXFkTHltelJQOVIySnl2WHRhVjg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2M2tYcFhjcnB4N1lLM3UzVHF3U1EyRGg0cThST3l6Rmg2Sk1OeVNWYm1YUWRFenhjNVE0VVc0YldGemJFaFc4Z2tzVFU0NmhE?oc=5",
           "source": "36Kr",
           "published_at": "2026-07-17T13:28:51+08:00",
           "type": "论坛",
@@ -63,15 +63,6 @@
           "image": ""
         },
         {
-          "title": "WAIC2026正式开幕，被大厂邀请函“轰炸”了 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NkJfR2lvQk43VXFlZmo4Ulo4SmltU3dUSndKc3pta19lSWtGTFc1dXVlNjJKakhhMHhfTGdNNWgxNFp1bDBLVHNDS2xURVI3WTdXYjJZNVJkb1JvbkFucjFR?oc=5",
-          "source": "手机网易网",
-          "published_at": "2026-07-17T09:06:21+08:00",
-          "type": "论坛",
-          "summary": "WAIC2026正式开幕，被大厂邀请函“轰炸”了 手机网易网",
-          "image": ""
-        },
-        {
           "title": "美军连续五晚空袭伊朗；NFC果汁车间无水果；B站回应未成年人新号涉黄推荐；2026世界人工智能大会上海开幕 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43NFE5NVZOU3JQVndtYzU3TzdlLWluV0w1WGZDNXYzWnJUVW5rVE5IaU5GR3lzWmlFdUJ0M2Fwd29WQjRDSVR1VEV6ZXRKZw?oc=5",
           "source": "虎嗅",
@@ -81,12 +72,12 @@
           "image": ""
         },
         {
-          "title": "三地四馆、规模创纪录，WAIC 2026今日开幕 - 观察者网",
+          "title": "三地四馆、规模创纪录，WAIC 2026今日开幕 - 观察者",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSE95eVVKV2IxbHd4amRvSV9zVE4tVjFLTEw2VXV1MWY0eDBucVkyZVVZNkQ5MHJ0OTI2djlpQVQzSzFhWEgxZWFrSFZ0allkeFFDLVR3LUZacGdPVmJHZ3VyRTJKZw?oc=5",
-          "source": "观察者网",
+          "source": "观察者",
           "published_at": "2026-07-17T06:45:00+08:00",
           "type": "论坛",
-          "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕 观察者网",
+          "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕 观察者",
           "image": ""
         },
         {
@@ -123,6 +114,15 @@
           "published_at": "2026-07-16T18:05:49+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会——智启具身:迎接物理AI智能涌现论坛 21财经",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会闭幕式论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-16T17:45:29+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
           "image": ""
         }
       ]
@@ -161,9 +161,9 @@
         },
         {
           "title": "现场直击2026WAIC（7月18日直播一览） - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lQ2xYRUJtTmlrdklfWXFlREwwLUJPMVNYdXVwM1F3Q1lSX3VybHJyZHFjb0JDSjkxMXBnVkc4X3c3anpjWW9tTDlVMTBnb0xJWFdFN0NFOEJzeWRjZ2xjam40b09VTUk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uWVhZWEt3MFBnS2lTbTRXSmZnckEyZnZ4Y1FHMHo5aDNJaEFEbzlycnVHT0VsZmEwOW5QZ3J2RTlpa3EwNk9QWjNldnczbWtUVGFEckRRR2ttbVJNQTVJTkRrcFBFbUlrLXJ0NXNFMW91NHlN?oc=5",
           "source": "新浪财经",
-          "published_at": "2026-07-17T11:10:42+08:00",
+          "published_at": "2026-07-17T10:34:06+08:00",
           "type": "直播",
           "summary": "现场直击2026WAIC（7月18日直播一览） 新浪财经",
           "image": ""
@@ -291,12 +291,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 · 世界人工智能大会 - 观察者网",
+          "title": "WAIC 2026 · 世界人工智能大会 - 观察者",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYNDFSYzRmOThEdk5admY0VkRqSFBrYUc4ajhudms2UGhkeE9tMWZKVDFFY2tSZmVKNzEwTDZ5aUFJVzc2RVZ3bkxkNGtzNmJlZWdQLQ?oc=5",
-          "source": "观察者网",
+          "source": "观察者",
           "published_at": "2026-07-17T12:12:08+08:00",
           "type": "媒体",
-          "summary": "WAIC 2026 · 世界人工智能大会 观察者网",
+          "summary": "WAIC 2026 · 世界人工智能大会 观察者",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026逛展保姆级攻略！不绕路、不踩坑，每天少走1w步 - 手机网易网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BcWo1MngzdnpNb08zUlV6WGlLc2Zac0ZyNFBWUE45Qm83dldhcHdQZngzazVyVDdEZkczWWI1OUpZMUN0N3lxRmlXUGh2ckt3NHp3VjNyeVFIeFlvY09ERUt3?oc=5",
+          "source": "手机网易网",
+          "published_at": "2026-07-17T11:12:21+08:00",
+          "type": "媒体",
+          "summary": "WAIC 2026逛展保姆级攻略！不绕路、不踩坑，每天少走1w步 手机网易网",
           "image": ""
         },
         {
@@ -360,15 +369,6 @@
           "published_at": "2026-07-17T08:16:23+08:00",
           "type": "媒体",
           "summary": "杨浦企业亮相WAIC2026，这些特色展位等你打卡→ 手机网易网",
-          "image": ""
-        },
-        {
-          "title": "暴走30000步抢先逛WAIC 2026！一份攻略拆解AI和具身智能新趋势 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WNnlsLVNOM0NkckRpNFUwNTJTOXJMNUVPb1RYa0ZuZzNxal9vYzBsTXFOd1FUTlFxd3NQd2xseGFDODB4MmQ5OEl6X09WNGEzQjZoQkNySXA5Yy1PbkV0OXJn?oc=5",
-          "source": "手机网易网",
-          "published_at": "2026-07-17T08:04:52+08:00",
-          "type": "媒体",
-          "summary": "暴走30000步抢先逛WAIC 2026！一份攻略拆解AI和具身智能新趋势 手机网易网",
           "image": ""
         },
         {
@@ -580,12 +580,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察者网",
+          "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察者",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRXNBNzAxajh5NkJQUjFXUHlaa0xJcTRaUG5UMHBQQmVlRzVFcW5ZQXV0eVljbjdJUE1HUklwTW4xdnhqSXVOYldDakRqYUtzdVpHYzdtMzZfWXBYcjc1eUY1V1ZfVUZURHRzMlFXOEU?oc=5",
-          "source": "观察者网",
+          "source": "观察者",
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者网",
+          "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者",
           "image": ""
         },
         {
@@ -642,21 +642,21 @@
           "image": ""
         },
         {
+          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
+          "source": "智源社区",
+          "published_at": "2026-07-14T14:40:00+08:00",
+          "type": "直播",
+          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+          "image": ""
+        },
+        {
           "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI|世界人工智能大会|Agent|具身智能|上海市|大模型_手机新浪网 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNR2kxU181emo1WFhDYk05ZFYwQjAtbFdNOWJHQzVLcUlvSnlzTm41bnhlcGtUQ2x6N0lEc2pmMWZlUGw5alBLZmZIM24tTXBqUG5RdnZDWF9MalRGbTI3NmZmNnJZZFk4QUp1OVpEbHR4LTlocmVlbVpZeXhrYW10dzRuS2pkOTZNY0lkbWtPalBDbUFobDY4T1diZU13aVNPRnFhd3Z0ajdHY0RlaEJwc3JUT1RVU19iTFZOWGxKOXpEeEU5RFoxbHlnMEU5S3BDZjctdkVCd21OSk41QVY0SS1KTEtEQm5yQzVXTjdwRDhhRUVmVDlQcWRwQXdNaW9ZRmVrVF84YWlJVVBJSFhvNHpWLUhoZWtudGYyUUMtVktHeTF3RjByaS1NQjFXMFR1N09BdEhoaHllRzBVTW41T2pmSl9BQ1dUQVVVQnN2RnBPTng2MjNRckpYdw?oc=5",
           "source": "新浪财经",
           "published_at": "2026-07-14T01:17:29+08:00",
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI|世界人工智能大会|Agent|具身智能|上海市|大模型_手机新浪网 新浪财经",
-          "image": ""
-        },
-        {
-          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDlLaENyUnZ5c1ZUS19EeC1oNE1kUDlkU0R5bWFpR2RKLUpuUUVPZG5NWUlaRDNIN0IySW00N2p2bXJOc3ZPZ3JXeUE4TkdBaVI2TDctUGR6WmtIamN6SGxodFY1ZXRtTHJGcjhKUjFHS1RhR2c0ZmNwaGZZNkppZEhQbGZCMEdlWTZjVWpMVEgxNWlYTlFZUkozVjZndzY3?oc=5",
-          "source": "搜狐网",
-          "published_at": "2026-07-13T12:33:00+08:00",
-          "type": "直播",
-          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 搜狐网",
           "image": ""
         }
       ]
