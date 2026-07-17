@@ -67,6 +67,18 @@
         <a class="text-link" href="./waic-live.html">进入直播专题页 →</a>
       </section>
 
+      <section class="viewpoint-wall" aria-labelledby="viewpoint-wall-title">
+        <div class="viewpoint-wall-head">
+          <div>
+            <p class="eyebrow">CHANNEL VIEWPOINTS · AUTO UPDATED</p>
+            <h2 id="viewpoint-wall-title">各个渠道的核心观点，<br />直接在这里看。</h2>
+            <span class="section-en">Official agenda, media reports, livestreams and creator commentary — in one glance.</span>
+          </div>
+          <div class="viewpoint-wall-meta"><span data-viewpoint-time>正在读取最新观点…</span><a class="text-link" href="./waic.html">进入完整专题 →</a></div>
+        </div>
+        <div class="viewpoint-grid" data-channel-viewpoints aria-live="polite"></div>
+      </section>
+
       <section class="section" id="why">
         <div class="section-heading"><div><p class="eyebrow">WHY DEEPTECH+</p><h2>企业不缺概念，<br />缺的是抵达前沿的人。</h2></div><p>对于正在做业务转型、产品升级或技术布局的企业家，最大的成本不是信息不足，而是不知道该向谁提出真正的问题。</p></div>
         <div class="stat-grid">
@@ -151,6 +163,6 @@
     <footer class="site-footer"><a class="wordmark" href="./index.html"><strong>DEEPTECH<span>+</span></strong><span>企业家的科学社区</span></a><p>以科学、技术与人才为核心，帮助企业家更早、更深地进入改变产业的技术现场。</p><a href="./contact.html">联络我们 →</a></footer>
 
     <div class="modal" data-apply-modal role="dialog" aria-modal="true" aria-label="会员申请意向"><div class="modal-dialog"><button class="modal-close" type="button" aria-label="关闭" data-close-apply>×</button><form data-apply-form><h3>申请加入 DEEPTECH+</h3><div class="form-grid"><div class="form-field"><label for="modal-name">姓名</label><input id="modal-name" name="name" required /></div><div class="form-field"><label for="modal-contact">手机 / 微信</label><input id="modal-contact" name="contact" required /></div><div class="form-field wide"><label for="modal-company">企业与角色</label><input id="modal-company" name="company" required placeholder="企业名称 · 董事长 / 总经理 / 技术负责人" /></div><div class="form-field wide"><label for="modal-direction">技术关注方向</label><select id="modal-direction" name="direction"><option>先进制造 / 新材料</option><option>AI / 机器人 / 智能硬件</option><option>能源 / 碳中和</option><option>生命科学 / 医疗健康</option><option>半导体 / 芯片</option><option>其他</option></select></div><div class="form-field wide"><label for="modal-need">希望解决的问题</label><textarea id="modal-need" name="need"></textarea></div></div><input type="hidden" name="title" value="会员申请" /><button type="submit">生成沟通摘要</button><p class="form-result" data-form-result>生成后，请直接致电联络我们。</p></form></div></div>
-    <script src="./assets/js/site.js"></script><script src="./assets/js/news.js"></script>
+    <script src="./assets/js/site.js"></script><script src="./assets/js/home-waic.js"></script><script src="./assets/js/news.js"></script>
   </body>
 </html>

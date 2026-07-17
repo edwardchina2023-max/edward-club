@@ -257,6 +257,57 @@ def build_live_sections(items: list[Item]) -> list[dict]:
     ]
 
 
+def clean_title(value: str) -> str:
+    value = re.sub(r"\s+-\s+[^-]{1,22}$", "", value or "")
+    value = re.sub(r"\s+", " ", value).strip()
+    return value[:92] + ("…" if len(value) > 92 else "")
+
+
+def make_point(item: dict, channel: str) -> str:
+    title = clean_title(item.get("title", ""))
+    summary = strip_markup(item.get("summary", ""))
+    if summary and summary != title:
+        summary = summary[:128] + ("…" if len(summary) > 128 else "")
+        return summary
+    return {
+        "official": f"官方与论坛侧的关键信号：{title}",
+        "media": f"媒体正在集中跟踪：{title}",
+        "live": f"直播/现场侧值得先打开：{title}",
+        "creator": f"观点与解读侧值得继续看：{title}",
+    }.get(channel, title)
+
+
+def viewpoint_from_item(item: dict, channel: str, channel_title: str, en: str) -> dict:
+    return {
+        "channel": channel_title,
+        "en": en,
+        "source": item.get("source", "公开来源"),
+        "title": clean_title(item.get("title", "")),
+        "point": make_point(item, channel),
+        "url": item.get("url", ""),
+        "published_at": item.get("published_at", ""),
+        "type": item.get("type", "观点"),
+    }
+
+
+def build_channel_viewpoints(sections: list[dict], live_sections: list[dict]) -> list[dict]:
+    section_map = {section.get("id"): section for section in sections}
+    live_map = {section.get("id"): section for section in live_sections}
+    configs = [
+        ("official", "官方 / 论坛", "Official & Forum", (section_map.get("论坛", {}).get("items") or [])[:3]),
+        ("media", "媒体快讯", "Media Signals", (section_map.get("媒体", {}).get("items") or [])[:3]),
+        ("live", "直播 / 逛展", "Live & Expo", ((live_map.get("exhibition", {}).get("items") or []) + (live_map.get("forum", {}).get("items") or []))[:3]),
+        ("creator", "嘉宾 / 自媒体", "Guests & Creators", ((section_map.get("观点", {}).get("items") or []) + (live_map.get("guest", {}).get("items") or []))[:3]),
+    ]
+    viewpoints: list[dict] = []
+    for channel, title, en, items_for_channel in configs:
+        if not items_for_channel:
+            items_for_channel = [public_link_item(f"{title}观点检索", f"WAIC 2026 {title} 核心观点", "Google Search", "自动来源暂未抓到稳定结果，保留公开检索入口，便于继续查看该渠道最新观点。", "观点")]
+        for item in items_for_channel:
+            viewpoints.append(viewpoint_from_item(item, channel, title, en))
+    return viewpoints[:12]
+
+
 def build_highlights(items: list[Item]) -> list[str]:
     if not items:
         return [
@@ -305,6 +356,7 @@ def main() -> None:
         title, en = section_title(kind)
         sections.append({"id": kind, "title": title, "en": en, "items": grouped.get(kind, [])[:12]})
 
+    live_sections = build_live_sections(items)
     now = datetime.now(TZ)
     briefing = {
         "generated_at": now.isoformat(),
@@ -313,7 +365,8 @@ def main() -> None:
         "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
         "highlights": build_highlights(items),
         "sections": sections,
-        "live_sections": build_live_sections(items),
+        "live_sections": live_sections,
+        "channel_viewpoints": build_channel_viewpoints(sections, live_sections),
         "sources": sources[:14],
         "query_log": QUERIES,
     }
