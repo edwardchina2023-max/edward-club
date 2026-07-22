@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-23T01:49:48.127499+08:00",
+  "generated_at": "2026-07-23T03:27:10.778224+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 07月23日 01:49",
+  "edition_title": "上海人工智能大会公开信号追踪 · 07月23日 03:27",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 137 条、直播 31 条、观点 3 条、论坛 23 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 137 条、直播 31 条、观点 3 条、论坛 24 条，已按企业家阅读场景分组。",
     "Sohu：聚焦量子计算与未来算力 港城大于WAIC推动全球创新合作 - Sohu",
     "虎嗅：WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 - 虎嗅",
     "Sohu：上抖音逛WAIC：观点碰撞、首发探展，40余位创作者直击全球AI盛会 - Sohu",
-    "36 Kr：酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” - 36 Kr",
-    "手机网易网：WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 - 手机网易网"
+    "36 Kr：大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 - 36 Kr",
+    "36 Kr：酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” - 36 Kr"
   ],
   "sections": [
     {
@@ -117,12 +117,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
-          "source": "中国科技网",
-          "published_at": "2026-07-18T22:27:58+08:00",
+          "title": "2026世界人工智能大会人工智能国际标准化论坛召开 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTUUFBaUlxMlJ2MnpnbFVLc2hKN0xVQng4RFJUY3Azd3o3S0ZhVmx1WUE5WGZERVVIZEdzN1BoeTZ4ZUU3VEVFRUFQUTQ4d1N4NnJnTkJ0eE1GRVMway1UdVVZTk50UmVHR0tUNkxFNDJfWVVpaHVNQw?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-07-19T11:05:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
+          "summary": "2026世界人工智能大会人工智能国际标准化论坛召开 新浪财经",
           "image": ""
         }
       ]
@@ -148,6 +148,24 @@
           "published_at": "2026-07-20T16:00:00+08:00",
           "type": "直播",
           "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 第一财经",
+          "image": ""
+        },
+        {
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - finance.tom.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
+          "source": "finance.tom.com",
+          "published_at": "2026-07-20T10:06:00+08:00",
+          "type": "直播",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 finance.tom.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026丨4×24 LIVE·全程大放送-Day 4 - 第一财经",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoNXlmTXFRelJUOGtYNmJpbGs3V0R4UFJlZUxPTHVMUGFXNWF5aUFLeHRsZENKdDBYV0JhNHlHUzl5SFNOQ1ZrYkhNcDVkaUR1?oc=5",
+          "source": "第一财经",
+          "published_at": "2026-07-20T09:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC 2026丨4×24 LIVE·全程大放送-Day 4 第一财经",
           "image": ""
         },
         {
@@ -221,24 +239,6 @@
           "type": "直播",
           "summary": "WAIC直击丨世界人工智能大会4×24LIVE全程大放送 thepaper.cn",
           "image": ""
-        },
-        {
-          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - Sohu",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNUtNNVpHRjk2ZHdfelA4RnlMOXFuZnFqWGxPdWFVRDhVSXJ4OUJtRDMtU2c0MHEtWGpuZFV6UzR1SEsxNzZMT0Q4RmpKNzVBY2c?oc=5",
-          "source": "Sohu",
-          "published_at": "2026-07-17T11:51:59+08:00",
-          "type": "直播",
-          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 Sohu",
-          "image": ""
-        },
-        {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T11:49:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
-          "image": ""
         }
       ]
     },
@@ -300,6 +300,15 @@
           "image": ""
         },
         {
+          "title": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wSUV1Uk1yX1hld0xPRUh3TklmSEpMSE1yVGRVRWJfTTk4bUVfcFhqTGZoYmlvSGk3VDgtYzdiRHlDY1dOc183cUduQUprcWc?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-07-22T18:22:06+08:00",
+          "type": "媒体",
+          "summary": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 36 Kr",
+          "image": ""
+        },
+        {
           "title": "酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzMGlZckhuOUQtWnhyVERoZXVseF9IMlJWMUpJUmJIdng2cmRYa1hzUFozOEh1Y1Jxb0x0dHZLcURPMTJlbUJyN3pYeXROUQ?oc=5",
           "source": "36 Kr",
@@ -351,15 +360,6 @@
           "published_at": "2026-07-22T04:18:00+08:00",
           "type": "媒体",
           "summary": "Token不够用了，AI时代最火“新生意” 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42RTNCZGRjelNoYmRJRGstbnYzVGxDMzBGRmt0RmVSaXNEaldMS2pPbDBmd1BzenlUbGw5Q2RzZm12UXZMWkxyVU1lVm1aREs4X3V3?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-07-22T03:20:00+08:00",
-          "type": "媒体",
-          "summary": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 36 Kr",
           "image": ""
         },
         {
@@ -517,6 +517,15 @@
           "image": ""
         },
         {
+          "title": "2026世界人工智能大会人工智能国际标准化论坛召开 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTUUFBaUlxMlJ2MnpnbFVLc2hKN0xVQng4RFJUY3Azd3o3S0ZhVmx1WUE5WGZERVVIZEdzN1BoeTZ4ZUU3VEVFRUFQUTQ4d1N4NnJnTkJ0eE1GRVMway1UdVVZTk50UmVHR0tUNkxFNDJfWVVpaHVNQw?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-07-19T11:05:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会人工智能国际标准化论坛召开 新浪财经",
+          "image": ""
+        },
+        {
           "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
           "source": "中国科技网",
@@ -652,21 +661,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察者",
+          "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRXNBNzAxajh5NkJQUjFXUHlaa0xJcTRaUG5UMHBQQmVlRzVFcW5ZQXV0eVljbjdJUE1HUklwTW4xdnhqSXVOYldDakRqYUtzdVpHYzdtMzZfWXBYcjc1eUY1V1ZfVUZURHRzMlFXOEU?oc=5",
-          "source": "观察者",
+          "source": "观察",
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2022开幕式完整回放（下）_ - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwdW40VGNBdmM3RkFuRkdpX01US2tzd2FkZW5Idm5weWFELUxkYkNyenVWcEI2LXJDM0xxbUFrd0ZpcGJBUGRDTlhXdE1aRHBqV2tSS0Q0QQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2022-12-08T16:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2022开幕式完整回放（下）_ Bilibili",
+          "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察",
           "image": ""
         }
       ]
@@ -712,15 +712,6 @@
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI|世界人工智能大会|Agent|具身智能|上海市|大模型_手机新浪网 新浪财经",
           "image": ""
-        },
-        {
-          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NMHI2eDM0M0lGejl3V3dNS3ROdnBMNWV3eDlFUUx3QlFuOXJieTZmbmJqaGk2VS1BUG9HaVZWVFl1QU9uZnhUZnAySHlla29wUU5ZZFRRN1h1OVQ4N3Fya3RR?oc=5",
-          "source": "手机网易网",
-          "published_at": "2026-07-13T14:50:09+08:00",
-          "type": "直播",
-          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 手机网易网",
-          "image": ""
         }
       ]
     },
@@ -764,6 +755,24 @@
           "published_at": "2026-07-21T02:00:00+08:00",
           "type": "媒体",
           "summary": "2024 WAIC世界人工智能大会现场直击：暴走三万步深度探访揭秘当下机器人行业四大核心变化 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - finance.tom.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
+          "source": "finance.tom.com",
+          "published_at": "2026-07-20T10:06:00+08:00",
+          "type": "直播",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 finance.tom.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026丨4×24 LIVE·全程大放送-Day 4 - 第一财经",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoNXlmTXFRelJUOGtYNmJpbGs3V0R4UFJlZUxPTHVMUGFXNWF5aUFLeHRsZENKdDBYV0JhNHlHUzl5SFNOQ1ZrYkhNcDVkaUR1?oc=5",
+          "source": "第一财经",
+          "published_at": "2026-07-20T09:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC 2026丨4×24 LIVE·全程大放送-Day 4 第一财经",
           "image": ""
         },
         {
@@ -902,12 +911,12 @@
           "image": ""
         },
         {
-          "title": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 - 观察者",
+          "title": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 - 观察",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JYnlxUkJRdGxmNkxwY3ZheGlEYUE4cFhfNjZrOXV5dkJka3A5VmJTMUFaLS1UQlkwZFdDLXZHSFltYzVqVFdIbWFoc0hrN2dLRC1zdEYwU2Z5T3dkNksxSkNCNS0?oc=5",
-          "source": "观察者",
+          "source": "观察",
           "published_at": "2026-07-15T17:07:00+08:00",
           "type": "直播",
-          "summary": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 观察者",
+          "summary": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 观察",
           "image": ""
         },
         {
@@ -974,30 +983,12 @@
           "image": ""
         },
         {
-          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
-          "source": "moe.gov.cn",
-          "published_at": "2025-05-09T15:00:00+08:00",
-          "type": "直播",
-          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
-          "image": ""
-        },
-        {
           "title": "倒计时1天|WAIC 2023科学前沿全体会议嘉宾阵容公布 - C114通信网",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WSGxkUDdEb04tNTFuaWFrZDdJYS15MzFrXzk3eWY4by1hVWNMZkdiRmIyT0NvUkRzU3pJa0JiQzVaMUxPUGU1Vmp1NjNUaEd0MmQtRkNXTVd1SmVE?oc=5",
           "source": "C114通信网",
           "published_at": "2023-07-06T15:00:00+08:00",
           "type": "媒体",
           "summary": "倒计时1天|WAIC 2023科学前沿全体会议嘉宾阵容公布 C114通信网",
-          "image": ""
-        },
-        {
-          "title": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fMmFDV0l4UzB5eWtiR25wYTJVUHd1UnA1UDZXSm92djZrQ3FFbHF2UWFuTHVYRWVLZ1hENmhOSWF5WGVTM2Z6OHMzeVZLOUkya0E?oc=5",
-          "source": "21财经",
-          "published_at": "2023-02-12T16:32:04+08:00",
-          "type": "直播",
-          "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
           "image": ""
         }
       ]
@@ -1058,10 +1049,10 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "36 Kr",
-      "title": "酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型”",
-      "point": "酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzMGlZckhuOUQtWnhyVERoZXVseF9IMlJWMUpJUmJIdng2cmRYa1hzUFozOEh1Y1Jxb0x0dHZLcURPMTJlbUJyN3pYeXROUQ?oc=5",
-      "published_at": "2026-07-22T17:13:22+08:00",
+      "title": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打",
+      "point": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wSUV1Uk1yX1hld0xPRUh3TklmSEpMSE1yVGRVRWJfTTk4bUVfcFhqTGZoYmlvSGk3VDgtYzdiRHlDY1dOc183cUduQUprcWc?oc=5",
+      "published_at": "2026-07-22T18:22:06+08:00",
       "type": "媒体"
     },
     {
