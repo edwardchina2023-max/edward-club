@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-24T02:47:39.762929+08:00",
+  "generated_at": "2026-07-24T04:16:55.255344+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 07月24日 02:47",
+  "edition_title": "上海人工智能大会公开信号追踪 · 07月24日 04:16",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 138 条、直播 35 条、观点 2 条、论坛 26 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 137 条、直播 35 条、观点 2 条、论坛 27 条，已按企业家阅读场景分组。",
     "虎嗅网：WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 - 虎嗅网",
     "风闻：大模型之家乔志斌：2026年AI处在“良性泡沫”，劣币会自我淘汰 - 风闻",
     "中国科技网：WAIC 2026青少年AI教育论坛举办 - 中国科技网",
@@ -500,7 +500,7 @@
         },
         {
           "title": "2026世界人工智能大会政务智能创新论坛举办 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jT3pKeHZOMzhDbmdKRE5BRGdLT1lxZ3k3dXhkbG0waHFfbU9oTENlRFNqQVlNOUpNczRUN3cwTF85OVJUOGwzbllGODlNMnZxNmFweEROVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aMzZvNWh4QkxmZ0FZb3pya2VSaUw4dnZLUUs4ek5RNVp5QlRUV2xReXMzaEhzRUV4SDQ5ZXg3Y05UbC1GamlWc050UjAxamZIZ2x0TlVoTTBuQQ?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-21T08:38:00+08:00",
           "type": "论坛",
@@ -893,15 +893,6 @@
           "image": ""
         },
         {
-          "title": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI - 西部网",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51c0xieGRXcXRfby1BeUNVNUhWWEVBZXBJVHRJRGNWTS1RWlBQT0xqVHNNd0htdi10TEhHa2NVbi1FLXBLUk9QYzNvWXBwaVVHVXNtM0hYSEVMUWRoRC1RRHJUb0c?oc=5",
-          "source": "西部网",
-          "published_at": "2026-07-15T20:49:00+08:00",
-          "type": "媒体",
-          "summary": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI 西部网",
-          "image": ""
-        },
-        {
           "title": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 - 观察者",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JYnlxUkJRdGxmNkxwY3ZheGlEYUE4cFhfNjZrOXV5dkJka3A5VmJTMUFaLS1UQlkwZFdDLXZHSFltYzVqVFdIbWFoc0hrN2dLRC1zdEYwU2Z5T3dkNksxSkNCNS0?oc=5",
           "source": "观察者",
@@ -980,6 +971,15 @@
           "published_at": "2025-05-09T15:00:00+08:00",
           "type": "直播",
           "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
+          "image": ""
+        },
+        {
+          "title": "倒计时1天|WAIC 2023科学前沿全体会议嘉宾阵容公布 - C114通信网",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WSGxkUDdEb04tNTFuaWFrZDdJYS15MzFrXzk3eWY4by1hVWNMZkdiRmIyT0NvUkRzU3pJa0JiQzVaMUxPUGU1Vmp1NjNUaEd0MmQtRkNXTVd1SmVE?oc=5",
+          "source": "C114通信网",
+          "published_at": "2023-07-06T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "倒计时1天|WAIC 2023科学前沿全体会议嘉宾阵容公布 C114通信网",
           "image": ""
         }
       ]
