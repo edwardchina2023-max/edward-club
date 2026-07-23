@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-24T05:36:57.171813+08:00",
+  "generated_at": "2026-07-24T07:00:47.714063+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 07月24日 05:36",
+  "edition_title": "上海人工智能大会公开信号追踪 · 07月24日 07:00",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 35 条、观点 2 条、论坛 28 条，已按企业家阅读场景分组。",
-    "凤凰网：中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 - 凤凰网",
+    "本轮抓取到 媒体 134 条、直播 38 条、观点 2 条、论坛 26 条，已按企业家阅读场景分组。",
     "虎嗅网：WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 - 虎嗅网",
     "风闻：大模型之家乔志斌：2026年AI处在“良性泡沫”，劣币会自我淘汰 - 风闻",
     "中国科技网：WAIC 2026青少年AI教育论坛举办 - 中国科技网",
-    "中华网科技频道：闪电智联出席世界人工智能大会（WAIC 2026）论坛：共话AI向善治理 - 中华网科技频道"
+    "中华网科技频道：闪电智联出席世界人工智能大会（WAIC 2026）论坛：共话AI向善治理 - 中华网科技频道",
+    "虎嗅网：从WAIC回来，发现AI 圈的风口彻底变了 - 虎嗅网"
   ],
   "sections": [
     {
@@ -133,15 +133,6 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
-          "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 - 凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
-          "source": "凤凰网",
-          "published_at": "2026-07-24T00:22:41+08:00",
-          "type": "直播",
-          "summary": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
-          "image": ""
-        },
-        {
           "title": "麦琳直播中否认怀孕，称自己是复胖了 - 凤凰网",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lcUpnWGlfS2puN0RmZmYyaFB6dmJzUmJjTUhXTDZnX212ZjlkZ2dSRFlTNmVPQ2w3VHRadTRFNER6bXJ0SVpqenZMYw?oc=5",
           "source": "凤凰网",
@@ -187,12 +178,30 @@
           "image": ""
         },
         {
+          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - 凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lcjNST2ZjRTRJd3ZtWUtsdUJWU0NKaWYtZjJJYWpuX21NQ25RM0UzZG5wRE1JY0RfdWhvWTBIT08zT3dyQnViR2kwenQ?oc=5",
+          "source": "凤凰网",
+          "published_at": "2026-07-20T08:34:45+08:00",
+          "type": "直播",
+          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 凤凰网",
+          "image": ""
+        },
+        {
           "title": "直播预约| 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 - 启明创投",
           "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPTnYwM0NyX1JObFRzUU9DNUxhOUNPLVNrdG56TTRTRUpHc0R5UmRxTS01cTZaYlRrY05vWUlnR1l2ejNpd3RYYzFiT0pnYzhCamZ4MHhfemVpOUVfc2dqT1UxWGNEYm95RVBBd2FjMXRsc2RDZ3N4a0ZkQVhIZTFURGhkRndWN2c1MnFwS3lFX3VNc2htTkJUZng4YXRSQXZqNlJkUmdiVjZlYUZ0Tjcwa3VmdDVyVUt2UzZia0VPVC1SU3RpTEFoTEptYTBXSXZ0VGVsWU1qa3JZeG5yYzdUODJyOGV3YWZfQ0dFTGxJUHp2dmprQmQtbElRalN1TDMySkxmcWYteWtibndPSVowZVE3YnJDb1luamxUU0NaVlYycHI2UXRzVDBMbEJQcFRETFozQVlSRmowTXZZblVMMjhTVTRkbTJwU0c5UUl1QkZDbGR4WU9PNmZvbWZjNWR3OVU0VWJVS0tzSThUYmFBb2FnYmtPZktDcjJUalkwVl9aR001bFFoRk9RcHJUNmdNY2lRemU1M2dlN3djX05VS1N2YnR3VXUxRXZvWl9vZFZjLWIzd2NHei04OURLYUFsbHlsOFFKQkp5OHU1SjgwaWhxR3MxVWw2VzhqVkotNjkyV2loZnN3b2FvY09rQkJrOXlGb3NMWGdKQVI1U2J5WnZONG1tM29XUHV5QlJIWlp6aW9odENjUkhjcFo4SE8wbFhYWFNyRUxnbjZGeWEyaQ?oc=5",
           "source": "启明创投",
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "直播",
           "summary": "直播预约| 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 启明创投",
+          "image": ""
+        },
+        {
+          "title": "2026WAIC前瞻：企业 AI 应用加速，范凌做客央视直播间谈AI落地，从“能想”到“能干” - beareyes.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HR0lLRUFhS1k1R29Eb0NHdms2dU4tZU1qRjRxXzVnUl9wOUdab1N4alB3aHNIRHl3aDRtUDNWZmRlWXBDNEducnVRTDhXUkZWWWpFY3Ria0kyOVdvcHZvbVp6LU9rdw?oc=5",
+          "source": "beareyes.com.cn",
+          "published_at": "2026-07-19T02:31:46+08:00",
+          "type": "直播",
+          "summary": "2026WAIC前瞻：企业 AI 应用加速，范凌做客央视直播间谈AI落地，从“能想”到“能干” beareyes.com.cn",
           "image": ""
         },
         {
@@ -211,15 +220,6 @@
           "published_at": "2026-07-18T18:50:00+08:00",
           "type": "直播",
           "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 新浪财经",
-          "image": ""
-        },
-        {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
-          "source": "品玩",
-          "published_at": "2026-07-18T17:14:28+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
           "image": ""
         },
         {
@@ -318,21 +318,21 @@
           "image": ""
         },
         {
+          "title": "凯文·凯利WAIC演讲：未来5年，盯紧这3个赛道 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pM21xUzBla0FZOHFoYzFHRnY1SFRWN3RONnotTUZRMDVmdVpGT3JINU12OHpxRW91aG85WHU0N0hVR1FwNDdwRGJWQkxVUQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-07-22T20:22:22+08:00",
+          "type": "媒体",
+          "summary": "凯文·凯利WAIC演讲：未来5年，盯紧这3个赛道 36 Kr",
+          "image": ""
+        },
+        {
           "title": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aSERGMUp4UlV3Z1Q5Wl8tMkJ2VjhuWVZ0QTluTDV2LU5XbVM1ZHhrTFp0VHI0UkY2bkVXZmc1ZHJXRjlaTE1UcDc0dG1XWkxqM3RaVQ?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-07-22T19:23:00+08:00",
           "type": "媒体",
           "summary": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzMGlZckhuOUQtWnhyVERoZXVseF9IMlJWMUpJUmJIdng2cmRYa1hzUFozOEh1Y1Jxb0x0dHZLcURPMTJlbUJyN3pYeXROUQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-07-22T17:13:22+08:00",
-          "type": "媒体",
-          "summary": "酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” 36 Kr",
           "image": ""
         },
         {
@@ -354,12 +354,12 @@
           "image": ""
         },
         {
-          "title": "超86%都是这三类话题！2026 WAIC透露出哪些热门方向？ - 新浪网",
+          "title": "超86%都是这三类话题！2026 WAIC透露出哪些热门方向？ - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVnVrdXdYMndhMElYMVc4T284S1hWTVhxa1JZTlMxNC1rWXA3LXp3NV9FemNJTG9CdnpVR1FiTkZ5ZzVDOW93Z1EyVXl4emZXV1UwazI3Y3JVVFdfenFmTkFDZUtJNERDVl9WMzAyTmY?oc=5",
-          "source": "新浪网",
+          "source": "新浪财经",
           "published_at": "2026-07-22T09:26:05+08:00",
           "type": "媒体",
-          "summary": "超86%都是这三类话题！2026 WAIC透露出哪些热门方向？ 新浪网",
+          "summary": "超86%都是这三类话题！2026 WAIC透露出哪些热门方向？ 新浪财经",
           "image": ""
         },
         {
@@ -669,12 +669,21 @@
       "description": "展区、展台、探馆、现场走访和新品展示类直播/回放入口。",
       "items": [
         {
-          "title": "2026年世界人工智能大会核心展馆怎么逛？看这个视频就知道了 - 新浪网",
+          "title": "WAIC 2026现场直击：10万平米“AI宇宙”开启，智能伙伴陪你逛展！ - 国际金融报",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WS19XcG11MFBlV3JyanptZkNfb0ZLdTR4UGh2X3ZjZFA2Y19NVWttQ1F3M1hseDVxMTJKMUlobVBYZ0xUQlhQRnFhbEQ4Z0ZaY3lYbmVINWxKVE1zcXE4?oc=5",
+          "source": "国际金融报",
+          "published_at": "2026-07-17T16:15:00+08:00",
+          "type": "媒体",
+          "summary": "WAIC 2026现场直击：10万平米“AI宇宙”开启，智能伙伴陪你逛展！ 国际金融报",
+          "image": ""
+        },
+        {
+          "title": "2026年世界人工智能大会核心展馆怎么逛？看这个视频就知道了 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUlGWFdYZXVLVHZQM3RHMXg5RzNudzVPZ0lGeExZbVNWaU5SUTZpaERZQ0V1c2lSb2JldkotMlNNNUV0a29nLWU3VVZha1hLbTVVSkVSb1NmanMzdGhaVElKdE1qRXVrYzZpakRSWVFIVWZvVmxDOGN4RC1VREIyRDM4MlY3UQ?oc=5",
-          "source": "新浪网",
+          "source": "新浪财经",
           "published_at": "2026-07-16T19:36:12+08:00",
           "type": "媒体",
-          "summary": "2026年世界人工智能大会核心展馆怎么逛？看这个视频就知道了 新浪网",
+          "summary": "2026年世界人工智能大会核心展馆怎么逛？看这个视频就知道了 新浪财经",
           "image": ""
         },
         {
@@ -703,15 +712,6 @@
       "en": "Guest Commentary",
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
-        {
-          "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 - 凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
-          "source": "凤凰网",
-          "published_at": "2026-07-24T00:22:41+08:00",
-          "type": "直播",
-          "summary": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
-          "image": ""
-        },
         {
           "title": "麦琳直播中否认怀孕，称自己是复胖了 - 凤凰网",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lcUpnWGlfS2puN0RmZmYyaFB6dmJzUmJjTUhXTDZnX212ZjlkZ2dSRFlTNmVPQ2w3VHRadTRFNER6bXJ0SVpqenZMYw?oc=5",
@@ -758,6 +758,15 @@
           "image": ""
         },
         {
+          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - 凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lcjNST2ZjRTRJd3ZtWUtsdUJWU0NKaWYtZjJJYWpuX21NQ25RM0UzZG5wRE1JY0RfdWhvWTBIT08zT3dyQnViR2kwenQ?oc=5",
+          "source": "凤凰网",
+          "published_at": "2026-07-20T08:34:45+08:00",
+          "type": "直播",
+          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 凤凰网",
+          "image": ""
+        },
+        {
           "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDZaaEdxeFRxN25RcGtOOUZxVTh3QnZjU0N0Z092MFNBVl81cFBrcUFLYmxVRFZIZEZ1OWlRaXQ4bGlua1luVzNjY1MwMnFFdnFqM1hpY3VtbEJoN1ljbDRGS2YyaWNaVlhsSUJ4WkhGZnE3cGJFVHZ4a0l0RVZYRmZIYjVQMnc?oc=5",
           "source": "新浪财经",
@@ -773,6 +782,15 @@
           "published_at": "2026-07-19T06:39:14+08:00",
           "type": "媒体",
           "summary": "直击WAIC丨B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容 新浪财经",
+          "image": ""
+        },
+        {
+          "title": "2026WAIC前瞻：企业 AI 应用加速，范凌做客央视直播间谈AI落地，从“能想”到“能干” - beareyes.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HR0lLRUFhS1k1R29Eb0NHdms2dU4tZU1qRjRxXzVnUl9wOUdab1N4alB3aHNIRHl3aDRtUDNWZmRlWXBDNEducnVRTDhXUkZWWWpFY3Ria0kyOVdvcHZvbVp6LU9rdw?oc=5",
+          "source": "beareyes.com.cn",
+          "published_at": "2026-07-19T02:31:46+08:00",
+          "type": "直播",
+          "summary": "2026WAIC前瞻：企业 AI 应用加速，范凌做客央视直播间谈AI落地，从“能想”到“能干” beareyes.com.cn",
           "image": ""
         },
         {
@@ -800,15 +818,6 @@
           "published_at": "2026-07-18T18:50:00+08:00",
           "type": "直播",
           "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 新浪财经",
-          "image": ""
-        },
-        {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
-          "source": "品玩",
-          "published_at": "2026-07-18T17:14:28+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
           "image": ""
         },
         {
@@ -848,15 +857,6 @@
           "image": ""
         },
         {
-          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - Sohu",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNUtNNVpHRjk2ZHdfelA4RnlMOXFuZnFqWGxPdWFVRDhVSXJ4OUJtRDMtU2c0MHEtWGpuZFV6UzR1SEsxNzZMT0Q4RmpKNzVBY2c?oc=5",
-          "source": "Sohu",
-          "published_at": "2026-07-17T11:51:59+08:00",
-          "type": "直播",
-          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 Sohu",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRHpHVUpnektYZW9YdE1SR1JWeUtTQ3d6ZFQxektKcHFJN01CWTEwYmpQU1FLZi1OdlI1d1dCOS1pVnFwcWR3YldMZFNaN3J6LVZGX3hSclBrUQ?oc=5",
           "source": "上观新闻",
@@ -893,12 +893,21 @@
           "image": ""
         },
         {
-          "title": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI - 西部网",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51c0xieGRXcXRfby1BeUNVNUhWWEVBZXBJVHRJRGNWTS1RWlBQT0xqVHNNd0htdi10TEhHa2NVbi1FLXBLUk9QYzNvWXBwaVVHVXNtM0hYSEVMUWRoRC1RRHJUb0c?oc=5",
-          "source": "西部网",
-          "published_at": "2026-07-15T20:49:00+08:00",
-          "type": "媒体",
-          "summary": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI 西部网",
+          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 凤凰网科技",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXLVIwSG51RnhSVzZxVDh1akZ4Ql9pSEV0eFkwOG9uMG8zNzVrQUtsRjdoY0Noc1ZSd1Q0M1hGSW9zRzFwT3lpdmpvWk4?oc=5",
+          "source": "凤凰网科技",
+          "published_at": "2026-07-16T22:06:37+08:00",
+          "type": "直播",
+          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 凤凰网科技",
+          "image": ""
+        },
+        {
+          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ULUhUNjFvd2hUVG5wNURQUDlhelVxNjVQQXNNclVTUjdjVDBTeWFURXdrVHotVG9JYjVNdnR4dTI0M0FwazcxN2pMWlhtUzUwTVBvdTQ4cXNYQQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-16T12:32:00+08:00",
+          "type": "直播",
+          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
           "image": ""
         },
         {
@@ -947,30 +956,30 @@
           "image": ""
         },
         {
+          "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - 中央政府驻港联络办",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdmhZSFRGWTlZZFlnMzZoMDBZQmczOTJYbHF6cldURTVQZ2ZtUHJHbFdmRG0xdkF6VklQcGJEaXVyNU5GRHhYUW9UZlRmb1VGMEdEQWdqenFudXlnanBMeXRsRkZQaE9YQVoxZDhFM0VhWWQwcTI5cHFTV1BEeWc?oc=5",
+          "source": "中央政府驻港联络办",
+          "published_at": "2026-06-15T15:00:00+08:00",
+          "type": "直播",
+          "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 中央政府驻港联络办",
+          "image": ""
+        },
+        {
+          "title": "【与观察者网共赴#世界人工智能大会2025# 】明天（7月26日），2025世界人工智能大会（WAIC 2025）将正式拉开帷幕。值此盛会启幕之际，观察者网也将推出WAIC期间的首个专场直播——中国科创“新生态”，中国青创家“养成记”》。直播当日上午，观察者网直播间将全程 - 新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XTGFYOVBNOGhWbkk0VWlINGdzLUhYLTVUTzcteG1yRHItWk9ZRXl4eEhRQzRETjhRS2RmcDYtc0J4M29oVmxPOGtWdGs2aVB4NEF3bXV6b0ZFZUdYWmVXQTd6SQ?oc=5",
+          "source": "新浪网",
+          "published_at": "2025-07-25T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【与观察者网共赴#世界人工智能大会2025# 】明天（7月26日），2025世界人工智能大会（WAIC 2025）将正式拉开帷幕。值此盛会启幕之际，观察者网也将推出WAIC期间的首个专场直播——中国科创“新生态”，中国青创家“养成记”》。直播当日上午，观察者网直播间将全程 新浪网",
+          "image": ""
+        },
+        {
           "title": "直播预告 | 智能时代同球共济 探营2025世界人工智能大会 - shobserver.cn",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuQUt1QjBsVVpBT1ZIVWdlMG9DOHBscWFIQkgxTHl6Q0dDWnNkdHM3U0FIc1htUlRick9qcExwMDkzT0pwUHptNi1VWHJwUFFqcy1oWnpDM2NsSGM?oc=5",
           "source": "shobserver.cn",
           "published_at": "2025-07-24T15:00:00+08:00",
           "type": "直播",
           "summary": "直播预告 | 智能时代同球共济 探营2025世界人工智能大会 shobserver.cn",
-          "image": ""
-        },
-        {
-          "title": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqTFcyN21tTFRHYlNUV2l1YTh3VU1JQ3k5M1lfenZnN0JmLVpaMll2aC1CZUc5TU4xdGM0OVFybnNzWmNaZXF1WHFXeDVaZXFWMTdn?oc=5",
-          "source": "36 Kr",
-          "published_at": "2025-07-24T15:00:00+08:00",
-          "type": "直播",
-          "summary": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
-          "source": "moe.gov.cn",
-          "published_at": "2025-05-09T15:00:00+08:00",
-          "type": "直播",
-          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         }
       ]
@@ -1040,9 +1049,19 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "新浪网",
+      "source": "国际金融报",
+      "title": "WAIC 2026现场直击：10万平米“AI宇宙”开启，智能伙伴陪你逛展！",
+      "point": "WAIC 2026现场直击：10万平米“AI宇宙”开启，智能伙伴陪你逛展！ 国际金融报",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WS19XcG11MFBlV3JyanptZkNfb0ZLdTR4UGh2X3ZjZFA2Y19NVWttQ1F3M1hseDVxMTJKMUlobVBYZ0xUQlhQRnFhbEQ4Z0ZaY3lYbmVINWxKVE1zcXE4?oc=5",
+      "published_at": "2026-07-17T16:15:00+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "直播 / 逛展",
+      "en": "Live & Expo",
+      "source": "新浪财经",
       "title": "2026年世界人工智能大会核心展馆怎么逛？看这个视频就知道了",
-      "point": "2026年世界人工智能大会核心展馆怎么逛？看这个视频就知道了 新浪网",
+      "point": "2026年世界人工智能大会核心展馆怎么逛？看这个视频就知道了 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUlGWFdYZXVLVHZQM3RHMXg5RzNudzVPZ0lGeExZbVNWaU5SUTZpaERZQ0V1c2lSb2JldkotMlNNNUV0a29nLWU3VVZha1hLbTVVSkVSb1NmanMzdGhaVElKdE1qRXVrYzZpakRSWVFIVWZvVmxDOGN4RC1VREIyRDM4MlY3UQ?oc=5",
       "published_at": "2026-07-16T19:36:12+08:00",
       "type": "媒体"
@@ -1055,16 +1074,6 @@
       "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
       "published_at": "2026-07-14T14:40:00+08:00",
-      "type": "直播"
-    },
-    {
-      "channel": "直播 / 逛展",
-      "en": "Live & Expo",
-      "source": "新浪财经",
-      "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI|世界人工智能大会|Agent|具身智能|上海市|大模型_手机新浪网",
-      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI|世界人工智能大会|Agent|具身智能|上海市|大模型_手机新浪网 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNR2kxU181emo1WFhDYk05ZFYwQjAtbFdNOWJHQzVLcUlvSnlzTm41bnhlcGtUQ2x6N0lEc2pmMWZlUGw5alBLZmZIM24tTXBqUG5RdnZDWF9MalRGbTI3NmZmNnJZZFk4QUp1OVpEbHR4LTlocmVlbVpZeXhrYW10dzRuS2pkOTZNY0lkbWtPalBDbUFobDY4T1diZU13aVNPRnFhd3Z0ajdHY0RlaEJwc3JUT1RVU19iTFZOWGxKOXpEeEU5RFoxbHlnMEU5S3BDZjctdkVCd21OSk41QVY0SS1KTEtEQm5yQzVXTjdwRDhhRUVmVDlQcWRwQXdNaW9ZRmVrVF84YWlJVVBJSFhvNHpWLUhoZWtudGYyUUMtVktHeTF3RjByaS1NQjFXMFR1N09BdEhoaHllRzBVTW41T2pmSl9BQ1dUQVVVQnN2RnBPTng2MjNRckpYdw?oc=5",
-      "published_at": "2026-07-14T01:17:29+08:00",
       "type": "直播"
     },
     {
@@ -1091,10 +1100,10 @@
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
       "source": "凤凰网",
-      "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播",
-      "point": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
-      "published_at": "2026-07-24T00:22:41+08:00",
+      "title": "麦琳直播中否认怀孕，称自己是复胖了",
+      "point": "麦琳直播中否认怀孕，称自己是复胖了 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lcUpnWGlfS2puN0RmZmYyaFB6dmJzUmJjTUhXTDZnX212ZjlkZ2dSRFlTNmVPQ2w3VHRadTRFNER6bXJ0SVpqenZMYw?oc=5",
+      "published_at": "2026-07-23T09:46:30+08:00",
       "type": "直播"
     }
   ],
