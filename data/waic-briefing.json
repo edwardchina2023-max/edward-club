@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-23T11:19:25.963505+08:00",
+  "generated_at": "2026-07-23T14:16:30.199440+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 07月23日 11:19",
+  "edition_title": "上海人工智能大会公开信号追踪 · 07月23日 14:16",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 135 条、直播 33 条、观点 2 条、论坛 26 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 136 条、直播 33 条、观点 2 条、论坛 25 条，已按企业家阅读场景分组。",
+    "雷峰网：WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻 - 雷峰网",
     "上海科技报：长三角绿洲智谷亮相2026世界人工智能大会——打造永不落幕的AI生态合作平台 - 上海科技报",
     "启明创投：启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - 启明创投",
-    "36Kr：凯文·凯利WAIC演讲：未来5年，盯紧这3个赛道 - 36Kr",
-    "36Kr：Token不够用了，AI时代最火“新生意” - 36Kr",
-    "虎嗅：WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 - 虎嗅"
+    "虎嗅：WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 - 虎嗅",
+    "36 Kr：大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 - 36 Kr"
   ],
   "sections": [
     {
@@ -17,6 +17,15 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
+        {
+          "title": "WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻 - 雷峰网",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40UHZZa2IwV2Ixd0UtYXJYZlJkRHQ2cmdOYkJHY25jejVCaUlHOUJzSFpPU2xzVkQ3R2lRd1EwN0ZORFdPSlJmTW9qdWc5QVhEMGRETWVjQW1GVlZOQ0s3UWRhZEVJYjkyLXVvc1RzSEVNTGw3ZVE?oc=5",
+          "source": "雷峰网",
+          "published_at": "2026-07-23T11:56:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻 雷峰网",
+          "image": ""
+        },
         {
           "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - 启明创投",
           "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
@@ -114,15 +123,6 @@
           "published_at": "2026-07-20T11:41:21+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会两岸人工智能融合 发展创新论坛及展览展示活动在沪举办 itaiwannews.cn",
-          "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNekttTnk5M3dXelZGb2w4WEpldWlGZk0yRm44dm1FVHdCRE1iY3FnRFY1TWljblloY2JxRWNvcG5TYVliblpyY3I1Q1VPRzA0NVdnLXVZekl4QW80NzJnZ3lZbU9aa0NaWmZfTFlMc0R3cjdyVGxJNEh5SzhrM2FiVm1XWUM5SnpPMFMwcWZRdVdNQkZoaDZ6VlczcmttbzJuTDBzRkY1RDN1N1RFYlJYZmwyRG5DU1JPaVFsc05DeUVBVXBhX1BLc192dUl2bFd2SGxXVUdXQnpiN0N4TkFBa0psc3ozZlZFT3NsaXlla2VSU0J1LXhjdU1SUXlpMVBuNVVDVVJBSnhicjRmN3h2aEZMdUNYbVZtd05EX0FzTTUzSmlHYXRPR1BvNmZHVjdET3ZsalJtclVJLWZ4eHA5RnFBMG0xYjdfd3RWaFBmWGNUamJNX09DVkpIRVdpS0x0MzhsUi1ObDJPdU56M2N6dktFY2x0M3ZTbjhBVUNBeUIwQ3lWLW1IMXJxdm02Q2dDcldaeW44QUFON0JUbC1lLUxTcFhDdjVDbE81SmxsVnhYNVhSMTZrZjVmV183RmpyQ3hIUHFYRms2NFVRT1BPOUZXeFNfaDZELWhMZTlnS2tWOVRsd2k0QUVDOHlZLWFvcXR4dnRJYkR3cHFIaFFELWRmSHYtbnBRWTlwQ0RESUFOeW1JQXN6dE8wdDRuaGRHa2xhcUw0OGdOcEV0ck8tOGZxdFY1TzFpYXRaUnlGUXhVaHlobTdPMFVCT2ZsUk9WM2VHYVFRSjZFTU8zSEpqeGMzVXRmc19PeXBhc2dRVFlyVFpVSmlOZ01jWnpJRlY4cUt4ems4OWdLYXU5RnViWQ?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-07-19T14:30:27+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 新浪财经",
           "image": ""
         }
       ]
@@ -282,24 +282,6 @@
           "image": ""
         },
         {
-          "title": "凯文·凯利WAIC演讲：未来5年，盯紧这3个赛道 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pM21xUzBla0FZOHFoYzFHRnY1SFRWN3RONnotTUZRMDVmdVpGT3JINU12OHpxRW91aG85WHU0N0hVR1FwNDdwRGJWQkxVUQ?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-22T20:22:22+08:00",
-          "type": "媒体",
-          "summary": "凯文·凯利WAIC演讲：未来5年，盯紧这3个赛道 36Kr",
-          "image": ""
-        },
-        {
-          "title": "Token不够用了，AI时代最火“新生意” - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYX1RRY3RyT2hvaWNxc1NubFRJLWo0MDZUdWY3dDdnRzMyRVZfT1I5U3hEZWpjeW0wUm13ZDBHWlVkdGowb1VwaEVwMjNhZw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-22T20:22:20+08:00",
-          "type": "媒体",
-          "summary": "Token不够用了，AI时代最火“新生意” 36Kr",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aSERGMUp4UlV3Z1Q5Wl8tMkJ2VjhuWVZ0QTluTDV2LU5XbVM1ZHhrTFp0VHI0UkY2bkVXZmc1ZHJXRjlaTE1UcDc0dG1XWkxqM3RaVQ?oc=5",
           "source": "虎嗅",
@@ -309,21 +291,30 @@
           "image": ""
         },
         {
-          "title": "酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzMGlZckhuOUQtWnhyVERoZXVseF9IMlJWMUpJUmJIdng2cmRYa1hzUFozOEh1Y1Jxb0x0dHZLcURPMTJlbUJyN3pYeXROUQ?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-22T17:13:22+08:00",
+          "title": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wSUV1Uk1yX1hld0xPRUh3TklmSEpMSE1yVGRVRWJfTTk4bUVfcFhqTGZoYmlvSGk3VDgtYzdiRHlDY1dOc183cUduQUprcWc?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-07-22T18:22:06+08:00",
           "type": "媒体",
-          "summary": "酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” 36Kr",
+          "summary": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 36 Kr",
           "image": ""
         },
         {
-          "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ - Sohu",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVZpbVREUW1WTDd4NDBOdnRNNGFybnB6Q3haYjdaN20zd3BpUVhtcGNhWWVHM1lPSG81aFpqbTZFb1FraDBBTTRNNElBaUlRaWRPdXpiSm1XS1NCVU96SmxxdDd0U1Q0VnpPU2lieHJqYlRjc2NHNnZvQXJLWjFWdHFjY3haX2pM?oc=5",
-          "source": "Sohu",
-          "published_at": "2026-07-22T12:02:13+08:00",
+          "title": "酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzMGlZckhuOUQtWnhyVERoZXVseF9IMlJWMUpJUmJIdng2cmRYa1hzUFozOEh1Y1Jxb0x0dHZLcURPMTJlbUJyN3pYeXROUQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-07-22T17:13:22+08:00",
           "type": "媒体",
-          "summary": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ Sohu",
+          "summary": "酷哇科技亮相 WAIC 2026 ：切西瓜的机械臂，装着一个“双层世界模型” 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUxtWWVFUmhqN294a1o3dXUtaVdJci1qQ1h3aGFKajhPX0htbmNOOUxsOW9ZczBzVlJzY3E2NHhkLUJGSTJPU2ZqWWY2ZFdSZDgwNkJ0cUN3SGdoMzVZbC1idUJQZkFiX1VzcGJLbzlsOXJvZ0E1V3ZJc2VfQkFsUHRnMkJicTQ?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-07-22T16:12:14+08:00",
+          "type": "媒体",
+          "summary": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ 新浪财经",
           "image": ""
         },
         {
@@ -354,12 +345,21 @@
           "image": ""
         },
         {
-          "title": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LQnVQUFdWeHZqclN3SjJtMVVFc09ReFJzek54SFotM2tKRkp6RnNyWE9HZC1QQWw0TWNjZ0N3VjVBbXVGRFVGdFZoNFBxQQ?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-22T03:20:00+08:00",
+          "title": "凯文·凯利WAIC演讲：未来5年，盯紧这3个赛道 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pM21xUzBla0FZOHFoYzFHRnY1SFRWN3RONnotTUZRMDVmdVpGT3JINU12OHpxRW91aG85WHU0N0hVR1FwNDdwRGJWQkxVUQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-07-22T04:42:00+08:00",
           "type": "媒体",
-          "summary": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 36Kr",
+          "summary": "凯文·凯利WAIC演讲：未来5年，盯紧这3个赛道 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "Token不够用了，AI时代最火“新生意” - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYX1RRY3RyT2hvaWNxc1NubFRJLWo0MDZUdWY3dDdnRzMyRVZfT1I5U3hEZWpjeW0wUm13ZDBHWlVkdGowb1VwaEVwMjNhZw?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-07-22T04:18:00+08:00",
+          "type": "媒体",
+          "summary": "Token不够用了，AI时代最火“新生意” 36 Kr",
           "image": ""
         },
         {
@@ -372,12 +372,12 @@
           "image": ""
         },
         {
-          "title": "我在WAIC 2026看见的十大趋势 - 36Kr",
+          "title": "我在WAIC 2026看见的十大趋势 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1WUxYYjBENnFLMkh4UkhQVFR1QlRVV2ZfRTBuVllWTkhGMmNEWFFLaFVfcjBVVjV2OFg0c1NkRlVHRlZmcmw5OUZvSXRiUQ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-07-21T20:55:00+08:00",
           "type": "媒体",
-          "summary": "我在WAIC 2026看见的十大趋势 36Kr",
+          "summary": "我在WAIC 2026看见的十大趋势 36 Kr",
           "image": ""
         }
       ]
@@ -390,6 +390,15 @@
       "en": "Forum Livestreams",
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
+        {
+          "title": "WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻 - 雷峰网",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40UHZZa2IwV2Ixd0UtYXJYZlJkRHQ2cmdOYkJHY25jejVCaUlHOUJzSFpPU2xzVkQ3R2lRd1EwN0ZORFdPSlJmTW9qdWc5QVhEMGRETWVjQW1GVlZOQ0s3UWRhZEVJYjkyLXVvc1RzSEVNTGw3ZVE?oc=5",
+          "source": "雷峰网",
+          "published_at": "2026-07-23T11:56:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻 雷峰网",
+          "image": ""
+        },
         {
           "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - 启明创投",
           "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
@@ -517,15 +526,6 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会人工智能国际标准化论坛召开 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTUUFBaUlxMlJ2MnpnbFVLc2hKN0xVQng4RFJUY3Azd3o3S0ZhVmx1WUE5WGZERVVIZEdzN1BoeTZ4ZUU3VEVFRUFQUTQ4d1N4NnJnTkJ0eE1GRVMway1UdVVZTk50UmVHR0tUNkxFNDJfWVVpaHVNQw?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-07-19T11:05:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会人工智能国际标准化论坛召开 新浪财经",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
           "source": "中国科技网",
@@ -634,15 +634,6 @@
           "image": ""
         },
         {
-          "title": "PEC2025提示工程峰会 AI创新者大会主论坛（20250913A02） - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BLUEtZUU2MjBNYi04TktEYTFfc3g1ZW1YckN6T3lNWUIwNlFrZDRKSVM1OE9DdVMxamtYTGtUTnZwd2lEQ2RMZXpWWGlvaFllb1pISDNxYw?oc=5",
-          "source": "Bilibili",
-          "published_at": "2025-09-14T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "PEC2025提示工程峰会 AI创新者大会主论坛（20250913A02） Bilibili",
-          "image": ""
-        },
-        {
           "title": "【2025 AiRAC】人工智能与先进计算融合创新学术会议（20250830A07） - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxZG00QWpXQTRuZFE4WExlcXRScFpoaEdQcHp1Z19tSDhwczlfdFN6Qy13ODdZQmZyTzM3Q3c3NGRCZTFlVDNENmFUZGFoeVIydnhHamhHOA?oc=5",
           "source": "Bilibili",
@@ -658,6 +649,15 @@
           "published_at": "2025-07-27T15:00:00+08:00",
           "type": "媒体",
           "summary": "【2025 WAIC】科学前沿全体会议 世界人工智能大会！人工智能 大模型 技术前沿 Bilibili",
+          "image": ""
+        },
+        {
+          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - 智源社区",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkT1NhYU5QODFNMEVYMjgyNTQwd05uSWd0SUQ3SVNKTU1lQUxvX2hPSXN2a1E4UGhNakRCV1kzakRJOWNyaDBfMw?oc=5",
+          "source": "智源社区",
+          "published_at": "2025-07-21T15:00:00+08:00",
+          "type": "直播",
+          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
           "image": ""
         }
       ]
@@ -731,12 +731,12 @@
           "image": ""
         },
         {
-          "title": "WAIC成行业转折点？5大趋势值得关注_精彩视频为您呈现_36氪 - 36Kr",
+          "title": "WAIC成行业转折点？5大趋势值得关注_精彩视频为您呈现_36氪 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ndm41NnNsQ1pJN0g2aHZJV2pBSW1QVFcyc2dtQTA5TjN5SnZfOVRUWTg2MlV6dzdJSldvQnZQYzlRSmV2ODNvREpZcVRGZFMweWJKeFp3?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-07-21T08:21:12+08:00",
           "type": "媒体",
-          "summary": "WAIC成行业转折点？5大趋势值得关注_精彩视频为您呈现_36氪 36Kr",
+          "summary": "WAIC成行业转折点？5大趋势值得关注_精彩视频为您呈现_36氪 36 Kr",
           "image": ""
         },
         {
@@ -938,12 +938,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
           "image": ""
         },
         {
@@ -998,6 +998,16 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
+      "source": "雷峰网",
+      "title": "WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻",
+      "point": "WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻 雷峰网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40UHZZa2IwV2Ixd0UtYXJYZlJkRHQ2cmdOYkJHY25jejVCaUlHOUJzSFpPU2xzVkQ3R2lRd1EwN0ZORFdPSlJmTW9qdWc5QVhEMGRETWVjQW1GVlZOQ0s3UWRhZEVJYjkyLXVvc1RzSEVNTGw3ZVE?oc=5",
+      "published_at": "2026-07-23T11:56:00+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
       "source": "启明创投",
       "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办",
       "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
@@ -1016,16 +1026,6 @@
       "type": "论坛"
     },
     {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
-      "source": "36Kr",
-      "title": "2026 WAIC启明创投创业与投资论坛成功举办 共探从算力原点到应用落地的进化征程",
-      "point": "2026 WAIC启明创投创业与投资论坛成功举办 共探从算力原点到应用落地的进化征程 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OWTVYX0NFRXlqRmUzNzhBT3RTbHlTd3dxRTk0d1BIcExLM2pvbk1PZEpOdmtxSVE1UDM1WmtBN1NWRkZXaFJ6MkxEc2doc0RvNWhv?oc=5",
-      "published_at": "2026-07-22T02:51:00+08:00",
-      "type": "论坛"
-    },
-    {
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "上海科技报",
@@ -1038,21 +1038,21 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
-      "title": "凯文·凯利WAIC演讲：未来5年，盯紧这3个赛道",
-      "point": "凯文·凯利WAIC演讲：未来5年，盯紧这3个赛道 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pM21xUzBla0FZOHFoYzFHRnY1SFRWN3RONnotTUZRMDVmdVpGT3JINU12OHpxRW91aG85WHU0N0hVR1FwNDdwRGJWQkxVUQ?oc=5",
-      "published_at": "2026-07-22T20:22:22+08:00",
+      "source": "虎嗅",
+      "title": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势",
+      "point": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aSERGMUp4UlV3Z1Q5Wl8tMkJ2VjhuWVZ0QTluTDV2LU5XbVM1ZHhrTFp0VHI0UkY2bkVXZmc1ZHJXRjlaTE1UcDc0dG1XWkxqM3RaVQ?oc=5",
+      "published_at": "2026-07-22T19:23:00+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
-      "title": "Token不够用了，AI时代最火“新生意”",
-      "point": "Token不够用了，AI时代最火“新生意” 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYX1RRY3RyT2hvaWNxc1NubFRJLWo0MDZUdWY3dDdnRzMyRVZfT1I5U3hEZWpjeW0wUm13ZDBHWlVkdGowb1VwaEVwMjNhZw?oc=5",
-      "published_at": "2026-07-22T20:22:20+08:00",
+      "source": "36 Kr",
+      "title": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打",
+      "point": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wSUV1Uk1yX1hld0xPRUh3TklmSEpMSE1yVGRVRWJfTTk4bUVfcFhqTGZoYmlvSGk3VDgtYzdiRHlDY1dOc183cUduQUprcWc?oc=5",
+      "published_at": "2026-07-22T18:22:06+08:00",
       "type": "媒体"
     },
     {
