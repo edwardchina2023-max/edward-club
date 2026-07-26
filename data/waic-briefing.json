@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-27T04:30:18.652820+08:00",
+  "generated_at": "2026-07-27T05:31:28.554047+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 07月27日 04:30",
+  "edition_title": "上海人工智能大会公开信号追踪 · 07月27日 05:31",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 135 条、直播 33 条、观点 2 条、论坛 25 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 134 条、直播 36 条、观点 2 条、论坛 26 条，已按企业家阅读场景分组。",
     "手机新浪网：文娱传媒产业日报(07.23) : AI科技动态 - 手机新浪网",
+    "finance.sina.com.cn：世经论坛应用AI专家对话世界AI大会 -卡帕乔 | 经信研究·经济和信息化 - finance.sina.com.cn",
     "虎嗅：Al手机大战， 全面开打 - 虎嗅",
     "finance.sina.com.cn：世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - finance.sina.com.cn",
-    "icloudnews.net：WAIC 2026｜思岚科技亮相世界人工智能大会，聚焦具身智能底层能力建设-AI云资讯 - icloudnews.net",
-    "甲子光年：论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 甲子光年"
+    "icloudnews.net：WAIC 2026｜思岚科技亮相世界人工智能大会，聚焦具身智能底层能力建设-AI云资讯 - icloudnews.net"
   ],
   "sections": [
     {
@@ -17,6 +17,15 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
+        {
+          "title": "世经论坛应用AI专家对话世界AI大会 -卡帕乔 | 经信研究·经济和信息化 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHo1b1RoUjVkUXJZM0RVS0hpQUhlUTNkRV9pd0FOakJMa0x6NC1teWJhS0NoOXVsZjRlcmc1a1hUSUU5OFg0N0c2c3ZpX0hCb1V6NWl1NFdwZjA5YlRvTFNxUUg5a1JRTDR6T0lSaXZPdEx2VVJib1JhWDlheURlNEJoeU95YWRsYnhZaQ?oc=5",
+          "source": "finance.sina.com.cn",
+          "published_at": "2026-07-24T22:15:47+08:00",
+          "type": "论坛",
+          "summary": "世经论坛应用AI专家对话世界AI大会 -卡帕乔 | 经信研究·经济和信息化 finance.sina.com.cn",
+          "image": ""
+        },
         {
           "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84N1FBWHo1TVVMRVVuWlE5VzV0YjFVTVNzSTBkR1RLdzEyM0RjRTlqMUhEY1ZwVVI1X0dCenhRVTBpSFZHaXVnZklTNWJnRDhTNVFJZGM2R1QtWUhtMThfbkY1X2NWRWtrUy1MdGVROXY2NDVUUjVXTQ?oc=5",
@@ -81,12 +90,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会政务智能创新论坛举办 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jT3pKeHZOMzhDbmdKRE5BRGdLT1lxZ3k3dXhkbG0waHFfbU9oTENlRFNqQVlNOUpNczRUN3cwTF85OVJUOGwzbllGODlNMnZxNmFweEROVQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-21T08:38:00+08:00",
+          "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 - 中国日报网",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
+          "source": "中国日报网",
+          "published_at": "2026-07-21T18:59:02+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会政务智能创新论坛举办 上观新闻",
+          "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
           "image": ""
         },
         {
@@ -114,15 +123,6 @@
           "published_at": "2026-07-19T11:45:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会“AI未来发展论坛” 聚焦产学研深度融合 上观新闻",
-          "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
-          "source": "中国科技网",
-          "published_at": "2026-07-18T22:27:58+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
           "image": ""
         }
       ]
@@ -454,12 +454,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会政务智能创新论坛举办 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jT3pKeHZOMzhDbmdKRE5BRGdLT1lxZ3k3dXhkbG0waHFfbU9oTENlRFNqQVlNOUpNczRUN3cwTF85OVJUOGwzbllGODlNMnZxNmFweEROVQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-21T08:38:00+08:00",
+          "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 - 中国日报网",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
+          "source": "中国日报网",
+          "published_at": "2026-07-21T18:59:02+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会政务智能创新论坛举办 上观新闻",
+          "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
           "image": ""
         },
         {
@@ -553,6 +553,15 @@
           "image": ""
         },
         {
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
+          "image": ""
+        },
+        {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
           "source": "证券时报",
@@ -568,15 +577,6 @@
           "published_at": "2026-07-17T13:30:41+08:00",
           "type": "论坛",
           "summary": "WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 thepaper.cn",
-          "image": ""
-        },
-        {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T11:49:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
           "image": ""
         },
         {
@@ -694,6 +694,15 @@
       "en": "Guest Commentary",
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
+        {
+          "title": "世经论坛应用AI专家对话世界AI大会 -卡帕乔 | 经信研究·经济和信息化 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHo1b1RoUjVkUXJZM0RVS0hpQUhlUTNkRV9pd0FOakJMa0x6NC1teWJhS0NoOXVsZjRlcmc1a1hUSUU5OFg0N0c2c3ZpX0hCb1V6NWl1NFdwZjA5YlRvTFNxUUg5a1JRTDR6T0lSaXZPdEx2VVJib1JhWDlheURlNEJoeU95YWRsYnhZaQ?oc=5",
+          "source": "finance.sina.com.cn",
+          "published_at": "2026-07-24T22:15:47+08:00",
+          "type": "论坛",
+          "summary": "世经论坛应用AI专家对话世界AI大会 -卡帕乔 | 经信研究·经济和信息化 finance.sina.com.cn",
+          "image": ""
+        },
         {
           "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 - 凤凰网",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
@@ -938,18 +947,37 @@
           "image": ""
         },
         {
-          "title": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fMmFDV0l4UzB5eWtiR25wYTJVUHd1UnA1UDZXSm92djZrQ3FFbHF2UWFuTHVYRWVLZ1hENmhOSWF5WGVTM2Z6OHMzeVZLOUkya0E?oc=5",
-          "source": "21财经",
-          "published_at": "2023-02-12T16:32:04+08:00",
+          "title": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqTFcyN21tTFRHYlNUV2l1YTh3VU1JQ3k5M1lfenZnN0JmLVpaMll2aC1CZUc5TU4xdGM0OVFybnNzWmNaZXF1WHFXeDVaZXFWMTdn?oc=5",
+          "source": "36 Kr",
+          "published_at": "2025-07-24T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
+          "summary": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
+          "source": "moe.gov.cn",
+          "published_at": "2025-05-09T15:00:00+08:00",
+          "type": "直播",
+          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         }
       ]
     }
   ],
   "channel_viewpoints": [
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
+      "source": "finance.sina.com.cn",
+      "title": "世经论坛应用AI专家对话世界AI大会 -卡帕乔 | 经信研究·经济和信息化",
+      "point": "世经论坛应用AI专家对话世界AI大会 -卡帕乔 | 经信研究·经济和信息化 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHo1b1RoUjVkUXJZM0RVS0hpQUhlUTNkRV9pd0FOakJMa0x6NC1teWJhS0NoOXVsZjRlcmc1a1hUSUU5OFg0N0c2c3ZpX0hCb1V6NWl1NFdwZjA5YlRvTFNxUUg5a1JRTDR6T0lSaXZPdEx2VVJib1JhWDlheURlNEJoeU95YWRsYnhZaQ?oc=5",
+      "published_at": "2026-07-24T22:15:47+08:00",
+      "type": "论坛"
+    },
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
@@ -968,16 +996,6 @@
       "point": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 甲子光年",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3U05JQS1UYXdwTHI1dG85REZkdXVGR1d6QTVWR0lCSTBtQ2hkS3B2UUNmc1UzUXlZSHFZYkhMTngtT3NDVGtXVDRhRXZsUTZDSUdkVThaTlFVdW5nd1c0?oc=5",
       "published_at": "2026-07-24T13:32:47+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
-      "source": "中国科技网",
-      "title": "WAIC 2026青少年AI教育论坛举办",
-      "point": "WAIC 2026青少年AI教育论坛举办 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtZmtOcmllNE05UTBkdmNuekFkTmNvVGxGNE9mdEtRZzVXM1FjY25nZzNwdGU2Nkx3VUNHUDlHemVwRXVpVUs2c215YWk2djhkUVhLeXdLbTNaWW1fdkQxMktvUzhBa3EzWVlmRXQ4QWY?oc=5",
-      "published_at": "2026-07-23T17:05:03+08:00",
       "type": "论坛"
     },
     {
@@ -1063,12 +1081,12 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "凤凰网",
-      "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播",
-      "point": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
-      "published_at": "2026-07-24T00:22:41+08:00",
-      "type": "直播"
+      "source": "finance.sina.com.cn",
+      "title": "世经论坛应用AI专家对话世界AI大会 -卡帕乔 | 经信研究·经济和信息化",
+      "point": "世经论坛应用AI专家对话世界AI大会 -卡帕乔 | 经信研究·经济和信息化 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHo1b1RoUjVkUXJZM0RVS0hpQUhlUTNkRV9pd0FOakJMa0x6NC1teWJhS0NoOXVsZjRlcmc1a1hUSUU5OFg0N0c2c3ZpX0hCb1V6NWl1NFdwZjA5YlRvTFNxUUg5a1JRTDR6T0lSaXZPdEx2VVJib1JhWDlheURlNEJoeU95YWRsYnhZaQ?oc=5",
+      "published_at": "2026-07-24T22:15:47+08:00",
+      "type": "论坛"
     }
   ],
   "sources": [
