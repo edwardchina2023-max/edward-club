@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T17:38:44.525945+08:00",
+  "generated_at": "2026-07-28T20:00:21.546472+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 07月28日 17:38",
+  "edition_title": "上海人工智能大会公开信号追踪 · 07月28日 20:00",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
     "本轮抓取到 媒体 134 条、直播 35 条、观点 1 条、论坛 23 条，已按企业家阅读场景分组。",
-    "美通社：上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI 多元绽放 - 美通社",
-    "虎嗅网：Kimi K3开源，3万亿参数超级模型，性能全球前三 - 虎嗅网",
+    "中华网生活：上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI多元绽放 - 中华网生活",
     "虎嗅网：Xsignal发布2026年上半年全球AI应用发展分析报告：AI竞争从模型转向智能体与产业应用落地 - 虎嗅网",
+    "虎嗅网：2026世界人工智能大会：人形机器人量产提速，半导体并购整合持续 - 虎嗅网",
     "Counterpoint Research：物理 AI：自动驾驶技术的新范式—— 来自WAIC 2026上对比亚迪/千里科技/商汤科技/文远知行四条路径对比 - Counterpoint Research",
     "智慧城市行业分析：【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 - 智慧城市行业分析"
   ],
@@ -223,21 +223,21 @@
           "image": ""
         },
         {
-          "title": "直播预约 | 2026 WAIC世界人工智能大会智能财务论坛 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03SFZ0eGxndklHRVg4VmlHbnowb3pwd19oVURwUjEzQjlHMEdWMXJJTnA2WXhqeWhEbE5IRUQwWERFaUFkLUZheUxPOV9fckRjT0RIaGlEb2hUWUZPWU1zLWh0NEIzV2lCVk0tZ1BBYzVYYm9vV1B1Zg?oc=5",
-          "source": "finance.sina.com.cn",
-          "published_at": "2026-07-17T15:07:00+08:00",
-          "type": "直播",
-          "summary": "直播预约 | 2026 WAIC世界人工智能大会智能财务论坛 finance.sina.com.cn",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRHpHVUpnektYZW9YdE1SR1JWeUtTQ3d6ZFQxektKcHFJN01CWTEwYmpQU1FLZi1OdlI1d1dCOS1pVnFwcWR3YldMZFNaN3J6LVZGX3hSclBrUQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
           "image": ""
         }
       ]
@@ -264,21 +264,12 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI 多元绽放 - 美通社",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzRllxRUV1YmlGejdna1ZGb3dBeHMwcVlkUy1CY25ZRHNLZnMtXzJPelFmLVBsMHRZdUlaZE5BR09RamJKX3h1RjZ1dUJTRE9pbDExWGJicHdwbmJ4Q2JLUGpTSjNxQ0tyNkVtcw?oc=5",
-          "source": "美通社",
-          "published_at": "2026-07-28T16:12:00+08:00",
+          "title": "上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI多元绽放 - 中华网生活",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXQTNMRTFwaDBMNU4zZUhhaFRxbEJqVjM1bXlId1dKbkoxa0lYN1kyZ2g0VS1Ma1VqN1FuTndDVFpkLTM1R0NtbG51WFU4dnBFN2FLZG9aVm5GcnNHWjJVMVNVdw?oc=5",
+          "source": "中华网生活",
+          "published_at": "2026-07-28T17:47:55+08:00",
           "type": "媒体",
-          "summary": "上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI 多元绽放 美通社",
-          "image": ""
-        },
-        {
-          "title": "Kimi K3开源，3万亿参数超级模型，性能全球前三 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PQjZuTGVMUWkxNjhtSXljN2U4ZlNzbmczYlFpRDU1WGV5TEdSVG5WYkJ1TG5UZlZ5TDIzajExRnFsdjVrVW9GaDU0dkxOcFRT?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-07-27T23:15:08+08:00",
-          "type": "媒体",
-          "summary": "Kimi K3开源，3万亿参数超级模型，性能全球前三 虎嗅网",
+          "summary": "上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI多元绽放 中华网生活",
           "image": ""
         },
         {
@@ -288,6 +279,15 @@
           "published_at": "2026-07-27T16:18:26+08:00",
           "type": "媒体",
           "summary": "Xsignal发布2026年上半年全球AI应用发展分析报告：AI竞争从模型转向智能体与产业应用落地 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会：人形机器人量产提速，半导体并购整合持续 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53NXQ5TFZQNEIyVmF0OUZQUldTbElVRWhYZFpyaGZyMF8taUVkRzBSVURuUGZWMU1BRU1la3dtQzRLYTQ4X0lpdlhGM1hWVGtHSHhITQ?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-07-27T16:03:25+08:00",
+          "type": "媒体",
+          "summary": "2026世界人工智能大会：人形机器人量产提速，半导体并购整合持续 虎嗅网",
           "image": ""
         },
         {
@@ -508,15 +508,6 @@
           "image": ""
         },
         {
-          "title": "直播预约 | 2026 WAIC世界人工智能大会智能财务论坛 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03SFZ0eGxndklHRVg4VmlHbnowb3pwd19oVURwUjEzQjlHMEdWMXJJTnA2WXhqeWhEbE5IRUQwWERFaUFkLUZheUxPOV9fckRjT0RIaGlEb2hUWUZPWU1zLWh0NEIzV2lCVk0tZ1BBYzVYYm9vV1B1Zg?oc=5",
-          "source": "finance.sina.com.cn",
-          "published_at": "2026-07-17T15:07:00+08:00",
-          "type": "直播",
-          "summary": "直播预约 | 2026 WAIC世界人工智能大会智能财务论坛 finance.sina.com.cn",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
           "source": "证券时报",
@@ -565,7 +556,7 @@
           "title": "直播预约 2026世界人工智能大会智能财务论坛 - 财富号",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFWlo0TWFtQXotWWxEbkdtRjFCQlpsYURsclFzSkNpUUlQTUFsaDRTdTlaNzRMLWxFNTk2RldsamJxeU9Obng0by1vdXBlS2JSZ0x5WXpQaVFIc3RUZ0QxVzlOUXBpeS1aYW93?oc=5",
           "source": "财富号",
-          "published_at": "2026-07-16T19:22:00+08:00",
+          "published_at": "2026-07-16T15:00:00+08:00",
           "type": "直播",
           "summary": "直播预约 2026世界人工智能大会智能财务论坛 财富号",
           "image": ""
@@ -902,6 +893,15 @@
           "image": ""
         },
         {
+          "title": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 - 中央政府驻港联络办",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ROTBnNldoSmY4UDE4MmEyYU5kcl9qa0g1OGRvSHpaTG5SYmlXUjRiYjFDVDR2WW9EUm5mVnFaLWQyUFo5RWg1M1Utd25FdFJ2eTZKdXJ2YVZmYzdJQ2RYZTJsZDRVRG0yMUx0d0JDdjNIaGVMMWwyUDJzTQ?oc=5",
+          "source": "中央政府驻港联络办",
+          "published_at": "2026-06-14T15:00:00+08:00",
+          "type": "直播",
+          "summary": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 中央政府驻港联络办",
+          "image": ""
+        },
+        {
           "title": "直播预告 | 智能时代同球共济 探营2025世界人工智能大会 - shobserver.cn",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuQUt1QjBsVVpBT1ZIVWdlMG9DOHBscWFIQkgxTHl6Q0dDWnNkdHM3U0FIc1htUlRick9qcExwMDkzT0pwUHptNi1VWHJwUFFqcy1oWnpDM2NsSGM?oc=5",
           "source": "shobserver.cn",
@@ -983,21 +983,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "美通社",
-      "title": "上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI 多元绽放",
-      "point": "上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI 多元绽放 美通社",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzRllxRUV1YmlGejdna1ZGb3dBeHMwcVlkUy1CY25ZRHNLZnMtXzJPelFmLVBsMHRZdUlaZE5BR09RamJKX3h1RjZ1dUJTRE9pbDExWGJicHdwbmJ4Q2JLUGpTSjNxQ0tyNkVtcw?oc=5",
-      "published_at": "2026-07-28T16:12:00+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "Kimi K3开源，3万亿参数超级模型，性能全球前三",
-      "point": "Kimi K3开源，3万亿参数超级模型，性能全球前三 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PQjZuTGVMUWkxNjhtSXljN2U4ZlNzbmczYlFpRDU1WGV5TEdSVG5WYkJ1TG5UZlZ5TDIzajExRnFsdjVrVW9GaDU0dkxOcFRT?oc=5",
-      "published_at": "2026-07-27T23:15:08+08:00",
+      "source": "中华网生活",
+      "title": "上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI多元绽放",
+      "point": "上海包玉刚实验学校亮相世界人工智能大会WAIC 2026：科创教育非遗AI多元绽放 中华网生活",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXQTNMRTFwaDBMNU4zZUhhaFRxbEJqVjM1bXlId1dKbkoxa0lYN1kyZ2g0VS1Ma1VqN1FuTndDVFpkLTM1R0NtbG51WFU4dnBFN2FLZG9aVm5GcnNHWjJVMVNVdw?oc=5",
+      "published_at": "2026-07-28T17:47:55+08:00",
       "type": "媒体"
     },
     {
@@ -1008,6 +998,16 @@
       "point": "Xsignal发布2026年上半年全球AI应用发展分析报告：AI竞争从模型转向智能体与产业应用落地 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQl9ya3Fyb250Q0p6TUVyNjF0MzBpLTI0MXNOaWlzVVUwSkp5RzlhN0N1ZnFTTEo5Nnc4b0tZUGtYNXlsOGZPWUhFWEtad21jNHdLVmkwUWZwc25LaWRSVkU1bnJQZE5zRW1yeFFpUk1GWU5DX2tHQXNfZ3Fuandub0FUWjBSMndqSy04?oc=5",
       "published_at": "2026-07-27T16:18:26+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅网",
+      "title": "2026世界人工智能大会：人形机器人量产提速，半导体并购整合持续",
+      "point": "2026世界人工智能大会：人形机器人量产提速，半导体并购整合持续 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53NXQ5TFZQNEIyVmF0OUZQUldTbElVRWhYZFpyaGZyMF8taUVkRzBSVURuUGZWMU1BRU1la3dtQzRLYTQ4X0lpdlhGM1hWVGtHSHhITQ?oc=5",
+      "published_at": "2026-07-27T16:03:25+08:00",
       "type": "媒体"
     },
     {
