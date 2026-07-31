@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-31T23:02:58.598433+08:00",
+  "generated_at": "2026-08-01T01:05:59.814085+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 07月31日 23:02",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月01日 01:05",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 130 条、直播 28 条、观点 1 条、论坛 25 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 129 条、直播 28 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
     "虎嗅网：苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 - 虎嗅网",
     "虎嗅网：对话卢宗青：具身智能模型， 中美本质上没有差距 - 虎嗅网",
     "新浪财经：中茵微电子亮相WAIC智能趋势论坛 - 新浪财经",
@@ -133,12 +133,21 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
-          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 - 第一财经",
+          "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 - 凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
+          "source": "凤凰网",
+          "published_at": "2026-07-24T00:22:41+08:00",
+          "type": "直播",
+          "summary": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
+          "image": ""
+        },
+        {
+          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 - yicai.com",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rekgycjBESW0wTENWejdYNVZQRlBvNmg5ZHVTanZFUVNkRi15WnVKZHZmbWxrRVM2OWlZbUxEb08tbHJha0ZYUTk0Z3lKMHdo?oc=5",
-          "source": "第一财经",
+          "source": "yicai.com",
           "published_at": "2026-07-20T16:00:00+08:00",
           "type": "直播",
-          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 第一财经",
+          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 yicai.com",
           "image": ""
         },
         {
@@ -178,21 +187,21 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - jfdaily.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
-          "source": "上观新闻",
+          "source": "jfdaily.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 jfdaily.com",
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPRHFBT1F2bUwzRlZpODlyRTYybV80Q1VNZmNaenBucVY0ZldrSFRDX2RTVWxfT0FjMloxbHNlU1lRVlg0dlQ0OExyYkoxcHRVVDRhUUlzSQ?oc=5",
-          "source": "上观新闻",
+          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - jfdaily.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRHpHVUpnektYZW9YdE1SR1JWeUtTQ3d6ZFQxektKcHFJN01CWTEwYmpQU1FLZi1OdlI1d1dCOS1pVnFwcWR3YldMZFNaN3J6LVZGX3hSclBrUQ?oc=5",
+          "source": "jfdaily.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
+          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 jfdaily.com",
           "image": ""
         },
         {
@@ -214,15 +223,6 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRHpHVUpnektYZW9YdE1SR1JWeUtTQ3d6ZFQxektKcHFJN01CWTEwYmpQU1FLZi1OdlI1d1dCOS1pVnFwcWR3YldMZFNaN3J6LVZGX3hSclBrUQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
-          "image": ""
-        },
-        {
           "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - SOHU",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNUtNNVpHRjk2ZHdfelA4RnlMOXFuZnFqWGxPdWFVRDhVSXJ4OUJtRDMtU2c0MHEtWGpuZFV6UzR1SEsxNzZMT0Q4RmpKNzVBY2c?oc=5",
           "source": "SOHU",
@@ -232,12 +232,12 @@
           "image": ""
         },
         {
-          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 第一财经",
+          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - yicai.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYy1neHNBeGx6ZXpjSmpLSk1vNnJvUzRwamJzeXlVZVRNUUFQdGpHMzFJQlk4TUJhRFVOUURPRFdlOFpLQ3hEU18yVGFTYjdEcjRV?oc=5",
-          "source": "第一财经",
+          "source": "yicai.com",
           "published_at": "2026-07-17T14:00:00+08:00",
           "type": "直播",
-          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 第一财经",
+          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 yicai.com",
           "image": ""
         }
       ]
@@ -445,12 +445,12 @@
           "image": ""
         },
         {
-          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 - 第一财经",
+          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 - yicai.com",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rekgycjBESW0wTENWejdYNVZQRlBvNmg5ZHVTanZFUVNkRi15WnVKZHZmbWxrRVM2OWlZbUxEb08tbHJha0ZYUTk0Z3lKMHdo?oc=5",
-          "source": "第一财经",
+          "source": "yicai.com",
           "published_at": "2026-07-20T16:00:00+08:00",
           "type": "直播",
-          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 第一财经",
+          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 yicai.com",
           "image": ""
         },
         {
@@ -517,12 +517,12 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - jfdaily.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
-          "source": "上观新闻",
+          "source": "jfdaily.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 jfdaily.com",
           "image": ""
         },
         {
@@ -535,12 +535,12 @@
           "image": ""
         },
         {
-          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 第一财经",
+          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - yicai.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYy1neHNBeGx6ZXpjSmpLSk1vNnJvUzRwamJzeXlVZVRNUUFQdGpHMzFJQlk4TUJhRFVOUURPRFdlOFpLQ3hEU18yVGFTYjdEcjRV?oc=5",
-          "source": "第一财经",
+          "source": "yicai.com",
           "published_at": "2026-07-17T14:00:00+08:00",
           "type": "直播",
-          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 第一财经",
+          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 yicai.com",
           "image": ""
         },
         {
@@ -553,12 +553,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 - 科学网—新闻",
+          "title": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 - news.sciencenet.cn",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcWxndFltSVdRaHVhQkd4YzV1SF9OQ2JzeGRSaDJ1am1tSFIyTm50SDN2UHRMa3NRYlNfbjd6SHQ2MXN6bGZHekg3anMwYUVGSHpSX3pqVzJpc3ZuMTNPTXItdTM?oc=5",
-          "source": "科学网—新闻",
+          "source": "news.sciencenet.cn",
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 科学网—新闻",
+          "summary": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 news.sciencenet.cn",
           "image": ""
         },
         {
@@ -598,12 +598,12 @@
           "image": ""
         },
         {
-          "title": "2024世界人工智能大会暨人工智能全球治理高级别会议丨科学前沿主论坛 - 第一财经",
+          "title": "2024世界人工智能大会暨人工智能全球治理高级别会议丨科学前沿主论坛 - yicai.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kTUVUdXdBNXJzTmt3TC1SWUhWM0FudC1CU0NyX3BhNzI3QTZveUJRUnZQbW43WDgwNDF0cmtkLU5LYmxmeExpWGlqcnd1czRRemw0?oc=5",
-          "source": "第一财经",
+          "source": "yicai.com",
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2024世界人工智能大会暨人工智能全球治理高级别会议丨科学前沿主论坛 第一财经",
+          "summary": "2024世界人工智能大会暨人工智能全球治理高级别会议丨科学前沿主论坛 yicai.com",
           "image": ""
         },
         {
@@ -613,6 +613,15 @@
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者",
+          "image": ""
+        },
+        {
+          "title": "论坛介绍 | AIGC前沿主题论坛 - C114通信网",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ia3M4OVR2S0ZkYzdwbG94b1pkTGYtblp5TDhuR1BHaGdYcDkwd3J3Mk1fSWQzSE56ZGFFeG0xWG80WFh5ZkJuS0R1Ql81OEU?oc=5",
+          "source": "C114通信网",
+          "published_at": "2023-02-13T16:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛介绍 | AIGC前沿主题论坛 C114通信网",
           "image": ""
         },
         {
@@ -651,12 +660,12 @@
           "image": ""
         },
         {
-          "title": "直播丨2026世界人工智能大会云逛展：寻找AI产业链方向与答案 - 第一财经",
+          "title": "直播丨2026世界人工智能大会云逛展：寻找AI产业链方向与答案 - yicai.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMY0RsanZycjgtTld2T19OQjJVazB6dEw3a3VUOUpIM0RNVXVoUi1oOVRlZmRxRTE1bG11NzFRa09lZUZnQWhpWmNKQ2cxZ2ZkVjU4?oc=5",
-          "source": "第一财经",
+          "source": "yicai.com",
           "published_at": "2026-07-17T13:50:00+08:00",
           "type": "直播",
-          "summary": "直播丨2026世界人工智能大会云逛展：寻找AI产业链方向与答案 第一财经",
+          "summary": "直播丨2026世界人工智能大会云逛展：寻找AI产业链方向与答案 yicai.com",
           "image": ""
         },
         {
@@ -676,6 +685,15 @@
       "en": "Guest Commentary",
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
+        {
+          "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 - 凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
+          "source": "凤凰网",
+          "published_at": "2026-07-24T00:22:41+08:00",
+          "type": "直播",
+          "summary": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
+          "image": ""
+        },
         {
           "title": "直击WAIC | AI万象智造社区亮相展会，深度连接企业与产业现场 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16b3hNa25EWk8teURpZ3N1ald2SERMYUt4LXJVTDlzc1NjVTExdW5WeklOVDgwU3dla2VjUnRpcE84SE5la2lpZkJfeU56UQ?oc=5",
@@ -767,12 +785,12 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPRHFBT1F2bUwzRlZpODlyRTYybV80Q1VNZmNaenBucVY0ZldrSFRDX2RTVWxfT0FjMloxbHNlU1lRVlg0dlQ0OExyYkoxcHRVVDRhUUlzSQ?oc=5",
-          "source": "上观新闻",
+          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - jfdaily.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRHpHVUpnektYZW9YdE1SR1JWeUtTQ3d6ZFQxektKcHFJN01CWTEwYmpQU1FLZi1OdlI1d1dCOS1pVnFwcWR3YldMZFNaN3J6LVZGX3hSclBrUQ?oc=5",
+          "source": "jfdaily.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
+          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 jfdaily.com",
           "image": ""
         },
         {
@@ -857,21 +875,21 @@
           "image": ""
         },
         {
-          "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - 香港中联办",
+          "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - big5.locpg.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdmhZSFRGWTlZZFlnMzZoMDBZQmczOTJYbHF6cldURTVQZ2ZtUHJHbFdmRG0xdkF6VklQcGJEaXVyNU5GRHhYUW9UZlRmb1VGMEdEQWdqenFudXlnanBMeXRsRkZQaE9YQVoxZDhFM0VhWWQwcTI5cHFTV1BEeWc?oc=5",
-          "source": "香港中联办",
+          "source": "big5.locpg.gov.cn",
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 香港中联办",
+          "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 big5.locpg.gov.cn",
           "image": ""
         },
         {
-          "title": "黄瓜视频hg.live下载最新版下载-黄瓜视频hg.live下载2026最新版V.6.80.21-安装包（exe）-2265安卓网 - 香港中联办",
+          "title": "黄瓜视频hg.live下载最新版下载-黄瓜视频hg.live下载2026最新版V.6.80.21-安装包（exe）-2265安卓网 - big5.locpg.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMREh6NmhPNnhsY292Q0MzaVcyclZaV0k0NWZidDVxb2J3NDZVUjFxMWF6U2xvSjh4dUNaNmZJVlNDbFJVQnRuTDVLZFJ1bXlzYzQ3U0Vpcm5zbkY3TnBXMW9HNk5na1V1RFZJTzN2RHBWZ0UtRWRrbklZTzk?oc=5",
-          "source": "香港中联办",
+          "source": "big5.locpg.gov.cn",
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "黄瓜视频hg.live下载最新版下载-黄瓜视频hg.live下载2026最新版V.6.80.21-安装包（exe）-2265安卓网 香港中联办",
+          "summary": "黄瓜视频hg.live下载最新版下载-黄瓜视频hg.live下载2026最新版V.6.80.21-安装包（exe）-2265安卓网 big5.locpg.gov.cn",
           "image": ""
         },
         {
@@ -987,9 +1005,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "第一财经",
+      "source": "yicai.com",
       "title": "直播丨2026世界人工智能大会云逛展：寻找AI产业链方向与答案",
-      "point": "直播丨2026世界人工智能大会云逛展：寻找AI产业链方向与答案 第一财经",
+      "point": "直播丨2026世界人工智能大会云逛展：寻找AI产业链方向与答案 yicai.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMY0RsanZycjgtTld2T19OQjJVazB6dEw3a3VUOUpIM0RNVXVoUi1oOVRlZmRxRTE1bG11NzFRa09lZUZnQWhpWmNKQ2cxZ2ZkVjU4?oc=5",
       "published_at": "2026-07-17T13:50:00+08:00",
       "type": "直播"
@@ -1017,22 +1035,22 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
+      "source": "凤凰网",
+      "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播",
+      "point": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
+      "published_at": "2026-07-24T00:22:41+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "嘉宾 / 自媒体",
+      "en": "Guests & Creators",
       "source": "36 Kr",
       "title": "直击WAIC | AI万象智造社区亮相展会，深度连接企业与产业现场",
       "point": "直击WAIC | AI万象智造社区亮相展会，深度连接企业与产业现场 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16b3hNa25EWk8teURpZ3N1ald2SERMYUt4LXJVTDlzc1NjVTExdW5WeklOVDgwU3dla2VjUnRpcE84SE5la2lpZkJfeU56UQ?oc=5",
       "published_at": "2026-07-21T15:00:00+08:00",
       "type": "媒体"
-    },
-    {
-      "channel": "嘉宾 / 自媒体",
-      "en": "Guests & Creators",
-      "source": "SOHU",
-      "title": "WAIC 2026 | 禾蛙做客36氪直播间，首发猎头AI Agent Domi，畅谈人与AI共存的未来",
-      "point": "WAIC 2026 | 禾蛙做客36氪直播间，首发猎头AI Agent Domi，畅谈人与AI共存的未来 SOHU",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OSzBOOTBPbzVWYzdyN0EzMGVucm1uQlJiTlBYaFEza3RiVl9lV21rMzF1dFdiOF80X1VBckh0dVRtQ3FOTmlOS092Y3VjWFMzVXc?oc=5",
-      "published_at": "2026-07-20T15:51:36+08:00",
-      "type": "直播"
     }
   ],
   "sources": [
