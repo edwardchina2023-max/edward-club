@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-02T06:30:31.804872+08:00",
+  "generated_at": "2026-08-02T07:33:44.352263+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月02日 06:30",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月02日 07:33",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 132 条、直播 31 条、观点 1 条、论坛 24 条，已按企业家阅读场景分组。",
-    "huxiu.com：离婚女性农村分户困境：脱口秀演员“房主任”事件背后的制度性死锁 - huxiu.com",
-    "beta.huxiu.com：WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - beta.huxiu.com",
-    "huxiu.com：苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 - huxiu.com",
-    "huxiu.com：对话卢宗青：具身智能模型， 中美本质上没有差距 - huxiu.com",
+    "本轮抓取到 媒体 115 条、直播 31 条、观点 20 条、论坛 23 条，已按企业家阅读场景分组。",
+    "虎嗅网：离婚女性农村分户困境：脱口秀演员“房主任”事件背后的制度性死锁 - 虎嗅网",
+    "虎嗅网：WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - 虎嗅网",
+    "虎嗅网：苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 - 虎嗅网",
+    "虎嗅网：对话卢宗青：具身智能模型， 中美本质上没有差距 - 虎嗅网",
     "新浪财经：中茵微电子亮相WAIC智能趋势论坛 - 新浪财经"
   ],
   "sections": [
@@ -18,12 +18,12 @@
       "en": "Forum agenda and conference signals",
       "items": [
         {
-          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - beta.huxiu.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pcERrdm5oOElOcVgxR0R0dlNGWUZkc1h5MGtPeGwzY0hOdU1NeWM4N0xwUVJGTmNobElnYmRwdmVnSVBlN3lrb2dpZk8xdGpzeDU3Z1pB?oc=5",
-          "source": "beta.huxiu.com",
+          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tTDRnYlF6WkNpSzhzNk5hSnU3SndFNlJKYWVkYkQ4TDgzZUFKX3FiR0psdmVPM1FRTnhnbzZXSFlxejZxdGVzdVhhWkdsMFhxaGtmb1FTTlR6TTNQVW9scGhn?oc=5",
+          "source": "虎嗅网",
           "published_at": "2026-08-01T10:23:32+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 beta.huxiu.com",
+          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
           "image": ""
         },
         {
@@ -133,12 +133,12 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
-          "title": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SZkM0WGZJclJ5SGFNNmhvWW1mSmUyeDdURi1wSklFY1FXWFYtbktWV0QwaTlfVFU5MC0zOExWSTJqcXhBN3RROTFfVTVLX1JDMUw2UUgwbVBTQUdaUGVDZWdB?oc=5",
-          "source": "手机网易网",
-          "published_at": "2026-07-22T12:22:36+08:00",
+          "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 - 凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
+          "source": "凤凰网",
+          "published_at": "2026-07-24T00:22:41+08:00",
           "type": "直播",
-          "summary": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 手机网易网",
+          "summary": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
           "image": ""
         },
         {
@@ -248,12 +248,111 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
-          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - News.QQ.com",
+          "title": "WAIC 2026 | 16项评测12项最优，奥比中光携手蚂蚁灵波，打造具身数据采集行业标杆 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TRHJaejFCaHp5a1M2MlF1cVRCR0RFNzF6Ql9YWUxBN1B4UFBUekhhSGVjYlY5N3h6MUxkdDhkSlhXWjdoNGZNWDBxUGF2eE5Hc2c?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-22T11:40:44+08:00",
+          "type": "观点",
+          "summary": "WAIC 2026 | 16项评测12项最优，奥比中光携手蚂蚁灵波，打造具身数据采集行业标杆 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "好久不见，首形Origin F1 亮相世界人工智能大会WAIC - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUmRlU0dINmV2Z3dnRndKR1l0OTJVa2ViU25MZjYza0FWdkYtWDRrWlUzUjdHRlJmZm1uZ0ZHWWk3ek10R08wSkkzVjhRZWxCSGdBQ0NpWQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "观点",
+          "summary": "好久不见，首形Origin F1 亮相世界人工智能大会WAIC bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "算力即国力，数据即国土，WAIC推动技术平权时代来临？ - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ET3FqWlp1bGJBUnpNYlJrVlplb3F5YlphUEpTWVJGU2tMT0sxdXZWQXZVM19zSTQ4RmhWbTc5eUFnSmVPbUhtS2NaZXpVVzFfS0t6X3kzNA?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "观点",
+          "summary": "算力即国力，数据即国土，WAIC推动技术平权时代来临？ bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "逛完今年的WAIC，发现AI+机器人要「变天」了…8大亮点全搜罗！ - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CUWlIY050OEY5aWxZYlFnSVNwZmZvd3FrbWxmZzZVTk51YkFQM20yU3JIRERzRDhpVWRrZlFIb2hpcVpUdlpJME5KdklZc0Q3WHV5NFVzMA?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "观点",
+          "summary": "逛完今年的WAIC，发现AI+机器人要「变天」了…8大亮点全搜罗！ bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YU1NlSnBLaEpOYmlnTHI0c2ZYa05vWDJCWmdlVV84WGRJUXpiY2stZ1ZDUFNsbWJiM09tWEVqTnJmZDh5WThHX3RONXlhRkZrbm9MZWV3?oc=5",
-          "source": "News.QQ.com",
+          "source": "QQ News",
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "观点",
-          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 News.QQ.com",
+          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 QQ News",
+          "image": ""
+        },
+        {
+          "title": "上海WAIC：超节点、机器人、大模型、AI应用，这才是全球AI的大盛会！【科技狐】 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5ZE03X2d3NHR1akg4Zi1hMDNkSWcxUGtLNF9PcUtsblZvR0pCQ0hYVzdjamhBSkhuMUpfZTI0QTVfUjVNOFU3anhiVmx0bmJzeUJkUXNWUQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "观点",
+          "summary": "上海WAIC：超节点、机器人、大模型、AI应用，这才是全球AI的大盛会！【科技狐】 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "商汤科技董事长兼首席执行官徐立：无界创新与有界守护，人工智能的普惠与安全#WAIC2026 #2026世界人工智能大会 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VZEZHYzJxYmlSRlVfVWxtbFdNVlh4YzhVSjQtbmRmYnN4TUFmbGItNFhEd3JfYUpsYl9FZXQ0UVhMN3NyNUZNNnBHb3FGaFZPYkltSmYtcw?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "观点",
+          "summary": "商汤科技董事长兼首席执行官徐立：无界创新与有界守护，人工智能的普惠与安全#WAIC2026 #2026世界人工智能大会 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会 看什么 ？央视财经带你逛WAIC 中国AI硬核圈粉全球 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43LWxUbEQyb25sYTlEYjlwTnJ4MElfZl9zR2ozTXczSVVIREZXc2M1Wi1CdW1hNkF4ZFlkdzdZSkQwczJmUUE0Z1RDVlcyWFh4OEF3MXIxSQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "观点",
+          "summary": "2026世界人工智能大会 看什么 ？央视财经带你逛WAIC 中国AI硬核圈粉全球 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "华为昇腾950超节点真机亮相世界人工智能大会WAIC - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53R0E0cG5iVzJISmFHRVBjMnp3NlVzclE1dVE2aWJoSEpmNy1yMlk2SHp4c2JtZUVGQlZnQWtaXzktTnAzWHNpN2kzM0M4UDZ4U1VuMGpvRQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "观点",
+          "summary": "华为昇腾950超节点真机亮相世界人工智能大会WAIC bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "世界人工智能大会是行业盛事 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZlN4QlVsOEx3STFCdkwwT21CbzVQQWtmOF93eFozNWJGTE9OUDh0NkN3Sjk3enEyajZvSkh6Z3lFYlNRSEJqRlJISFJzQ0hXVlFwZi1Ncw?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-14T15:00:00+08:00",
+          "type": "观点",
+          "summary": "世界人工智能大会是行业盛事 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026展商预告：神州数码 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnei1wZzg0LUxyT25Md0xoWUVEd0dTQXJ2bEhSSVYwRnRlN0pRY3NEVzJ2eFMyWGFaMlVzOEFCajdjUVBXUEdkRGdnTmZPdVhKR3ZJZ1Rrcw?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-11T15:00:00+08:00",
+          "type": "观点",
+          "summary": "WAIC 2026展商预告：神州数码 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026展商预告：阿里巴巴 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iMXpCbG03QmJJUDM2aTEzYmhaYy1PVlA3RUR4RkZ6R1N4RjdMYmhXNHk2UnRoOWN0dFNUZG5HUVdOc2M1cWo3dllOX1RGSTZPOFltbjNPMA?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-08T15:00:00+08:00",
+          "type": "观点",
+          "summary": "WAIC 2026展商预告：阿里巴巴 bilibili.com",
           "image": ""
         }
       ]
@@ -264,57 +363,57 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "离婚女性农村分户困境：脱口秀演员“房主任”事件背后的制度性死锁 - huxiu.com",
+          "title": "离婚女性农村分户困境：脱口秀演员“房主任”事件背后的制度性死锁 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HNjhZaU9ucDlnVjVaNGlMVzBOSGprQm8xYUVFbjVQazFHbXNnLW9QX0t6VmZyTkJBa29qQzUtSTlhUk43Q0d4WXFwSWJKQnlWSFFaXw?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅网",
           "published_at": "2026-08-01T11:08:37+08:00",
           "type": "媒体",
-          "summary": "离婚女性农村分户困境：脱口秀演员“房主任”事件背后的制度性死锁 huxiu.com",
+          "summary": "离婚女性农村分户困境：脱口秀演员“房主任”事件背后的制度性死锁 虎嗅网",
           "image": ""
         },
         {
-          "title": "苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 - huxiu.com",
+          "title": "苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5peldEU25pNE1QcXdHei1odV9GNmZrYXZubkpmVUQwWTk5WE5BZlpfMTFFekhJdm9VUnl2TFpJMVFBajZpenRJbXgzMVg0VDNaOFk3QQ?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅网",
           "published_at": "2026-07-31T19:15:38+08:00",
           "type": "媒体",
-          "summary": "苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 huxiu.com",
+          "summary": "苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 虎嗅网",
           "image": ""
         },
         {
-          "title": "对话卢宗青：具身智能模型， 中美本质上没有差距 - huxiu.com",
+          "title": "对话卢宗青：具身智能模型， 中美本质上没有差距 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oQ0tsYjU0QWI2WkdlWHdxV3JNaW4yb1pnNk5KNXhKWEprMmJob0hCZy1jakRwVDNsQ1FuT2NaOE9rVU1wbzI1MlhzVlA1THRkMjNKXw?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅网",
           "published_at": "2026-07-31T14:05:33+08:00",
           "type": "媒体",
-          "summary": "对话卢宗青：具身智能模型， 中美本质上没有差距 huxiu.com",
+          "summary": "对话卢宗青：具身智能模型， 中美本质上没有差距 虎嗅网",
           "image": ""
         },
         {
-          "title": "具身智能行业人才争夺加剧：从招聘信息看市场趋势 - huxiu.com",
+          "title": "具身智能行业人才争夺加剧：从招聘信息看市场趋势 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTcEh1STdlT0Iydk0yTi16VVhLbXJrR005djAtRnZUOFBYT2MySGk0Tk9CWXEtZkNZM1oxdkFqcnl2cFhlcFVrbU9ld0Z0SU05T0RqZA?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅网",
           "published_at": "2026-07-30T22:50:38+08:00",
           "type": "媒体",
-          "summary": "具身智能行业人才争夺加剧：从招聘信息看市场趋势 huxiu.com",
+          "summary": "具身智能行业人才争夺加剧：从招聘信息看市场趋势 虎嗅网",
           "image": ""
         },
         {
-          "title": "AI脑炸， 打工人的新工伤 - huxiu.com",
+          "title": "AI脑炸， 打工人的新工伤 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycndQMlpxdy1Cak5NbVQ3Q09QOVNJQmp5OVJLM3BWV184VlhxMlcwZzBWMDVjdE5NaS0yRExrVTd6RWNpcUJUZGNiOHI0S2F1ZTRxZw?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅网",
           "published_at": "2026-07-30T14:16:27+08:00",
           "type": "媒体",
-          "summary": "AI脑炸， 打工人的新工伤 huxiu.com",
+          "summary": "AI脑炸， 打工人的新工伤 虎嗅网",
           "image": ""
         },
         {
-          "title": "世界模型赛道上半年融资超百亿元，概念炒作盛行真正的技术玩家不足五家 - huxiu.com",
+          "title": "世界模型赛道上半年融资超百亿元，概念炒作盛行真正的技术玩家不足五家 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51MWx4eXFjU1NnQnBTZHdMa2NjQVZudFpwTTN3SGxyLW9pdFdWN0l6SFZ0UlRRWXpkbVpmeWx3MEprOGd5OVFyMXZmV3plY3FOZU5jcA?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅网",
           "published_at": "2026-07-30T12:18:00+08:00",
           "type": "媒体",
-          "summary": "世界模型赛道上半年融资超百亿元，概念炒作盛行真正的技术玩家不足五家 huxiu.com",
+          "summary": "世界模型赛道上半年融资超百亿元，概念炒作盛行真正的技术玩家不足五家 虎嗅网",
           "image": ""
         },
         {
@@ -327,12 +426,12 @@
           "image": ""
         },
         {
-          "title": "世界模型竞速：中国公司首次没有对标，华人学者领跑全球 - huxiu.com",
+          "title": "世界模型竞速：中国公司首次没有对标，华人学者领跑全球 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54M0g0QURmLXlVLTk2RjlyTFdsNFdQX1QwekkxWVFHelkyMXRaT2ZTMkFnM1c2anphb0tkQkxzaG43b3RaZkJ2SjdfZG01cEZxY1FnQg?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅网",
           "published_at": "2026-07-29T18:40:27+08:00",
           "type": "媒体",
-          "summary": "世界模型竞速：中国公司首次没有对标，华人学者领跑全球 huxiu.com",
+          "summary": "世界模型竞速：中国公司首次没有对标，华人学者领跑全球 虎嗅网",
           "image": ""
         },
         {
@@ -553,12 +652,12 @@
           "image": ""
         },
         {
-          "title": "2025脑机接口大会（浦江创新论坛会议季旗舰活动） - Bilibili",
+          "title": "2025脑机接口大会（浦江创新论坛会议季旗舰活动） - bilibili.com",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QQU5wXy16MjNtN3pXLVZfcVhGMTVIT3BvaDlJM09JX0UzQjhJdFBNSnNlcWx3OEotRFhaaVhJbUJ0X3ZzZU9wdjdVS3Z3UHM1NTQzMzl5bw?oc=5",
-          "source": "Bilibili",
+          "source": "bilibili.com",
           "published_at": "2025-12-05T16:00:00+08:00",
-          "type": "论坛",
-          "summary": "2025脑机接口大会（浦江创新论坛会议季旗舰活动） Bilibili",
+          "type": "观点",
+          "summary": "2025脑机接口大会（浦江创新论坛会议季旗舰活动） bilibili.com",
           "image": ""
         },
         {
@@ -650,21 +749,21 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - beta.huxiu.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pcERrdm5oOElOcVgxR0R0dlNGWUZkc1h5MGtPeGwzY0hOdU1NeWM4N0xwUVJGTmNobElnYmRwdmVnSVBlN3lrb2dpZk8xdGpzeDU3Z1pB?oc=5",
-          "source": "beta.huxiu.com",
+          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tTDRnYlF6WkNpSzhzNk5hSnU3SndFNlJKYWVkYkQ4TDgzZUFKX3FiR0psdmVPM1FRTnhnbzZXSFlxejZxdGVzdVhhWkdsMFhxaGtmb1FTTlR6TTNQVW9scGhn?oc=5",
+          "source": "虎嗅网",
           "published_at": "2026-08-01T10:23:32+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 beta.huxiu.com",
+          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
           "image": ""
         },
         {
-          "title": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SZkM0WGZJclJ5SGFNNmhvWW1mSmUyeDdURi1wSklFY1FXWFYtbktWV0QwaTlfVFU5MC0zOExWSTJqcXhBN3RROTFfVTVLX1JDMUw2UUgwbVBTQUdaUGVDZWdB?oc=5",
-          "source": "手机网易网",
-          "published_at": "2026-07-22T12:22:36+08:00",
+          "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 - 凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
+          "source": "凤凰网",
+          "published_at": "2026-07-24T00:22:41+08:00",
           "type": "直播",
-          "summary": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 手机网易网",
+          "summary": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
           "image": ""
         },
         {
@@ -803,12 +902,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - eu.36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36 Kr",
+          "source": "eu.36kr.com",
           "published_at": "2026-06-28T21:07:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 eu.36kr.com",
           "image": ""
         },
         {
@@ -857,12 +956,12 @@
           "image": ""
         },
         {
-          "title": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 - 36 Kr",
+          "title": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 - eu.36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqTFcyN21tTFRHYlNUV2l1YTh3VU1JQ3k5M1lfenZnN0JmLVpaMll2aC1CZUc5TU4xdGM0OVFybnNzWmNaZXF1WHFXeDVaZXFWMTdn?oc=5",
-          "source": "36 Kr",
+          "source": "eu.36kr.com",
           "published_at": "2025-07-24T15:00:00+08:00",
           "type": "直播",
-          "summary": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 36 Kr",
+          "summary": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 eu.36kr.com",
           "image": ""
         },
         {
@@ -908,10 +1007,10 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "beta.huxiu.com",
+      "source": "虎嗅网",
       "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存",
-      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 beta.huxiu.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pcERrdm5oOElOcVgxR0R0dlNGWUZkc1h5MGtPeGwzY0hOdU1NeWM4N0xwUVJGTmNobElnYmRwdmVnSVBlN3lrb2dpZk8xdGpzeDU3Z1pB?oc=5",
+      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tTDRnYlF6WkNpSzhzNk5hSnU3SndFNlJKYWVkYkQ4TDgzZUFKX3FiR0psdmVPM1FRTnhnbzZXSFlxejZxdGVzdVhhWkdsMFhxaGtmb1FTTlR6TTNQVW9scGhn?oc=5",
       "published_at": "2026-08-01T10:23:32+08:00",
       "type": "论坛"
     },
@@ -938,9 +1037,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "huxiu.com",
+      "source": "虎嗅网",
       "title": "离婚女性农村分户困境：脱口秀演员“房主任”事件背后的制度性死锁",
-      "point": "离婚女性农村分户困境：脱口秀演员“房主任”事件背后的制度性死锁 huxiu.com",
+      "point": "离婚女性农村分户困境：脱口秀演员“房主任”事件背后的制度性死锁 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HNjhZaU9ucDlnVjVaNGlMVzBOSGprQm8xYUVFbjVQazFHbXNnLW9QX0t6VmZyTkJBa29qQzUtSTlhUk43Q0d4WXFwSWJKQnlWSFFaXw?oc=5",
       "published_at": "2026-08-01T11:08:37+08:00",
       "type": "媒体"
@@ -948,9 +1047,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "huxiu.com",
+      "source": "虎嗅网",
       "title": "苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存",
-      "point": "苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 huxiu.com",
+      "point": "苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5peldEU25pNE1QcXdHei1odV9GNmZrYXZubkpmVUQwWTk5WE5BZlpfMTFFekhJdm9VUnl2TFpJMVFBajZpenRJbXgzMVg0VDNaOFk3QQ?oc=5",
       "published_at": "2026-07-31T19:15:38+08:00",
       "type": "媒体"
@@ -958,9 +1057,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "huxiu.com",
+      "source": "虎嗅网",
       "title": "对话卢宗青：具身智能模型， 中美本质上没有差距",
-      "point": "对话卢宗青：具身智能模型， 中美本质上没有差距 huxiu.com",
+      "point": "对话卢宗青：具身智能模型， 中美本质上没有差距 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oQ0tsYjU0QWI2WkdlWHdxV3JNaW4yb1pnNk5KNXhKWEprMmJob0hCZy1jakRwVDNsQ1FuT2NaOE9rVU1wbzI1MlhzVlA1THRkMjNKXw?oc=5",
       "published_at": "2026-07-31T14:05:33+08:00",
       "type": "媒体"
@@ -998,32 +1097,32 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "News.QQ.com",
-      "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
-      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 News.QQ.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YU1NlSnBLaEpOYmlnTHI0c2ZYa05vWDJCWmdlVV84WGRJUXpiY2stZ1ZDUFNsbWJiM09tWEVqTnJmZDh5WThHX3RONXlhRkZrbm9MZWV3?oc=5",
-      "published_at": "2026-07-19T15:00:00+08:00",
+      "source": "bilibili.com",
+      "title": "WAIC 2026 | 16项评测12项最优，奥比中光携手蚂蚁灵波，打造具身数据采集行业标杆",
+      "point": "WAIC 2026 | 16项评测12项最优，奥比中光携手蚂蚁灵波，打造具身数据采集行业标杆 bilibili.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TRHJaejFCaHp5a1M2MlF1cVRCR0RFNzF6Ql9YWUxBN1B4UFBUekhhSGVjYlY5N3h6MUxkdDhkSlhXWjdoNGZNWDBxUGF2eE5Hc2c?oc=5",
+      "published_at": "2026-07-22T11:40:44+08:00",
       "type": "观点"
     },
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "beta.huxiu.com",
-      "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存",
-      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 beta.huxiu.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pcERrdm5oOElOcVgxR0R0dlNGWUZkc1h5MGtPeGwzY0hOdU1NeWM4N0xwUVJGTmNobElnYmRwdmVnSVBlN3lrb2dpZk8xdGpzeDU3Z1pB?oc=5",
-      "published_at": "2026-08-01T10:23:32+08:00",
-      "type": "论坛"
+      "source": "bilibili.com",
+      "title": "好久不见，首形Origin F1 亮相世界人工智能大会WAIC",
+      "point": "好久不见，首形Origin F1 亮相世界人工智能大会WAIC bilibili.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUmRlU0dINmV2Z3dnRndKR1l0OTJVa2ViU25MZjYza0FWdkYtWDRrWlUzUjdHRlJmZm1uZ0ZHWWk3ek10R08wSkkzVjhRZWxCSGdBQ0NpWQ?oc=5",
+      "published_at": "2026-07-20T15:00:00+08:00",
+      "type": "观点"
     },
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "手机网易网",
-      "title": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注",
-      "point": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SZkM0WGZJclJ5SGFNNmhvWW1mSmUyeDdURi1wSklFY1FXWFYtbktWV0QwaTlfVFU5MC0zOExWSTJqcXhBN3RROTFfVTVLX1JDMUw2UUgwbVBTQUdaUGVDZWdB?oc=5",
-      "published_at": "2026-07-22T12:22:36+08:00",
-      "type": "直播"
+      "source": "bilibili.com",
+      "title": "算力即国力，数据即国土，WAIC推动技术平权时代来临？",
+      "point": "算力即国力，数据即国土，WAIC推动技术平权时代来临？ bilibili.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ET3FqWlp1bGJBUnpNYlJrVlplb3F5YlphUEpTWVJGU2tMT0sxdXZWQXZVM19zSTQ4RmhWbTc5eUFnSmVPbUhtS2NaZXpVVzFfS0t6X3kzNA?oc=5",
+      "published_at": "2026-07-20T15:00:00+08:00",
+      "type": "观点"
     }
   ],
   "sources": [
