@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-01T09:04:41.023449+08:00",
+  "generated_at": "2026-08-01T12:54:49.574986+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月01日 09:04",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月01日 12:54",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 131 条、直播 29 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 128 条、直播 29 条、观点 1 条、论坛 25 条，已按企业家阅读场景分组。",
+    "虎嗅网：男女时尚路线互换：男性追捧厚底鞋与超短裤，女性转向薄底鞋与阔腿裤 - 虎嗅网",
     "虎嗅网：苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 - 虎嗅网",
     "虎嗅网：对话卢宗青：具身智能模型， 中美本质上没有差距 - 虎嗅网",
-    "新浪财经：中茵微电子亮相WAIC智能趋势论坛 - 新浪财经",
-    "虎嗅网：具身智能行业人才争夺加剧：从招聘信息看市场趋势 - 虎嗅网",
-    "虎嗅网：AI脑炸， 打工人的新工伤 - 虎嗅网"
+    "finance.sina.com.cn：中茵微电子亮相WAIC智能趋势论坛 - finance.sina.com.cn",
+    "虎嗅网：具身智能行业人才争夺加剧：从招聘信息看市场趋势 - 虎嗅网"
   ],
   "sections": [
     {
@@ -18,12 +18,12 @@
       "en": "Forum agenda and conference signals",
       "items": [
         {
-          "title": "中茵微电子亮相WAIC智能趋势论坛 - 新浪财经",
+          "title": "中茵微电子亮相WAIC智能趋势论坛 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XSTV5WFM0RU9jbTRCTTRFYjRmbkM1aE40MWVZVENJcWNJanpQckNxWXZNXzhtTVRTY0hDdWV0aEVydmRJbGxxWVRsOGVRdnVNZ0VHOE1ZWElnMmVLSmJOVnF0bThRaGNBREY3RkpFLUVOTEp3OG5vNg?oc=5",
-          "source": "新浪财经",
+          "source": "finance.sina.com.cn",
           "published_at": "2026-07-31T02:57:31+08:00",
           "type": "论坛",
-          "summary": "中茵微电子亮相WAIC智能趋势论坛 新浪财经",
+          "summary": "中茵微电子亮相WAIC智能趋势论坛 finance.sina.com.cn",
           "image": ""
         },
         {
@@ -36,12 +36,12 @@
           "image": ""
         },
         {
-          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - business.china.com.cn",
+          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - 中国网",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
-          "source": "business.china.com.cn",
+          "source": "中国网",
           "published_at": "2026-07-23T11:58:47+08:00",
           "type": "论坛",
-          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 business.china.com.cn",
+          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
           "image": ""
         },
         {
@@ -90,21 +90,21 @@
           "image": ""
         },
         {
-          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - news.tongji.edu.cn",
+          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcFVQbl9tZFFvMVljblAtMlZmZXMtX3BVQkJkTU5SSnNrUWlTQ0tTczNtMi00NGdWcGpEdUhlTWJQTmNWYkdJSGczWjA5R0xDck5hemlrTmthQQ?oc=5",
-          "source": "news.tongji.edu.cn",
+          "source": "同济大学新闻网",
           "published_at": "2026-07-19T13:43:19+08:00",
           "type": "论坛",
-          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 news.tongji.edu.cn",
+          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 同济大学新闻网",
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - stdaily.com",
+          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
-          "source": "stdaily.com",
+          "source": "中国科技网",
           "published_at": "2026-07-18T22:27:58+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 stdaily.com",
+          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
           "image": ""
         },
         {
@@ -169,6 +169,15 @@
           "image": ""
         },
         {
+          "title": "直播预约 | 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 - tech.sina.cn",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEVaN0Z3dDMtWkVtUHhPOU1RdkpzaUE3anFER1RGWkZzTDNCaTRfcHBwdHpwNFR5dDRna2R1SzVpb1hBdkdvay1CYVVITjFmQmVMWlRneHJjMFVwb3pNWHljWEhQSWNUdWoxak92ZTI5X3hWQXY0Ml9pQ25sVXEzN0tyTVJEYjJydVV0djZ6VE5WaW1FSm83VS1WakY4VEhVb3kwdm1LS0NqYXJqWW02S2U1UkRycmxkYVE2Rm5rUVk4RHFzMXQ2VnVkR1JEYTQ5ZDdMMXhMM0JjdjRuRDlhR2NsZ1pfZnM?oc=5",
+          "source": "tech.sina.cn",
+          "published_at": "2026-07-19T14:00:00+08:00",
+          "type": "直播",
+          "summary": "直播预约 | 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 tech.sina.cn",
+          "image": ""
+        },
+        {
           "title": "2026WAIC前瞻：企业 AI 应用加速，范凌做客央视直播间谈AI落地，从“能想”到“能干” - 小熊在线",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HR0lLRUFhS1k1R29Eb0NHdms2dU4tZU1qRjRxXzVnUl9wOUdab1N4alB3aHNIRHl3aDRtUDNWZmRlWXBDNEducnVRTDhXUkZWWWpFY3Ria0kyOVdvcHZvbVp6LU9rdw?oc=5",
           "source": "小熊在线",
@@ -230,15 +239,6 @@
           "type": "直播",
           "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 Sohu",
           "image": ""
-        },
-        {
-          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 第一财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYy1neHNBeGx6ZXpjSmpLSk1vNnJvUzRwamJzeXlVZVRNUUFQdGpHMzFJQlk4TUJhRFVOUURPRFdlOFpLQ3hEU18yVGFTYjdEcjRV?oc=5",
-          "source": "第一财经",
-          "published_at": "2026-07-17T14:00:00+08:00",
-          "type": "直播",
-          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 第一财经",
-          "image": ""
         }
       ]
     },
@@ -263,6 +263,15 @@
       "title": "媒体快讯与产业发布",
       "en": "Media updates and industry announcements",
       "items": [
+        {
+          "title": "男女时尚路线互换：男性追捧厚底鞋与超短裤，女性转向薄底鞋与阔腿裤 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13UElRRjU4Z3JxZ3gtdWJCNWJ5SEJKUWk5ZThFQWhkNDV2NzAweXdrMmxZX0wyc09iN2EzYmtHejRleFpEZUhGQ3YtYmJTeXcxNHF3QWo5TFhveEwyMldtWmVn?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-08-01T11:59:29+08:00",
+          "type": "媒体",
+          "summary": "男女时尚路线互换：男性追捧厚底鞋与超短裤，女性转向薄底鞋与阔腿裤 虎嗅网",
+          "image": ""
+        },
         {
           "title": "苹果发布2026年Q2财报：营收1094亿美元创历史同期新高，AI转型与换帅双重挑战并存 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5peldEU25pNE1QcXdHei1odV9GNmZrYXZubkpmVUQwWTk5WE5BZlpfMTFFekhJdm9VUnl2TFpJMVFBajZpenRJbXgzMVg0VDNaOFk3QQ?oc=5",
@@ -361,15 +370,6 @@
           "type": "媒体",
           "summary": "WAIC观察笔记：AI不是先替代人，而是先拆开每一份工作 53AI",
           "image": ""
-        },
-        {
-          "title": "如何看待AI的大幅回调？|科技军团 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0s0QnZmZ01RaFVmRkpnSHdFZHNGZGd6Q09BWHBNdjZSRjZCT21md1ZhSElIR0FQdmJpd2JmTFJaeEpvNDdPMXcwcjkzbGlKck9GLTE5aFpyQW14cTFkbDNYdU5KeXppSFlraC16UW5sb1pabHBiRjZfSXJidXdGR25iR1hrZEw0?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-07-28T20:22:26+08:00",
-          "type": "媒体",
-          "summary": "如何看待AI的大幅回调？|科技军团 新浪财经",
-          "image": ""
         }
       ]
     }
@@ -382,12 +382,12 @@
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
         {
-          "title": "中茵微电子亮相WAIC智能趋势论坛 - 新浪财经",
+          "title": "中茵微电子亮相WAIC智能趋势论坛 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XSTV5WFM0RU9jbTRCTTRFYjRmbkM1aE40MWVZVENJcWNJanpQckNxWXZNXzhtTVRTY0hDdWV0aEVydmRJbGxxWVRsOGVRdnVNZ0VHOE1ZWElnMmVLSmJOVnF0bThRaGNBREY3RkpFLUVOTEp3OG5vNg?oc=5",
-          "source": "新浪财经",
+          "source": "finance.sina.com.cn",
           "published_at": "2026-07-31T02:57:31+08:00",
           "type": "论坛",
-          "summary": "中茵微电子亮相WAIC智能趋势论坛 新浪财经",
+          "summary": "中茵微电子亮相WAIC智能趋势论坛 finance.sina.com.cn",
           "image": ""
         },
         {
@@ -400,12 +400,12 @@
           "image": ""
         },
         {
-          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - business.china.com.cn",
+          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - 中国网",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
-          "source": "business.china.com.cn",
+          "source": "中国网",
           "published_at": "2026-07-23T11:58:47+08:00",
           "type": "论坛",
-          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 business.china.com.cn",
+          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
           "image": ""
         },
         {
@@ -472,12 +472,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - stdaily.com",
+          "title": "直播预约 | 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 - tech.sina.cn",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEVaN0Z3dDMtWkVtUHhPOU1RdkpzaUE3anFER1RGWkZzTDNCaTRfcHBwdHpwNFR5dDRna2R1SzVpb1hBdkdvay1CYVVITjFmQmVMWlRneHJjMFVwb3pNWHljWEhQSWNUdWoxak92ZTI5X3hWQXY0Ml9pQ25sVXEzN0tyTVJEYjJydVV0djZ6VE5WaW1FSm83VS1WakY4VEhVb3kwdm1LS0NqYXJqWW02S2U1UkRycmxkYVE2Rm5rUVk4RHFzMXQ2VnVkR1JEYTQ5ZDdMMXhMM0JjdjRuRDlhR2NsZ1pfZnM?oc=5",
+          "source": "tech.sina.cn",
+          "published_at": "2026-07-19T14:00:00+08:00",
+          "type": "直播",
+          "summary": "直播预约 | 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 tech.sina.cn",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
-          "source": "stdaily.com",
+          "source": "中国科技网",
           "published_at": "2026-07-18T22:27:58+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 stdaily.com",
+          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
           "image": ""
         },
         {
@@ -544,6 +553,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-16T20:59:33+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
+          "image": ""
+        },
+        {
           "title": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 - 科学网—新闻",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcWxndFltSVdRaHVhQkd4YzV1SF9OQ2JzeGRSaDJ1am1tSFIyTm50SDN2UHRMa3NRYlNfbjd6SHQ2MXN6bGZHekg3anMwYUVGSHpSX3pqVzJpc3ZuMTNPTXItdTM?oc=5",
           "source": "科学网—新闻",
@@ -562,21 +580,21 @@
           "image": ""
         },
         {
-          "title": "智能伙伴，共创未来：习近平将出席2026世界人工智能大会大会开幕式并发表主旨讲话，大会有5大亮点，今日已一票难求 - 智慧城市行业分析",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZFcwOWw3SFliTVF5NUNnNGtWTFZxZngzV3B1ZFRxRlFNZkZPQ0pobmE3YlZzQWQwako0dHFTSWdzSWpuWUlhZjdZRFNHdDVRLVc4?oc=5",
-          "source": "智慧城市行业分析",
-          "published_at": "2026-07-13T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "智能伙伴，共创未来：习近平将出席2026世界人工智能大会大会开幕式并发表主旨讲话，大会有5大亮点，今日已一票难求 智慧城市行业分析",
-          "image": ""
-        },
-        {
           "title": "2025脑机接口大会（浦江创新论坛会议季旗舰活动） - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QQU5wXy16MjNtN3pXLVZfcVhGMTVIT3BvaDlJM09JX0UzQjhJdFBNSnNlcWx3OEotRFhaaVhJbUJ0X3ZzZU9wdjdVS3Z3UHM1NTQzMzl5bw?oc=5",
           "source": "Bilibili",
           "published_at": "2025-12-05T16:00:00+08:00",
           "type": "论坛",
           "summary": "2025脑机接口大会（浦江创新论坛会议季旗舰活动） Bilibili",
+          "image": ""
+        },
+        {
+          "title": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ySVlHVFFVU0lKNFVNQ1VRZm5rMGRtQUZ1TzQ2SkVCeHNGQ0R4VjlPaFhsOEZ4Vmg2alBiM2N5RTd6dl81V2NycEZzcFZoOC1aR2poSXlKMA?oc=5",
+          "source": "Bilibili",
+          "published_at": "2025-07-26T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 Bilibili",
           "image": ""
         },
         {
@@ -704,12 +722,12 @@
           "image": ""
         },
         {
-          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - news.tongji.edu.cn",
+          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcFVQbl9tZFFvMVljblAtMlZmZXMtX3BVQkJkTU5SSnNrUWlTQ0tTczNtMi00NGdWcGpEdUhlTWJQTmNWYkdJSGczWjA5R0xDck5hemlrTmthQQ?oc=5",
-          "source": "news.tongji.edu.cn",
+          "source": "同济大学新闻网",
           "published_at": "2026-07-19T13:43:19+08:00",
           "type": "论坛",
-          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 news.tongji.edu.cn",
+          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 同济大学新闻网",
           "image": ""
         },
         {
@@ -812,12 +830,12 @@
           "image": ""
         },
         {
-          "title": "直播预热|兴银基金指数专场投资策略会 - 手机网易网",
+          "title": "直播预热|兴银基金指数专场投资策略会 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjN3dTbzk2ZGM1akNJTmdJSFFseEUyTmxUdE05X1Zyc0wtd2steUNoSmg3U3g0TmlxQ3AxMXVEcWRjeFdNZVhhY0RWaHIyclhieEJSRnlWWGRZWXVPQi1NYlBn?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播预热|兴银基金指数专场投资策略会 手机网易网",
+          "summary": "直播预热|兴银基金指数专场投资策略会 163.com",
           "image": ""
         },
         {
@@ -839,48 +857,39 @@
           "image": ""
         },
         {
-          "title": "*杏仁直播无限次*_《官方网站》_杏仁直播无限次*>>>首页>- - big5.locpg.gov.cn",
+          "title": "*杏仁直播无限次*_《官方网站》_杏仁直播无限次*>>>首页>- - 香港中联办",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CMmVMZkVidl81eVJkTUswN3hYRThWbWljVnd6R2dMemF1a2l0TEtFQ0JPdXIzSm5hdXJaRTVZUS16V1BPd05NVGplbC1Yd21WRVNib3NxOWtNZ2h1NEJtbzVQalZiVkM1WjJnQlVCRXdsNTNRZU02ZWJsZ1c?oc=5",
-          "source": "big5.locpg.gov.cn",
+          "source": "香港中联办",
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "*杏仁直播无限次*_《官方网站》_杏仁直播无限次*>>>首页>- big5.locpg.gov.cn",
+          "summary": "*杏仁直播无限次*_《官方网站》_杏仁直播无限次*>>>首页>- 香港中联办",
           "image": ""
         },
         {
-          "title": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 - 上海有色金属",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wY253bl9vODhGWFpyZ0pqR2RUbnM3YW5pUElSWWVONEpxaTlOYUNBZnhBZXlhVmUyRV91cG5ENHhDTlZ0SEhwdll3?oc=5",
-          "source": "上海有色金属",
-          "published_at": "2026-06-15T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
-          "image": ""
-        },
-        {
-          "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - big5.locpg.gov.cn",
+          "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - 香港中联办",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdmhZSFRGWTlZZFlnMzZoMDBZQmczOTJYbHF6cldURTVQZ2ZtUHJHbFdmRG0xdkF6VklQcGJEaXVyNU5GRHhYUW9UZlRmb1VGMEdEQWdqenFudXlnanBMeXRsRkZQaE9YQVoxZDhFM0VhWWQwcTI5cHFTV1BEeWc?oc=5",
-          "source": "big5.locpg.gov.cn",
+          "source": "香港中联办",
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 big5.locpg.gov.cn",
+          "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 香港中联办",
           "image": ""
         },
         {
-          "title": "黄瓜视频hg.live下载最新版下载-黄瓜视频hg.live下载2026最新版V.6.80.21-安装包（exe）-2265安卓网 - big5.locpg.gov.cn",
+          "title": "黄瓜视频hg.live下载最新版下载-黄瓜视频hg.live下载2026最新版V.6.80.21-安装包（exe）-2265安卓网 - 香港中联办",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMREh6NmhPNnhsY292Q0MzaVcyclZaV0k0NWZidDVxb2J3NDZVUjFxMWF6U2xvSjh4dUNaNmZJVlNDbFJVQnRuTDVLZFJ1bXlzYzQ3U0Vpcm5zbkY3TnBXMW9HNk5na1V1RFZJTzN2RHBWZ0UtRWRrbklZTzk?oc=5",
-          "source": "big5.locpg.gov.cn",
+          "source": "香港中联办",
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "黄瓜视频hg.live下载最新版下载-黄瓜视频hg.live下载2026最新版V.6.80.21-安装包（exe）-2265安卓网 big5.locpg.gov.cn",
+          "summary": "黄瓜视频hg.live下载最新版下载-黄瓜视频hg.live下载2026最新版V.6.80.21-安装包（exe）-2265安卓网 香港中联办",
           "image": ""
         },
         {
-          "title": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 - 36Kr",
+          "title": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqTFcyN21tTFRHYlNUV2l1YTh3VU1JQ3k5M1lfenZnN0JmLVpaMll2aC1CZUc5TU4xdGM0OVFybnNzWmNaZXF1WHFXeDVaZXFWMTdn?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2025-07-24T15:00:00+08:00",
           "type": "直播",
-          "summary": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 36Kr",
+          "summary": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 36 Kr",
           "image": ""
         },
         {
@@ -917,9 +926,9 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "新浪财经",
+      "source": "finance.sina.com.cn",
       "title": "中茵微电子亮相WAIC智能趋势论坛",
-      "point": "中茵微电子亮相WAIC智能趋势论坛 新浪财经",
+      "point": "中茵微电子亮相WAIC智能趋势论坛 finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XSTV5WFM0RU9jbTRCTTRFYjRmbkM1aE40MWVZVENJcWNJanpQckNxWXZNXzhtTVRTY0hDdWV0aEVydmRJbGxxWVRsOGVRdnVNZ0VHOE1ZWElnMmVLSmJOVnF0bThRaGNBREY3RkpFLUVOTEp3OG5vNg?oc=5",
       "published_at": "2026-07-31T02:57:31+08:00",
       "type": "论坛"
@@ -937,12 +946,22 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "business.china.com.cn",
+      "source": "中国网",
       "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目",
-      "point": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 business.china.com.cn",
+      "point": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
       "published_at": "2026-07-23T11:58:47+08:00",
       "type": "论坛"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅网",
+      "title": "男女时尚路线互换：男性追捧厚底鞋与超短裤，女性转向薄底鞋与阔腿裤",
+      "point": "男女时尚路线互换：男性追捧厚底鞋与超短裤，女性转向薄底鞋与阔腿裤 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13UElRRjU4Z3JxZ3gtdWJCNWJ5SEJKUWk5ZThFQWhkNDV2NzAweXdrMmxZX0wyc09iN2EzYmtHejRleFpEZUhGQ3YtYmJTeXcxNHF3QWo5TFhveEwyMldtWmVn?oc=5",
+      "published_at": "2026-08-01T11:59:29+08:00",
+      "type": "媒体"
     },
     {
       "channel": "媒体快讯",
@@ -962,16 +981,6 @@
       "point": "对话卢宗青：具身智能模型， 中美本质上没有差距 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oQ0tsYjU0QWI2WkdlWHdxV3JNaW4yb1pnNk5KNXhKWEprMmJob0hCZy1jakRwVDNsQ1FuT2NaOE9rVU1wbzI1MlhzVlA1THRkMjNKXw?oc=5",
       "published_at": "2026-07-31T14:05:33+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "具身智能行业人才争夺加剧：从招聘信息看市场趋势",
-      "point": "具身智能行业人才争夺加剧：从招聘信息看市场趋势 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTcEh1STdlT0Iydk0yTi16VVhLbXJrR005djAtRnZUOFBYT2MySGk0Tk9CWXEtZkNZM1oxdkFqcnl2cFhlcFVrbU9ld0Z0SU05T0RqZA?oc=5",
-      "published_at": "2026-07-30T22:50:38+08:00",
       "type": "媒体"
     },
     {
@@ -997,9 +1006,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "新浪财经",
+      "source": "finance.sina.com.cn",
       "title": "中茵微电子亮相WAIC智能趋势论坛",
-      "point": "中茵微电子亮相WAIC智能趋势论坛 新浪财经",
+      "point": "中茵微电子亮相WAIC智能趋势论坛 finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XSTV5WFM0RU9jbTRCTTRFYjRmbkM1aE40MWVZVENJcWNJanpQckNxWXZNXzhtTVRTY0hDdWV0aEVydmRJbGxxWVRsOGVRdnVNZ0VHOE1ZWElnMmVLSmJOVnF0bThRaGNBREY3RkpFLUVOTEp3OG5vNg?oc=5",
       "published_at": "2026-07-31T02:57:31+08:00",
       "type": "论坛"
