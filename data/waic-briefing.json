@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-05T03:48:30.128169+08:00",
+  "generated_at": "2026-08-05T05:16:03.204785+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月05日 03:48",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月05日 05:16",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 136 条、直播 36 条、观点 1 条、论坛 22 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 137 条、直播 35 条、观点 1 条、论坛 22 条，已按企业家阅读场景分组。",
     "虎嗅网：AI，能替代300元一小时的真人教练吗？ - 虎嗅网",
     "36 Kr：一个月9款旗舰，大模型进入“月抛”时代？ - 36 Kr",
     "虎嗅网：AI影视\"待爆帝\"迷思：资本运作先行，作品产出滞后 - 虎嗅网",
-    "虎嗅网：一个月9款旗舰，大模型进入“月抛”时代？ - 虎嗅网",
+    "虎嗅网：最强模型的保质期正在缩短 - 虎嗅网",
     "搜狐网：行云科技亮相WAIC 2026“数据要素×行业智能体”分论坛：以算力基础设施赋能智能经济 - 搜狐网"
   ],
   "sections": [
@@ -48,9 +48,18 @@
           "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 - 智慧城市行业分析",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMGxJRlB6MzV1UjlNcnc4SnVMT003RUZzNmJtbnZjR1BVZ3g4QnlQS0ZnZllMZFpBZmJHX0lLTDFBTm1qM3hQX01VVjBVaU1TdXJDWGEtTGpwcWJB?oc=5",
           "source": "智慧城市行业分析",
-          "published_at": "2026-07-27T11:57:00+08:00",
+          "published_at": "2026-07-27T15:00:00+08:00",
           "type": "论坛",
           "summary": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
+          "image": ""
+        },
+        {
+          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - 中国网",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
+          "source": "中国网",
+          "published_at": "2026-07-23T11:58:47+08:00",
+          "type": "论坛",
+          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
           "image": ""
         },
         {
@@ -78,15 +87,6 @@
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
-          "image": ""
-        },
-        {
-          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
           "image": ""
         },
         {
@@ -178,12 +178,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - finance.sina.com.cn",
+          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96TXFOS2t5SHdVbGFfSEwxRTRSQ1N0bGpyQW1QQ3ZuMlBTNV95Q0ZGd3BONjdSV2puVjR6TVRMSXZDQjlwYkxyTDVQYWp4RGdqV09rbGNqTm55R0dyTzRmWDhFVmQ5OXRobGtyQnljeGd4ZVp4QVBYMDZROGM?oc=5",
-          "source": "finance.sina.com.cn",
+          "source": "新浪财经",
           "published_at": "2026-07-18T18:50:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 finance.sina.com.cn",
+          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 新浪财经",
           "image": ""
         },
         {
@@ -291,12 +291,12 @@
           "image": ""
         },
         {
-          "title": "一个月9款旗舰，大模型进入“月抛”时代？ - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ETTdqNmtseEZpaHl6T21ZNDVRRTF1dU4wR2FpYWZTNENVMnhlUXVtNmV2OEJ5Nzk4Q0ZPRWtVNEoyTks0clZpYTdCei0zVWpFUTRwdXJKVHZ5WWFpcXh3d2dR?oc=5",
+          "title": "最强模型的保质期正在缩短 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qLUh2SllzWnVma2ZJZHlZRFhycG5ITjdiTnNYalJ6QVFFWS1yQ2VUWTFmc2dtdUdfaWlqcVQxVG9sNE9zbkQ1bmphdlFhQXVsSEJuQg?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-08-04T18:16:03+08:00",
           "type": "媒体",
-          "summary": "一个月9款旗舰，大模型进入“月抛”时代？ 虎嗅网",
+          "summary": "最强模型的保质期正在缩短 虎嗅网",
           "image": ""
         },
         {
@@ -403,9 +403,18 @@
           "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 - 智慧城市行业分析",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMGxJRlB6MzV1UjlNcnc4SnVMT003RUZzNmJtbnZjR1BVZ3g4QnlQS0ZnZllMZFpBZmJHX0lLTDFBTm1qM3hQX01VVjBVaU1TdXJDWGEtTGpwcWJB?oc=5",
           "source": "智慧城市行业分析",
-          "published_at": "2026-07-27T11:57:00+08:00",
+          "published_at": "2026-07-27T15:00:00+08:00",
           "type": "论坛",
           "summary": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
+          "image": ""
+        },
+        {
+          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - 中国网",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
+          "source": "中国网",
+          "published_at": "2026-07-23T11:58:47+08:00",
+          "type": "论坛",
+          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
           "image": ""
         },
         {
@@ -442,15 +451,6 @@
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
-          "image": ""
-        },
-        {
-          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
           "image": ""
         },
         {
@@ -669,12 +669,12 @@
           "image": ""
         },
         {
-          "title": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 - cqnews.net",
+          "title": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 - 华龙网",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmxQWmlxYzRDbURJTzhBUS0tLU80X3Eza2xGNDY4S2sxQ0xYemx2YmtoNlVGVW9TUTA0Q1RTOHEtWlBrVllYNUxsZ0NyTGQ5N1RFdThpajdkRFMtNC1LUnRNaFN0ZTBCM2w2Y3htem04R2dhMlg4YkhoVThaUGI3bEF5MUlWOHNYVlAwZHI2dC1mUQ?oc=5",
-          "source": "cqnews.net",
+          "source": "华龙网",
           "published_at": "2025-09-05T15:00:00+08:00",
           "type": "直播",
-          "summary": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 cqnews.net",
+          "summary": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 华龙网",
           "image": ""
         }
       ]
@@ -758,12 +758,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - finance.sina.com.cn",
+          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96TXFOS2t5SHdVbGFfSEwxRTRSQ1N0bGpyQW1QQ3ZuMlBTNV95Q0ZGd3BONjdSV2puVjR6TVRMSXZDQjlwYkxyTDVQYWp4RGdqV09rbGNqTm55R0dyTzRmWDhFVmQ5OXRobGtyQnljeGd4ZVp4QVBYMDZROGM?oc=5",
-          "source": "finance.sina.com.cn",
+          "source": "新浪财经",
           "published_at": "2026-07-18T18:50:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 finance.sina.com.cn",
+          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 新浪财经",
           "image": ""
         },
         {
@@ -866,15 +866,6 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-06-28T21:07:00+08:00",
-          "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
           "source": "36 Kr",
@@ -884,12 +875,12 @@
           "image": ""
         },
         {
-          "title": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 - 香港中联办",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBUEh3RFJHdE9maXRGTGJRN3lzZ2FIQng3RnVyRFZhRVBHcWFTV3pOdi1jTF9RR1VPcVdHV0gzeWRia29JYTNubGVaZzlncEdILS1SVi0tOXVOSktzV2E1LUlOTTNVWmVUcUsxVnUxNlNjaWdDTU9UZzV0ZXAtZw?oc=5",
-          "source": "香港中联办",
-          "published_at": "2026-06-15T15:00:00+08:00",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNemJvODc4S2ZiVHdrNFdlSFIzSXNjbWdzUWNNTW4teFBaT1ZEamxnaTRaNHhwOXJORFRQMXNxOWhfREw5QkhSNG5DRm5vT0pUNmU1WWNZNFhYeFl5WHpoZXo0RDlieUxUUFQ5SWNKODlNajVZTEozNEVUNF96T3c?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-06-25T15:00:00+08:00",
           "type": "直播",
-          "summary": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 香港中联办",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 新浪财经",
           "image": ""
         },
         {
@@ -920,15 +911,6 @@
           "image": ""
         },
         {
-          "title": "番茄怎么没有直播了最新版下载-番茄怎么没有直播了2026最新版V.9.02.13-百度版-2265安卓网 - 香港中联办",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kcEIwWHVWQW5iUkctdzVETllJLURLNmlHdXBLaWp2Tm5fTVZoSXZTMUFpY092U2ZRUi1EeUdSVGpyek0yLXBaWkV2VzhveE9jaHota3pmUkdrNGhhczdROTJBT3FQcFdUYnBrSzRnOWhFTkx4aXM3Uk84VUp6Zw?oc=5",
-          "source": "香港中联办",
-          "published_at": "2026-06-14T15:00:00+08:00",
-          "type": "直播",
-          "summary": "番茄怎么没有直播了最新版下载-番茄怎么没有直播了2026最新版V.9.02.13-百度版-2265安卓网 香港中联办",
-          "image": ""
-        },
-        {
           "title": "黄瓜视频hg.live下载最新版下载-黄瓜视频hg.live下载2026最新版V.6.80.21-安装包（exe）-2265安卓网 - 香港中联办",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMREh6NmhPNnhsY292Q0MzaVcyclZaV0k0NWZidDVxb2J3NDZVUjFxMWF6U2xvSjh4dUNaNmZJVlNDbFJVQnRuTDVLZFJ1bXlzYzQ3U0Vpcm5zbkY3TnBXMW9HNk5na1V1RFZJTzN2RHBWZ0UtRWRrbklZTzk?oc=5",
           "source": "香港中联办",
@@ -938,12 +920,12 @@
           "image": ""
         },
         {
-          "title": "直击2025中国移动全球合作伙伴大会，中国移动咪咕以科技创新赋能文化传承 - 中华网科技频道",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qLVo3czZ0cUZ5aGxMdHhBbkpKejZXNVZ6OWVVVTluQ3A3X0I4RmJqZ05NRWtyOE1aNzkxQ2JNMTJLSHVpRXByakNMVGRPWnJMLWcyVmNiVmlBMktYUTJYTUZzN1BHVW91VG5lS0ZuQm5QWHF1bnc?oc=5",
-          "source": "中华网科技频道",
-          "published_at": "2025-10-14T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "直击2025中国移动全球合作伙伴大会，中国移动咪咕以科技创新赋能文化传承 中华网科技频道",
+          "title": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbWdWUmp4ZURKOUJVQlpjQjUyOFR4S09IZGlZX0ZCVGZ3QXd4Z2RQZEU4NXRhdFVCWHhEc3FKQ0NONjlrZTJjSkxpYUdfQS04N3k0M1dsYnI4c0RpcHlzcGFVNlUyOFh6Sm91d21RZTNwcDJSY1ZvUk9fVkxUVEU?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-02-10T16:00:00+08:00",
+          "type": "直播",
+          "summary": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 新浪财经",
           "image": ""
         },
         {
@@ -953,6 +935,24 @@
           "published_at": "2025-07-24T15:00:00+08:00",
           "type": "直播",
           "summary": "直播预告 | 智能时代同球共济 探营2025世界人工智能大会 shobserver.cn",
+          "image": ""
+        },
+        {
+          "title": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqTFcyN21tTFRHYlNUV2l1YTh3VU1JQ3k5M1lfenZnN0JmLVpaMll2aC1CZUc5TU4xdGM0OVFybnNzWmNaZXF1WHFXeDVaZXFWMTdn?oc=5",
+          "source": "36Kr",
+          "published_at": "2025-07-24T15:00:00+08:00",
+          "type": "直播",
+          "summary": "36氪联合WAIC2025打造「氪话未来直播间」，深度剖析AI未来信号 36Kr",
+          "image": ""
+        },
+        {
+          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
+          "source": "moe.gov.cn",
+          "published_at": "2025-05-09T15:00:00+08:00",
+          "type": "直播",
+          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         }
       ]
