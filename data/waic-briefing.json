@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T17:39:16.185869+08:00",
+  "generated_at": "2026-08-05T20:01:57.474551+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月05日 17:39",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月05日 20:01",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
     "本轮抓取到 媒体 133 条、直播 36 条、观点 1 条、论坛 23 条，已按企业家阅读场景分组。",
@@ -9,7 +9,7 @@
     "虎嗅网：AI，能替代300元一小时的真人教练吗？ - 虎嗅网",
     "36 Kr：一个月9款旗舰，大模型进入“月抛”时代？ - 36 Kr",
     "虎嗅网：AI影视\"待爆帝\"迷思：资本运作先行，作品产出滞后 - 虎嗅网",
-    "虎嗅网：一个月9款旗舰，大模型进入“月抛”时代？ - 虎嗅网"
+    "虎嗅网：最强模型的保质期正在缩短 - 虎嗅网"
   ],
   "sections": [
     {
@@ -81,15 +81,6 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
-          "source": "人民网-上海频道",
-          "published_at": "2026-07-21T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026世界人工智能大会闭幕式论坛 - 21财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
           "source": "21财经",
@@ -123,6 +114,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
+          "image": ""
+        },
+        {
+          "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nZ296SmdTdzJzSlM1MXVtUDNVU2tqTlNFZ3VmUVpOQTZaQ3k5SE9Hd0RhdTVmeEF4X2QzalN3UlVoNGxnZFlpeThwc3duZzlsZGJiTWFSYVpkOEZzdFRRNzl1VUo?oc=5",
+          "source": "哈尔滨工业大学",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
           "image": ""
         }
       ]
@@ -205,12 +205,12 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - jfdaily.com",
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
-          "source": "jfdaily.com",
+          "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 jfdaily.com",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
           "image": ""
         },
         {
@@ -223,12 +223,12 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - jfdaily.com",
+          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRHpHVUpnektYZW9YdE1SR1JWeUtTQ3d6ZFQxektKcHFJN01CWTEwYmpQU1FLZi1OdlI1d1dCOS1pVnFwcWR3YldMZFNaN3J6LVZGX3hSclBrUQ?oc=5",
-          "source": "jfdaily.com",
+          "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 jfdaily.com",
+          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
           "image": ""
         },
         {
@@ -248,12 +248,12 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
-          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - QQ News",
+          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 腾讯新闻",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YU1NlSnBLaEpOYmlnTHI0c2ZYa05vWDJCWmdlVV84WGRJUXpiY2stZ1ZDUFNsbWJiM09tWEVqTnJmZDh5WThHX3RONXlhRkZrbm9MZWV3?oc=5",
-          "source": "QQ News",
+          "source": "腾讯新闻",
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "观点",
-          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 QQ News",
+          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 腾讯新闻",
           "image": ""
         }
       ]
@@ -291,12 +291,12 @@
           "image": ""
         },
         {
-          "title": "一个月9款旗舰，大模型进入“月抛”时代？ - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ETTdqNmtseEZpaHl6T21ZNDVRRTF1dU4wR2FpYWZTNENVMnhlUXVtNmV2OEJ5Nzk4Q0ZPRWtVNEoyTks0clZpYTdCei0zVWpFUTRwdXJKVHZ5WWFpcXh3d2dR?oc=5",
+          "title": "最强模型的保质期正在缩短 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qLUh2SllzWnVma2ZJZHlZRFhycG5ITjdiTnNYalJ6QVFFWS1yQ2VUWTFmc2dtdUdfaWlqcVQxVG9sNE9zbkQ1bmphdlFhQXVsSEJuQg?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-08-04T18:16:03+08:00",
           "type": "媒体",
-          "summary": "一个月9款旗舰，大模型进入“月抛”时代？ 虎嗅网",
+          "summary": "最强模型的保质期正在缩短 虎嗅网",
           "image": ""
         },
         {
@@ -427,15 +427,6 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
-          "source": "人民网-上海频道",
-          "published_at": "2026-07-21T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
-          "image": ""
-        },
-        {
           "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 - 第一财经",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rekgycjBESW0wTENWejdYNVZQRlBvNmg5ZHVTanZFUVNkRi15WnVKZHZmbWxrRVM2OWlZbUxEb08tbHJha0ZYUTk0Z3lKMHdo?oc=5",
           "source": "第一财经",
@@ -481,12 +472,21 @@
           "image": ""
         },
         {
-          "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - news.hit.edu.cn",
+          "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nZ296SmdTdzJzSlM1MXVtUDNVU2tqTlNFZ3VmUVpOQTZaQ3k5SE9Hd0RhdTVmeEF4X2QzalN3UlVoNGxnZFlpeThwc3duZzlsZGJiTWFSYVpkOEZzdFRRNzl1VUo?oc=5",
-          "source": "news.hit.edu.cn",
+          "source": "哈尔滨工业大学",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 news.hit.edu.cn",
+          "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vLUdZb0x1OUFRYUtKaEhoWWt4eGxMVkdITEM0X2k4WkwydHlwQ25wdHVES1JEMGx2cWc2cjNFOEtNeEpIRVI0OEt1VlJYV04tajRlU1JQMUpjdw?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 上观新闻",
           "image": ""
         },
         {
@@ -499,21 +499,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - C114通信网",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - c114.com.cn",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ1BCNGVsMURQNmNVbEd5U19wTWhkM2JMWjNianlNdVl1UGt3V3VYemtJQ1hmc05RY3ZvWURZOGxfLVRnRnNpTUc3a1FYTVk?oc=5",
-          "source": "C114通信网",
+          "source": "c114.com.cn",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "媒体",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 C114通信网",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 c114.com.cn",
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - jfdaily.com",
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
-          "source": "jfdaily.com",
+          "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 jfdaily.com",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
           "image": ""
         },
         {
@@ -562,12 +562,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 机器之心",
+          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - jiqizhixin.com",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2eHVZVHRKcTVrYVhVMkZ2LUpVeExMYmNFMWFhWWNNUURSSHI3QUdVY05JS21SWkFHR1hrcUxxOUVBN1hXSEVoZFZMbDZROWZIYVFTTzI1akFzVHNt?oc=5",
-          "source": "机器之心",
+          "source": "jiqizhixin.com",
           "published_at": "2026-07-08T14:47:14+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 机器之心",
+          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ jiqizhixin.com",
           "image": ""
         },
         {
@@ -589,21 +589,21 @@
           "image": ""
         },
         {
-          "title": "主论坛|链接全球，共创未来！WAIC 2024产业发展主论坛成功举办 - C114通信网",
+          "title": "主论坛|链接全球，共创未来！WAIC 2024产业发展主论坛成功举办 - c114.com.cn",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPUTUwQTFwc05hWHZ4Sm5aeXl0d3lXUzljRXcybmRlNFFlR3JQV01SeVdQWm1NLXVyWDRsRk9JOWVpd3ZzaERsV0U5N2NGQk0?oc=5",
-          "source": "C114通信网",
+          "source": "c114.com.cn",
           "published_at": "2024-07-05T15:00:00+08:00",
           "type": "论坛",
-          "summary": "主论坛|链接全球，共创未来！WAIC 2024产业发展主论坛成功举办 C114通信网",
+          "summary": "主论坛|链接全球，共创未来！WAIC 2024产业发展主论坛成功举办 c114.com.cn",
           "image": ""
         },
         {
-          "title": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 - C114通信网",
+          "title": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 - c114.com.cn",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxUnY2amtOaGlJcEFocklCUTdZM2VuWXZXanhsY2o0OERRdjd4NjlJbU11ZHZUQTg0dlE4eGtuWUxaYVJ1cjJrSnBUUjRUbTA?oc=5",
-          "source": "C114通信网",
+          "source": "c114.com.cn",
           "published_at": "2024-07-05T15:00:00+08:00",
           "type": "媒体",
-          "summary": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 C114通信网",
+          "summary": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 c114.com.cn",
           "image": ""
         },
         {
@@ -660,12 +660,12 @@
           "image": ""
         },
         {
-          "title": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 - 华龙网",
+          "title": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 - cqnews.net",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmxQWmlxYzRDbURJTzhBUS0tLU80X3Eza2xGNDY4S2sxQ0xYemx2YmtoNlVGVW9TUTA0Q1RTOHEtWlBrVllYNUxsZ0NyTGQ5N1RFdThpajdkRFMtNC1LUnRNaFN0ZTBCM2w2Y3htem04R2dhMlg4YkhoVThaUGI3bEF5MUlWOHNYVlAwZHI2dC1mUQ?oc=5",
-          "source": "华龙网",
+          "source": "cqnews.net",
           "published_at": "2025-09-05T15:00:00+08:00",
           "type": "直播",
-          "summary": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 华龙网",
+          "summary": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 cqnews.net",
           "image": ""
         }
       ]
@@ -776,12 +776,12 @@
           "image": ""
         },
         {
-          "title": "万兴科技AI视频矩阵亮相WAIC 2026 - eastmoney.com",
+          "title": "万兴科技AI视频矩阵亮相WAIC 2026 - 东方财富",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tTXB4V3VRb1VkN0VJbG10WUxqVTV0LV91RUl3ZkVYczhqWGxWTGJxM3NNcXEyVGNVVldWYWVBX1BmR0NzNkV4eTJEUi1oSHdNcDl4SHpqV2pNekRvcVktag?oc=5",
-          "source": "eastmoney.com",
+          "source": "东方财富",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "媒体",
-          "summary": "万兴科技AI视频矩阵亮相WAIC 2026 eastmoney.com",
+          "summary": "万兴科技AI视频矩阵亮相WAIC 2026 东方财富",
           "image": ""
         },
         {
@@ -794,12 +794,12 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - jfdaily.com",
+          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRHpHVUpnektYZW9YdE1SR1JWeUtTQ3d6ZFQxektKcHFJN01CWTEwYmpQU1FLZi1OdlI1d1dCOS1pVnFwcWR3YldMZFNaN3J6LVZGX3hSclBrUQ?oc=5",
-          "source": "jfdaily.com",
+          "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 jfdaily.com",
+          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
           "image": ""
         },
         {
@@ -821,12 +821,12 @@
           "image": ""
         },
         {
-          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - jfdaily.com",
+          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
-          "source": "jfdaily.com",
+          "source": "上观新闻",
           "published_at": "2026-07-16T12:32:00+08:00",
           "type": "直播",
-          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 jfdaily.com",
+          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
           "image": ""
         },
         {
@@ -857,12 +857,12 @@
           "image": ""
         },
         {
-          "title": "中国科学院携手全球顶尖机构发布首个十亿参数级的手术视频基础模型SurgMotion！ - 机器之心",
+          "title": "中国科学院携手全球顶尖机构发布首个十亿参数级的手术视频基础模型SurgMotion！ - jiqizhixin.com",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91Nm03LUNJX3hZbUJRQkxJTXdTc0VkRnNaZFJMMDktM1NsQ2pGbk5nZWgya2dZSnc1SEN4NDlNVzFuRzkzV3FDY3dfcEhZZzZfUS15ZUFiNmpzM0RJ?oc=5",
-          "source": "机器之心",
+          "source": "jiqizhixin.com",
           "published_at": "2026-07-08T11:26:31+08:00",
           "type": "媒体",
-          "summary": "中国科学院携手全球顶尖机构发布首个十亿参数级的手术视频基础模型SurgMotion！ 机器之心",
+          "summary": "中国科学院携手全球顶尖机构发布首个十亿参数级的手术视频基础模型SurgMotion！ jiqizhixin.com",
           "image": ""
         },
         {
@@ -1043,9 +1043,9 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "QQ News",
+      "source": "腾讯新闻",
       "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
-      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 QQ News",
+      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 腾讯新闻",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YU1NlSnBLaEpOYmlnTHI0c2ZYa05vWDJCWmdlVV84WGRJUXpiY2stZ1ZDUFNsbWJiM09tWEVqTnJmZDh5WThHX3RONXlhRkZrbm9MZWV3?oc=5",
       "published_at": "2026-07-19T15:00:00+08:00",
       "type": "观点"
