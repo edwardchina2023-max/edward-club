@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-07T21:50:59.742493+08:00",
+  "generated_at": "2026-08-07T22:56:51.183095+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月07日 21:50",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月07日 22:56",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 135 条、直播 33 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
-    "36kr.com：从PPT到生产线，巨头们跨过具身智能“理想国” - 36kr.com",
-    "36kr.com：为了精萃WAIC里的海量信息，我们造了一张可视化地图｜全景PANORAMA - 36kr.com",
-    "36kr.com：不等了！一个盲人上手造了个导盲机器人 - 36kr.com",
+    "本轮抓取到 媒体 137 条、直播 32 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
+    "36Kr：从PPT到生产线，巨头们跨过具身智能“理想国” - 36Kr",
+    "36Kr：为了精萃WAIC里的海量信息，我们造了一张可视化地图｜全景PANORAMA - 36Kr",
+    "36Kr：不等了！一个盲人上手造了个导盲机器人 - 36Kr",
     "虎嗅：从PPT到生产线，巨头们跨过具身智能“理想国” - 虎嗅",
     "虎嗅：腾讯、字节、阿里，抢着给打工人配“AI助理” - 虎嗅"
   ],
@@ -90,21 +90,12 @@
           "image": ""
         },
         {
-          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - news.tongji.edu.cn",
+          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeC1wNzVEaV9pZVk3dWJ0LW95MnZqTnNXR21IM2lUZXlRSDI5cEtyNlp1TlFPNXpDMDFiRkhqcldVV1RueU9nSjRHLW5rNTVxR0Q4MG56TTBaUQ?oc=5",
-          "source": "news.tongji.edu.cn",
+          "source": "同济大学新闻网",
           "published_at": "2026-07-19T13:43:19+08:00",
           "type": "论坛",
-          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 news.tongji.edu.cn",
-          "image": ""
-        },
-        {
-          "title": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 - 西部网",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNlRSMGJINzlVYkRKRlJ6SG96STFSVU5iSlM5aGJkNGhucXV1ek43YVJKcngzUFdMVmtLdWhac2Qtamc3WDVhYUlHcjZSSmI5N0VubVlzMDhJVm5Nc3JKdWZSSWM?oc=5",
-          "source": "西部网",
-          "published_at": "2026-07-18T16:44:00+08:00",
-          "type": "论坛",
-          "summary": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 西部网",
+          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 同济大学新闻网",
           "image": ""
         },
         {
@@ -123,6 +114,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vLUdZb0x1OUFRYUtKaEhoWWt4eGxMVkdITEM0X2k4WkwydHlwQ25wdHVES1JEMGx2cWc2cjNFOEtNeEpIRVI0OEt1VlJYV04tajRlU1JQMUpjdw?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 上观新闻",
           "image": ""
         }
       ]
@@ -264,30 +264,30 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "从PPT到生产线，巨头们跨过具身智能“理想国” - 36kr.com",
+          "title": "从PPT到生产线，巨头们跨过具身智能“理想国” - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PdEFicEpmQzZjMm9yNkVtTHFIb1JaVV9sa3NLTWoxZUx4V0J3b1pvdi1JdXNkOUJtdU5KRC1qVGk3MjhlNkt6X21ZSmZIYkk?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-08-07T21:00:37+08:00",
           "type": "媒体",
-          "summary": "从PPT到生产线，巨头们跨过具身智能“理想国” 36kr.com",
+          "summary": "从PPT到生产线，巨头们跨过具身智能“理想国” 36Kr",
           "image": ""
         },
         {
-          "title": "为了精萃WAIC里的海量信息，我们造了一张可视化地图｜全景PANORAMA - 36kr.com",
+          "title": "为了精萃WAIC里的海量信息，我们造了一张可视化地图｜全景PANORAMA - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PejU1QU9lN1llVVVVV0p1aUxEN0toZWRUTExldmVPUTJxakQ5eThKUUl2LXRlN1VQa1h5OGItNEp4OHRGUjJsWEJaLUNnUnM?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-08-07T19:45:28+08:00",
           "type": "媒体",
-          "summary": "为了精萃WAIC里的海量信息，我们造了一张可视化地图｜全景PANORAMA 36kr.com",
+          "summary": "为了精萃WAIC里的海量信息，我们造了一张可视化地图｜全景PANORAMA 36Kr",
           "image": ""
         },
         {
-          "title": "不等了！一个盲人上手造了个导盲机器人 - 36kr.com",
+          "title": "不等了！一个盲人上手造了个导盲机器人 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLUUZFUmd1eW81Z1V5YjBGZU02d2kzWXBKWkl6Tkx1MEVnMy15XzRBRXlqSEY3TERSR0hXcWVvLUtBM2ozeUxXM3pDd3NfRzYy?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-08-07T19:25:28+08:00",
           "type": "媒体",
-          "summary": "不等了！一个盲人上手造了个导盲机器人 36kr.com",
+          "summary": "不等了！一个盲人上手造了个导盲机器人 36Kr",
           "image": ""
         },
         {
@@ -327,30 +327,30 @@
           "image": ""
         },
         {
-          "title": "首席科学家“消失”，智元IPO的三重罗生门 - 36kr.com",
+          "title": "首席科学家“消失”，智元IPO的三重罗生门 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZWDNuM2ZhRFpySExqS2g0UnA3S2p5V01fWUtfV3NfbnFJSktNNWRab0lRSXVBTmd4Yl9RV1VSdUJGRENnSnFBZWQyWHhPbU9K?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-08-06T16:32:00+08:00",
           "type": "媒体",
-          "summary": "首席科学家“消失”，智元IPO的三重罗生门 36kr.com",
+          "summary": "首席科学家“消失”，智元IPO的三重罗生门 36Kr",
           "image": ""
         },
         {
-          "title": "百度、阿里、腾讯重逢AI办公，胜负手在数据 - 36kr.com",
+          "title": "百度、阿里、腾讯重逢AI办公，胜负手在数据 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zQ1I5bGJSYW9ONGFxZV9NVUZzaVg5YTlGVVJ3Y3VkNE5NRF9Ta0NVaEVfdmxBUXE2U1R1ZklkMklRZ2EtaXZmeXhra0JlNTB4?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-08-06T15:24:33+08:00",
           "type": "媒体",
-          "summary": "百度、阿里、腾讯重逢AI办公，胜负手在数据 36kr.com",
+          "summary": "百度、阿里、腾讯重逢AI办公，胜负手在数据 36Kr",
           "image": ""
         },
         {
-          "title": "耗时41分钟，千问办公押注了怎样的Agent未来？ - 36kr.com",
+          "title": "耗时41分钟，千问办公押注了怎样的Agent未来？ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUUy1NeTZpdDQ0Yl81VmFsNGhRWDdoUkgxZjNfblFPSnpESXhMVE5GUEJYYnBOYXQ0dmFGcFJsYzlIeEtuUDd0WERzYWZ6UWM?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-08-06T11:28:17+08:00",
           "type": "媒体",
-          "summary": "耗时41分钟，千问办公押注了怎样的Agent未来？ 36kr.com",
+          "summary": "耗时41分钟，千问办公押注了怎样的Agent未来？ 36Kr",
           "image": ""
         },
         {
@@ -553,21 +553,12 @@
           "image": ""
         },
         {
-          "title": "WAIC2026主论坛直播 - 广州日报新花城",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHJ5UTBORFZPMDhUVFZ1cFc2d2FYdG9FT0RuekdObWk2WEF4Zzc3UmpucjNfRk5qM2x2N1hiT1NvREV4QnR5RTRGMnVHNWV1WFExRlFRT0JWZjFYRjdyZ0hRUzEwR0Q2TTBQUHV3NHhHUTVaNzBfX2tJd2dVWWNSZjBvbzQxSnZP?oc=5",
-          "source": "广州日报新花城",
-          "published_at": "2026-07-16T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC2026主论坛直播 广州日报新花城",
-          "image": ""
-        },
-        {
-          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36kr.com",
+          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVzRjSzVVMWNqbXRYYUNIUFJZX2FoUlBKa2tJOXZRazlXYTljNTZ0c0RzazdDcnJhd2U3R21MVHg4QTR0MVZONndHS1h6Zw?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-07-15T15:00:00+08:00",
           "type": "论坛",
-          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36kr.com",
+          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36Kr",
           "image": ""
         },
         {
@@ -598,12 +589,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36kr.com",
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36kr.com",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36Kr",
           "image": ""
         },
         {
@@ -622,6 +613,15 @@
           "published_at": "2024-07-05T15:00:00+08:00",
           "type": "媒体",
           "summary": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 C114通信网",
+          "image": ""
+        },
+        {
+          "title": "2024世界人工智能大会暨人工智能全球治理高级别会议丨科学前沿主论坛 - 第一财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kTUVUdXdBNXJzTmt3TC1SWUhWM0FudC1CU0NyX3BhNzI3QTZveUJRUnZQbW43WDgwNDF0cmtkLU5LYmxmeExpWGlqcnd1czRRemw0?oc=5",
+          "source": "第一财经",
+          "published_at": "2024-07-04T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2024世界人工智能大会暨人工智能全球治理高级别会议丨科学前沿主论坛 第一财经",
           "image": ""
         },
         {
@@ -740,21 +740,12 @@
           "image": ""
         },
         {
-          "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容 - shobserver.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWN0QxcFJOajhjQnFCZXNweks0WTVKTDFUOExyVndDSGJEQ0NGU3dlRkVZUEU3dGk0V21Ec1R6RV9ILVE0TmRwZHBKeXh6SFVTOWNzaFI1NjBTczRx?oc=5",
-          "source": "shobserver.cn",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容 shobserver.cn",
-          "image": ""
-        },
-        {
-          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - news.tongji.edu.cn",
+          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeC1wNzVEaV9pZVk3dWJ0LW95MnZqTnNXR21IM2lUZXlRSDI5cEtyNlp1TlFPNXpDMDFiRkhqcldVV1RueU9nSjRHLW5rNTVxR0Q4MG56TTBaUQ?oc=5",
-          "source": "news.tongji.edu.cn",
+          "source": "同济大学新闻网",
           "published_at": "2026-07-19T13:43:19+08:00",
           "type": "论坛",
-          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 news.tongji.edu.cn",
+          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 同济大学新闻网",
           "image": ""
         },
         {
@@ -773,15 +764,6 @@
           "published_at": "2026-07-19T04:31:17+08:00",
           "type": "直播",
           "summary": "*卡哇伊直播app永久回家地址在线直播*_《官方网站》_卡哇伊直播app永久回家地址在线直播*>>>首页>- 香港中联办",
-          "image": ""
-        },
-        {
-          "title": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 - 西部网",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNlRSMGJINzlVYkRKRlJ6SG96STFSVU5iSlM5aGJkNGhucXV1ek43YVJKcngzUFdMVmtLdWhac2Qtamc3WDVhYUlHcjZSSmI5N0VubVlzMDhJVm5Nc3JKdWZSSWM?oc=5",
-          "source": "西部网",
-          "published_at": "2026-07-18T16:44:00+08:00",
-          "type": "论坛",
-          "summary": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 西部网",
           "image": ""
         },
         {
@@ -875,21 +857,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - eu.36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36 Kr",
+          "source": "eu.36kr.com",
           "published_at": "2026-06-28T21:07:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 eu.36kr.com",
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36kr.com",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
           "image": ""
         },
         {
@@ -902,12 +884,12 @@
           "image": ""
         },
         {
-          "title": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 - 上海有色金属",
+          "title": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 - news.smm.cn",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wY253bl9vODhGWFpyZ0pqR2RUbnM3YW5pUElSWWVONEpxaTlOYUNBZnhBZXlhVmUyRV91cG5ENHhDTlZ0SEhwdll3?oc=5",
-          "source": "上海有色金属",
+          "source": "news.smm.cn",
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
+          "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 news.smm.cn",
           "image": ""
         },
         {
@@ -963,6 +945,15 @@
           "type": "媒体",
           "summary": "字节视频生成模型 PixelDance上线即梦AI，用户可免费体验 机器之心",
           "image": ""
+        },
+        {
+          "title": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fMmFDV0l4UzB5eWtiR25wYTJVUHd1UnA1UDZXSm92djZrQ3FFbHF2UWFuTHVYRWVLZ1hENmhOSWF5WGVTM2Z6OHMzeVZLOUkya0E?oc=5",
+          "source": "21财经",
+          "published_at": "2023-02-12T16:32:04+08:00",
+          "type": "直播",
+          "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
+          "image": ""
         }
       ]
     }
@@ -1001,9 +992,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36kr.com",
+      "source": "36Kr",
       "title": "从PPT到生产线，巨头们跨过具身智能“理想国”",
-      "point": "从PPT到生产线，巨头们跨过具身智能“理想国” 36kr.com",
+      "point": "从PPT到生产线，巨头们跨过具身智能“理想国” 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PdEFicEpmQzZjMm9yNkVtTHFIb1JaVV9sa3NLTWoxZUx4V0J3b1pvdi1JdXNkOUJtdU5KRC1qVGk3MjhlNkt6X21ZSmZIYkk?oc=5",
       "published_at": "2026-08-07T21:00:37+08:00",
       "type": "媒体"
@@ -1011,9 +1002,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36kr.com",
+      "source": "36Kr",
       "title": "为了精萃WAIC里的海量信息，我们造了一张可视化地图｜全景PANORAMA",
-      "point": "为了精萃WAIC里的海量信息，我们造了一张可视化地图｜全景PANORAMA 36kr.com",
+      "point": "为了精萃WAIC里的海量信息，我们造了一张可视化地图｜全景PANORAMA 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PejU1QU9lN1llVVVVV0p1aUxEN0toZWRUTExldmVPUTJxakQ5eThKUUl2LXRlN1VQa1h5OGItNEp4OHRGUjJsWEJaLUNnUnM?oc=5",
       "published_at": "2026-08-07T19:45:28+08:00",
       "type": "媒体"
@@ -1021,9 +1012,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36kr.com",
+      "source": "36Kr",
       "title": "不等了！一个盲人上手造了个导盲机器人",
-      "point": "不等了！一个盲人上手造了个导盲机器人 36kr.com",
+      "point": "不等了！一个盲人上手造了个导盲机器人 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLUUZFUmd1eW81Z1V5YjBGZU02d2kzWXBKWkl6Tkx1MEVnMy15XzRBRXlqSEY3TERSR0hXcWVvLUtBM2ozeUxXM3pDd3NfRzYy?oc=5",
       "published_at": "2026-08-07T19:25:28+08:00",
       "type": "媒体"
