@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-07T13:43:31.024075+08:00",
+  "generated_at": "2026-08-07T15:22:50.895223+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月07日 13:43",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月07日 15:22",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 135 条、直播 35 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 135 条、直播 34 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
     "虎嗅：专访李开复： 会议可以停 - 虎嗅",
+    "虎嗅：Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 - 虎嗅",
     "虎嗅：AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 - 虎嗅",
     "36 Kr：首席科学家“消失”，智元IPO的三重罗生门 - 36 Kr",
-    "36 Kr：百度、阿里、腾讯重逢AI办公，胜负手在数据 - 36 Kr",
-    "36 Kr：耗时41分钟，千问办公押注了怎样的Agent未来？ - 36 Kr"
+    "36 Kr：百度、阿里、腾讯重逢AI办公，胜负手在数据 - 36 Kr"
   ],
   "sections": [
     {
@@ -18,12 +18,12 @@
       "en": "Forum agenda and conference signals",
       "items": [
         {
-          "title": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 - sohu.com",
+          "title": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXhUMFdFZkt4dkdEQjU1cHU0NHZxM3NCZ2JSUUFmWE81N3N5UTNPMjBKRjhTVUxDLVdFYWUzeGpNZW85cWlyNzVtMjhOR0h5X1JGYXNiLTBiRzN6TjVBRDhTQ2h4aFBPclptVFRPemVFZi1lY3VlWkhxQzR4TEVSeHl5NVZrQTJl?oc=5",
-          "source": "sohu.com",
+          "source": "搜狐网",
           "published_at": "2026-08-05T15:34:39+08:00",
           "type": "论坛",
-          "summary": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 sohu.com",
+          "summary": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 搜狐网",
           "image": ""
         },
         {
@@ -81,12 +81,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会多场论坛聚焦AI时代人才生态 - news.china.com.cn",
+          "title": "2026世界人工智能大会多场论坛聚焦AI时代人才生态 - 中国网新闻中心",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xTGdVMVlDQjlKWVVTMFZNRVdfejRTd3Rsa1p0dndiVDNTaHAtVUhYSXFaTS1YOS1GQTRmdm4ySUFjRnByY2lEN1hYVFo1S0hHZzU0Qm8tbm1kV1hDMjVPdno2OEt2QVpCWk00?oc=5",
-          "source": "news.china.com.cn",
+          "source": "中国网新闻中心",
           "published_at": "2026-07-20T06:26:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会多场论坛聚焦AI时代人才生态 news.china.com.cn",
+          "summary": "2026世界人工智能大会多场论坛聚焦AI时代人才生态 中国网新闻中心",
           "image": ""
         },
         {
@@ -99,12 +99,12 @@
           "image": ""
         },
         {
-          "title": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 - 西部网",
+          "title": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 - news.cnwest.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNlRSMGJINzlVYkRKRlJ6SG96STFSVU5iSlM5aGJkNGhucXV1ek43YVJKcngzUFdMVmtLdWhac2Qtamc3WDVhYUlHcjZSSmI5N0VubVlzMDhJVm5Nc3JKdWZSSWM?oc=5",
-          "source": "西部网",
+          "source": "news.cnwest.com",
           "published_at": "2026-07-18T16:44:00+08:00",
           "type": "论坛",
-          "summary": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 西部网",
+          "summary": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 news.cnwest.com",
           "image": ""
         },
         {
@@ -154,7 +154,7 @@
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - finance.tom.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
           "source": "finance.tom.com",
-          "published_at": "2026-07-20T10:06:00+08:00",
+          "published_at": "2026-07-20T15:00:00+08:00",
           "type": "直播",
           "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 finance.tom.com",
           "image": ""
@@ -273,6 +273,15 @@
           "image": ""
         },
         {
+          "title": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IdUxDSEd3V0hWX3I0cm9FNV96bE91cFE2V2huc1FWc01OdGpWaU96YWU1T0QwOVlyOGVpaHRweUFveE1JVnc0VkdyTWg4RkZjRjFLZw?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-06T19:27:18+08:00",
+          "type": "媒体",
+          "summary": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 虎嗅",
+          "image": ""
+        },
+        {
           "title": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzWGRPTFJVdzIxRXBPOFZ2c29UTjJxSzRGajVoRzdYS3J0NmFLOXh0QnVQWDFsZnY2M3lKV245R2pPUUVkQWRBb3p1TUpzYWRfM3BwMQ?oc=5",
           "source": "虎嗅",
@@ -361,15 +370,6 @@
           "type": "媒体",
           "summary": "阶跃星辰发布首款智能体手机STEPX Neo，战略重心转向终端与海外市场 虎嗅",
           "image": ""
-        },
-        {
-          "title": "3分钟出餐、30秒一杯咖啡：AI大厨正在接管你的餐桌 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11SHdIMURhSElKUWRYUDQySFlfUVdfRThsQkVYQzQxaXAwYzJ5ZkpVWUtMcGM3ZUpva2JweHlsMGtIMFlBblp0WGdFbnhXbGNK?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-03T21:48:00+08:00",
-          "type": "媒体",
-          "summary": "3分钟出餐、30秒一杯咖啡：AI大厨正在接管你的餐桌 36 Kr",
-          "image": ""
         }
       ]
     }
@@ -382,12 +382,12 @@
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
         {
-          "title": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 - sohu.com",
+          "title": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXhUMFdFZkt4dkdEQjU1cHU0NHZxM3NCZ2JSUUFmWE81N3N5UTNPMjBKRjhTVUxDLVdFYWUzeGpNZW85cWlyNzVtMjhOR0h5X1JGYXNiLTBiRzN6TjVBRDhTQ2h4aFBPclptVFRPemVFZi1lY3VlWkhxQzR4TEVSeHl5NVZrQTJl?oc=5",
-          "source": "sohu.com",
+          "source": "搜狐网",
           "published_at": "2026-08-05T15:34:39+08:00",
           "type": "论坛",
-          "summary": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 sohu.com",
+          "summary": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 搜狐网",
           "image": ""
         },
         {
@@ -445,12 +445,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会多场论坛聚焦AI时代人才生态 - news.china.com.cn",
+          "title": "2026世界人工智能大会多场论坛聚焦AI时代人才生态 - 中国网新闻中心",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xTGdVMVlDQjlKWVVTMFZNRVdfejRTd3Rsa1p0dndiVDNTaHAtVUhYSXFaTS1YOS1GQTRmdm4ySUFjRnByY2lEN1hYVFo1S0hHZzU0Qm8tbm1kV1hDMjVPdno2OEt2QVpCWk00?oc=5",
-          "source": "news.china.com.cn",
+          "source": "中国网新闻中心",
           "published_at": "2026-07-20T06:26:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会多场论坛聚焦AI时代人才生态 news.china.com.cn",
+          "summary": "2026世界人工智能大会多场论坛聚焦AI时代人才生态 中国网新闻中心",
           "image": ""
         },
         {
@@ -731,21 +731,21 @@
           "image": ""
         },
         {
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - finance.tom.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
+          "source": "finance.tom.com",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "直播",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 finance.tom.com",
+          "image": ""
+        },
+        {
           "title": "直击商汤WAIC：从生图、分镜视频到办公Agent，AI全套工作流彻底打通！ - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PdUV2TGhaZGhMT0dKZ3NDTVkyOTFXZkNZeE1fSkk4Y3hnN3pCTnY5TEVlM1Y3eUMwYUh4MGExTmRhbG9nWnUzbjRvSHNLSWZQbFJLSDZtSQ?oc=5",
           "source": "Bilibili",
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "媒体",
           "summary": "直击商汤WAIC：从生图、分镜视频到办公Agent，AI全套工作流彻底打通！ Bilibili",
-          "image": ""
-        },
-        {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - finance.tom.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
-          "source": "finance.tom.com",
-          "published_at": "2026-07-20T10:06:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 finance.tom.com",
           "image": ""
         },
         {
@@ -767,12 +767,12 @@
           "image": ""
         },
         {
-          "title": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 - 西部网",
+          "title": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 - news.cnwest.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNlRSMGJINzlVYkRKRlJ6SG96STFSVU5iSlM5aGJkNGhucXV1ek43YVJKcngzUFdMVmtLdWhac2Qtamc3WDVhYUlHcjZSSmI5N0VubVlzMDhJVm5Nc3JKdWZSSWM?oc=5",
-          "source": "西部网",
+          "source": "news.cnwest.com",
           "published_at": "2026-07-18T16:44:00+08:00",
           "type": "论坛",
-          "summary": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 西部网",
+          "summary": "视频丨2026世界人工智能大会开幕 习近平主席主旨讲话引发热烈反响 news.cnwest.com",
           "image": ""
         },
         {
@@ -884,21 +884,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNemJvODc4S2ZiVHdrNFdlSFIzSXNjbWdzUWNNTW4teFBaT1ZEamxnaTRaNHhwOXJORFRQMXNxOWhfREw5QkhSNG5DRm5vT0pUNmU1WWNZNFhYeFl5WHpoZXo0RDlieUxUUFQ5SWNKODlNajVZTEozNEVUNF96T3c?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-06-25T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 新浪财经",
-          "image": ""
-        },
-        {
-          "title": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 - big5.locpg.gov.cn",
+          "title": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 - 香港中联办",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBUEh3RFJHdE9maXRGTGJRN3lzZ2FIQng3RnVyRFZhRVBHcWFTV3pOdi1jTF9RR1VPcVdHV0gzeWRia29JYTNubGVaZzlncEdILS1SVi0tOXVOSktzV2E1LUlOTTNVWmVUcUsxVnUxNlNjaWdDTU9UZzV0ZXAtZw?oc=5",
-          "source": "big5.locpg.gov.cn",
+          "source": "香港中联办",
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 big5.locpg.gov.cn",
+          "summary": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 香港中联办",
           "image": ""
         },
         {
@@ -911,12 +902,12 @@
           "image": ""
         },
         {
-          "title": "快猫app免费直播最新版下载-快猫app免费直播2026最新版V.3.52.80-iphone版-2265安卓网 - big5.locpg.gov.cn",
+          "title": "快猫app免费直播最新版下载-快猫app免费直播2026最新版V.3.52.80-iphone版-2265安卓网 - 香港中联办",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zRVBjUGhwaG1CbGYydjdOYk16LURMM0xxdWQwTkRjT191MEhfcXRxQ3NLaXlYa0p4WlpBZ0Z1ZHRSYkpHbFMzUGJzTTltTi1GclFzQUlKV292Zmh4ZEhXM2NfeFY0QjRrTHR0NFhaZHlCbFNmZGpPcTlmbEI?oc=5",
-          "source": "big5.locpg.gov.cn",
+          "source": "香港中联办",
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "快猫app免费直播最新版下载-快猫app免费直播2026最新版V.3.52.80-iphone版-2265安卓网 big5.locpg.gov.cn",
+          "summary": "快猫app免费直播最新版下载-快猫app免费直播2026最新版V.3.52.80-iphone版-2265安卓网 香港中联办",
           "image": ""
         },
         {
@@ -963,6 +954,15 @@
           "type": "媒体",
           "summary": "字节视频生成模型 PixelDance上线即梦AI，用户可免费体验 机器之心",
           "image": ""
+        },
+        {
+          "title": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fMmFDV0l4UzB5eWtiR25wYTJVUHd1UnA1UDZXSm92djZrQ3FFbHF2UWFuTHVYRWVLZ1hENmhOSWF5WGVTM2Z6OHMzeVZLOUkya0E?oc=5",
+          "source": "21财经",
+          "published_at": "2023-02-12T16:32:04+08:00",
+          "type": "直播",
+          "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
+          "image": ""
         }
       ]
     }
@@ -971,9 +971,9 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "sohu.com",
+      "source": "搜狐网",
       "title": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛",
-      "point": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 sohu.com",
+      "point": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXhUMFdFZkt4dkdEQjU1cHU0NHZxM3NCZ2JSUUFmWE81N3N5UTNPMjBKRjhTVUxDLVdFYWUzeGpNZW85cWlyNzVtMjhOR0h5X1JGYXNiLTBiRzN6TjVBRDhTQ2h4aFBPclptVFRPemVFZi1lY3VlWkhxQzR4TEVSeHl5NVZrQTJl?oc=5",
       "published_at": "2026-08-05T15:34:39+08:00",
       "type": "论坛"
@@ -1012,20 +1012,20 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "虎嗅",
-      "title": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员",
-      "point": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzWGRPTFJVdzIxRXBPOFZ2c29UTjJxSzRGajVoRzdYS3J0NmFLOXh0QnVQWDFsZnY2M3lKV245R2pPUUVkQWRBb3p1TUpzYWRfM3BwMQ?oc=5",
-      "published_at": "2026-08-06T16:42:58+08:00",
+      "title": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战",
+      "point": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IdUxDSEd3V0hWX3I0cm9FNV96bE91cFE2V2huc1FWc01OdGpWaU96YWU1T0QwOVlyOGVpaHRweUFveE1JVnc0VkdyTWg4RkZjRjFLZw?oc=5",
+      "published_at": "2026-08-06T19:27:18+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "首席科学家“消失”，智元IPO的三重罗生门",
-      "point": "首席科学家“消失”，智元IPO的三重罗生门 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZWDNuM2ZhRFpySExqS2g0UnA3S2p5V01fWUtfV3NfbnFJSktNNWRab0lRSXVBTmd4Yl9RV1VSdUJGRENnSnFBZWQyWHhPbU9K?oc=5",
-      "published_at": "2026-08-06T16:32:00+08:00",
+      "source": "虎嗅",
+      "title": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员",
+      "point": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzWGRPTFJVdzIxRXBPOFZ2c29UTjJxSzRGajVoRzdYS3J0NmFLOXh0QnVQWDFsZnY2M3lKV245R2pPUUVkQWRBb3p1TUpzYWRfM3BwMQ?oc=5",
+      "published_at": "2026-08-06T16:42:58+08:00",
       "type": "媒体"
     },
     {
