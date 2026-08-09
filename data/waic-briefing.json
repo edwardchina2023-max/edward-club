@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-09T16:49:06.801636+08:00",
+  "generated_at": "2026-08-09T17:43:59.124568+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月09日 16:49",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月09日 17:43",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 137 条、直播 34 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
-    "36kr.com：从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36kr.com",
-    "36kr.com：不等了！一个盲人上手造了个导盲机器人 - 36kr.com",
-    "虎嗅网：具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - 虎嗅网",
-    "虎嗅网：腾讯、字节、阿里，抢着给打工人配“AI助理” - 虎嗅网",
-    "36kr.com：从PPT到生产线，巨头们跨过具身智能“理想国” - 36kr.com"
+    "本轮抓取到 媒体 135 条、直播 34 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
+    "36 Kr：从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36 Kr",
+    "36 Kr：不等了！一个盲人上手造了个导盲机器人 - 36 Kr",
+    "huxiu.com：具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - huxiu.com",
+    "huxiu.com：腾讯、字节、阿里，抢着给打工人配“AI助理” - huxiu.com",
+    "36 Kr：从PPT到生产线，巨头们跨过具身智能“理想国” - 36 Kr"
   ],
   "sections": [
     {
@@ -60,6 +60,15 @@
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会闭幕式论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
           "image": ""
         },
         {
@@ -114,15 +123,6 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
-          "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vLUdZb0x1OUFRYUtKaEhoWWt4eGxMVkdITEM0X2k4WkwydHlwQ25wdHVES1JEMGx2cWc2cjNFOEtNeEpIRVI0OEt1VlJYV04tajRlU1JQMUpjdw?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 上观新闻",
           "image": ""
         }
       ]
@@ -264,48 +264,48 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36kr.com",
+          "title": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WTVl6Sk9hczdjLWdLZG92blBVSnluS3pTTnh1UjM3SXp5ZUtIYWEyM2FaMktfdDA0U0t4VUZZZVYwY253cHF5Tk9Gakl3QQ?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-08T07:27:00+08:00",
           "type": "媒体",
-          "summary": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 36kr.com",
+          "summary": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 36 Kr",
           "image": ""
         },
         {
-          "title": "不等了！一个盲人上手造了个导盲机器人 - 36kr.com",
+          "title": "不等了！一个盲人上手造了个导盲机器人 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLUUZFUmd1eW81Z1V5YjBGZU02d2kzWXBKWkl6Tkx1MEVnMy15XzRBRXlqSEY3TERSR0hXcWVvLUtBM2ozeUxXM3pDd3NfRzYy?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-07T19:25:28+08:00",
           "type": "媒体",
-          "summary": "不等了！一个盲人上手造了个导盲机器人 36kr.com",
+          "summary": "不等了！一个盲人上手造了个导盲机器人 36 Kr",
           "image": ""
         },
         {
-          "title": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - 虎嗅网",
+          "title": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUlDa21Ma0tNOV9MTHBJRk9kWGkwUDVHM3ktMTBtdHFiU2ZtZURhMGVhTVdjZjVZeHZvaFI4Qnp4TXRRaDBtSk1vaTBrbGF6Qkt2c2NsM19OWE5XUUJsMzRYMjg4VmNXQ29MTUQwdUpkLUMyUTY4WmdiTXk5dVJkbHZPcVpZa3lkQVpj?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-07T18:41:02+08:00",
           "type": "媒体",
-          "summary": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 虎嗅网",
+          "summary": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 huxiu.com",
           "image": ""
         },
         {
-          "title": "腾讯、字节、阿里，抢着给打工人配“AI助理” - 虎嗅网",
+          "title": "腾讯、字节、阿里，抢着给打工人配“AI助理” - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pWmJpWHNMSTlZcktwMVduZGNBMTVNNlBiQXNvQjQ5Z2U0Q1RiTExGaVRLUVhDTVhIYlN4SmdMbi1rY1RQeGZsSGVydTUtMU1xMjNtYXNseXRoQ0hRX0pxTlN3?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-07T18:19:16+08:00",
           "type": "媒体",
-          "summary": "腾讯、字节、阿里，抢着给打工人配“AI助理” 虎嗅网",
+          "summary": "腾讯、字节、阿里，抢着给打工人配“AI助理” huxiu.com",
           "image": ""
         },
         {
-          "title": "从PPT到生产线，巨头们跨过具身智能“理想国” - 36kr.com",
+          "title": "从PPT到生产线，巨头们跨过具身智能“理想国” - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEendXT3VhT1FkNWEwVTVfRlFGMzgwUmdvdWUxMlRPQkpmeTdmQ2U2SVdzWVJyZWJJVHlSRnZBR0hzWWF2Q085QkkwcGJHWjR4?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-07T05:57:00+08:00",
           "type": "媒体",
-          "summary": "从PPT到生产线，巨头们跨过具身智能“理想国” 36kr.com",
+          "summary": "从PPT到生产线，巨头们跨过具身智能“理想国” 36 Kr",
           "image": ""
         },
         {
@@ -318,39 +318,39 @@
           "image": ""
         },
         {
-          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - 虎嗅网",
+          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VDZhb19qM0hIcW9fZ0RmYkZQekJHVHFrN19wZmU2c3NvenJrWWxmNTluNWxMMlZUdjdCay1DUWtPS0VxWVd1YjF4VWgweXF3RWxsNQ?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-06T22:03:09+08:00",
           "type": "媒体",
-          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅网",
+          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 huxiu.com",
           "image": ""
         },
         {
-          "title": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 - 虎嗅网",
+          "title": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IdUxDSEd3V0hWX3I0cm9FNV96bE91cFE2V2huc1FWc01OdGpWaU96YWU1T0QwOVlyOGVpaHRweUFveE1JVnc0VkdyTWg4RkZjRjFLZw?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-06T19:27:18+08:00",
           "type": "媒体",
-          "summary": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 虎嗅网",
+          "summary": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 huxiu.com",
           "image": ""
         },
         {
-          "title": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 - 虎嗅网",
+          "title": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzWGRPTFJVdzIxRXBPOFZ2c29UTjJxSzRGajVoRzdYS3J0NmFLOXh0QnVQWDFsZnY2M3lKV245R2pPUUVkQWRBb3p1TUpzYWRfM3BwMQ?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-06T16:42:58+08:00",
           "type": "媒体",
-          "summary": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 虎嗅网",
+          "summary": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 huxiu.com",
           "image": ""
         },
         {
-          "title": "首席科学家“消失”，智元IPO的三重罗生门 - 36kr.com",
+          "title": "首席科学家“消失”，智元IPO的三重罗生门 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZWDNuM2ZhRFpySExqS2g0UnA3S2p5V01fWUtfV3NfbnFJSktNNWRab0lRSXVBTmd4Yl9RV1VSdUJGRENnSnFBZWQyWHhPbU9K?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-06T16:32:00+08:00",
           "type": "媒体",
-          "summary": "首席科学家“消失”，智元IPO的三重罗生门 36kr.com",
+          "summary": "首席科学家“消失”，智元IPO的三重罗生门 36 Kr",
           "image": ""
         },
         {
@@ -363,12 +363,12 @@
           "image": ""
         },
         {
-          "title": "AI影视\"待爆帝\"迷思：资本运作先行，作品产出滞后 - 虎嗅网",
+          "title": "AI影视\"待爆帝\"迷思：资本运作先行，作品产出滞后 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5saWY2bWluZXFiR3hNWXh1ek5LaFQ2bEVxUTc0MGlsQ1VHWFgtYnZ1MU0zUmRyOHllVTRrTHNQVnRJcVFWd0txd1V0M0hyY19PZHZKcg?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-04T18:47:45+08:00",
           "type": "媒体",
-          "summary": "AI影视\"待爆帝\"迷思：资本运作先行，作品产出滞后 虎嗅网",
+          "summary": "AI影视\"待爆帝\"迷思：资本运作先行，作品产出滞后 huxiu.com",
           "image": ""
         }
       ]
@@ -382,12 +382,12 @@
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
         {
-          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - 虎嗅网",
+          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VDZhb19qM0hIcW9fZ0RmYkZQekJHVHFrN19wZmU2c3NvenJrWWxmNTluNWxMMlZUdjdCay1DUWtPS0VxWVd1YjF4VWgweXF3RWxsNQ?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-06T22:03:09+08:00",
           "type": "媒体",
-          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅网",
+          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 huxiu.com",
           "image": ""
         },
         {
@@ -433,6 +433,15 @@
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会闭幕式论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
           "image": ""
         },
         {
@@ -517,12 +526,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - stcn.com",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
-          "source": "stcn.com",
+          "source": "证券时报",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 stcn.com",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报",
           "image": ""
         },
         {
@@ -550,15 +559,6 @@
           "published_at": "2026-07-17T14:00:00+08:00",
           "type": "直播",
           "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 第一财经",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
-          "source": "21财经",
-          "published_at": "2026-07-16T20:59:33+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
           "image": ""
         },
         {
@@ -598,12 +598,12 @@
           "image": ""
         },
         {
-          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36kr.com",
+          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVzRjSzVVMWNqbXRYYUNIUFJZX2FoUlBKa2tJOXZRazlXYTljNTZ0c0RzazdDcnJhd2U3R21MVHg4QTR0MVZONndHS1h6Zw?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-07-15T15:00:00+08:00",
           "type": "论坛",
-          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36kr.com",
+          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36 Kr",
           "image": ""
         },
         {
@@ -634,21 +634,21 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36kr.com",
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36kr.com",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36 Kr",
           "image": ""
         },
         {
-          "title": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 - C114通信网",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxUnY2amtOaGlJcEFocklCUTdZM2VuWXZXanhsY2o0OERRdjd4NjlJbU11ZHZUQTg0dlE4eGtuWUxaYVJ1cjJrSnBUUjRUbTA?oc=5",
-          "source": "C114通信网",
-          "published_at": "2024-07-05T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 C114通信网",
+          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36 Kr",
           "image": ""
         }
       ]
@@ -695,12 +695,12 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "通用视频模型MiniMax H3正式开源 - 虎嗅网",
+          "title": "通用视频模型MiniMax H3正式开源 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeVAyb1dyek9WbVh1NzVFWHJUTEViOUE5Z2RIV1pvQ2xFcU9weG93QWhkUHN1S2wtRGh6WGMtSTQwaDh4emVBWjlPdVZQdkFF?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-03T15:47:08+08:00",
           "type": "媒体",
-          "summary": "通用视频模型MiniMax H3正式开源 虎嗅网",
+          "summary": "通用视频模型MiniMax H3正式开源 huxiu.com",
           "image": ""
         },
         {
@@ -839,12 +839,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36kr.com",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
           "image": ""
         },
         {
@@ -965,9 +965,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36kr.com",
+      "source": "36 Kr",
       "title": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人",
-      "point": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 36kr.com",
+      "point": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WTVl6Sk9hczdjLWdLZG92blBVSnluS3pTTnh1UjM3SXp5ZUtIYWEyM2FaMktfdDA0U0t4VUZZZVYwY253cHF5Tk9Gakl3QQ?oc=5",
       "published_at": "2026-08-08T07:27:00+08:00",
       "type": "媒体"
@@ -975,9 +975,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36kr.com",
+      "source": "36 Kr",
       "title": "不等了！一个盲人上手造了个导盲机器人",
-      "point": "不等了！一个盲人上手造了个导盲机器人 36kr.com",
+      "point": "不等了！一个盲人上手造了个导盲机器人 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLUUZFUmd1eW81Z1V5YjBGZU02d2kzWXBKWkl6Tkx1MEVnMy15XzRBRXlqSEY3TERSR0hXcWVvLUtBM2ozeUxXM3pDd3NfRzYy?oc=5",
       "published_at": "2026-08-07T19:25:28+08:00",
       "type": "媒体"
@@ -985,9 +985,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅网",
+      "source": "huxiu.com",
       "title": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局",
-      "point": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 虎嗅网",
+      "point": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 huxiu.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUlDa21Ma0tNOV9MTHBJRk9kWGkwUDVHM3ktMTBtdHFiU2ZtZURhMGVhTVdjZjVZeHZvaFI4Qnp4TXRRaDBtSk1vaTBrbGF6Qkt2c2NsM19OWE5XUUJsMzRYMjg4VmNXQ29MTUQwdUpkLUMyUTY4WmdiTXk5dVJkbHZPcVpZa3lkQVpj?oc=5",
       "published_at": "2026-08-07T18:41:02+08:00",
       "type": "媒体"
@@ -1035,9 +1035,9 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "虎嗅网",
+      "source": "huxiu.com",
       "title": "通用视频模型MiniMax H3正式开源",
-      "point": "通用视频模型MiniMax H3正式开源 虎嗅网",
+      "point": "通用视频模型MiniMax H3正式开源 huxiu.com",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeVAyb1dyek9WbVh1NzVFWHJUTEViOUE5Z2RIV1pvQ2xFcU9weG93QWhkUHN1S2wtRGh6WGMtSTQwaDh4emVBWjlPdVZQdkFF?oc=5",
       "published_at": "2026-08-03T15:47:08+08:00",
       "type": "媒体"
