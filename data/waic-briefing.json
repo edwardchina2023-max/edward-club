@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-09T23:35:53.655172+08:00",
+  "generated_at": "2026-08-10T00:40:33.354714+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月09日 23:35",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月10日 00:40",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 141 条、直播 31 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
-    "36 Kr：从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36 Kr",
-    "36 Kr：不等了！一个盲人上手造了个导盲机器人 - 36 Kr",
+    "本轮抓取到 媒体 143 条、直播 31 条、观点 1 条、论坛 25 条，已按企业家阅读场景分组。",
+    "第一财经：世界人工智能大会剧透：智算、具身两大赛道各汇聚超200家企业 - 第一财经",
+    "36kr.com：从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36kr.com",
+    "36kr.com：不等了！一个盲人上手造了个导盲机器人 - 36kr.com",
     "虎嗅网：具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - 虎嗅网",
-    "虎嗅网：腾讯、字节、阿里，抢着给打工人配“AI助理” - 虎嗅网",
-    "36 Kr：从PPT到生产线，巨头们跨过具身智能“理想国” - 36 Kr"
+    "虎嗅网：腾讯、字节、阿里，抢着给打工人配“AI助理” - 虎嗅网"
   ],
   "sections": [
     {
@@ -36,6 +36,15 @@
           "image": ""
         },
         {
+          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - 中国网",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
+          "source": "中国网",
+          "published_at": "2026-07-23T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
+          "image": ""
+        },
+        {
           "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - 启明创投",
           "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
           "source": "启明创投",
@@ -51,15 +60,6 @@
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
-          "image": ""
-        },
-        {
-          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
           "image": ""
         },
         {
@@ -81,12 +81,12 @@
           "image": ""
         },
         {
-          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - news.tongji.edu.cn",
+          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeC1wNzVEaV9pZVk3dWJ0LW95MnZqTnNXR21IM2lUZXlRSDI5cEtyNlp1TlFPNXpDMDFiRkhqcldVV1RueU9nSjRHLW5rNTVxR0Q4MG56TTBaUQ?oc=5",
-          "source": "news.tongji.edu.cn",
+          "source": "同济大学新闻网",
           "published_at": "2026-07-19T13:43:19+08:00",
           "type": "论坛",
-          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 news.tongji.edu.cn",
+          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 同济大学新闻网",
           "image": ""
         },
         {
@@ -264,21 +264,30 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WTVl6Sk9hczdjLWdLZG92blBVSnluS3pTTnh1UjM3SXp5ZUtIYWEyM2FaMktfdDA0U0t4VUZZZVYwY253cHF5Tk9Gakl3QQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-08T07:27:00+08:00",
+          "title": "世界人工智能大会剧透：智算、具身两大赛道各汇聚超200家企业 - 第一财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xZGxUdGxsU1ZzTTNZN1FiYWpvRm5BZkVJRldhZk9mNGJERTBDZ3JXejdYSVpuRWVCZGViSloyMWVKTzZRdGNObUhmTXVqN2pNYUg0?oc=5",
+          "source": "第一财经",
+          "published_at": "2026-08-08T12:46:32+08:00",
           "type": "媒体",
-          "summary": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 36 Kr",
+          "summary": "世界人工智能大会剧透：智算、具身两大赛道各汇聚超200家企业 第一财经",
           "image": ""
         },
         {
-          "title": "不等了！一个盲人上手造了个导盲机器人 - 36 Kr",
+          "title": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36kr.com",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WTVl6Sk9hczdjLWdLZG92blBVSnluS3pTTnh1UjM3SXp5ZUtIYWEyM2FaMktfdDA0U0t4VUZZZVYwY253cHF5Tk9Gakl3QQ?oc=5",
+          "source": "36kr.com",
+          "published_at": "2026-08-08T07:27:00+08:00",
+          "type": "媒体",
+          "summary": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 36kr.com",
+          "image": ""
+        },
+        {
+          "title": "不等了！一个盲人上手造了个导盲机器人 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLUUZFUmd1eW81Z1V5YjBGZU02d2kzWXBKWkl6Tkx1MEVnMy15XzRBRXlqSEY3TERSR0hXcWVvLUtBM2ozeUxXM3pDd3NfRzYy?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-07T19:25:28+08:00",
           "type": "媒体",
-          "summary": "不等了！一个盲人上手造了个导盲机器人 36 Kr",
+          "summary": "不等了！一个盲人上手造了个导盲机器人 36kr.com",
           "image": ""
         },
         {
@@ -300,12 +309,12 @@
           "image": ""
         },
         {
-          "title": "从PPT到生产线，巨头们跨过具身智能“理想国” - 36 Kr",
+          "title": "从PPT到生产线，巨头们跨过具身智能“理想国” - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEendXT3VhT1FkNWEwVTVfRlFGMzgwUmdvdWUxMlRPQkpmeTdmQ2U2SVdzWVJyZWJJVHlSRnZBR0hzWWF2Q085QkkwcGJHWjR4?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-07T05:57:00+08:00",
           "type": "媒体",
-          "summary": "从PPT到生产线，巨头们跨过具身智能“理想国” 36 Kr",
+          "summary": "从PPT到生产线，巨头们跨过具身智能“理想国” 36kr.com",
           "image": ""
         },
         {
@@ -327,15 +336,6 @@
           "image": ""
         },
         {
-          "title": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IdUxDSEd3V0hWX3I0cm9FNV96bE91cFE2V2huc1FWc01OdGpWaU96YWU1T0QwOVlyOGVpaHRweUFveE1JVnc0VkdyTWg4RkZjRjFLZw?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-08-06T19:27:18+08:00",
-          "type": "媒体",
-          "summary": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 虎嗅网",
-          "image": ""
-        },
-        {
           "title": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzWGRPTFJVdzIxRXBPOFZ2c29UTjJxSzRGajVoRzdYS3J0NmFLOXh0QnVQWDFsZnY2M3lKV245R2pPUUVkQWRBb3p1TUpzYWRfM3BwMQ?oc=5",
           "source": "虎嗅网",
@@ -345,12 +345,12 @@
           "image": ""
         },
         {
-          "title": "首席科学家“消失”，智元IPO的三重罗生门 - 36 Kr",
+          "title": "首席科学家“消失”，智元IPO的三重罗生门 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZWDNuM2ZhRFpySExqS2g0UnA3S2p5V01fWUtfV3NfbnFJSktNNWRab0lRSXVBTmd4Yl9RV1VSdUJGRENnSnFBZWQyWHhPbU9K?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-06T16:32:00+08:00",
           "type": "媒体",
-          "summary": "首席科学家“消失”，智元IPO的三重罗生门 36 Kr",
+          "summary": "首席科学家“消失”，智元IPO的三重罗生门 36kr.com",
           "image": ""
         },
         {
@@ -409,6 +409,15 @@
           "image": ""
         },
         {
+          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - 中国网",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
+          "source": "中国网",
+          "published_at": "2026-07-23T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
+          "image": ""
+        },
+        {
           "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - 启明创投",
           "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
           "source": "启明创投",
@@ -424,15 +433,6 @@
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
-          "image": ""
-        },
-        {
-          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
           "image": ""
         },
         {
@@ -544,15 +544,6 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
-          "source": "21财经",
-          "published_at": "2026-07-16T20:59:33+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026世界人工智能大会：未来计算与未来算力论坛 - 21财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ib18yYnZVLWhfR0EyY3luUF9BN2Q2VXZlNHp3YmlVWjBUVXpjWGZjNUJYa0JKUEtsTTkwVjJmbUZhOHh0NEpXYmExdHdBRjJWVGNZ?oc=5",
           "source": "21财经",
@@ -589,12 +580,12 @@
           "image": ""
         },
         {
-          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36 Kr",
+          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVzRjSzVVMWNqbXRYYUNIUFJZX2FoUlBKa2tJOXZRazlXYTljNTZ0c0RzazdDcnJhd2U3R21MVHg4QTR0MVZONndHS1h6Zw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-07-15T15:00:00+08:00",
           "type": "论坛",
-          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36 Kr",
+          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36kr.com",
           "image": ""
         },
         {
@@ -625,12 +616,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36 Kr",
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36 Kr",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36kr.com",
           "image": ""
         },
         {
@@ -650,6 +641,15 @@
           "type": "论坛",
           "summary": "2024世界人工智能大会暨人工智能全球治理高级别会议丨科学前沿主论坛 第一财经",
           "image": ""
+        },
+        {
+          "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察者网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRXNBNzAxajh5NkJQUjFXUHlaa0xJcTRaUG5UMHBQQmVlRzVFcW5ZQXV0eVljbjdJUE1HUklwTW4xdnhqSXVOYldDakRqYUtzdVpHYzdtMzZfWXBYcjc1eUY1V1ZfVUZURHRzMlFXOEU?oc=5",
+          "source": "观察者网",
+          "published_at": "2024-07-04T15:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者网",
+          "image": ""
         }
       ]
     },
@@ -660,12 +660,12 @@
       "description": "展区、展台、探馆、现场走访和新品展示类直播/回放入口。",
       "items": [
         {
-          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 新浪财经",
+          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 新浪网",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWXFEUXdJeDVyZE0yalFvdENPU1ZiWTExelBBVVNqMlBIdGQ1RDM0OGFfQS1wUFhnX1dLWlhKYndGSXNwRzZUX0Y4dzl2WmhVdmctd25KTEtlMDdEcGNBVzZHYm1RNzlzTF81dTZ0TXJXRVhTNXZhZUNGVQ?oc=5",
-          "source": "新浪财经",
+          "source": "新浪网",
           "published_at": "2026-07-13T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪财经",
+          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪网",
           "image": ""
         }
       ]
@@ -713,12 +713,12 @@
           "image": ""
         },
         {
-          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - news.tongji.edu.cn",
+          "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeC1wNzVEaV9pZVk3dWJ0LW95MnZqTnNXR21IM2lUZXlRSDI5cEtyNlp1TlFPNXpDMDFiRkhqcldVV1RueU9nSjRHLW5rNTVxR0Q4MG56TTBaUQ?oc=5",
-          "source": "news.tongji.edu.cn",
+          "source": "同济大学新闻网",
           "published_at": "2026-07-19T13:43:19+08:00",
           "type": "论坛",
-          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 news.tongji.edu.cn",
+          "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 同济大学新闻网",
           "image": ""
         },
         {
@@ -812,12 +812,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36kr.com",
           "image": ""
         },
         {
@@ -839,12 +839,12 @@
           "image": ""
         },
         {
-          "title": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 - 上海有色金属",
+          "title": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 - news.smm.cn",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wY253bl9vODhGWFpyZ0pqR2RUbnM3YW5pUElSWWVONEpxaTlOYUNBZnhBZXlhVmUyRV91cG5ENHhDTlZ0SEhwdll3?oc=5",
-          "source": "上海有色金属",
+          "source": "news.smm.cn",
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
+          "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 news.smm.cn",
           "image": ""
         },
         {
@@ -937,19 +937,29 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "启明创投",
-      "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办",
-      "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
-      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
-      "published_at": "2026-07-22T15:00:00+08:00",
+      "source": "中国网",
+      "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目",
+      "point": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
+      "published_at": "2026-07-23T15:00:00+08:00",
       "type": "论坛"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
+      "source": "第一财经",
+      "title": "世界人工智能大会剧透：智算、具身两大赛道各汇聚超200家企业",
+      "point": "世界人工智能大会剧透：智算、具身两大赛道各汇聚超200家企业 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xZGxUdGxsU1ZzTTNZN1FiYWpvRm5BZkVJRldhZk9mNGJERTBDZ3JXejdYSVpuRWVCZGViSloyMWVKTzZRdGNObUhmTXVqN2pNYUg0?oc=5",
+      "published_at": "2026-08-08T12:46:32+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "36kr.com",
       "title": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人",
-      "point": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 36 Kr",
+      "point": "从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WTVl6Sk9hczdjLWdLZG92blBVSnluS3pTTnh1UjM3SXp5ZUtIYWEyM2FaMktfdDA0U0t4VUZZZVYwY253cHF5Tk9Gakl3QQ?oc=5",
       "published_at": "2026-08-08T07:27:00+08:00",
       "type": "媒体"
@@ -957,29 +967,19 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
+      "source": "36kr.com",
       "title": "不等了！一个盲人上手造了个导盲机器人",
-      "point": "不等了！一个盲人上手造了个导盲机器人 36 Kr",
+      "point": "不等了！一个盲人上手造了个导盲机器人 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLUUZFUmd1eW81Z1V5YjBGZU02d2kzWXBKWkl6Tkx1MEVnMy15XzRBRXlqSEY3TERSR0hXcWVvLUtBM2ozeUxXM3pDd3NfRzYy?oc=5",
       "published_at": "2026-08-07T19:25:28+08:00",
       "type": "媒体"
     },
     {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局",
-      "point": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUlDa21Ma0tNOV9MTHBJRk9kWGkwUDVHM3ktMTBtdHFiU2ZtZURhMGVhTVdjZjVZeHZvaFI4Qnp4TXRRaDBtSk1vaTBrbGF6Qkt2c2NsM19OWE5XUUJsMzRYMjg4VmNXQ29MTUQwdUpkLUMyUTY4WmdiTXk5dVJkbHZPcVpZa3lkQVpj?oc=5",
-      "published_at": "2026-08-07T18:41:02+08:00",
-      "type": "媒体"
-    },
-    {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "新浪财经",
+      "source": "新浪网",
       "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI",
-      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪财经",
+      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪网",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWXFEUXdJeDVyZE0yalFvdENPU1ZiWTExelBBVVNqMlBIdGQ1RDM0OGFfQS1wUFhnX1dLWlhKYndGSXNwRzZUX0Y4dzl2WmhVdmctd25KTEtlMDdEcGNBVzZHYm1RNzlzTF81dTZ0TXJXRVhTNXZhZUNGVQ?oc=5",
       "published_at": "2026-07-13T15:00:00+08:00",
       "type": "直播"
