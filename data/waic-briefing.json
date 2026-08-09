@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-10T05:36:48.297696+08:00",
+  "generated_at": "2026-08-10T06:35:41.724345+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月10日 05:36",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月10日 06:35",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 139 条、直播 31 条、观点 1 条、论坛 28 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 140 条、直播 30 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
     "36 Kr：从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36 Kr",
     "36 Kr：不等了！一个盲人上手造了个导盲机器人 - 36 Kr",
     "虎嗅：具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - 虎嗅",
@@ -24,15 +24,6 @@
           "published_at": "2026-08-05T15:34:39+08:00",
           "type": "论坛",
           "summary": "和治友德受邀参加2026世界人工智能大会WAIC企业家论坛 搜狐网",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-07-31T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅",
           "image": ""
         },
         {
@@ -108,12 +99,12 @@
           "image": ""
         },
         {
-          "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
+          "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - news.hit.edu.cn",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nZ296SmdTdzJzSlM1MXVtUDNVU2tqTlNFZ3VmUVpOQTZaQ3k5SE9Hd0RhdTVmeEF4X2QzalN3UlVoNGxnZFlpeThwc3duZzlsZGJiTWFSYVpkOEZzdFRRNzl1VUo?oc=5",
-          "source": "哈尔滨工业大学",
+          "source": "news.hit.edu.cn",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
+          "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 news.hit.edu.cn",
           "image": ""
         },
         {
@@ -123,6 +114,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "多项成果重磅首发，这场WAIC论坛锚定AI全球治理与可持续发展新航向 - 复旦大学Fudan University",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VcnEyVlVxQXlWUzZlaVVPQ3dLU3UwQ2JRUXp0eVRoUElBX2hYejVpYzIxTW5EVVZ2bm94YjNhRHlmQ1QxNG5CYWtSb25iOGpDM2FqSDJWb09uc19RMUZZSF9xc3Z1X2M?oc=5",
+          "source": "复旦大学Fudan University",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "多项成果重磅首发，这场WAIC论坛锚定AI全球治理与可持续发展新航向 复旦大学Fudan University",
           "image": ""
         }
       ]
@@ -481,12 +481,12 @@
           "image": ""
         },
         {
-          "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
+          "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - news.hit.edu.cn",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nZ296SmdTdzJzSlM1MXVtUDNVU2tqTlNFZ3VmUVpOQTZaQ3k5SE9Hd0RhdTVmeEF4X2QzalN3UlVoNGxnZFlpeThwc3duZzlsZGJiTWFSYVpkOEZzdFRRNzl1VUo?oc=5",
-          "source": "哈尔滨工业大学",
+          "source": "news.hit.edu.cn",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
+          "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 news.hit.edu.cn",
           "image": ""
         },
         {
@@ -526,12 +526,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - c114.com.cn",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - C114通信网",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ1BCNGVsMURQNmNVbEd5U19wTWhkM2JMWjNianlNdVl1UGt3V3VYemtJQ1hmc05RY3ZvWURZOGxfLVRnRnNpTUc3a1FYTVk?oc=5",
-          "source": "c114.com.cn",
+          "source": "C114通信网",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "媒体",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 c114.com.cn",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 C114通信网",
           "image": ""
         },
         {
@@ -634,12 +634,12 @@
           "image": ""
         },
         {
-          "title": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 - c114.com.cn",
+          "title": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 - C114通信网",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxUnY2amtOaGlJcEFocklCUTdZM2VuWXZXanhsY2o0OERRdjd4NjlJbU11ZHZUQTg0dlE4eGtuWUxaYVJ1cjJrSnBUUjRUbTA?oc=5",
-          "source": "c114.com.cn",
+          "source": "C114通信网",
           "published_at": "2024-07-05T15:00:00+08:00",
           "type": "媒体",
-          "summary": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 c114.com.cn",
+          "summary": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 C114通信网",
           "image": ""
         },
         {
@@ -683,15 +683,6 @@
           "published_at": "2026-08-03T15:47:08+08:00",
           "type": "媒体",
           "summary": "通用视频模型MiniMax H3正式开源 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-07-31T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅",
           "image": ""
         },
         {
@@ -866,21 +857,12 @@
           "image": ""
         },
         {
-          "title": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbWdWUmp4ZURKOUJVQlpjQjUyOFR4S09IZGlZX0ZCVGZ3QXd4Z2RQZEU4NXRhdFVCWHhEc3FKQ0NONjlrZTJjSkxpYUdfQS04N3k0M1dsYnI4c0RpcHlzcGFVNlUyOFh6Sm91d21RZTNwcDJSY1ZvUk9fVkxUVEU?oc=5",
-          "source": "finance.sina.com.cn",
-          "published_at": "2026-02-10T16:00:00+08:00",
-          "type": "直播",
-          "summary": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 finance.sina.com.cn",
-          "image": ""
-        },
-        {
-          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - mtz.china.com",
+          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
-          "source": "mtz.china.com",
+          "source": "中华网",
           "published_at": "2025-08-26T15:00:00+08:00",
           "type": "直播",
-          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 mtz.china.com",
+          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
           "image": ""
         },
         {
@@ -936,21 +918,21 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "虎嗅",
-      "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存",
-      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
-      "published_at": "2026-07-31T15:00:00+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
       "source": "智慧城市行业分析",
       "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势",
       "point": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMGxJRlB6MzV1UjlNcnc4SnVMT003RUZzNmJtbnZjR1BVZ3g4QnlQS0ZnZllMZFpBZmJHX0lLTDFBTm1qM3hQX01VVjBVaU1TdXJDWGEtTGpwcWJB?oc=5",
       "published_at": "2026-07-27T15:00:00+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
+      "source": "中国网",
+      "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目",
+      "point": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
+      "published_at": "2026-07-23T15:00:00+08:00",
       "type": "论坛"
     },
     {
@@ -1036,12 +1018,12 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "虎嗅",
-      "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存",
-      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
-      "published_at": "2026-07-31T15:00:00+08:00",
-      "type": "论坛"
+      "source": "凤凰网",
+      "title": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播",
+      "point": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01dEdqSS16NEFTQzdUd3FEa01GWmlqaEIwM0E0bjB6TDFNdEU1OVR6QWVuaEJWMHMxaUhRT2Z4QThYRXU0WVljQQ?oc=5",
+      "published_at": "2026-07-23T15:00:00+08:00",
+      "type": "直播"
     }
   ],
   "sources": [
