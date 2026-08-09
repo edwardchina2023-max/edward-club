@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-10T04:37:21.408117+08:00",
+  "generated_at": "2026-08-10T05:36:48.297696+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月10日 04:37",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月10日 05:36",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 140 条、直播 31 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 139 条、直播 31 条、观点 1 条、论坛 28 条，已按企业家阅读场景分组。",
     "36 Kr：从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36 Kr",
     "36 Kr：不等了！一个盲人上手造了个导盲机器人 - 36 Kr",
     "虎嗅：具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - 虎嗅",
@@ -310,7 +310,7 @@
         },
         {
           "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q1VtUGhab0N4bWgyTnhOSlBGUUVHbFFBQnVkLXRHR0hCTXY2MjR4YmNzaWxmTk5Mc1U2VnNKbm4tcEFMVVpHbTFPWXBRaFhRS2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VDZhb19qM0hIcW9fZ0RmYkZQekJHVHFrN19wZmU2c3NvenJrWWxmNTluNWxMMlZUdjdCay1DUWtPS0VxWVd1YjF4VWgweXF3RWxsNQ?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-06T22:03:09+08:00",
           "type": "媒体",
@@ -383,7 +383,7 @@
       "items": [
         {
           "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q1VtUGhab0N4bWgyTnhOSlBGUUVHbFFBQnVkLXRHR0hCTXY2MjR4YmNzaWxmTk5Mc1U2VnNKbm4tcEFMVVpHbTFPWXBRaFhRS2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VDZhb19qM0hIcW9fZ0RmYkZQekJHVHFrN19wZmU2c3NvenJrWWxmNTluNWxMMlZUdjdCay1DUWtPS0VxWVd1YjF4VWgweXF3RWxsNQ?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-06T22:03:09+08:00",
           "type": "媒体",
@@ -526,12 +526,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - C114通信网",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - c114.com.cn",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ1BCNGVsMURQNmNVbEd5U19wTWhkM2JMWjNianlNdVl1UGt3V3VYemtJQ1hmc05RY3ZvWURZOGxfLVRnRnNpTUc3a1FYTVk?oc=5",
-          "source": "C114通信网",
+          "source": "c114.com.cn",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "媒体",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 C114通信网",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 c114.com.cn",
           "image": ""
         },
         {
@@ -625,12 +625,21 @@
           "image": ""
         },
         {
-          "title": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 - C114通信网",
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
+          "source": "36 Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 - c114.com.cn",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxUnY2amtOaGlJcEFocklCUTdZM2VuWXZXanhsY2o0OERRdjd4NjlJbU11ZHZUQTg0dlE4eGtuWUxaYVJ1cjJrSnBUUjRUbTA?oc=5",
-          "source": "C114通信网",
+          "source": "c114.com.cn",
           "published_at": "2024-07-05T15:00:00+08:00",
           "type": "媒体",
-          "summary": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 C114通信网",
+          "summary": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 c114.com.cn",
           "image": ""
         },
         {
@@ -640,15 +649,6 @@
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "论坛",
           "summary": "2024世界人工智能大会暨人工智能全球治理高级别会议丨科学前沿主论坛 第一财经",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察者网",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRXNBNzAxajh5NkJQUjFXUHlaa0xJcTRaUG5UMHBQQmVlRzVFcW5ZQXV0eVljbjdJUE1HUklwTW4xdnhqSXVOYldDakRqYUtzdVpHYzdtMzZfWXBYcjc1eUY1V1ZfVUZURHRzMlFXOEU?oc=5",
-          "source": "观察者网",
-          "published_at": "2024-07-04T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者网",
           "image": ""
         }
       ]
@@ -875,12 +875,12 @@
           "image": ""
         },
         {
-          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
+          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - mtz.china.com",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
-          "source": "中华网",
+          "source": "mtz.china.com",
           "published_at": "2025-08-26T15:00:00+08:00",
           "type": "直播",
-          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
+          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 mtz.china.com",
           "image": ""
         },
         {
@@ -999,7 +999,7 @@
       "source": "虎嗅",
       "title": "李开复：当企业AI员工占四分之三时，会议自然减少",
       "point": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q1VtUGhab0N4bWgyTnhOSlBGUUVHbFFBQnVkLXRHR0hCTXY2MjR4YmNzaWxmTk5Mc1U2VnNKbm4tcEFMVVpHbTFPWXBRaFhRS2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VDZhb19qM0hIcW9fZ0RmYkZQekJHVHFrN19wZmU2c3NvenJrWWxmNTluNWxMMlZUdjdCay1DUWtPS0VxWVd1YjF4VWgweXF3RWxsNQ?oc=5",
       "published_at": "2026-08-06T22:03:09+08:00",
       "type": "媒体"
     },
