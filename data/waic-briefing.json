@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T21:17:41.440525+08:00",
+  "generated_at": "2026-08-10T22:37:24.066399+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月10日 21:17",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月10日 22:37",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 138 条、直播 32 条、观点 1 条、论坛 29 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 138 条、直播 33 条、观点 1 条、论坛 29 条，已按企业家阅读场景分组。",
     "36 Kr：算力下半场，没有孤胆英雄 - 36 Kr",
-    "新浪网：2026中国AI盛典的门票价格是多少？ - 新浪网",
+    "k.sina.com.cn：2026中国AI盛典的门票价格是多少？ - k.sina.com.cn",
     "虎嗅网：具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 - 虎嗅网",
     "36 Kr：谁有资格定义AI汽车？ - 36 Kr",
     "36 Kr：从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36 Kr"
@@ -51,15 +51,6 @@
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "论坛",
           "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
-          "image": ""
-        },
-        {
-          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYXlIS2ZzMXJzZHNBMHBBeEdsaVY0Nll5N0VQajdpd3FXUWRoaTNndnMzNUZUamRmb3ZNTVlBNTlTNm8xX3g3NkRCNjRybnRwSXdsYjZB?oc=5",
-          "source": "QQ News",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 QQ News",
           "image": ""
         },
         {
@@ -123,6 +114,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
+          "image": ""
+        },
+        {
+          "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nZ296SmdTdzJzSlM1MXVtUDNVU2tqTlNFZ3VmUVpOQTZaQ3k5SE9Hd0RhdTVmeEF4X2QzalN3UlVoNGxnZFlpeThwc3duZzlsZGJiTWFSYVpkOEZzdFRRNzl1VUo?oc=5",
+          "source": "哈尔滨工业大学",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
           "image": ""
         }
       ]
@@ -273,12 +273,12 @@
           "image": ""
         },
         {
-          "title": "2026中国AI盛典的门票价格是多少？ - 新浪网",
+          "title": "2026中国AI盛典的门票价格是多少？ - k.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wNnROZUhRY2hjRm0wNXBOajJfNnhSRjJTUHFTZTY3ZWNsTnUzWHZ3RG5XUWFVTUxLNi1Fa2h5djFPV2ZJTGU0Sml0bDFKYXJfQjBMWDdJRXQ4RzE0QU9SQm1KZTFsS1RfTGNCQnlvZGREYm5YUlZxMW1QT0p6Z1k?oc=5",
-          "source": "新浪网",
+          "source": "k.sina.com.cn",
           "published_at": "2026-08-10T11:26:36+08:00",
           "type": "媒体",
-          "summary": "2026中国AI盛典的门票价格是多少？ 新浪网",
+          "summary": "2026中国AI盛典的门票价格是多少？ k.sina.com.cn",
           "image": ""
         },
         {
@@ -318,21 +318,12 @@
           "image": ""
         },
         {
-          "title": "从PPT到生产线，巨头们跨过具身智能“理想国” - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEendXT3VhT1FkNWEwVTVfRlFGMzgwUmdvdWUxMlRPQkpmeTdmQ2U2SVdzWVJyZWJJVHlSRnZBR0hzWWF2Q085QkkwcGJHWjR4?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-07T05:57:00+08:00",
-          "type": "媒体",
-          "summary": "从PPT到生产线，巨头们跨过具身智能“理想国” 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "WAIC海量信息精萃可视化地图全景PANORAMA 2024世界人工智能大会全景导览工具 - eu.36kr.com",
+          "title": "WAIC海量信息精萃可视化地图全景PANORAMA 2024世界人工智能大会全景导览工具 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rdlk0NmlWRTRaaDhSZmNCUXFKbkpRY1R2aDMydkNSeGliQlV4bFU1QnZmTVJwek9sckVxVXd1bGF2Ynp6a2k1bnBKLVlSUUVCS3pB?oc=5",
-          "source": "eu.36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-07T04:41:00+08:00",
           "type": "媒体",
-          "summary": "WAIC海量信息精萃可视化地图全景PANORAMA 2024世界人工智能大会全景导览工具 eu.36kr.com",
+          "summary": "WAIC海量信息精萃可视化地图全景PANORAMA 2024世界人工智能大会全景导览工具 36 Kr",
           "image": ""
         },
         {
@@ -363,12 +354,21 @@
           "image": ""
         },
         {
-          "title": "百度阿里腾讯重逢AI办公赛道 核心胜负手锚定数据价值 - eu.36kr.com",
+          "title": "百度阿里腾讯重逢AI办公赛道 核心胜负手锚定数据价值 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVaTZNa1JIRGd5NW5jYml1dkhuemg3UUlRRk4ySWl5ZkM0b196cmNCZUNNYWF6Mng0dnRZSUw5SF92ZXFWOGVzdGQweHpwQjh5UWNv?oc=5",
-          "source": "eu.36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-06T00:19:00+08:00",
           "type": "媒体",
-          "summary": "百度阿里腾讯重逢AI办公赛道 核心胜负手锚定数据价值 eu.36kr.com",
+          "summary": "百度阿里腾讯重逢AI办公赛道 核心胜负手锚定数据价值 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "耗时41分钟深度解析：千问办公押注了怎样的Agent未来？ - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NMnZCTkRtUG1EVVZ5OVhscWd0STlqR1ZzX1lfM3N6cFg1YlBQNHVYNEdLX0ItNFhueHdTa0lDZVZ3ZENiR280YllvTldZZzY5TDRr?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-05T20:23:00+08:00",
+          "type": "媒体",
+          "summary": "耗时41分钟深度解析：千问办公押注了怎样的Agent未来？ 36 Kr",
           "image": ""
         }
       ]
@@ -415,15 +415,6 @@
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "论坛",
           "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
-          "image": ""
-        },
-        {
-          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYXlIS2ZzMXJzZHNBMHBBeEdsaVY0Nll5N0VQajdpd3FXUWRoaTNndnMzNUZUamRmb3ZNTVlBNTlTNm8xX3g3NkRCNjRybnRwSXdsYjZB?oc=5",
-          "source": "QQ News",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 QQ News",
           "image": ""
         },
         {
@@ -535,12 +526,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 + 收藏 - 证券时报",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
           "source": "证券时报",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 + 收藏 证券时报",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报",
           "image": ""
         },
         {
@@ -590,7 +581,7 @@
         },
         {
           "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0za3I5eVFEUVFKNzFmcTZ4UW9GUkx6TjJfWDFsbWpsYk5IdUZpZkVJbVFheHNLdy1sZ2wzX0xDQzVnOUNwVzM0bmVfWTNjenVl?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVzRjSzVVMWNqbXRYYUNIUFJZX2FoUlBKa2tJOXZRazlXYTljNTZ0c0RzazdDcnJhd2U3R21MVHg4QTR0MVZONndHS1h6Zw?oc=5",
           "source": "36 Kr",
           "published_at": "2026-07-15T15:00:00+08:00",
           "type": "论坛",
@@ -631,6 +622,15 @@
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
           "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36 Kr",
           "image": ""
         },
         {
@@ -839,12 +839,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - eu.36kr.com",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "eu.36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 eu.36kr.com",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
           "image": ""
         },
         {
@@ -866,6 +866,15 @@
           "image": ""
         },
         {
+          "title": "*黑人男专区直播*_《官方网站》_黑人男专区直播*>>>首页>- - 香港中联办",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblhzNW82clh0TUJiTGluMmE4XzBUbzBFYUhxR3NsS1ZDclJaUFBudzR1cEstRHdLNW9BdUFvWGp6eWE4Z2pGWHQ3ZnlQM2FfclZkRWVYanp3OXdDV0xleE42SzluaHBkQ1dtYzFoVTRhc29PYkF0NUE1VzB5U3ltNkhBMHBUT1dBdEZR?oc=5",
+          "source": "香港中联办",
+          "published_at": "2026-06-15T15:00:00+08:00",
+          "type": "直播",
+          "summary": "*黑人男专区直播*_《官方网站》_黑人男专区直播*>>>首页>- 香港中联办",
+          "image": ""
+        },
+        {
           "title": "快猫app免费直播最新版下载-快猫app免费直播2026最新版V.3.52.80-iphone版-2265安卓网 - 香港中联办",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zRVBjUGhwaG1CbGYydjdOYk16LURMM0xxdWQwTkRjT191MEhfcXRxQ3NLaXlYa0p4WlpBZ0Z1ZHRSYkpHbFMzUGJzTTltTi1GclFzQUlKV292Zmh4ZEhXM2NfeFY0QjRrTHR0NFhaZHlCbFNmZGpPcTlmbEI?oc=5",
           "source": "香港中联办",
@@ -884,12 +893,12 @@
           "image": ""
         },
         {
-          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
+          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - mtz.china.com",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
-          "source": "中华网",
+          "source": "mtz.china.com",
           "published_at": "2025-08-26T15:00:00+08:00",
           "type": "直播",
-          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
+          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 mtz.china.com",
           "image": ""
         },
         {
@@ -975,9 +984,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "新浪网",
+      "source": "k.sina.com.cn",
       "title": "2026中国AI盛典的门票价格是多少？",
-      "point": "2026中国AI盛典的门票价格是多少？ 新浪网",
+      "point": "2026中国AI盛典的门票价格是多少？ k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wNnROZUhRY2hjRm0wNXBOajJfNnhSRjJTUHFTZTY3ZWNsTnUzWHZ3RG5XUWFVTUxLNi1Fa2h5djFPV2ZJTGU0Sml0bDFKYXJfQjBMWDdJRXQ4RzE0QU9SQm1KZTFsS1RfTGNCQnlvZGREYm5YUlZxMW1QT0p6Z1k?oc=5",
       "published_at": "2026-08-10T11:26:36+08:00",
       "type": "媒体"
