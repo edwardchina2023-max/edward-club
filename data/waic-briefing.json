@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-11T00:02:57.692370+08:00",
+  "generated_at": "2026-08-11T01:26:58.908425+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月11日 00:02",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月11日 01:26",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 139 条、直播 33 条、观点 1 条、论坛 29 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 139 条、直播 33 条、观点 1 条、论坛 28 条，已按企业家阅读场景分组。",
     "36 Kr：算力下半场，没有孤胆英雄 - 36 Kr",
-    "新浪网：2026中国AI盛典的门票价格是多少？ - 新浪网",
-    "虎嗅网：具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 - 虎嗅网",
+    "k.sina.com.cn：2026中国AI盛典的门票价格是多少？ - k.sina.com.cn",
+    "huxiu.com：具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 - huxiu.com",
     "36 Kr：谁有资格定义AI汽车？ - 36 Kr",
     "36 Kr：从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36 Kr"
   ],
@@ -27,12 +27,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - 虎嗅网",
+          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-07-31T15:00:00+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
+          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 huxiu.com",
           "image": ""
         },
         {
@@ -45,12 +45,12 @@
           "image": ""
         },
         {
-          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - 中国网",
+          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - business.china.com.cn",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
-          "source": "中国网",
+          "source": "business.china.com.cn",
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "论坛",
-          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
+          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 business.china.com.cn",
           "image": ""
         },
         {
@@ -63,12 +63,12 @@
           "image": ""
         },
         {
-          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - 麻省理工科技评论",
+          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - mittrchina.com",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
-          "source": "麻省理工科技评论",
+          "source": "mittrchina.com",
           "published_at": "2026-07-21T17:51:45+08:00",
           "type": "论坛",
-          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
+          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 mittrchina.com",
           "image": ""
         },
         {
@@ -99,15 +99,6 @@
           "image": ""
         },
         {
-          "title": "“AI未来发展论坛：产学研深度融合”主题论坛举行 - 科学网—新闻",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vZDkwWlZORC1VZDJVVEIzckZjWlh0SnBMSHFQU1djRm1NdTJFdWdFdFlJQTM2UnRndmxWM2YyT01iNkdDQlRKOW5aVUF4b1NWY3Uwam9ITjJPSjlZTUNBNWpnTlY?oc=5",
-          "source": "科学网—新闻",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "“AI未来发展论坛：产学研深度融合”主题论坛举行 科学网—新闻",
-          "image": ""
-        },
-        {
           "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeC1wNzVEaV9pZVk3dWJ0LW95MnZqTnNXR21IM2lUZXlRSDI5cEtyNlp1TlFPNXpDMDFiRkhqcldVV1RueU9nSjRHLW5rNTVxR0Q4MG56TTBaUQ?oc=5",
           "source": "同济大学新闻网",
@@ -123,6 +114,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
+          "image": ""
+        },
+        {
+          "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kemdpQ2RqWVg0bjhMQXlHeFlWNWhSTHFKWkF5OFJGa0hQd21WckZQbEZUdjNjUHAtU21iVzBOY0JsVzBnZjhmckRkVVNSdHNObE1vOWktRldLMXFTT1ZkQkdMbDNSZw?oc=5",
+          "source": "哈尔滨工业大学",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
           "image": ""
         }
       ]
@@ -178,12 +178,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 手机网易网",
+          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jNUNXdkt4dDgtLVA0dVJER1h6MGtFMFkwMk5fSk8wd2NYWl92d3lnLTdNQU4wdzNDU3J0S2p2OXhqYTNraTFqR3MwMXdfRHVSUGJ5aURxdF95NTIwNDU1UEJB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 手机网易网",
+          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 163.com",
           "image": ""
         },
         {
@@ -223,12 +223,12 @@
           "image": ""
         },
         {
-          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 手机网易网",
+          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQzFLbjU5cHJNb1NCaDlRNVpXY0FaYk1heUt3alhyYlYtSEJLSkpsLWRON1NpYVUzNklib2xZd2FnTHpxSTFCaF9pYi1MdktJanNoM3hxUFVFYTk0U0lvUjVB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 手机网易网",
+          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 163.com",
           "image": ""
         },
         {
@@ -265,7 +265,7 @@
       "items": [
         {
           "title": "算力下半场，没有孤胆英雄 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HS1ZsVVdfOFFHVnh5bGtfTkFvZVB3aXBUN184YTM2Nm5qWnB2cXg0VjNpMnN4WWtmOUFjRTBVSWdVeHRkUWF6M2hmZTRNQ3c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzUE01MWZwaTU2WTNIVTdJaVM5b3djQWttUWdnUlg2NHJzRjlRVlVock0yTDNTQjJYNXQ3Yk1mdk5wc2h3emowdThyWUF4c1hv?oc=5",
           "source": "36 Kr",
           "published_at": "2026-08-10T20:26:08+08:00",
           "type": "媒体",
@@ -273,21 +273,21 @@
           "image": ""
         },
         {
-          "title": "2026中国AI盛典的门票价格是多少？ - 新浪网",
+          "title": "2026中国AI盛典的门票价格是多少？ - k.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wNnROZUhRY2hjRm0wNXBOajJfNnhSRjJTUHFTZTY3ZWNsTnUzWHZ3RG5XUWFVTUxLNi1Fa2h5djFPV2ZJTGU0Sml0bDFKYXJfQjBMWDdJRXQ4RzE0QU9SQm1KZTFsS1RfTGNCQnlvZGREYm5YUlZxMW1QT0p6Z1k?oc=5",
-          "source": "新浪网",
+          "source": "k.sina.com.cn",
           "published_at": "2026-08-10T11:26:36+08:00",
           "type": "媒体",
-          "summary": "2026中国AI盛典的门票价格是多少？ 新浪网",
+          "summary": "2026中国AI盛典的门票价格是多少？ k.sina.com.cn",
           "image": ""
         },
         {
-          "title": "具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 - 虎嗅网",
+          "title": "具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BV0RWcGYzXzJnMkNJZC1rWVlYMHdMV1c3ZGxiMHpTcnNua1lrNGx1SlRZbTNQSjJSQjlRdkNsOGxRNFdmUTVHa1luWWtVMTBfZTgwWQ?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-10T08:16:02+08:00",
           "type": "媒体",
-          "summary": "具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 虎嗅网",
+          "summary": "具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 huxiu.com",
           "image": ""
         },
         {
@@ -309,12 +309,12 @@
           "image": ""
         },
         {
-          "title": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - 虎嗅网",
+          "title": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUlDa21Ma0tNOV9MTHBJRk9kWGkwUDVHM3ktMTBtdHFiU2ZtZURhMGVhTVdjZjVZeHZvaFI4Qnp4TXRRaDBtSk1vaTBrbGF6Qkt2c2NsM19OWE5XUUJsMzRYMjg4VmNXQ29MTUQwdUpkLUMyUTY4WmdiTXk5dVJkbHZPcVpZa3lkQVpj?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-07T18:41:02+08:00",
           "type": "媒体",
-          "summary": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 虎嗅网",
+          "summary": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 huxiu.com",
           "image": ""
         },
         {
@@ -327,30 +327,30 @@
           "image": ""
         },
         {
-          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - 虎嗅网",
+          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q1VtUGhab0N4bWgyTnhOSlBGUUVHbFFBQnVkLXRHR0hCTXY2MjR4YmNzaWxmTk5Mc1U2VnNKbm4tcEFMVVpHbTFPWXBRaFhRS2c?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-06T22:03:09+08:00",
           "type": "媒体",
-          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅网",
+          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 huxiu.com",
           "image": ""
         },
         {
-          "title": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 - 虎嗅网",
+          "title": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IdUxDSEd3V0hWX3I0cm9FNV96bE91cFE2V2huc1FWc01OdGpWaU96YWU1T0QwOVlyOGVpaHRweUFveE1JVnc0VkdyTWg4RkZjRjFLZw?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-06T19:27:18+08:00",
           "type": "媒体",
-          "summary": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 虎嗅网",
+          "summary": "Agent落地进入深水区：四位创业者探讨可靠性、成本与信任挑战 huxiu.com",
           "image": ""
         },
         {
-          "title": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 - 虎嗅网",
+          "title": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzWGRPTFJVdzIxRXBPOFZ2c29UTjJxSzRGajVoRzdYS3J0NmFLOXh0QnVQWDFsZnY2M3lKV245R2pPUUVkQWRBb3p1TUpzYWRfM3BwMQ?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-06T16:42:58+08:00",
           "type": "媒体",
-          "summary": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 虎嗅网",
+          "summary": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 huxiu.com",
           "image": ""
         },
         {
@@ -382,12 +382,12 @@
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
         {
-          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - 虎嗅网",
+          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q1VtUGhab0N4bWgyTnhOSlBGUUVHbFFBQnVkLXRHR0hCTXY2MjR4YmNzaWxmTk5Mc1U2VnNKbm4tcEFMVVpHbTFPWXBRaFhRS2c?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-08-06T22:03:09+08:00",
           "type": "媒体",
-          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅网",
+          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 huxiu.com",
           "image": ""
         },
         {
@@ -409,12 +409,12 @@
           "image": ""
         },
         {
-          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - 中国网",
+          "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 - business.china.com.cn",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
-          "source": "中国网",
+          "source": "business.china.com.cn",
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "论坛",
-          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
+          "summary": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 business.china.com.cn",
           "image": ""
         },
         {
@@ -424,6 +424,15 @@
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "论坛",
           "summary": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
+          "image": ""
+        },
+        {
+          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - mittrchina.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
+          "source": "mittrchina.com",
+          "published_at": "2026-07-21T17:51:45+08:00",
+          "type": "论坛",
+          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 mittrchina.com",
           "image": ""
         },
         {
@@ -472,15 +481,6 @@
           "image": ""
         },
         {
-          "title": "“AI未来发展论坛：产学研深度融合”主题论坛举行 - 科学网—新闻",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vZDkwWlZORC1VZDJVVEIzckZjWlh0SnBMSHFQU1djRm1NdTJFdWdFdFlJQTM2UnRndmxWM2YyT01iNkdDQlRKOW5aVUF4b1NWY3Uwam9ITjJPSjlZTUNBNWpnTlY?oc=5",
-          "source": "科学网—新闻",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "“AI未来发展论坛：产学研深度融合”主题论坛举行 科学网—新闻",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
           "source": "中国科技网",
@@ -491,7 +491,7 @@
         },
         {
           "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nZ296SmdTdzJzSlM1MXVtUDNVU2tqTlNFZ3VmUVpOQTZaQ3k5SE9Hd0RhdTVmeEF4X2QzalN3UlVoNGxnZFlpeThwc3duZzlsZGJiTWFSYVpkOEZzdFRRNzl1VUo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kemdpQ2RqWVg0bjhMQXlHeFlWNWhSTHFKWkF5OFJGa0hQd21WckZQbEZUdjNjUHAtU21iVzBOY0JsVzBnZjhmckRkVVNSdHNObE1vOWktRldLMXFTT1ZkQkdMbDNSZw?oc=5",
           "source": "哈尔滨工业大学",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
@@ -535,15 +535,6 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 + 收藏 - 证券时报",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
-          "source": "证券时报",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 + 收藏 证券时报",
-          "image": ""
-        },
-        {
           "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 第一财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYy1neHNBeGx6ZXpjSmpLSk1vNnJvUzRwamJzeXlVZVRNUUFQdGpHMzFJQlk4TUJhRFVOUURPRFdlOFpLQ3hEU18yVGFTYjdEcjRV?oc=5",
           "source": "第一财经",
@@ -553,12 +544,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026世界人工智能大会主论坛 - 21财经",
+          "title": "WAIC 2026世界人工智能大会主论坛 - 21jingji.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FeVdpdXg3Zi1GblFHTE5IbWlDRXhWMlI1VmFBdkVleXZYRm9PQmJrTG9GcUQ4T19sVXMzZUlGSzdBWi1GdWlUUW5PX0J0dkdPSmJB?oc=5",
-          "source": "21财经",
+          "source": "21jingji.com",
           "published_at": "2026-07-16T20:59:33+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
+          "summary": "WAIC 2026世界人工智能大会主论坛 21jingji.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21jingji.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
+          "source": "21jingji.com",
+          "published_at": "2026-07-16T20:59:33+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21jingji.com",
           "image": ""
         },
         {
@@ -607,12 +607,12 @@
           "image": ""
         },
         {
-          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - 智源社区",
+          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkT1NhYU5QODFNMEVYMjgyNTQwd05uSWd0SUQ3SVNKTU1lQUxvX2hPSXN2a1E4UGhNakRCV1kzakRJOWNyaDBfMw?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
-          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 hub.baai.ac.cn",
           "image": ""
         },
         {
@@ -686,12 +686,12 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - 虎嗅网",
+          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - huxiu.com",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
-          "source": "虎嗅网",
+          "source": "huxiu.com",
           "published_at": "2026-07-31T15:00:00+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
+          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 huxiu.com",
           "image": ""
         },
         {
@@ -701,15 +701,6 @@
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "直播",
           "summary": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
-          "image": ""
-        },
-        {
-          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - 麻省理工科技评论",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
-          "source": "麻省理工科技评论",
-          "published_at": "2026-07-21T17:51:45+08:00",
-          "type": "论坛",
-          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
           "image": ""
         },
         {
@@ -749,12 +740,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 手机网易网",
+          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jNUNXdkt4dDgtLVA0dVJER1h6MGtFMFkwMk5fSk8wd2NYWl92d3lnLTdNQU4wdzNDU3J0S2p2OXhqYTNraTFqR3MwMXdfRHVSUGJ5aURxdF95NTIwNDU1UEJB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 手机网易网",
+          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 163.com",
           "image": ""
         },
         {
@@ -776,12 +767,12 @@
           "image": ""
         },
         {
-          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 手机网易网",
+          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQzFLbjU5cHJNb1NCaDlRNVpXY0FaYk1heUt3alhyYlYtSEJLSkpsLWRON1NpYVUzNklib2xZd2FnTHpxSTFCaF9pYi1MdktJanNoM3hxUFVFYTk0U0lvUjVB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 手机网易网",
+          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 163.com",
           "image": ""
         },
         {
@@ -929,12 +920,12 @@
           "image": ""
         },
         {
-          "title": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 - 21财经",
+          "title": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 - 21jingji.com",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fMmFDV0l4UzB5eWtiR25wYTJVUHd1UnA1UDZXSm92djZrQ3FFbHF2UWFuTHVYRWVLZ1hENmhOSWF5WGVTM2Z6OHMzeVZLOUkya0E?oc=5",
-          "source": "21财经",
+          "source": "21jingji.com",
           "published_at": "2023-02-12T16:32:04+08:00",
           "type": "直播",
-          "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
+          "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21jingji.com",
           "image": ""
         }
       ]
@@ -954,9 +945,9 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "虎嗅网",
+      "source": "huxiu.com",
       "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存",
-      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
+      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 huxiu.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
       "published_at": "2026-07-31T15:00:00+08:00",
       "type": "论坛"
@@ -977,16 +968,16 @@
       "source": "36 Kr",
       "title": "算力下半场，没有孤胆英雄",
       "point": "算力下半场，没有孤胆英雄 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HS1ZsVVdfOFFHVnh5bGtfTkFvZVB3aXBUN184YTM2Nm5qWnB2cXg0VjNpMnN4WWtmOUFjRTBVSWdVeHRkUWF6M2hmZTRNQ3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzUE01MWZwaTU2WTNIVTdJaVM5b3djQWttUWdnUlg2NHJzRjlRVlVock0yTDNTQjJYNXQ3Yk1mdk5wc2h3emowdThyWUF4c1hv?oc=5",
       "published_at": "2026-08-10T20:26:08+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "新浪网",
+      "source": "k.sina.com.cn",
       "title": "2026中国AI盛典的门票价格是多少？",
-      "point": "2026中国AI盛典的门票价格是多少？ 新浪网",
+      "point": "2026中国AI盛典的门票价格是多少？ k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wNnROZUhRY2hjRm0wNXBOajJfNnhSRjJTUHFTZTY3ZWNsTnUzWHZ3RG5XUWFVTUxLNi1Fa2h5djFPV2ZJTGU0Sml0bDFKYXJfQjBMWDdJRXQ4RzE0QU9SQm1KZTFsS1RfTGNCQnlvZGREYm5YUlZxMW1QT0p6Z1k?oc=5",
       "published_at": "2026-08-10T11:26:36+08:00",
       "type": "媒体"
@@ -994,9 +985,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅网",
+      "source": "huxiu.com",
       "title": "具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿",
-      "point": "具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 虎嗅网",
+      "point": "具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 huxiu.com",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BV0RWcGYzXzJnMkNJZC1rWVlYMHdMV1c3ZGxiMHpTcnNua1lrNGx1SlRZbTNQSjJSQjlRdkNsOGxRNFdmUTVHa1luWWtVMTBfZTgwWQ?oc=5",
       "published_at": "2026-08-10T08:16:02+08:00",
       "type": "媒体"
@@ -1024,9 +1015,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "虎嗅网",
+      "source": "huxiu.com",
       "title": "李开复：当企业AI员工占四分之三时，会议自然减少",
-      "point": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅网",
+      "point": "李开复：当企业AI员工占四分之三时，会议自然减少 huxiu.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q1VtUGhab0N4bWgyTnhOSlBGUUVHbFFBQnVkLXRHR0hCTXY2MjR4YmNzaWxmTk5Mc1U2VnNKbm4tcEFMVVpHbTFPWXBRaFhRS2c?oc=5",
       "published_at": "2026-08-06T22:03:09+08:00",
       "type": "媒体"
@@ -1044,9 +1035,9 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "虎嗅网",
+      "source": "huxiu.com",
       "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存",
-      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
+      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 huxiu.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
       "published_at": "2026-07-31T15:00:00+08:00",
       "type": "论坛"
