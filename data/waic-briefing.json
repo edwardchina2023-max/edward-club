@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T15:53:13.482421+08:00",
+  "generated_at": "2026-08-10T17:27:19.159003+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月10日 15:53",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月10日 17:27",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 138 条、直播 31 条、观点 1 条、论坛 28 条，已按企业家阅读场景分组。",
-    "新浪网：2026中国AI盛典的门票价格是多少？ - 新浪网",
+    "本轮抓取到 媒体 137 条、直播 32 条、观点 1 条、论坛 29 条，已按企业家阅读场景分组。",
+    "手机新浪网：2026中国AI盛典的门票价格是多少？ - 手机新浪网",
     "虎嗅网：具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 - 虎嗅网",
     "36 Kr：谁有资格定义AI汽车？ - 36 Kr",
     "36 Kr：从亦庄的对接会，到杭州的辩论场：36氪把一道AI真问题交给了年轻人 - 36 Kr",
@@ -27,6 +27,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-07-31T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
+          "image": ""
+        },
+        {
           "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 - 智慧城市行业分析",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMGxJRlB6MzV1UjlNcnc4SnVMT003RUZzNmJtbnZjR1BVZ3g4QnlQS0ZnZllMZFpBZmJHX0lLTDFBTm1qM3hQX01VVjBVaU1TdXJDWGEtTGpwcWJB?oc=5",
           "source": "智慧城市行业分析",
@@ -45,12 +54,12 @@
           "image": ""
         },
         {
-          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - 腾讯新闻",
+          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYXlIS2ZzMXJzZHNBMHBBeEdsaVY0Nll5N0VQajdpd3FXUWRoaTNndnMzNUZUamRmb3ZNTVlBNTlTNm8xX3g3NkRCNjRybnRwSXdsYjZB?oc=5",
-          "source": "腾讯新闻",
+          "source": "QQ News",
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "论坛",
-          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 腾讯新闻",
+          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 QQ News",
           "image": ""
         },
         {
@@ -63,21 +72,12 @@
           "image": ""
         },
         {
-          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - 麻省理工科技评论",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
-          "source": "麻省理工科技评论",
-          "published_at": "2026-07-21T17:51:45+08:00",
-          "type": "论坛",
-          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
-          "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 - 中国日报网",
+          "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 - cn.chinadaily.com.cn",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
-          "source": "中国日报网",
+          "source": "cn.chinadaily.com.cn",
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
+          "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 cn.chinadaily.com.cn",
           "image": ""
         },
         {
@@ -169,21 +169,21 @@
           "image": ""
         },
         {
-          "title": "*卡哇伊直播app永久回家地址在线直播*_《官方网站》_卡哇伊直播app永久回家地址在线直播*>>>首页>- - 香港中联办",
+          "title": "*卡哇伊直播app永久回家地址在线直播*_《官方网站》_卡哇伊直播app永久回家地址在线直播*>>>首页>- - big5.locpg.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmt0X2JpUmUxMWpXa2JyTDluaS1MQzR5U0QxOTRUYm03WEtFVDE4MnJnSGdBWWxhZU1FR0F3Wkt6eXF2T0ZVV2NqWDFuWGZ1X2lTWUtjZm1xRDhmU3lyXzJkbFlxSEdWR3VaV0p1YV80dnlJazNUSGdwZXhfRy1GMw?oc=5",
-          "source": "香港中联办",
+          "source": "big5.locpg.gov.cn",
           "published_at": "2026-07-19T04:31:17+08:00",
           "type": "直播",
-          "summary": "*卡哇伊直播app永久回家地址在线直播*_《官方网站》_卡哇伊直播app永久回家地址在线直播*>>>首页>- 香港中联办",
+          "summary": "*卡哇伊直播app永久回家地址在线直播*_《官方网站》_卡哇伊直播app永久回家地址在线直播*>>>首页>- big5.locpg.gov.cn",
           "image": ""
         },
         {
-          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 手机网易网",
+          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jNUNXdkt4dDgtLVA0dVJER1h6MGtFMFkwMk5fSk8wd2NYWl92d3lnLTdNQU4wdzNDU3J0S2p2OXhqYTNraTFqR3MwMXdfRHVSUGJ5aURxdF95NTIwNDU1UEJB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 手机网易网",
+          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 163.com",
           "image": ""
         },
         {
@@ -223,12 +223,12 @@
           "image": ""
         },
         {
-          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 手机网易网",
+          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQzFLbjU5cHJNb1NCaDlRNVpXY0FaYk1heUt3alhyYlYtSEJLSkpsLWRON1NpYVUzNklib2xZd2FnTHpxSTFCaF9pYi1MdktJanNoM3hxUFVFYTk0U0lvUjVB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 手机网易网",
+          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 163.com",
           "image": ""
         },
         {
@@ -248,12 +248,12 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
-          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 腾讯新闻",
+          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YU1NlSnBLaEpOYmlnTHI0c2ZYa05vWDJCWmdlVV84WGRJUXpiY2stZ1ZDUFNsbWJiM09tWEVqTnJmZDh5WThHX3RONXlhRkZrbm9MZWV3?oc=5",
-          "source": "腾讯新闻",
+          "source": "QQ News",
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "观点",
-          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 腾讯新闻",
+          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 QQ News",
           "image": ""
         }
       ]
@@ -264,12 +264,12 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "2026中国AI盛典的门票价格是多少？ - 新浪网",
+          "title": "2026中国AI盛典的门票价格是多少？ - 手机新浪网",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wNnROZUhRY2hjRm0wNXBOajJfNnhSRjJTUHFTZTY3ZWNsTnUzWHZ3RG5XUWFVTUxLNi1Fa2h5djFPV2ZJTGU0Sml0bDFKYXJfQjBMWDdJRXQ4RzE0QU9SQm1KZTFsS1RfTGNCQnlvZGREYm5YUlZxMW1QT0p6Z1k?oc=5",
-          "source": "新浪网",
+          "source": "手机新浪网",
           "published_at": "2026-08-10T11:26:36+08:00",
           "type": "媒体",
-          "summary": "2026中国AI盛典的门票价格是多少？ 新浪网",
+          "summary": "2026中国AI盛典的门票价格是多少？ 手机新浪网",
           "image": ""
         },
         {
@@ -418,12 +418,12 @@
           "image": ""
         },
         {
-          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - 腾讯新闻",
+          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYXlIS2ZzMXJzZHNBMHBBeEdsaVY0Nll5N0VQajdpd3FXUWRoaTNndnMzNUZUamRmb3ZNTVlBNTlTNm8xX3g3NkRCNjRybnRwSXdsYjZB?oc=5",
-          "source": "腾讯新闻",
+          "source": "QQ News",
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "论坛",
-          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 腾讯新闻",
+          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 QQ News",
           "image": ""
         },
         {
@@ -436,12 +436,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 - 中国日报网",
+          "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 - cn.chinadaily.com.cn",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
-          "source": "中国日报网",
+          "source": "cn.chinadaily.com.cn",
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
+          "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 cn.chinadaily.com.cn",
           "image": ""
         },
         {
@@ -535,12 +535,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - C114通信网",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - c114.com.cn",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ1BCNGVsMURQNmNVbEd5U19wTWhkM2JMWjNianlNdVl1UGt3V3VYemtJQ1hmc05RY3ZvWURZOGxfLVRnRnNpTUc3a1FYTVk?oc=5",
-          "source": "C114通信网",
+          "source": "c114.com.cn",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "媒体",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 C114通信网",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 c114.com.cn",
           "image": ""
         },
         {
@@ -553,12 +553,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
+          "title": "WAIC 2026世界人工智能大会主论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FeVdpdXg3Zi1GblFHTE5IbWlDRXhWMlI1VmFBdkVleXZYRm9PQmJrTG9GcUQ4T19sVXMzZUlGSzdBWi1GdWlUUW5PX0J0dkdPSmJB?oc=5",
           "source": "21财经",
           "published_at": "2026-07-16T20:59:33+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
+          "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会：未来计算与未来算力论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ib18yYnZVLWhfR0EyY3luUF9BN2Q2VXZlNHp3YmlVWjBUVXpjWGZjNUJYa0JKUEtsTTkwVjJmbUZhOHh0NEpXYmExdHdBRjJWVGNZ?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-16T18:05:49+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会：未来计算与未来算力论坛 21财经",
           "image": ""
         },
         {
@@ -634,21 +643,12 @@
           "image": ""
         },
         {
-          "title": "主论坛|链接全球，共创未来！WAIC 2024产业发展主论坛成功举办 - C114通信网",
+          "title": "主论坛|链接全球，共创未来！WAIC 2024产业发展主论坛成功举办 - c114.com.cn",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPUTUwQTFwc05hWHZ4Sm5aeXl0d3lXUzljRXcybmRlNFFlR3JQV01SeVdQWm1NLXVyWDRsRk9JOWVpd3ZzaERsV0U5N2NGQk0?oc=5",
-          "source": "C114通信网",
+          "source": "c114.com.cn",
           "published_at": "2024-07-05T15:00:00+08:00",
           "type": "论坛",
-          "summary": "主论坛|链接全球，共创未来！WAIC 2024产业发展主论坛成功举办 C114通信网",
-          "image": ""
-        },
-        {
-          "title": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 - C114通信网",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxUnY2amtOaGlJcEFocklCUTdZM2VuWXZXanhsY2o0OERRdjd4NjlJbU11ZHZUQTg0dlE4eGtuWUxaYVJ1cjJrSnBUUjRUbTA?oc=5",
-          "source": "C114通信网",
-          "published_at": "2024-07-05T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "全体会议|2024世界人工智能大会暨人工智能全球治理高级别会议全体会议在上海举办，推动智能向善造福全人类 C114通信网",
+          "summary": "主论坛|链接全球，共创未来！WAIC 2024产业发展主论坛成功举办 c114.com.cn",
           "image": ""
         }
       ]
@@ -686,12 +686,12 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "通用视频模型MiniMax H3正式开源 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeVAyb1dyek9WbVh1NzVFWHJUTEViOUE5Z2RIV1pvQ2xFcU9weG93QWhkUHN1S2wtRGh6WGMtSTQwaDh4emVBWjlPdVZQdkFF?oc=5",
+          "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
           "source": "虎嗅网",
-          "published_at": "2026-08-03T15:47:08+08:00",
-          "type": "媒体",
-          "summary": "通用视频模型MiniMax H3正式开源 虎嗅网",
+          "published_at": "2026-07-31T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
           "image": ""
         },
         {
@@ -701,15 +701,6 @@
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "直播",
           "summary": "中关村数智人工智能产业联盟参加2026世界人工智能大会第一财经“AI医疗”主题直播 凤凰网",
-          "image": ""
-        },
-        {
-          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - 麻省理工科技评论",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
-          "source": "麻省理工科技评论",
-          "published_at": "2026-07-21T17:51:45+08:00",
-          "type": "论坛",
-          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
           "image": ""
         },
         {
@@ -740,21 +731,21 @@
           "image": ""
         },
         {
-          "title": "*卡哇伊直播app永久回家地址在线直播*_《官方网站》_卡哇伊直播app永久回家地址在线直播*>>>首页>- - 香港中联办",
+          "title": "*卡哇伊直播app永久回家地址在线直播*_《官方网站》_卡哇伊直播app永久回家地址在线直播*>>>首页>- - big5.locpg.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmt0X2JpUmUxMWpXa2JyTDluaS1MQzR5U0QxOTRUYm03WEtFVDE4MnJnSGdBWWxhZU1FR0F3Wkt6eXF2T0ZVV2NqWDFuWGZ1X2lTWUtjZm1xRDhmU3lyXzJkbFlxSEdWR3VaV0p1YV80dnlJazNUSGdwZXhfRy1GMw?oc=5",
-          "source": "香港中联办",
+          "source": "big5.locpg.gov.cn",
           "published_at": "2026-07-19T04:31:17+08:00",
           "type": "直播",
-          "summary": "*卡哇伊直播app永久回家地址在线直播*_《官方网站》_卡哇伊直播app永久回家地址在线直播*>>>首页>- 香港中联办",
+          "summary": "*卡哇伊直播app永久回家地址在线直播*_《官方网站》_卡哇伊直播app永久回家地址在线直播*>>>首页>- big5.locpg.gov.cn",
           "image": ""
         },
         {
-          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 手机网易网",
+          "title": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jNUNXdkt4dDgtLVA0dVJER1h6MGtFMFkwMk5fSk8wd2NYWl92d3lnLTdNQU4wdzNDU3J0S2p2OXhqYTNraTFqR3MwMXdfRHVSUGJ5aURxdF95NTIwNDU1UEJB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 手机网易网",
+          "summary": "WAIC 2026丨特赞科技 GEA 亮相2026世界人工智能大会，范凌做客央视直播间 163.com",
           "image": ""
         },
         {
@@ -776,12 +767,12 @@
           "image": ""
         },
         {
-          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 手机网易网",
+          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQzFLbjU5cHJNb1NCaDlRNVpXY0FaYk1heUt3alhyYlYtSEJLSkpsLWRON1NpYVUzNklib2xZd2FnTHpxSTFCaF9pYi1MdktJanNoM3hxUFVFYTk0U0lvUjVB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 手机网易网",
+          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 163.com",
           "image": ""
         },
         {
@@ -812,12 +803,12 @@
           "image": ""
         },
         {
-          "title": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 - 腾讯新闻",
+          "title": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YSjJTdHpsdnREU0VSM3lDSGUxNVpVLWlnWjVVd3M1cmdVTzMzb1VhMkdrSk9zQVVSLXIxWDdLLTJQSC1BdzIxVGhoU1hVZXBwMlNLMEdR?oc=5",
-          "source": "腾讯新闻",
+          "source": "QQ News",
           "published_at": "2026-07-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 腾讯新闻",
+          "summary": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 QQ News",
           "image": ""
         },
         {
@@ -848,30 +839,39 @@
           "image": ""
         },
         {
-          "title": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 - 香港中联办",
+          "title": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 - big5.locpg.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBUEh3RFJHdE9maXRGTGJRN3lzZ2FIQng3RnVyRFZhRVBHcWFTV3pOdi1jTF9RR1VPcVdHV0gzeWRia29JYTNubGVaZzlncEdILS1SVi0tOXVOSktzV2E1LUlOTTNVWmVUcUsxVnUxNlNjaWdDTU9UZzV0ZXAtZw?oc=5",
-          "source": "香港中联办",
+          "source": "big5.locpg.gov.cn",
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 香港中联办",
+          "summary": "蜜橘直播ios二维码下载最新版下载-蜜橘直播ios二维码下载2026最新版V.3.80.98-去水印版-2265安卓网 big5.locpg.gov.cn",
           "image": ""
         },
         {
-          "title": "快猫app免费直播最新版下载-快猫app免费直播2026最新版V.3.52.80-iphone版-2265安卓网 - 香港中联办",
+          "title": "*柚子直播安卓下载*_《官方网站》_柚子直播安卓下载*>>>首页>- - big5.locpg.gov.cn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1dXZzN0hsdXE4LThSdFNFc3FONzU4MHctZ25FbHhwU201Ti1fcWNVeXhacUNhVWloSXN0TWs5cEs1TmRZZnBGN1loeDRJUVR6ZmJac2llVzZoMDdkMF9VdzNiYVd4Y0ljVFNVR3hManR3UXJQMFItcXVqRjM?oc=5",
+          "source": "big5.locpg.gov.cn",
+          "published_at": "2026-06-15T15:00:00+08:00",
+          "type": "直播",
+          "summary": "*柚子直播安卓下载*_《官方网站》_柚子直播安卓下载*>>>首页>- big5.locpg.gov.cn",
+          "image": ""
+        },
+        {
+          "title": "快猫app免费直播最新版下载-快猫app免费直播2026最新版V.3.52.80-iphone版-2265安卓网 - big5.locpg.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zRVBjUGhwaG1CbGYydjdOYk16LURMM0xxdWQwTkRjT191MEhfcXRxQ3NLaXlYa0p4WlpBZ0Z1ZHRSYkpHbFMzUGJzTTltTi1GclFzQUlKV292Zmh4ZEhXM2NfeFY0QjRrTHR0NFhaZHlCbFNmZGpPcTlmbEI?oc=5",
-          "source": "香港中联办",
+          "source": "big5.locpg.gov.cn",
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "快猫app免费直播最新版下载-快猫app免费直播2026最新版V.3.52.80-iphone版-2265安卓网 香港中联办",
+          "summary": "快猫app免费直播最新版下载-快猫app免费直播2026最新版V.3.52.80-iphone版-2265安卓网 big5.locpg.gov.cn",
           "image": ""
         },
         {
-          "title": "番茄怎么没有直播了最新版下载-番茄怎么没有直播了2026最新版V.9.02.13-百度版-2265安卓网 - 香港中联办",
+          "title": "番茄怎么没有直播了最新版下载-番茄怎么没有直播了2026最新版V.9.02.13-百度版-2265安卓网 - big5.locpg.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kcEIwWHVWQW5iUkctdzVETllJLURLNmlHdXBLaWp2Tm5fTVZoSXZTMUFpY092U2ZRUi1EeUdSVGpyek0yLXBaWkV2VzhveE9jaHota3pmUkdrNGhhczdROTJBT3FQcFdUYnBrSzRnOWhFTkx4aXM3Uk84VUp6Zw?oc=5",
-          "source": "香港中联办",
+          "source": "big5.locpg.gov.cn",
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "番茄怎么没有直播了最新版下载-番茄怎么没有直播了2026最新版V.9.02.13-百度版-2265安卓网 香港中联办",
+          "summary": "番茄怎么没有直播了最新版下载-番茄怎么没有直播了2026最新版V.9.02.13-百度版-2265安卓网 big5.locpg.gov.cn",
           "image": ""
         },
         {
@@ -936,6 +936,16 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
+      "source": "虎嗅网",
+      "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存",
+      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
+      "published_at": "2026-07-31T15:00:00+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
       "source": "智慧城市行业分析",
       "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势",
       "point": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
@@ -944,21 +954,11 @@
       "type": "论坛"
     },
     {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
-      "source": "中国网",
-      "title": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目",
-      "point": "慧博云通入选世界人工智能大会“数据要素赋能智能体”论坛典型实践项目 中国网",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVk9La181REYyWjJ2Z0pYY202NGxxMk11dkMyOTVPTmNiTi10aDBqdERiSXZUNC1jVkZjUXpZRmRQZlMyVkxaYmt2bGNwNmhKUENxY0ZiMmtWV2xLeVJvWExXbDJPWmlyYXVLV0lCRQ?oc=5",
-      "published_at": "2026-07-23T15:00:00+08:00",
-      "type": "论坛"
-    },
-    {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "新浪网",
+      "source": "手机新浪网",
       "title": "2026中国AI盛典的门票价格是多少？",
-      "point": "2026中国AI盛典的门票价格是多少？ 新浪网",
+      "point": "2026中国AI盛典的门票价格是多少？ 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wNnROZUhRY2hjRm0wNXBOajJfNnhSRjJTUHFTZTY3ZWNsTnUzWHZ3RG5XUWFVTUxLNi1Fa2h5djFPV2ZJTGU0Sml0bDFKYXJfQjBMWDdJRXQ4RzE0QU9SQm1KZTFsS1RfTGNCQnlvZGREYm5YUlZxMW1QT0p6Z1k?oc=5",
       "published_at": "2026-08-10T11:26:36+08:00",
       "type": "媒体"
@@ -1016,9 +1016,9 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "腾讯新闻",
+      "source": "QQ News",
       "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
-      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 腾讯新闻",
+      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 QQ News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YU1NlSnBLaEpOYmlnTHI0c2ZYa05vWDJCWmdlVV84WGRJUXpiY2stZ1ZDUFNsbWJiM09tWEVqTnJmZDh5WThHX3RONXlhRkZrbm9MZWV3?oc=5",
       "published_at": "2026-07-19T15:00:00+08:00",
       "type": "观点"
@@ -1027,11 +1027,11 @@
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
       "source": "虎嗅网",
-      "title": "通用视频模型MiniMax H3正式开源",
-      "point": "通用视频模型MiniMax H3正式开源 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeVAyb1dyek9WbVh1NzVFWHJUTEViOUE5Z2RIV1pvQ2xFcU9weG93QWhkUHN1S2wtRGh6WGMtSTQwaDh4emVBWjlPdVZQdkFF?oc=5",
-      "published_at": "2026-08-03T15:47:08+08:00",
-      "type": "媒体"
+      "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存",
+      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
+      "published_at": "2026-07-31T15:00:00+08:00",
+      "type": "论坛"
     },
     {
       "channel": "嘉宾 / 自媒体",
