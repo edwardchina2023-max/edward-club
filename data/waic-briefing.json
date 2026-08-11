@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-11T13:36:34.589411+08:00",
+  "generated_at": "2026-08-11T15:14:22.272683+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月11日 13:36",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月11日 15:14",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 138 条、直播 33 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 139 条、直播 34 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
+    "36 Kr：投出算力“四大天王”的人，具身热潮时想“静静” - 36 Kr",
+    "虎嗅网：算力厂商都在抢“超节点”，谁最可能坐上铁王座？ - 虎嗅网",
     "36 Kr：算力下半场，没有孤胆英雄 - 36 Kr",
-    "k.sina.com.cn：2026中国AI盛典的门票价格是多少？ - k.sina.com.cn",
     "虎嗅网：具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 - 虎嗅网",
-    "36 Kr：谁有资格定义AI汽车？ - 36 Kr",
-    "第一财经：世界人工智能大会剧透：智算、具身两大赛道各汇聚超200家企业 - 第一财经"
+    "36 Kr：谁有资格定义AI汽车？ - 36 Kr"
   ],
   "sections": [
     {
@@ -99,12 +99,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
+          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - stdaily.com",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
-          "source": "中国科技网",
+          "source": "stdaily.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
+          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 stdaily.com",
           "image": ""
         },
         {
@@ -264,21 +264,30 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
+          "title": "投出算力“四大天王”的人，具身热潮时想“静静” - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLeFkxYVBDc0RxZUxvQTJZM1pvRUxDX0Iyek5aUnFHNTlHSnZZMnYtZlVYRGVPRmlza3FvdGw1eUtac2pGZ0pHSHRrM3dDTVE?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-11T13:43:30+08:00",
+          "type": "媒体",
+          "summary": "投出算力“四大天王”的人，具身热潮时想“静静” 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlTDZqM3R3emtHRlRtTk5oblM5NUxxUUI4a01Lb1VocFNvUkN3bG1OZVQxMENOWENqS3dLczcxZFJaYjJvMm5BcUdOSFZhVmItV3dRTA?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-08-11T10:30:00+08:00",
+          "type": "媒体",
+          "summary": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ 虎嗅网",
+          "image": ""
+        },
+        {
           "title": "算力下半场，没有孤胆英雄 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzUE01MWZwaTU2WTNIVTdJaVM5b3djQWttUWdnUlg2NHJzRjlRVlVock0yTDNTQjJYNXQ3Yk1mdk5wc2h3emowdThyWUF4c1hv?oc=5",
           "source": "36 Kr",
           "published_at": "2026-08-10T20:26:08+08:00",
           "type": "媒体",
           "summary": "算力下半场，没有孤胆英雄 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "2026中国AI盛典的门票价格是多少？ - k.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wNnROZUhRY2hjRm0wNXBOajJfNnhSRjJTUHFTZTY3ZWNsTnUzWHZ3RG5XUWFVTUxLNi1Fa2h5djFPV2ZJTGU0Sml0bDFKYXJfQjBMWDdJRXQ4RzE0QU9SQm1KZTFsS1RfTGNCQnlvZGREYm5YUlZxMW1QT0p6Z1k?oc=5",
-          "source": "k.sina.com.cn",
-          "published_at": "2026-08-10T11:26:36+08:00",
-          "type": "媒体",
-          "summary": "2026中国AI盛典的门票价格是多少？ k.sina.com.cn",
           "image": ""
         },
         {
@@ -327,12 +336,12 @@
           "image": ""
         },
         {
-          "title": "WAIC海量信息精萃可视化地图全景PANORAMA 2024世界人工智能大会全景导览工具 - 36 Kr",
+          "title": "WAIC海量信息精萃可视化地图全景PANORAMA 2024世界人工智能大会全景导览工具 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rdlk0NmlWRTRaaDhSZmNCUXFKbkpRY1R2aDMydkNSeGliQlV4bFU1QnZmTVJwek9sckVxVXd1bGF2Ynp6a2k1bnBKLVlSUUVCS3pB?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-07T04:41:00+08:00",
           "type": "媒体",
-          "summary": "WAIC海量信息精萃可视化地图全景PANORAMA 2024世界人工智能大会全景导览工具 36 Kr",
+          "summary": "WAIC海量信息精萃可视化地图全景PANORAMA 2024世界人工智能大会全景导览工具 36Kr",
           "image": ""
         },
         {
@@ -360,15 +369,6 @@
           "published_at": "2026-08-06T16:42:58+08:00",
           "type": "媒体",
           "summary": "AI人才市场极端分化：顶尖人才年薪百万，普通程序员批量裁员 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越头部模型的智商 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yMDZGVG9xd0lMQUhxbXZnbzFmMFpyWGE2ZGc4OGo3LVluX0tCM3R4bkhobzlPeUdZa0lfc2JaYjhwNWJCWFhMS0FiMGM2QQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-06T03:54:00+08:00",
-          "type": "媒体",
-          "summary": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越头部模型的智商 36 Kr",
           "image": ""
         }
       ]
@@ -463,12 +463,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
+          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - stdaily.com",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
-          "source": "中国科技网",
+          "source": "stdaily.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
+          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 stdaily.com",
           "image": ""
         },
         {
@@ -660,12 +660,12 @@
       "description": "展区、展台、探馆、现场走访和新品展示类直播/回放入口。",
       "items": [
         {
-          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 新浪网",
+          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWXFEUXdJeDVyZE0yalFvdENPU1ZiWTExelBBVVNqMlBIdGQ1RDM0OGFfQS1wUFhnX1dLWlhKYndGSXNwRzZUX0Y4dzl2WmhVdmctd25KTEtlMDdEcGNBVzZHYm1RNzlzTF81dTZ0TXJXRVhTNXZhZUNGVQ?oc=5",
-          "source": "新浪网",
+          "source": "新浪财经",
           "published_at": "2026-07-13T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪网",
+          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪财经",
           "image": ""
         },
         {
@@ -830,12 +830,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
           "image": ""
         },
         {
@@ -863,6 +863,15 @@
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
           "summary": "*黑人男专区直播*_《官方网站》_黑人男专区直播*>>>首页>- 香港中联办",
+          "image": ""
+        },
+        {
+          "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - 香港中联办",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdmhZSFRGWTlZZFlnMzZoMDBZQmczOTJYbHF6cldURTVQZ2ZtUHJHbFdmRG0xdkF6VklQcGJEaXVyNU5GRHhYUW9UZlRmb1VGMEdEQWdqenFudXlnanBMeXRsRkZQaE9YQVoxZDhFM0VhWWQwcTI5cHFTV1BEeWc?oc=5",
+          "source": "香港中联办",
+          "published_at": "2026-06-15T15:00:00+08:00",
+          "type": "直播",
+          "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 香港中联办",
           "image": ""
         },
         {
@@ -975,6 +984,26 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "36 Kr",
+      "title": "投出算力“四大天王”的人，具身热潮时想“静静”",
+      "point": "投出算力“四大天王”的人，具身热潮时想“静静” 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLeFkxYVBDc0RxZUxvQTJZM1pvRUxDX0Iyek5aUnFHNTlHSnZZMnYtZlVYRGVPRmlza3FvdGw1eUtac2pGZ0pHSHRrM3dDTVE?oc=5",
+      "published_at": "2026-08-11T13:43:30+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅网",
+      "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？",
+      "point": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlTDZqM3R3emtHRlRtTk5oblM5NUxxUUI4a01Lb1VocFNvUkN3bG1OZVQxMENOWENqS3dLczcxZFJaYjJvMm5BcUdOSFZhVmItV3dRTA?oc=5",
+      "published_at": "2026-08-11T10:30:00+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "36 Kr",
       "title": "算力下半场，没有孤胆英雄",
       "point": "算力下半场，没有孤胆英雄 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzUE01MWZwaTU2WTNIVTdJaVM5b3djQWttUWdnUlg2NHJzRjlRVlVock0yTDNTQjJYNXQ3Yk1mdk5wc2h3emowdThyWUF4c1hv?oc=5",
@@ -982,31 +1011,11 @@
       "type": "媒体"
     },
     {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "k.sina.com.cn",
-      "title": "2026中国AI盛典的门票价格是多少？",
-      "point": "2026中国AI盛典的门票价格是多少？ k.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wNnROZUhRY2hjRm0wNXBOajJfNnhSRjJTUHFTZTY3ZWNsTnUzWHZ3RG5XUWFVTUxLNi1Fa2h5djFPV2ZJTGU0Sml0bDFKYXJfQjBMWDdJRXQ4RzE0QU9SQm1KZTFsS1RfTGNCQnlvZGREYm5YUlZxMW1QT0p6Z1k?oc=5",
-      "published_at": "2026-08-10T11:26:36+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿",
-      "point": "具身智能‘200亿俱乐部’浮现：5家大脑路线公司估值超200亿 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BV0RWcGYzXzJnMkNJZC1rWVlYMHdMV1c3ZGxiMHpTcnNua1lrNGx1SlRZbTNQSjJSQjlRdkNsOGxRNFdmUTVHa1luWWtVMTBfZTgwWQ?oc=5",
-      "published_at": "2026-08-10T08:16:02+08:00",
-      "type": "媒体"
-    },
-    {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "新浪网",
+      "source": "新浪财经",
       "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI",
-      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪网",
+      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWXFEUXdJeDVyZE0yalFvdENPU1ZiWTExelBBVVNqMlBIdGQ1RDM0OGFfQS1wUFhnX1dLWlhKYndGSXNwRzZUX0Y4dzl2WmhVdmctd25KTEtlMDdEcGNBVzZHYm1RNzlzTF81dTZ0TXJXRVhTNXZhZUNGVQ?oc=5",
       "published_at": "2026-07-13T15:00:00+08:00",
       "type": "直播"
