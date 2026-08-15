@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-15T09:26:31.463506+08:00",
+  "generated_at": "2026-08-15T10:35:57.284913+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月15日 09:26",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月15日 10:35",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 122 条、直播 20 条、观点 1 条、论坛 21 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 122 条、直播 20 条、观点 1 条、论坛 20 条，已按企业家阅读场景分组。",
     "虎嗅网：从产业数字化十节点，到产业AI 化十节点 - 虎嗅网",
     "虎嗅网：一切皆插件，Harness 到底能改什么 - 虎嗅网",
     "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
@@ -81,12 +81,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - stcn.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
-          "source": "证券时报",
+          "source": "stcn.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 stcn.com",
           "image": ""
         },
         {
@@ -151,15 +151,6 @@
           "image": ""
         },
         {
-          "title": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 - 网易新闻客户端",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iY0tITzhQR0VKYU1BN052ZE45LTNZRDVxX2RrR1k3X1Mtc1lsWXNNT1l3YkJTZVlHTEhiZGJMd2pjc2RWQ1ExWk1MS0hfaUg5SElSNzhJeEpmcVV5?oc=5",
-          "source": "网易新闻客户端",
-          "published_at": "2026-07-21T01:52:00+08:00",
-          "type": "直播",
-          "summary": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 网易新闻客户端",
-          "image": ""
-        },
-        {
           "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 - 第一财经",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rekgycjBESW0wTENWejdYNVZQRlBvNmg5ZHVTanZFUVNkRi15WnVKZHZmbWxrRVM2OWlZbUxEb08tbHJha0ZYUTk0Z3lKMHdo?oc=5",
           "source": "第一财经",
@@ -205,6 +196,15 @@
           "image": ""
         },
         {
+          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 第一财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYy1neHNBeGx6ZXpjSmpLSk1vNnJvUzRwamJzeXlVZVRNUUFQdGpHMzFJQlk4TUJhRFVOUURPRFdlOFpLQ3hEU18yVGFTYjdEcjRV?oc=5",
+          "source": "第一财经",
+          "published_at": "2026-07-17T14:00:00+08:00",
+          "type": "直播",
+          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 第一财经",
+          "image": ""
+        },
+        {
           "title": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 - 手机网易网",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MbV9GZktkOXoyRnFVTDJKbFA0VmdWaFhTZy1vVkhGdWtvbWpsMm45Nmh1dUlQRHZTZlk2dXc2RjFpNlBGdng5dW5EeEwwYXJEUlc3WGhkaTlvc2w5bG15MDln?oc=5",
           "source": "手机网易网",
@@ -214,12 +214,12 @@
           "image": ""
         },
         {
-          "title": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 - tgbus.com",
+          "title": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 - 电玩巴士",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92UU4wRWdvcGZybjEzcjF1STNrd3F0QWE3cG0tdWZLLVZQT0VlRV90TGpDOWZkLXo4aFZxbVA2Z0dmNDY3N1E?oc=5",
-          "source": "tgbus.com",
+          "source": "电玩巴士",
           "published_at": "2026-07-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 tgbus.com",
+          "summary": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 电玩巴士",
           "image": ""
         },
         {
@@ -337,7 +337,7 @@
         },
         {
           "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlTDZqM3R3emtHRlRtTk5oblM5NUxxUUI4a01Lb1VocFNvUkN3bG1OZVQxMENOWENqS3dLczcxZFJaYjJvMm5BcUdOSFZhVmItV3dRTA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ndEpiWFZsVkhMTkUtam9vUGhBd0lzU3hUNjZoLUF1eFNEcGVQZ01lRjcyWnZMNFRjWkRMeG9waExHeWVHRzFkUTByblRjVzJKdEE?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-08-11T10:30:00+08:00",
           "type": "媒体",
@@ -445,12 +445,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - stcn.com",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
-          "source": "证券时报",
+          "source": "stcn.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 stcn.com",
+          "image": ""
+        },
+        {
+          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 第一财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYy1neHNBeGx6ZXpjSmpLSk1vNnJvUzRwamJzeXlVZVRNUUFQdGpHMzFJQlk4TUJhRFVOUURPRFdlOFpLQ3hEU18yVGFTYjdEcjRV?oc=5",
+          "source": "第一财经",
+          "published_at": "2026-07-17T14:00:00+08:00",
+          "type": "直播",
+          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 第一财经",
           "image": ""
         },
         {
@@ -543,12 +552,12 @@
       "description": "展区、展台、探馆、现场走访和新品展示类直播/回放入口。",
       "items": [
         {
-          "title": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 - tgbus.com",
+          "title": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 - 电玩巴士",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92UU4wRWdvcGZybjEzcjF1STNrd3F0QWE3cG0tdWZLLVZQT0VlRV90TGpDOWZkLXo4aFZxbVA2Z0dmNDY3N1E?oc=5",
-          "source": "tgbus.com",
+          "source": "电玩巴士",
           "published_at": "2026-07-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 tgbus.com",
+          "summary": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 电玩巴士",
           "image": ""
         },
         {
@@ -611,15 +620,6 @@
           "published_at": "2026-07-21T17:51:45+08:00",
           "type": "论坛",
           "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
-          "image": ""
-        },
-        {
-          "title": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 - 网易新闻客户端",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iY0tITzhQR0VKYU1BN052ZE45LTNZRDVxX2RrR1k3X1Mtc1lsWXNNT1l3YkJTZVlHTEhiZGJMd2pjc2RWQ1ExWk1MS0hfaUg5SElSNzhJeEpmcVV5?oc=5",
-          "source": "网易新闻客户端",
-          "published_at": "2026-07-21T01:52:00+08:00",
-          "type": "直播",
-          "summary": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 网易新闻客户端",
           "image": ""
         },
         {
@@ -806,9 +806,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "tgbus.com",
+      "source": "电玩巴士",
       "title": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网",
-      "point": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 tgbus.com",
+      "point": "努比亚WAIC 参展矩阵揭晓！AI 智能体手机、陪伴萌宠、直播设备三款新品齐登场| 安卓中文网 电玩巴士",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92UU4wRWdvcGZybjEzcjF1STNrd3F0QWE3cG0tdWZLLVZQT0VlRV90TGpDOWZkLXo4aFZxbVA2Z0dmNDY3N1E?oc=5",
       "published_at": "2026-07-15T15:00:00+08:00",
       "type": "直播"
