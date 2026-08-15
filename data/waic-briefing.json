@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-16T05:25:09.696577+08:00",
+  "generated_at": "2026-08-16T05:47:47.735948+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 05:25",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 05:47",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 119 条、直播 18 条、观点 2 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 98 条、直播 19 条、观点 22 条、论坛 20 条，已按企业家阅读场景分组。",
     "虎嗅网：一切皆插件，Harness 到底能改什么 - 虎嗅网",
     "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
     "虎嗅网：华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅网",
@@ -248,6 +248,60 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
+          "title": "WAIC 2026展商精彩回顾 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FUHBLY1E5UkpHZjRBZnlpVHhFYkw0X3BoTEg1ZkNfYUdCbkdybzI2QUNmZlhQaVlUYktOZndTenEtWlVTa2FGQlZGc2p1VXhCY1R3dlBnaw?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-24T15:00:00+08:00",
+          "type": "观点",
+          "summary": "WAIC 2026展商精彩回顾 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC商汤大装置，揭秘 AI 背后的“Token工厂” - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5icko0aUlUWVdFejh1S2tWSkdQOVJ1ZDZRNnF5UjlTN2NwcVRFX1FEUHhkNlRrODcyNVhWd0ZKV3Bud0F0eVg0Z3ZRMzhEY2FUTHZleDdpaw?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-21T15:00:00+08:00",
+          "type": "观点",
+          "summary": "WAIC商汤大装置，揭秘 AI 背后的“Token工厂” bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026 WD 现场高光回顾！ - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sOUZSMU1zbzhVNFhSQ0FkWFF5TEFEY3l6RThWbms4Y1hGYnlpaHVLVFpIQ1VBSkxQMkptcVFTa1JBNG5vc2s1RGdZMldhS1I0emxuOE9EQQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-21T15:00:00+08:00",
+          "type": "观点",
+          "summary": "WAIC 2026 WD 现场高光回顾！ bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "好久不见，首形Origin F1 亮相世界人工智能大会WAIC - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUmRlU0dINmV2Z3dnRndKR1l0OTJVa2ViU25MZjYza0FWdkYtWDRrWlUzUjdHRlJmZm1uZ0ZHWWk3ek10R08wSkkzVjhRZWxCSGdBQ0NpWQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "观点",
+          "summary": "好久不见，首形Origin F1 亮相世界人工智能大会WAIC bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "逛完今年的WAIC，发现AI+机器人要「变天」了…8大亮点全搜罗！ - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CUWlIY050OEY5aWxZYlFnSVNwZmZvd3FrbWxmZzZVTk51YkFQM20yU3JIRERzRDhpVWRrZlFIb2hpcVpUdlpJME5KdklZc0Q3WHV5NFVzMA?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "观点",
+          "summary": "逛完今年的WAIC，发现AI+机器人要「变天」了…8大亮点全搜罗！ bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "梅卡曼德具身智能“眼脑手”WAIC 2026现场演示：线束插头柔性抓取&精密装配 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52YnNkZ3BkVGc1elZ2V2dJclRhX0hoUXEtVWxDcEVVbU9lbVl6NVlNUHN5VU9JdEF3V3lTbE8xNmhxa0xNamIzT0kybTduQlQwRUJodXR1Zw?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-19T15:00:00+08:00",
+          "type": "观点",
+          "summary": "梅卡曼德具身智能“眼脑手”WAIC 2026现场演示：线束插头柔性抓取&精密装配 bilibili.com",
+          "image": ""
+        },
+        {
           "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
           "source": "虎嗅网",
@@ -263,6 +317,42 @@
           "published_at": "2026-07-19T09:24:43+08:00",
           "type": "观点",
           "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
+          "image": ""
+        },
+        {
+          "title": "上海WAIC：超节点、机器人、大模型、AI应用，这才是全球AI的大盛会！【科技狐】 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5ZE03X2d3NHR1akg4Zi1hMDNkSWcxUGtLNF9PcUtsblZvR0pCQ0hYVzdjamhBSkhuMUpfZTI0QTVfUjVNOFU3anhiVmx0bmJzeUJkUXNWUQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "观点",
+          "summary": "上海WAIC：超节点、机器人、大模型、AI应用，这才是全球AI的大盛会！【科技狐】 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "财联社探馆 揭秘WAIC 十大镇馆之宝 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OTnpjYTV5RzBjakE3cTVqc042N2tCaUxHNWVtQ3YtZVl0cVNSMDMxSUNvOWJHZ3I2SDhPVWY0QkZuUWxVdG5Va2ZMV2pxdEZURGpsMjVWSQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "观点",
+          "summary": "财联社探馆 揭秘WAIC 十大镇馆之宝 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "华为昇腾950超节点真机亮相世界人工智能大会WAIC - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53R0E0cG5iVzJISmFHRVBjMnp3NlVzclE1dVE2aWJoSEpmNy1yMlk2SHp4c2JtZUVGQlZnQWtaXzktTnAzWHNpN2kzM0M4UDZ4U1VuMGpvRQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "观点",
+          "summary": "华为昇腾950超节点真机亮相世界人工智能大会WAIC bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026展商预告：阿里巴巴 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iMXpCbG03QmJJUDM2aTEzYmhaYy1PVlA3RUR4RkZ6R1N4RjdMYmhXNHk2UnRoOWN0dFNUZG5HUVdOc2M1cWo3dllOX1RGSTZPOFltbjNPMA?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2026-07-08T15:00:00+08:00",
+          "type": "观点",
+          "summary": "WAIC 2026展商预告：阿里巴巴 bilibili.com",
           "image": ""
         }
       ]
@@ -508,12 +598,12 @@
           "image": ""
         },
         {
-          "title": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 - Bilibili",
+          "title": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 - bilibili.com",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ySVlHVFFVU0lKNFVNQ1VRZm5rMGRtQUZ1TzQ2SkVCeHNGQ0R4VjlPaFhsOEZ4Vmg2alBiM2N5RTd6dl81V2NycEZzcFZoOC1aR2poSXlKMA?oc=5",
-          "source": "Bilibili",
+          "source": "bilibili.com",
           "published_at": "2025-07-26T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 Bilibili",
+          "type": "观点",
+          "summary": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 bilibili.com",
           "image": ""
         },
         {
@@ -704,6 +794,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2025 氪话未来直播间 - topics.36kr.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QN1FDdFo2QWdSN1NhbXVjQjVIODY2YkE2M0JqR0NJTi1uSkdqZkt4elpOTFZpQThvTXhwV3R6bm1VdjRoSXNkMjN1anl0T1U?oc=5",
+          "source": "topics.36kr.com",
+          "published_at": "2025-07-13T07:57:28+08:00",
+          "type": "直播",
+          "summary": "WAIC 2025 氪话未来直播间 topics.36kr.com",
+          "image": ""
+        },
+        {
           "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
           "source": "moe.gov.cn",
@@ -836,32 +935,32 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "虎嗅网",
-      "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心",
-      "point": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
-      "published_at": "2026-07-19T15:00:00+08:00",
+      "source": "bilibili.com",
+      "title": "WAIC 2026展商精彩回顾",
+      "point": "WAIC 2026展商精彩回顾 bilibili.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FUHBLY1E5UkpHZjRBZnlpVHhFYkw0X3BoTEg1ZkNfYUdCbkdybzI2QUNmZlhQaVlUYktOZndTenEtWlVTa2FGQlZGc2p1VXhCY1R3dlBnaw?oc=5",
+      "published_at": "2026-07-24T15:00:00+08:00",
       "type": "观点"
     },
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "搜狐网",
-      "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
-      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
-      "published_at": "2026-07-19T09:24:43+08:00",
+      "source": "bilibili.com",
+      "title": "WAIC商汤大装置，揭秘 AI 背后的“Token工厂”",
+      "point": "WAIC商汤大装置，揭秘 AI 背后的“Token工厂” bilibili.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5icko0aUlUWVdFejh1S2tWSkdQOVJ1ZDZRNnF5UjlTN2NwcVRFX1FEUHhkNlRrODcyNVhWd0ZKV3Bud0F0eVg0Z3ZRMzhEY2FUTHZleDdpaw?oc=5",
+      "published_at": "2026-07-21T15:00:00+08:00",
       "type": "观点"
     },
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "rmzxw.com.cn",
-      "title": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验",
-      "point": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
-      "published_at": "2026-08-10T14:26:00+08:00",
-      "type": "直播"
+      "source": "bilibili.com",
+      "title": "WAIC 2026 WD 现场高光回顾！",
+      "point": "WAIC 2026 WD 现场高光回顾！ bilibili.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sOUZSMU1zbzhVNFhSQ0FkWFF5TEFEY3l6RThWbms4Y1hGYnlpaHVLVFpIQ1VBSkxQMkptcVFTa1JBNG5vc2s1RGdZMldhS1I0emxuOE9EQQ?oc=5",
+      "published_at": "2026-07-21T15:00:00+08:00",
+      "type": "观点"
     }
   ],
   "sources": [
