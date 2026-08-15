@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-16T03:46:47.836676+08:00",
+  "generated_at": "2026-08-16T04:27:00.560937+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 03:46",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 04:27",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 120 条、直播 18 条、观点 2 条、论坛 21 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 121 条、直播 18 条、观点 2 条、论坛 20 条，已按企业家阅读场景分组。",
     "36 Kr：36氪_让一部分人先看到未来 - 36 Kr",
     "虎嗅网：一切皆插件，Harness 到底能改什么 - 虎嗅网",
     "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
@@ -24,15 +24,6 @@
           "published_at": "2026-07-31T15:00:00+08:00",
           "type": "论坛",
           "summary": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zS0dNRWtVUDN1eFNBdl9XM0hudGhOby12ZjRDczhubWk0cUNyRWY0eHZZbVo5a09nWGpGbnF3SVk2MWtzeU9WZldpeTExcFRNZG1MeDVRejdHY2FqdWNBVmlR?oc=5",
-          "source": "手机网易网",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 手机网易网",
           "image": ""
         },
         {
@@ -123,6 +114,15 @@
           "published_at": "2026-07-13T15:00:00+08:00",
           "type": "论坛",
           "summary": "智能伙伴，共创未来：习近平将出席2026世界人工智能大会大会开幕式并发表主旨讲话，大会有5大亮点，今日已一票难求 智慧城市行业分析",
+          "image": ""
+        },
+        {
+          "title": "进入倒计时！毕马威将在2026世界人工智能大会举办AI商业化论坛 - kpmg.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZXRuUXBUMW5pTzBrYi1jSFFqaVA4czhJSXo5V3A4dHZjZFJiY2NJZUotdlNfMEhRNl9SclFMYTJnbVFteUhPT3FmX3puX3pQZDU5aV83WVFSZzdUSUZfclZZejNyc284OFowVmpmVFpndGlxMFdiRm4yeDNnV3NJU0NGVDlfSy0taDNNdXpCMVRtOVcxY3Jzc1FMZlVFRDBZSzlhWEJzendpTDFQaDZHaEdMSkpuaXhtVUE?oc=5",
+          "source": "kpmg.com",
+          "published_at": "2026-07-09T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "进入倒计时！毕马威将在2026世界人工智能大会举办AI商业化论坛 kpmg.com",
           "image": ""
         }
       ]
@@ -276,7 +276,7 @@
           "title": "36氪_让一部分人先看到未来 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1HRUZNcUZONk50T2hMc2RIQlRPcUdoYUpPWUZyZXN2YmpTVncxYm45bS0wMFYxZw?oc=5",
           "source": "36 Kr",
-          "published_at": "2026-08-15T17:46:14+08:00",
+          "published_at": "2026-08-15T17:46:17+08:00",
           "type": "媒体",
           "summary": "36氪_让一部分人先看到未来 36 Kr",
           "image": ""
@@ -397,15 +397,6 @@
           "published_at": "2026-08-06T22:03:09+08:00",
           "type": "媒体",
           "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - 手机网易网",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zS0dNRWtVUDN1eFNBdl9XM0hudGhOby12ZjRDczhubWk0cUNyRWY0eHZZbVo5a09nWGpGbnF3SVk2MWtzeU9WZldpeTExcFRNZG1MeDVRejdHY2FqdWNBVmlR?oc=5",
-          "source": "手机网易网",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 手机网易网",
           "image": ""
         },
         {
@@ -765,20 +756,20 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "手机网易网",
-      "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026",
-      "point": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zS0dNRWtVUDN1eFNBdl9XM0hudGhOby12ZjRDczhubWk0cUNyRWY0eHZZbVo5a09nWGpGbnF3SVk2MWtzeU9WZldpeTExcFRNZG1MeDVRejdHY2FqdWNBVmlR?oc=5",
-      "published_at": "2026-07-23T15:00:00+08:00",
+      "source": "启明创投",
+      "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办",
+      "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
+      "published_at": "2026-07-22T15:00:00+08:00",
       "type": "论坛"
     },
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "启明创投",
-      "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办",
-      "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
-      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
+      "source": "blog.csdn.net",
+      "title": "2026世界人工智能大会开幕：润建股份展示Token全栈服务，多举措推动AI落地与出海",
+      "point": "2026世界人工智能大会开幕：润建股份展示Token全栈服务，多举措推动AI落地与出海 blog.csdn.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXSFZ0bHNhdnZvUm9DR3REWV9YZGQxNnA5ZkFwNkNPMzhfOEZQU0J5QzVzbnJhTEs2MWJWOGJDUnBoOUN1RXlHUDFFa0hsX254U09vaEgtdEpjZ0xQN1FNOU9lOTExNmI3Q2JJ?oc=5",
       "published_at": "2026-07-22T15:00:00+08:00",
       "type": "论坛"
     },
@@ -789,7 +780,7 @@
       "title": "36氪_让一部分人先看到未来",
       "point": "36氪_让一部分人先看到未来 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1HRUZNcUZONk50T2hMc2RIQlRPcUdoYUpPWUZyZXN2YmpTVncxYm45bS0wMFYxZw?oc=5",
-      "published_at": "2026-08-15T17:46:14+08:00",
+      "published_at": "2026-08-15T17:46:17+08:00",
       "type": "媒体"
     },
     {
