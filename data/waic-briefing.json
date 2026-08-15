@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-15T13:28:49.171456+08:00",
+  "generated_at": "2026-08-15T13:54:50.611199+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月15日 13:28",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月15日 13:54",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 119 条、直播 19 条、观点 2 条、论坛 23 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 121 条、直播 18 条、观点 2 条、论坛 21 条，已按企业家阅读场景分组。",
     "虎嗅网：从产业数字化十节点，到产业AI 化十节点 - 虎嗅网",
     "虎嗅网：一切皆插件，Harness 到底能改什么 - 虎嗅网",
     "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
@@ -63,15 +63,6 @@
           "image": ""
         },
         {
-          "title": "上海AI大会WAIC今天开幕！5000培训名额+300款首发，首次设一人公司展区 。#上海AI大会 #WAIC2026 #一人公司展区 #人工智能大会2026 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41UXREWDNuS0hueWdNVkQxMk9KM1o5eG9MUlJ4b0xFQlBtNTRDbWY1S0NIc0x0RGFaZ3B0bU1DVFNSUUFja28xX0RmRzNwZnJyT2pHQXBnOA?oc=5",
-          "source": "Bilibili",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "上海AI大会WAIC今天开幕！5000培训名额+300款首发，首次设一人公司展区 。#上海AI大会 #WAIC2026 #一人公司展区 #人工智能大会2026 Bilibili",
-          "image": ""
-        },
-        {
           "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kemdpQ2RqWVg0bjhMQXlHeFlWNWhSTHFKWkF5OFJGa0hQd21WckZQbEZUdjNjUHAtU21iVzBOY0JsVzBnZjhmckRkVVNSdHNObE1vOWktRldLMXFTT1ZkQkdMbDNSZw?oc=5",
           "source": "哈尔滨工业大学",
@@ -90,21 +81,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 + 收藏 - stcn.com",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
-          "source": "stcn.com",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 + 收藏 stcn.com",
-          "image": ""
-        },
-        {
           "title": "三地四馆、规模创纪录，WAIC 2026今日开幕-观察者网 - 观察者",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSE95eVVKV2IxbHd4amRvSV9zVE4tVjFLTEw2VXV1MWY0eDBucVkyZVVZNkQ5MHJ0OTI2djlpQVQzSzFhWEgxZWFrSFZ0allkeFFDLVR3LUZacGdPVmJHZ3VyRTJKZw?oc=5",
           "source": "观察者",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
           "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕-观察者网 观察者",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
+          "source": "证券时报",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报",
           "image": ""
         },
         {
@@ -124,6 +115,15 @@
           "type": "论坛",
           "summary": "即将开幕，多款具身智能与AI基础设施新品亮相WAIC 2026 36 Kr",
           "image": ""
+        },
+        {
+          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVzRjSzVVMWNqbXRYYUNIUFJZX2FoUlBKa2tJOXZRazlXYTljNTZ0c0RzazdDcnJhd2U3R21MVHg4QTR0MVZONndHS1h6Zw?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-07-15T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36 Kr",
+          "image": ""
         }
       ]
     },
@@ -142,12 +142,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 - 手机网易网",
+          "title": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SZkM0WGZJclJ5SGFNNmhvWW1mSmUyeDdURi1wSklFY1FXWFYtbktWV0QwaTlfVFU5MC0zOExWSTJqcXhBN3RROTFfVTVLX1JDMUw2UUgwbVBTQUdaUGVDZWdB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 手机网易网",
+          "summary": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 163.com",
           "image": ""
         },
         {
@@ -187,12 +187,12 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - csdn.net",
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - CSDN",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZXzEtV3ZyWGpEQkU1b0VjUlJFaEFaT0I3bE4xT1NyMEE5U0Y1SzNNUy1aS1JOTXhXRWIxUW81SzR1VmVKVVZGaHRpY2Rkak1yWTBrcXlqRWxUMVM2U3c?oc=5",
-          "source": "csdn.net",
+          "source": "CSDN",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 csdn.net",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 CSDN",
           "image": ""
         },
         {
@@ -205,15 +205,6 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026-世界人工智能大会 - live.bilibili.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmTFg3d2gyRms0TWxOT3I1aVExQXlVYWhUYjd6WWphQ1VRcFQ3QzhJNHV2Ri04Y2QybHhadkVfdTlTV3V6S2QzbkM2dmtyWGplTVlrb0NVMExxblo3bWRZVFRBcGJlUHdtZ1hRSUN6OA?oc=5",
-          "source": "live.bilibili.com",
-          "published_at": "2026-07-15T00:52:35+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026-世界人工智能大会 live.bilibili.com",
-          "image": ""
-        },
-        {
           "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 新浪网",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWXFEUXdJeDVyZE0yalFvdENPU1ZiWTExelBBVVNqMlBIdGQ1RDM0OGFfQS1wUFhnX1dLWlhKYndGSXNwRzZUX0Y4dzl2WmhVdmctd25KTEtlMDdEcGNBVzZHYm1RNzlzTF81dTZ0TXJXRVhTNXZhZUNGVQ?oc=5",
           "source": "新浪网",
@@ -223,12 +214,12 @@
           "image": ""
         },
         {
-          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 新浪财经",
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 新浪网",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzFpdDU5eDlpX1B5eEJwNERrQkNxTGJmVjJMXzlJbFNCLWVweENkUmRSbEZvQlBlZGlVSU9Zb21PTGcwdUptcGdrX3AyQW9YaTZSRGlvbkNKYXR4OHZjbVd1UUp5amljSElOUzBzVGowVTdHY2Fjc1pyeHB6ckwwY284Qy02NGs?oc=5",
-          "source": "新浪财经",
+          "source": "新浪网",
           "published_at": "2026-07-07T15:00:00+08:00",
           "type": "直播",
-          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 新浪财经",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 新浪网",
           "image": ""
         },
         {
@@ -238,6 +229,15 @@
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-06-28T15:00:00+08:00",
+          "type": "直播",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
           "image": ""
         }
       ]
@@ -454,12 +454,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 + 收藏 - stcn.com",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
-          "source": "stcn.com",
+          "source": "证券时报",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 + 收藏 stcn.com",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报",
           "image": ""
         },
         {
@@ -508,12 +508,12 @@
           "image": ""
         },
         {
-          "title": "【平晓黎 百度副总裁】】电商&数字人分论坛（2025百度世界大会） - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BNWdZSmY2dzBwdHVDYTBFYi16X3hoczVRTkNxbTNZbEFxMG55WkNRMUFWek1TQVZ0aERtRGZiQm5HNjBwLXNOZFhHVWhneUJWU2dYZUFDaw?oc=5",
+          "title": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ySVlHVFFVU0lKNFVNQ1VRZm5rMGRtQUZ1TzQ2SkVCeHNGQ0R4VjlPaFhsOEZ4Vmg2alBiM2N5RTd6dl81V2NycEZzcFZoOC1aR2poSXlKMA?oc=5",
           "source": "Bilibili",
-          "published_at": "2025-11-13T16:00:00+08:00",
-          "type": "论坛",
-          "summary": "【平晓黎 百度副总裁】】电商&数字人分论坛（2025百度世界大会） Bilibili",
+          "published_at": "2025-07-26T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 Bilibili",
           "image": ""
         },
         {
@@ -526,15 +526,6 @@
           "image": ""
         },
         {
-          "title": "世界 AI峰会 ，DeepSeek缺席，美国拒签声明， AI 霸权破灭 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0ZJMkxoZkVSY1Zsd2VtQVR4OGFfZW9PVjk5Q25MNG1pLVRTUkFrTy1ON1VrUXFWY1dzMVVlR296bzZGT29nbHk0ekhFZkFJc0dSUEU1NU1PVVh2eUdiUkJHQXBTeVZQQWZlZll4N2xndld1WFJMRHNhZWlhQ0ZmSHRMTTE?oc=5",
-          "source": "Bilibili",
-          "published_at": "2023-10-06T07:12:31+08:00",
-          "type": "论坛",
-          "summary": "世界 AI峰会 ，DeepSeek缺席，美国拒签声明， AI 霸权破灭 Bilibili",
-          "image": ""
-        },
-        {
           "title": "推动智能技术与教育融合创新 2022世界人工智能大会教育论坛开幕 - ecnu.edu.cn",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZDZyUHdsN3RQZTg4S24tQlNnNEQxS0ZUTU5oenMtZFZlLVRESThZSGp3a05SRGZzNzF0VGs1eG9SeVh6UzNaZE1JVzlHUHZfd2N0Sk93?oc=5",
           "source": "ecnu.edu.cn",
@@ -544,12 +535,12 @@
           "image": ""
         },
         {
-          "title": "敢破局者，见未来——WAIC 2026 思想者论坛正式启幕 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGx5RjcwVWdwWUVJSnhPemd6N3NGUm80bDdYMXZ1Snc1MEJ0VXJ0ODZjTk1rcmRMelo4ZG1nLUl1Wks3SjI2UzNPdmFtVzd0ZndVSEZWZFo1RFFMVE5iR3lodGNaY2RRcDlvWEtUWWIwektuNm8zSFk3ZmJLWmU2aXFrZWdWNzVSZm1aZm1B?oc=5",
+          "title": "高通总裁兼CEO安蒙（Cristiano Amon）开幕式主题演讲 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDeEtUbkJCNGZNSHNPV0pGbTU4VEVUbDJNOWFGLThfclJjOGdsVF9SeDhCalZmME1pT0hDd3JKVWp0T3NYTWJxY1ZiczN4ZTVhZGxTVE9QTQ?oc=5",
           "source": "Bilibili",
-          "published_at": "2019-05-21T03:38:38+08:00",
+          "published_at": "2022-09-01T15:00:00+08:00",
           "type": "论坛",
-          "summary": "敢破局者，见未来——WAIC 2026 思想者论坛正式启幕 Bilibili",
+          "summary": "高通总裁兼CEO安蒙（Cristiano Amon）开幕式主题演讲 Bilibili",
           "image": ""
         }
       ]
@@ -570,12 +561,12 @@
           "image": ""
         },
         {
-          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 新浪财经",
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 新浪网",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzFpdDU5eDlpX1B5eEJwNERrQkNxTGJmVjJMXzlJbFNCLWVweENkUmRSbEZvQlBlZGlVSU9Zb21PTGcwdUptcGdrX3AyQW9YaTZSRGlvbkNKYXR4OHZjbVd1UUp5amljSElOUzBzVGowVTdHY2Fjc1pyeHB6ckwwY284Qy02NGs?oc=5",
-          "source": "新浪财经",
+          "source": "新浪网",
           "published_at": "2026-07-07T15:00:00+08:00",
           "type": "直播",
-          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 新浪财经",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 新浪网",
           "image": ""
         }
       ]
@@ -605,12 +596,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 - 手机网易网",
+          "title": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 - 163.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SZkM0WGZJclJ5SGFNNmhvWW1mSmUyeDdURi1wSklFY1FXWFYtbktWV0QwaTlfVFU5MC0zOExWSTJqcXhBN3RROTFfVTVLX1JDMUw2UUgwbVBTQUdaUGVDZWdB?oc=5",
-          "source": "手机网易网",
+          "source": "163.com",
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 手机网易网",
+          "summary": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 163.com",
           "image": ""
         },
         {
@@ -641,12 +632,12 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - csdn.net",
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - CSDN",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZXzEtV3ZyWGpEQkU1b0VjUlJFaEFaT0I3bE4xT1NyMEE5U0Y1SzNNUy1aS1JOTXhXRWIxUW81SzR1VmVKVVZGaHRpY2Rkak1yWTBrcXlqRWxUMVM2U3c?oc=5",
-          "source": "csdn.net",
+          "source": "CSDN",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 csdn.net",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 CSDN",
           "image": ""
         },
         {
@@ -665,15 +656,6 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "媒体",
           "summary": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户观看AI内容 TradingView",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026-世界人工智能大会 - live.bilibili.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmTFg3d2gyRms0TWxOT3I1aVExQXlVYWhUYjd6WWphQ1VRcFQ3QzhJNHV2Ri04Y2QybHhadkVfdTlTV3V6S2QzbkM2dmtyWGplTVlrb0NVMExxblo3bWRZVFRBcGJlUHdtZ1hRSUN6OA?oc=5",
-          "source": "live.bilibili.com",
-          "published_at": "2026-07-15T00:52:35+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026-世界人工智能大会 live.bilibili.com",
           "image": ""
         },
         {
@@ -825,9 +807,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "新浪财经",
+      "source": "新浪网",
       "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会",
-      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 新浪财经",
+      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 新浪网",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzFpdDU5eDlpX1B5eEJwNERrQkNxTGJmVjJMXzlJbFNCLWVweENkUmRSbEZvQlBlZGlVSU9Zb21PTGcwdUptcGdrX3AyQW9YaTZSRGlvbkNKYXR4OHZjbVd1UUp5amljSElOUzBzVGowVTdHY2Fjc1pyeHB6ckwwY284Qy02NGs?oc=5",
       "published_at": "2026-07-07T15:00:00+08:00",
       "type": "直播"
