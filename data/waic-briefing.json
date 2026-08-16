@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-16T07:47:01.809634+08:00",
+  "generated_at": "2026-08-16T09:37:36.715207+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 07:47",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 09:37",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 117 条、直播 18 条、观点 2 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 120 条、直播 16 条、观点 1 条、论坛 20 条，已按企业家阅读场景分组。",
     "虎嗅网：一切皆插件，Harness 到底能改什么 - 虎嗅网",
     "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
+    "36 Kr：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
     "虎嗅网：华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅网",
-    "36 Kr：冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36 Kr",
-    "虎嗅网：荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 - 虎嗅网"
+    "36 Kr：冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36 Kr"
   ],
   "sections": [
     {
@@ -72,21 +72,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
-          "source": "证券时报",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报",
-          "image": ""
-        },
-        {
           "title": "三地四馆、规模创纪录，WAIC 2026今日开幕-观察者网 - 观察者",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSE95eVVKV2IxbHd4amRvSV9zVE4tVjFLTEw2VXV1MWY0eDBucVkyZVVZNkQ5MHJ0OTI2djlpQVQzSzFhWEgxZWFrSFZ0allkeFFDLVR3LUZacGdPVmJHZ3VyRTJKZw?oc=5",
           "source": "观察者",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
           "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕-观察者网 观察者",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
+          "source": "证券时报",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报",
           "image": ""
         },
         {
@@ -160,15 +160,6 @@
           "image": ""
         },
         {
-          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 - 第一财经",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rekgycjBESW0wTENWejdYNVZQRlBvNmg5ZHVTanZFUVNkRi15WnVKZHZmbWxrRVM2OWlZbUxEb08tbHJha0ZYUTk0Z3lKMHdo?oc=5",
-          "source": "第一财经",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "直播",
-          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 第一财经",
-          "image": ""
-        },
-        {
           "title": "直播预约| 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 - 启明创投",
           "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPTnYwM0NyX1JObFRzUU9DNUxhOUNPLVNrdG56TTRTRUpHc0R5UmRxTS01cTZaYlRrY05vWUlnR1l2ejNpd3RYYzFiT0pnYzhCamZ4MHhfemVpOUVfc2dqT1UxWGNEYm95RVBBd2FjMXRsc2RDZ3N4a0ZkQVhIZTFURGhkRndWN2c1MnFwS3lFX3VNc2htTkJUZng4YXRSQXZqNlJkUmdiVjZlYUZ0Tjcwa3VmdDVyVUt2UzZia0VPVC1SU3RpTEFoTEptYTBXSXZ0VGVsWU1qa3JZeG5yYzdUODJyOGV3YWZfQ0dFTGxJUHp2dmprQmQtbElRalN1TDMySkxmcWYteWtibndPSVowZVE3YnJDb1luamxUU0NaVlYycHI2UXRzVDBMbEJQcFRETFozQVlSRmowTXZZblVMMjhTVTRkbTJwU0c5UUl1QkZDbGR4WU9PNmZvbWZjNWR3OVU0VWJVS0tzSThUYmFBb2FnYmtPZktDcjJUalkwVl9aR001bFFoRk9RcHJUNmdNY2lRemU1M2dlN3djX05VS1N2YnR3VXUxRXZvWl9vZFZjLWIzd2NHei04OURLYUFsbHlsOFFKQkp5OHU1SjgwaWhxR3MxVWw2VzhqVkotNjkyV2loZnN3b2FvY09rQkJrOXlGb3NMWGdKQVI1U2J5WnZONG1tM29XUHV5QlJIWlp6aW9odENjUkhjcFo4SE8wbFhYWFNyRUxnbjZGeWEyaQ?oc=5",
           "source": "启明创投",
@@ -184,15 +175,6 @@
           "published_at": "2026-07-19T05:22:34+08:00",
           "type": "直播",
           "summary": "芭乐直播改名字了最新版下载-芭乐直播改名字了2026最新版V.8.44.16-完整版-2265安卓网 香港中联办",
-          "image": ""
-        },
-        {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - CSDN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZXzEtV3ZyWGpEQkU1b0VjUlJFaEFaT0I3bE4xT1NyMEE5U0Y1SzNNUy1aS1JOTXhXRWIxUW81SzR1VmVKVVZGaHRpY2Rkak1yWTBrcXlqRWxUMVM2U3c?oc=5",
-          "source": "CSDN",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 CSDN",
           "image": ""
         },
         {
@@ -239,6 +221,24 @@
           "type": "直播",
           "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 香港中联办",
           "image": ""
+        },
+        {
+          "title": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 - 香港中联办",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ROTBnNldoSmY4UDE4MmEyYU5kcl9qa0g1OGRvSHpaTG5SYmlXUjRiYjFDVDR2WW9EUm5mVnFaLWQyUFo5RWg1M1Utd25FdFJ2eTZKdXJ2YVZmYzdJQ2RYZTJsZDRVRG0yMUx0d0JDdjNIaGVMMWwyUDJzTQ?oc=5",
+          "source": "香港中联办",
+          "published_at": "2026-06-14T15:00:00+08:00",
+          "type": "直播",
+          "summary": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 香港中联办",
+          "image": ""
+        },
+        {
+          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - hub.baai.ac.cn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkT1NhYU5QODFNMEVYMjgyNTQwd05uSWd0SUQ3SVNKTU1lQUxvX2hPSXN2a1E4UGhNakRCV1kzakRJOWNyaDBfMw?oc=5",
+          "source": "hub.baai.ac.cn",
+          "published_at": "2025-07-21T15:00:00+08:00",
+          "type": "直播",
+          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 hub.baai.ac.cn",
+          "image": ""
         }
       ]
     },
@@ -247,15 +247,6 @@
       "title": "科技与科普创作者观点",
       "en": "Creator and KOL viewpoints",
       "items": [
-        {
-          "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "观点",
-          "summary": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅网",
-          "image": ""
-        },
         {
           "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - Sohu",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
@@ -288,6 +279,15 @@
           "published_at": "2026-08-14T12:29:19+08:00",
           "type": "媒体",
           "summary": "寒王、摩王“期中考试”不及格？ 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY1BwOHBWY1J6MFU0NHFzQzNxN2ZLVjd3aHpzSDkxQkJNRjV4SnBxbGwyQTRHVWlkeVlSMlFQdzRjRFRxSzkxX0d6bkM4UQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-14T00:23:32+08:00",
+          "type": "媒体",
+          "summary": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36 Kr",
           "image": ""
         },
         {
@@ -370,15 +370,6 @@
           "type": "媒体",
           "summary": "扎克伯格，发文反驳“AI担忧” 36 Kr",
           "image": ""
-        },
-        {
-          "title": "手掌、桌面与车轮，端侧AI打响“入口之战” - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5cDNYMzZKZVBja1MxdF9UOGV5MWlXVWJwMTl0Zm1TRV80ZVMyWGtjXzFhcXJHZmxMNEdndDZPNGl2LXFfMmtQekR6d09zdw?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-11T02:11:00+08:00",
-          "type": "媒体",
-          "summary": "手掌、桌面与车轮，端侧AI打响“入口之战” 36 Kr",
-          "image": ""
         }
       ]
     }
@@ -415,15 +406,6 @@
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21jingji.com",
-          "image": ""
-        },
-        {
-          "title": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 - 第一财经",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rekgycjBESW0wTENWejdYNVZQRlBvNmg5ZHVTanZFUVNkRi15WnVKZHZmbWxrRVM2OWlZbUxEb08tbHJha0ZYUTk0Z3lKMHdo?oc=5",
-          "source": "第一财经",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "直播",
-          "summary": "直播丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 第一财经",
           "image": ""
         },
         {
@@ -517,12 +499,12 @@
           "image": ""
         },
         {
-          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - 智源社区",
+          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkT1NhYU5QODFNMEVYMjgyNTQwd05uSWd0SUQ3SVNKTU1lQUxvX2hPSXN2a1E4UGhNakRCV1kzakRJOWNyaDBfMw?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
-          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 hub.baai.ac.cn",
           "image": ""
         },
         {
@@ -650,15 +632,6 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - CSDN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZXzEtV3ZyWGpEQkU1b0VjUlJFaEFaT0I3bE4xT1NyMEE5U0Y1SzNNUy1aS1JOTXhXRWIxUW81SzR1VmVKVVZGaHRpY2Rkak1yWTBrcXlqRWxUMVM2U3c?oc=5",
-          "source": "CSDN",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 CSDN",
-          "image": ""
-        },
-        {
           "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户观看AI内容 - TradingView",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GWGlGblNZcGZjUUl3aXJHWEtUM2F0djExdVN3SGRmSER1eV9XT1M1d0NUejV3UlFrNVkwVy1qMEExSWJteXQwRzJzajE0X1Y0VlFYQ0wwNktzZE5GSUJMUDctbXZwNXA5c3c?oc=5",
           "source": "TradingView",
@@ -731,12 +704,12 @@
           "image": ""
         },
         {
-          "title": "吕梁：书记市长直播带货老区特产强势圈粉- 中国日报网 - sx.chinadaily.com.cn",
+          "title": "吕梁：书记市长直播带货老区特产强势圈粉- 中国日报网 - China Daily",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfQVVWTlpmLXppTFpEdGpzWm13aXBCTHJFNWtfcURsTE92Y0pwZE1FZWhQOUJLaWtnNnVZdlh0RVd2MXJxLW1ha2g0YkZmQjhfY2dwX21oa2dCY05Udy1zdFU2dTAtUi0xdTNtY0t0MGpRZFFTWGNzcThsV0k?oc=5",
-          "source": "sx.chinadaily.com.cn",
+          "source": "China Daily",
           "published_at": "2020-05-16T15:00:00+08:00",
           "type": "直播",
-          "summary": "吕梁：书记市长直播带货老区特产强势圈粉- 中国日报网 sx.chinadaily.com.cn",
+          "summary": "吕梁：书记市长直播带货老区特产强势圈粉- 中国日报网 China Daily",
           "image": ""
         }
       ]
@@ -796,11 +769,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态",
-      "point": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVFJyY1RiNGt1VmkyMzBFNk1yM29sbHR5TkFrcjdNVzBMN0xJNVFTdG9HY0Z6ZzRiR3dsVTlTODNXTGlzSXhWRDQ5ZDJscVFMaFRZeQ?oc=5",
-      "published_at": "2026-08-13T19:35:38+08:00",
+      "source": "36 Kr",
+      "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜",
+      "point": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY1BwOHBWY1J6MFU0NHFzQzNxN2ZLVjd3aHpzSDkxQkJNRjV4SnBxbGwyQTRHVWlkeVlSMlFQdzRjRFRxSzkxX0d6bkM4UQ?oc=5",
+      "published_at": "2026-08-14T00:23:32+08:00",
       "type": "媒体"
     },
     {
@@ -836,16 +809,6 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "虎嗅网",
-      "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心",
-      "point": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
-      "published_at": "2026-07-19T15:00:00+08:00",
-      "type": "观点"
-    },
-    {
-      "channel": "嘉宾 / 自媒体",
-      "en": "Guests & Creators",
       "source": "Sohu",
       "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
       "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 Sohu",
@@ -862,6 +825,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
       "published_at": "2026-08-10T14:26:00+08:00",
       "type": "直播"
+    },
+    {
+      "channel": "嘉宾 / 自媒体",
+      "en": "Guests & Creators",
+      "source": "虎嗅网",
+      "title": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存",
+      "point": "WAIC 2026圆桌对话：AI重写工作流、产业与范式，伪需求与成本挑战并存 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQm00S1FYQUxLaVVuenE5WGZucG5iOVJOVWw0NlN6QndkUXo5QU5QRV94NjhrVE9nN0k0X2U2MjhSWEVuU1lnekx1Q3dwbjhxY3c?oc=5",
+      "published_at": "2026-07-31T15:00:00+08:00",
+      "type": "论坛"
     }
   ],
   "sources": [
