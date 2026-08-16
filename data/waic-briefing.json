@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-17T03:23:48.358084+08:00",
+  "generated_at": "2026-08-17T03:45:52.258725+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月17日 03:23",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月17日 03:45",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 129 条、直播 14 条、观点 1 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 128 条、直播 15 条、观点 1 条、论坛 20 条，已按企业家阅读场景分组。",
     "虎嗅网：一切皆插件，Harness 到底能改什么 - 虎嗅网",
     "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
     "36 Kr：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
@@ -187,6 +187,15 @@
           "image": ""
         },
         {
+          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - jfdaily.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
+          "source": "jfdaily.com",
+          "published_at": "2026-07-16T12:32:00+08:00",
+          "type": "直播",
+          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 jfdaily.com",
+          "image": ""
+        },
+        {
           "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
           "source": "36 Kr",
@@ -229,15 +238,6 @@
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
           "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 hub.baai.ac.cn",
-          "image": ""
-        },
-        {
-          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
-          "source": "moe.gov.cn",
-          "published_at": "2025-05-09T15:00:00+08:00",
-          "type": "直播",
-          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         }
       ]
