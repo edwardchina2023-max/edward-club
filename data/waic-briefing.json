@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-16T21:34:15.334037+08:00",
+  "generated_at": "2026-08-16T22:27:04.410965+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 21:34",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 22:27",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 125 条、直播 17 条、观点 1 条、论坛 18 条，已按企业家阅读场景分组。",
-    "36 Kr：36氪_让一部分人先看到未来 - 36 Kr",
+    "本轮抓取到 媒体 125 条、直播 16 条、观点 2 条、论坛 19 条，已按企业家阅读场景分组。",
     "虎嗅：一切皆插件，Harness 到底能改什么 - 虎嗅",
     "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
     "36 Kr：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
-    "虎嗅：华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅"
+    "虎嗅：华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅",
+    "36 Kr：冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36 Kr"
   ],
   "sections": [
     {
@@ -151,15 +151,6 @@
           "image": ""
         },
         {
-          "title": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 - 网易新闻客户端",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iY0tITzhQR0VKYU1BN052ZE45LTNZRDVxX2RrR1k3X1Mtc1lsWXNNT1l3YkJTZVlHTEhiZGJMd2pjc2RWQ1ExWk1MS0hfaUg5SElSNzhJeEpmcVV5?oc=5",
-          "source": "网易新闻客户端",
-          "published_at": "2026-07-21T01:52:00+08:00",
-          "type": "直播",
-          "summary": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 网易新闻客户端",
-          "image": ""
-        },
-        {
           "title": "直播预约| 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 - 启明创投",
           "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPTnYwM0NyX1JObFRzUU9DNUxhOUNPLVNrdG56TTRTRUpHc0R5UmRxTS01cTZaYlRrY05vWUlnR1l2ejNpd3RYYzFiT0pnYzhCamZ4MHhfemVpOUVfc2dqT1UxWGNEYm95RVBBd2FjMXRsc2RDZ3N4a0ZkQVhIZTFURGhkRndWN2c1MnFwS3lFX3VNc2htTkJUZng4YXRSQXZqNlJkUmdiVjZlYUZ0Tjcwa3VmdDVyVUt2UzZia0VPVC1SU3RpTEFoTEptYTBXSXZ0VGVsWU1qa3JZeG5yYzdUODJyOGV3YWZfQ0dFTGxJUHp2dmprQmQtbElRalN1TDMySkxmcWYteWtibndPSVowZVE3YnJDb1luamxUU0NaVlYycHI2UXRzVDBMbEJQcFRETFozQVlSRmowTXZZblVMMjhTVTRkbTJwU0c5UUl1QkZDbGR4WU9PNmZvbWZjNWR3OVU0VWJVS0tzSThUYmFBb2FnYmtPZktDcjJUalkwVl9aR001bFFoRk9RcHJUNmdNY2lRemU1M2dlN3djX05VS1N2YnR3VXUxRXZvWl9vZFZjLWIzd2NHei04OURLYUFsbHlsOFFKQkp5OHU1SjgwaWhxR3MxVWw2VzhqVkotNjkyV2loZnN3b2FvY09rQkJrOXlGb3NMWGdKQVI1U2J5WnZONG1tM29XUHV5QlJIWlp6aW9odENjUkhjcFo4SE8wbFhYWFNyRUxnbjZGeWEyaQ?oc=5",
           "source": "启明创投",
@@ -193,6 +184,15 @@
           "published_at": "2026-07-13T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪财经",
+          "image": ""
+        },
+        {
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzFpdDU5eDlpX1B5eEJwNERrQkNxTGJmVjJMXzlJbFNCLWVweENkUmRSbEZvQlBlZGlVSU9Zb21PTGcwdUptcGdrX3AyQW9YaTZSRGlvbkNKYXR4OHZjbVd1UUp5amljSElOUzBzVGowVTdHY2Fjc1pyeHB6ckwwY284Qy02NGs?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-07-07T15:00:00+08:00",
+          "type": "直播",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 新浪财经",
           "image": ""
         },
         {
@@ -248,6 +248,15 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
+          "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-07-19T15:00:00+08:00",
+          "type": "观点",
+          "summary": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
+          "image": ""
+        },
+        {
           "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
           "source": "搜狐网",
@@ -263,15 +272,6 @@
       "title": "媒体快讯与产业发布",
       "en": "Media updates and industry announcements",
       "items": [
-        {
-          "title": "36氪_让一部分人先看到未来 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1HRUZNcUZONk50T2hMc2RIQlRPcUdoYUpPWUZyZXN2YmpTVncxYm45bS0wMFYxZw?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-16T16:14:51+08:00",
-          "type": "媒体",
-          "summary": "36氪_让一部分人先看到未来 36 Kr",
-          "image": ""
-        },
         {
           "title": "一切皆插件，Harness 到底能改什么 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oeWNmemNpSWJBSFAybUsxWU1BeVZ6ZVNuc0d1c0t3TWxPdWJRMVlRQjZpcG9NSnBudDBTekVuN0RaRmdjYVhKSE1pU1hNVXE0UmpzbA?oc=5",
@@ -365,6 +365,15 @@
         {
           "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ndEpiWFZsVkhMTkUtam9vUGhBd0lzU3hUNjZoLUF1eFNEcGVQZ01lRjcyWnZMNFRjWkRMeG9waExHeWVHRzFkUTByblRjVzJKdEE?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-11T10:30:00+08:00",
+          "type": "媒体",
+          "summary": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlTDZqM3R3emtHRlRtTk5oblM5NUxxUUI4a01Lb1VocFNvUkN3bG1OZVQxMENOWENqS3dLczcxZFJaYjJvMm5BcUdOSFZhVmItV3dRTA?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-11T10:30:00+08:00",
           "type": "媒体",
@@ -508,21 +517,21 @@
           "image": ""
         },
         {
+          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36 Kr",
+          "image": ""
+        },
+        {
           "title": "推动智能技术与教育融合创新 2022世界人工智能大会教育论坛开幕 - ecnu.edu.cn",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZDZyUHdsN3RQZTg4S24tQlNnNEQxS0ZUTU5oenMtZFZlLVRESThZSGp3a05SRGZzNzF0VGs1eG9SeVh6UzNaZE1JVzlHUHZfd2N0Sk93?oc=5",
           "source": "ecnu.edu.cn",
           "published_at": "2022-09-02T15:00:00+08:00",
           "type": "论坛",
           "summary": "推动智能技术与教育融合创新 2022世界人工智能大会教育论坛开幕 ecnu.edu.cn",
-          "image": ""
-        },
-        {
-          "title": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ENHVlcGpvX2ZYanREQU1MVnozX21PSEM2X0FsT0tGWGtTNU0yWUxwa0JoaTZoVElTNUVoakhsaEp3SVJqbjE2MndZWC1iTmpFQ1Jma3A2TQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2020-08-08T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 Bilibili",
           "image": ""
         },
         {
@@ -549,6 +558,15 @@
           "published_at": "2026-07-13T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪财经",
+          "image": ""
+        },
+        {
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzFpdDU5eDlpX1B5eEJwNERrQkNxTGJmVjJMXzlJbFNCLWVweENkUmRSbEZvQlBlZGlVSU9Zb21PTGcwdUptcGdrX3AyQW9YaTZSRGlvbkNKYXR4OHZjbVd1UUp5amljSElOUzBzVGowVTdHY2Fjc1pyeHB6ckwwY284Qy02NGs?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-07-07T15:00:00+08:00",
+          "type": "直播",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 新浪财经",
           "image": ""
         }
       ]
@@ -584,15 +602,6 @@
           "published_at": "2026-07-21T17:51:45+08:00",
           "type": "论坛",
           "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
-          "image": ""
-        },
-        {
-          "title": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 - 网易新闻客户端",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iY0tITzhQR0VKYU1BN052ZE45LTNZRDVxX2RrR1k3X1Mtc1lsWXNNT1l3YkJTZVlHTEhiZGJMd2pjc2RWQ1ExWk1MS0hfaUg5SElSNzhJeEpmcVV5?oc=5",
-          "source": "网易新闻客户端",
-          "published_at": "2026-07-21T01:52:00+08:00",
-          "type": "直播",
-          "summary": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 网易新闻客户端",
           "image": ""
         },
         {
@@ -731,16 +740,6 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "36氪_让一部分人先看到未来",
-      "point": "36氪_让一部分人先看到未来 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1HRUZNcUZONk50T2hMc2RIQlRPcUdoYUpPWUZyZXN2YmpTVncxYm45bS0wMFYxZw?oc=5",
-      "published_at": "2026-08-16T16:14:51+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
       "source": "虎嗅",
       "title": "一切皆插件，Harness 到底能改什么",
       "point": "一切皆插件，Harness 到底能改什么 虎嗅",
@@ -759,6 +758,16 @@
       "type": "媒体"
     },
     {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "36 Kr",
+      "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜",
+      "point": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY1BwOHBWY1J6MFU0NHFzQzNxN2ZLVjd3aHpzSDkxQkJNRjV4SnBxbGwyQTRHVWlkeVlSMlFQdzRjRFRxSzkxX0d6bkM4UQ?oc=5",
+      "published_at": "2026-08-14T00:23:32+08:00",
+      "type": "媒体"
+    },
+    {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
       "source": "新浪财经",
@@ -766,6 +775,16 @@
       "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWXFEUXdJeDVyZE0yalFvdENPU1ZiWTExelBBVVNqMlBIdGQ1RDM0OGFfQS1wUFhnX1dLWlhKYndGSXNwRzZUX0Y4dzl2WmhVdmctd25KTEtlMDdEcGNBVzZHYm1RNzlzTF81dTZ0TXJXRVhTNXZhZUNGVQ?oc=5",
       "published_at": "2026-07-13T15:00:00+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "直播 / 逛展",
+      "en": "Live & Expo",
+      "source": "新浪财经",
+      "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会",
+      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzFpdDU5eDlpX1B5eEJwNERrQkNxTGJmVjJMXzlJbFNCLWVweENkUmRSbEZvQlBlZGlVSU9Zb21PTGcwdUptcGdrX3AyQW9YaTZSRGlvbkNKYXR4OHZjbVd1UUp5amljSElOUzBzVGowVTdHY2Fjc1pyeHB6ckwwY284Qy02NGs?oc=5",
+      "published_at": "2026-07-07T15:00:00+08:00",
       "type": "直播"
     },
     {
@@ -779,14 +798,14 @@
       "type": "媒体"
     },
     {
-      "channel": "直播 / 逛展",
-      "en": "Live & Expo",
-      "source": "启明创投",
-      "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办",
-      "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
-      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
-      "published_at": "2026-07-22T15:00:00+08:00",
-      "type": "论坛"
+      "channel": "嘉宾 / 自媒体",
+      "en": "Guests & Creators",
+      "source": "虎嗅",
+      "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心",
+      "point": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
+      "published_at": "2026-07-19T15:00:00+08:00",
+      "type": "观点"
     },
     {
       "channel": "嘉宾 / 自媒体",
@@ -806,16 +825,6 @@
       "point": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
       "published_at": "2026-08-10T14:26:00+08:00",
-      "type": "直播"
-    },
-    {
-      "channel": "嘉宾 / 自媒体",
-      "en": "Guests & Creators",
-      "source": "手机网易网",
-      "title": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注",
-      "point": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SZkM0WGZJclJ5SGFNNmhvWW1mSmUyeDdURi1wSklFY1FXWFYtbktWV0QwaTlfVFU5MC0zOExWSTJqcXhBN3RROTFfVTVLX1JDMUw2UUgwbVBTQUdaUGVDZWdB?oc=5",
-      "published_at": "2026-07-22T15:00:00+08:00",
       "type": "直播"
     }
   ],
