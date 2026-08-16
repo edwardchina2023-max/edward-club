@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-17T04:27:22.876109+08:00",
+  "generated_at": "2026-08-17T04:50:48.970867+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月17日 04:27",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月17日 04:50",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 126 条、直播 15 条、观点 1 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 124 条、直播 15 条、观点 2 条、论坛 21 条，已按企业家阅读场景分组。",
     "虎嗅网：一切皆插件，Harness 到底能改什么 - 虎嗅网",
     "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
     "36 Kr：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
@@ -81,21 +81,21 @@
           "image": ""
         },
         {
-          "title": "三地四馆、规模创纪录，WAIC 2026今日开幕-观察者网 - 观察者",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSE95eVVKV2IxbHd4amRvSV9zVE4tVjFLTEw2VXV1MWY0eDBucVkyZVVZNkQ5MHJ0OTI2djlpQVQzSzFhWEgxZWFrSFZ0allkeFFDLVR3LUZacGdPVmJHZ3VyRTJKZw?oc=5",
-          "source": "观察者",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕-观察者网 观察者",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
           "source": "证券时报",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报",
+          "image": ""
+        },
+        {
+          "title": "三地四馆、规模创纪录，WAIC 2026今日开幕-观察者网 - 观察者",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSE95eVVKV2IxbHd4amRvSV9zVE4tVjFLTEw2VXV1MWY0eDBucVkyZVVZNkQ5MHJ0OTI2djlpQVQzSzFhWEgxZWFrSFZ0allkeFFDLVR3LUZacGdPVmJHZ3VyRTJKZw?oc=5",
+          "source": "观察者",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕-观察者网 观察者",
           "image": ""
         },
         {
@@ -232,12 +232,12 @@
           "image": ""
         },
         {
-          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - 智源社区",
+          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkT1NhYU5QODFNMEVYMjgyNTQwd05uSWd0SUQ3SVNKTU1lQUxvX2hPSXN2a1E4UGhNakRCV1kzakRJOWNyaDBfMw?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
-          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 hub.baai.ac.cn",
           "image": ""
         }
       ]
@@ -248,12 +248,21 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
-          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 搜狐网",
+          "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-07-19T15:00:00+08:00",
+          "type": "观点",
+          "summary": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - sohu.com",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
-          "source": "搜狐网",
+          "source": "sohu.com",
           "published_at": "2026-07-19T09:24:43+08:00",
           "type": "观点",
-          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
+          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 sohu.com",
           "image": ""
         }
       ]
@@ -490,6 +499,15 @@
           "image": ""
         },
         {
+          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 机器之心",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2eHVZVHRKcTVrYVhVMkZ2LUpVeExMYmNFMWFhWWNNUURSSHI3QUdVY05JS21SWkFHR1hrcUxxOUVBN1hXSEVoZFZMbDZROWZIYVFTTzI1akFzVHNt?oc=5",
+          "source": "机器之心",
+          "published_at": "2026-07-08T14:47:14+08:00",
+          "type": "论坛",
+          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 机器之心",
+          "image": ""
+        },
+        {
           "title": "毕马威人工智能驱动创新商业文明生态论坛 - kpmg.com",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFWGFLOE81U2tkWW1aRk1yeUljMUVWa0ZPaUlVZFpiOE9pVWpkSElLTUo4MkpDeWlsZ1V5QkNsajJPLTBCRnJ4N2hZTHYxOHRWa2RndGg5UUdDQVpjMVBMbExBUzRUZw?oc=5",
           "source": "kpmg.com",
@@ -508,12 +526,12 @@
           "image": ""
         },
         {
-          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - 智源社区",
+          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkT1NhYU5QODFNMEVYMjgyNTQwd05uSWd0SUQ3SVNKTU1lQUxvX2hPSXN2a1E4UGhNakRCV1kzakRJOWNyaDBfMw?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
-          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 hub.baai.ac.cn",
           "image": ""
         },
         {
@@ -532,15 +550,6 @@
           "published_at": "2022-09-02T15:00:00+08:00",
           "type": "论坛",
           "summary": "推动智能技术与教育融合创新 2022世界人工智能大会教育论坛开幕 ecnu.edu.cn",
-          "image": ""
-        },
-        {
-          "title": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ENHVlcGpvX2ZYanREQU1MVnozX21PSEM2X0FsT0tGWGtTNU0yWUxwa0JoaTZoVElTNUVoakhsaEp3SVJqbjE2MndZWC1iTmpFQ1Jma3A2TQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2020-08-08T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 Bilibili",
           "image": ""
         },
         {
@@ -827,9 +836,19 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "搜狐网",
+      "source": "虎嗅网",
+      "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心",
+      "point": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
+      "published_at": "2026-07-19T15:00:00+08:00",
+      "type": "观点"
+    },
+    {
+      "channel": "嘉宾 / 自媒体",
+      "en": "Guests & Creators",
+      "source": "sohu.com",
       "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
-      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
+      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
       "published_at": "2026-07-19T09:24:43+08:00",
       "type": "观点"
@@ -842,16 +861,6 @@
       "point": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
       "published_at": "2026-08-10T14:26:00+08:00",
-      "type": "直播"
-    },
-    {
-      "channel": "嘉宾 / 自媒体",
-      "en": "Guests & Creators",
-      "source": "手机网易网",
-      "title": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注",
-      "point": "WAIC 2026落幕｜形意智能亮相国家级AI盛会，央视直播探展引关注 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SZkM0WGZJclJ5SGFNNmhvWW1mSmUyeDdURi1wSklFY1FXWFYtbktWV0QwaTlfVFU5MC0zOExWSTJqcXhBN3RROTFfVTVLX1JDMUw2UUgwbVBTQUdaUGVDZWdB?oc=5",
-      "published_at": "2026-07-22T15:00:00+08:00",
       "type": "直播"
     }
   ],
