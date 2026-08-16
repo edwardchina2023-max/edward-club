@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-17T05:24:15.290771+08:00",
+  "generated_at": "2026-08-17T05:46:52.169302+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月17日 05:24",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月17日 05:46",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 126 条、直播 15 条、观点 2 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 126 条、直播 15 条、观点 2 条、论坛 21 条，已按企业家阅读场景分组。",
     "虎嗅网：一切皆插件，Harness 到底能改什么 - 虎嗅网",
-    "36kr.com：寒王、摩王“期中考试”不及格？ - 36kr.com",
-    "36kr.com：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36kr.com",
+    "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
+    "36 Kr：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
     "虎嗅网：华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅网",
-    "36kr.com：冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36kr.com"
+    "36 Kr：冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36 Kr"
   ],
   "sections": [
     {
@@ -17,6 +17,15 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
+        {
+          "title": "2026世界人工智能大会政务智能创新论坛在沪举行 - jiemian.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13cGx6cHhFYlU0ekw1ZkVhdTMyaWFJS1ozalZTUGdxdnp4bmJKemRONDdSU2t2MVVtaXVlbGtDbldSZlA4czJHQUV1dmJDN21PTGl5RWRn?oc=5",
+          "source": "jiemian.com",
+          "published_at": "2026-07-23T03:08:19+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会政务智能创新论坛在沪举行 jiemian.com",
+          "image": ""
+        },
         {
           "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - 启明创投",
           "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
@@ -115,15 +124,6 @@
           "type": "论坛",
           "summary": "智能伙伴，共创未来：习近平将出席2026世界人工智能大会大会开幕式并发表主旨讲话，大会有5大亮点，今日已一票难求 智慧城市行业分析",
           "image": ""
-        },
-        {
-          "title": "进入倒计时！毕马威将在2026世界人工智能大会举办AI商业化论坛 - kpmg.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZXRuUXBUMW5pTzBrYi1jSFFqaVA4czhJSXo5V3A4dHZjZFJiY2NJZUotdlNfMEhRNl9SclFMYTJnbVFteUhPT3FmX3puX3pQZDU5aV83WVFSZzdUSUZfclZZejNyc284OFowVmpmVFpndGlxMFdiRm4yeDNnV3NJU0NGVDlfSy0taDNNdXpCMVRtOVcxY3Jzc1FMZlVFRDBZSzlhWEJzendpTDFQaDZHaEdMSkpuaXhtVUE?oc=5",
-          "source": "kpmg.com",
-          "published_at": "2026-07-09T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "进入倒计时！毕马威将在2026世界人工智能大会举办AI商业化论坛 kpmg.com",
-          "image": ""
         }
       ]
     },
@@ -196,12 +196,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36kr.com",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
           "image": ""
         },
         {
@@ -282,21 +282,21 @@
           "image": ""
         },
         {
-          "title": "寒王、摩王“期中考试”不及格？ - 36kr.com",
+          "title": "寒王、摩王“期中考试”不及格？ - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oUnpyUUNDajV2SWxmTjE1eHBuN3V5UWRpLXZlS05mVXNvRkxrRElpV0hHMHY4M0Q0aE9CMmxERmpra3JnZDVJdm9QenBNWjg?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-14T12:29:19+08:00",
           "type": "媒体",
-          "summary": "寒王、摩王“期中考试”不及格？ 36kr.com",
+          "summary": "寒王、摩王“期中考试”不及格？ 36 Kr",
           "image": ""
         },
         {
-          "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36kr.com",
+          "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY1BwOHBWY1J6MFU0NHFzQzNxN2ZLVjd3aHpzSDkxQkJNRjV4SnBxbGwyQTRHVWlkeVlSMlFQdzRjRFRxSzkxX0d6bkM4UQ?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-14T00:23:32+08:00",
           "type": "媒体",
-          "summary": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36kr.com",
+          "summary": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36 Kr",
           "image": ""
         },
         {
@@ -309,12 +309,12 @@
           "image": ""
         },
         {
-          "title": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36kr.com",
+          "title": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BUER3UDd6X2xEMW1xcklOUHhfdFZrMnZoeUIxcFdta3dvYjlzdzJ1Q25qRC1MVWJ4cThpN2NfdTB6QjBYazZhZGQwWDE3Zw?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-13T19:00:00+08:00",
           "type": "媒体",
-          "summary": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 36kr.com",
+          "summary": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 36 Kr",
           "image": ""
         },
         {
@@ -336,21 +336,21 @@
           "image": ""
         },
         {
-          "title": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ - 36kr.com",
+          "title": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRNVEycVhaVXU0aXhBVTZtX1MwYUQzeXdiTnNzNlpaNkFYQnRSeldBLUNxQUllbE5NSHRoMkpRRGdXVV83dlc1NlIwNzFWZw?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-13T01:39:00+08:00",
           "type": "媒体",
-          "summary": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ 36kr.com",
+          "summary": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ 36 Kr",
           "image": ""
         },
         {
-          "title": "索塔无界：原生物理世界模型落地商超，具身智能迎来“索塔时刻” - 36kr.com",
+          "title": "索塔无界：原生物理世界模型落地商超，具身智能迎来“索塔时刻” - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50MVp2VDJjVHhDY09iRjAxX21RdzFfbmVlYnJuLWFNeWFOTDJYLXFMaTRGbXNNaExJeFpLenkwaHVod19EQkNqVm1yc0ZYQQ?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-08-12T18:00:00+08:00",
           "type": "媒体",
-          "summary": "索塔无界：原生物理世界模型落地商超，具身智能迎来“索塔时刻” 36kr.com",
+          "summary": "索塔无界：原生物理世界模型落地商超，具身智能迎来“索塔时刻” 36 Kr",
           "image": ""
         },
         {
@@ -397,6 +397,15 @@
           "published_at": "2026-08-06T22:03:09+08:00",
           "type": "媒体",
           "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会政务智能创新论坛在沪举行 - jiemian.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13cGx6cHhFYlU0ekw1ZkVhdTMyaWFJS1ozalZTUGdxdnp4bmJKemRONDdSU2t2MVVtaXVlbGtDbldSZlA4czJHQUV1dmJDN21PTGl5RWRn?oc=5",
+          "source": "jiemian.com",
+          "published_at": "2026-07-23T03:08:19+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会政务智能创新论坛在沪举行 jiemian.com",
           "image": ""
         },
         {
@@ -668,12 +677,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36kr.com",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
           "image": ""
         },
         {
@@ -737,6 +746,16 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
+      "source": "jiemian.com",
+      "title": "2026世界人工智能大会政务智能创新论坛在沪举行",
+      "point": "2026世界人工智能大会政务智能创新论坛在沪举行 jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13cGx6cHhFYlU0ekw1ZkVhdTMyaWFJS1ozalZTUGdxdnp4bmJKemRONDdSU2t2MVVtaXVlbGtDbldSZlA4czJHQUV1dmJDN21PTGl5RWRn?oc=5",
+      "published_at": "2026-07-23T03:08:19+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
       "source": "启明创投",
       "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办",
       "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
@@ -755,16 +774,6 @@
       "type": "论坛"
     },
     {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
-      "source": "麻省理工科技评论",
-      "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案",
-      "point": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
-      "published_at": "2026-07-21T17:51:45+08:00",
-      "type": "论坛"
-    },
-    {
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "虎嗅网",
@@ -777,9 +786,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36kr.com",
+      "source": "36 Kr",
       "title": "寒王、摩王“期中考试”不及格？",
-      "point": "寒王、摩王“期中考试”不及格？ 36kr.com",
+      "point": "寒王、摩王“期中考试”不及格？ 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oUnpyUUNDajV2SWxmTjE1eHBuN3V5UWRpLXZlS05mVXNvRkxrRElpV0hHMHY4M0Q0aE9CMmxERmpra3JnZDVJdm9QenBNWjg?oc=5",
       "published_at": "2026-08-14T12:29:19+08:00",
       "type": "媒体"
@@ -787,9 +796,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36kr.com",
+      "source": "36 Kr",
       "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜",
-      "point": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36kr.com",
+      "point": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY1BwOHBWY1J6MFU0NHFzQzNxN2ZLVjd3aHpzSDkxQkJNRjV4SnBxbGwyQTRHVWlkeVlSMlFQdzRjRFRxSzkxX0d6bkM4UQ?oc=5",
       "published_at": "2026-08-14T00:23:32+08:00",
       "type": "媒体"
