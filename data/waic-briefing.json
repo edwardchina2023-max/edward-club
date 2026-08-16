@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-16T20:47:00.691103+08:00",
+  "generated_at": "2026-08-16T21:34:15.334037+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 20:47",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月16日 21:34",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 125 条、直播 16 条、观点 1 条、论坛 18 条，已按企业家阅读场景分组。",
-    "虎嗅网：一切皆插件，Harness 到底能改什么 - 虎嗅网",
+    "本轮抓取到 媒体 125 条、直播 17 条、观点 1 条、论坛 18 条，已按企业家阅读场景分组。",
+    "36 Kr：36氪_让一部分人先看到未来 - 36 Kr",
+    "虎嗅：一切皆插件，Harness 到底能改什么 - 虎嗅",
     "36 Kr：寒王、摩王“期中考试”不及格？ - 36 Kr",
     "36 Kr：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
-    "虎嗅网：华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅网",
-    "36 Kr：冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36 Kr"
+    "虎嗅：华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅"
   ],
   "sections": [
     {
@@ -108,12 +108,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - jiqizhixin.com",
+          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 机器之心",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2eHVZVHRKcTVrYVhVMkZ2LUpVeExMYmNFMWFhWWNNUURSSHI3QUdVY05JS21SWkFHR1hrcUxxOUVBN1hXSEVoZFZMbDZROWZIYVFTTzI1akFzVHNt?oc=5",
-          "source": "jiqizhixin.com",
+          "source": "机器之心",
           "published_at": "2026-07-08T14:47:14+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ jiqizhixin.com",
+          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 机器之心",
           "image": ""
         },
         {
@@ -151,12 +151,12 @@
           "image": ""
         },
         {
-          "title": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 - c.m.163.com",
+          "title": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 - 网易新闻客户端",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iY0tITzhQR0VKYU1BN052ZE45LTNZRDVxX2RrR1k3X1Mtc1lsWXNNT1l3YkJTZVlHTEhiZGJMd2pjc2RWQ1ExWk1MS0hfaUg5SElSNzhJeEpmcVV5?oc=5",
-          "source": "c.m.163.com",
+          "source": "网易新闻客户端",
           "published_at": "2026-07-21T01:52:00+08:00",
           "type": "直播",
-          "summary": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 c.m.163.com",
+          "summary": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 网易新闻客户端",
           "image": ""
         },
         {
@@ -264,12 +264,21 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "一切皆插件，Harness 到底能改什么 - 虎嗅网",
+          "title": "36氪_让一部分人先看到未来 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1HRUZNcUZONk50T2hMc2RIQlRPcUdoYUpPWUZyZXN2YmpTVncxYm45bS0wMFYxZw?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-16T16:14:51+08:00",
+          "type": "媒体",
+          "summary": "36氪_让一部分人先看到未来 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "一切皆插件，Harness 到底能改什么 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oeWNmemNpSWJBSFAybUsxWU1BeVZ6ZVNuc0d1c0t3TWxPdWJRMVlRQjZpcG9NSnBudDBTekVuN0RaRmdjYVhKSE1pU1hNVXE0UmpzbA?oc=5",
-          "source": "虎嗅网",
+          "source": "虎嗅",
           "published_at": "2026-08-14T15:00:00+08:00",
           "type": "媒体",
-          "summary": "一切皆插件，Harness 到底能改什么 虎嗅网",
+          "summary": "一切皆插件，Harness 到底能改什么 虎嗅",
           "image": ""
         },
         {
@@ -291,12 +300,12 @@
           "image": ""
         },
         {
-          "title": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅网",
+          "title": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVFJyY1RiNGt1VmkyMzBFNk1yM29sbHR5TkFrcjdNVzBMN0xJNVFTdG9HY0Z6ZzRiR3dsVTlTODNXTGlzSXhWRDQ5ZDJscVFMaFRZeQ?oc=5",
-          "source": "虎嗅网",
+          "source": "虎嗅",
           "published_at": "2026-08-13T19:35:38+08:00",
           "type": "媒体",
-          "summary": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 虎嗅网",
+          "summary": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 虎嗅",
           "image": ""
         },
         {
@@ -309,21 +318,21 @@
           "image": ""
         },
         {
-          "title": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 - 虎嗅网",
+          "title": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5meXU4RkJGcWdvYXRlTFBjLVlkU0kxaDlmVzZERDhuRUxTMUY2VVVxWnVJaGlrTUhMcnROSWFhekxrbVBXYkF3U1FBX0ZNU1VmSkdUNA?oc=5",
-          "source": "虎嗅网",
+          "source": "虎嗅",
           "published_at": "2026-08-13T17:40:38+08:00",
           "type": "媒体",
-          "summary": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 虎嗅网",
+          "summary": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 虎嗅",
           "image": ""
         },
         {
-          "title": "workbuddy为什么来到了腾讯的舒适区？ - 虎嗅网",
+          "title": "workbuddy为什么来到了腾讯的舒适区？ - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LajlhTUdzU3R3VWhCQ19xR3E3bjRvNjVzbkZRTlduUzZmVkVza1k5R2VYT0FVNFowMVhZWTc0Z0psWkxRV2VCR1FVYWhqZ3k5em93eA?oc=5",
-          "source": "虎嗅网",
+          "source": "虎嗅",
           "published_at": "2026-08-13T10:35:28+08:00",
           "type": "媒体",
-          "summary": "workbuddy为什么来到了腾讯的舒适区？ 虎嗅网",
+          "summary": "workbuddy为什么来到了腾讯的舒适区？ 虎嗅",
           "image": ""
         },
         {
@@ -336,39 +345,30 @@
           "image": ""
         },
         {
-          "title": "2026年具身智能融资超750亿但有效数据成瓶颈 行业聚焦数据价值对账 - 虎嗅网",
+          "title": "索塔无界：原生物理世界模型落地商超，具身智能迎来“索塔时刻” - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50MVp2VDJjVHhDY09iRjAxX21RdzFfbmVlYnJuLWFNeWFOTDJYLXFMaTRGbXNNaExJeFpLenkwaHVod19EQkNqVm1yc0ZYQQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-12T18:00:00+08:00",
+          "type": "媒体",
+          "summary": "索塔无界：原生物理世界模型落地商超，具身智能迎来“索塔时刻” 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "2026年具身智能融资超750亿但有效数据成瓶颈 行业聚焦数据价值对账 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WQVJkRENELXdFaDJVOXFLWks4ZzFNbUp6RnV3NHlXMnVKYmp2MkdZQXZZMGZWaDVwWUJtRG42RXhwa1ZyWU5UZ2VMYjIwSVU5QTlEYw?oc=5",
-          "source": "虎嗅网",
+          "source": "虎嗅",
           "published_at": "2026-08-12T11:25:56+08:00",
           "type": "媒体",
-          "summary": "2026年具身智能融资超750亿但有效数据成瓶颈 行业聚焦数据价值对账 虎嗅网",
+          "summary": "2026年具身智能融资超750亿但有效数据成瓶颈 行业聚焦数据价值对账 虎嗅",
           "image": ""
         },
         {
-          "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ - 虎嗅网",
+          "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ndEpiWFZsVkhMTkUtam9vUGhBd0lzU3hUNjZoLUF1eFNEcGVQZ01lRjcyWnZMNFRjWkRMeG9waExHeWVHRzFkUTByblRjVzJKdEE?oc=5",
-          "source": "虎嗅网",
+          "source": "虎嗅",
           "published_at": "2026-08-11T10:30:00+08:00",
           "type": "媒体",
-          "summary": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlTDZqM3R3emtHRlRtTk5oblM5NUxxUUI4a01Lb1VocFNvUkN3bG1OZVQxMENOWENqS3dLczcxZFJaYjJvMm5BcUdOSFZhVmItV3dRTA?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-08-11T10:30:00+08:00",
-          "type": "媒体",
-          "summary": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "扎克伯格，发文反驳“AI担忧” - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ybm1XUDhkb0s2VHdXVklkRlU5T3dIRHl0MGduNGt1TUdFVW1oUkhMMEV1N1JSZWtUUGlNWHhkbExoLXdTa1VkQm5lY0tkUQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-11T02:19:00+08:00",
-          "type": "媒体",
-          "summary": "扎克伯格，发文反驳“AI担忧” 36 Kr",
+          "summary": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？ 虎嗅",
           "image": ""
         }
       ]
@@ -382,12 +382,12 @@
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
         {
-          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - 虎嗅网",
+          "title": "李开复：当企业AI员工占四分之三时，会议自然减少 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q1VtUGhab0N4bWgyTnhOSlBGUUVHbFFBQnVkLXRHR0hCTXY2MjR4YmNzaWxmTk5Mc1U2VnNKbm4tcEFMVVpHbTFPWXBRaFhRS2c?oc=5",
-          "source": "虎嗅网",
+          "source": "虎嗅",
           "published_at": "2026-08-06T22:03:09+08:00",
           "type": "媒体",
-          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅网",
+          "summary": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅",
           "image": ""
         },
         {
@@ -472,12 +472,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - jiqizhixin.com",
+          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 机器之心",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2eHVZVHRKcTVrYVhVMkZ2LUpVeExMYmNFMWFhWWNNUURSSHI3QUdVY05JS21SWkFHR1hrcUxxOUVBN1hXSEVoZFZMbDZROWZIYVFTTzI1akFzVHNt?oc=5",
-          "source": "jiqizhixin.com",
+          "source": "机器之心",
           "published_at": "2026-07-08T14:47:14+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ jiqizhixin.com",
+          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 机器之心",
           "image": ""
         },
         {
@@ -587,12 +587,12 @@
           "image": ""
         },
         {
-          "title": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 - c.m.163.com",
+          "title": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 - 网易新闻客户端",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iY0tITzhQR0VKYU1BN052ZE45LTNZRDVxX2RrR1k3X1Mtc1lsWXNNT1l3YkJTZVlHTEhiZGJMd2pjc2RWQ1ExWk1MS0hfaUg5SElSNzhJeEpmcVV5?oc=5",
-          "source": "c.m.163.com",
+          "source": "网易新闻客户端",
           "published_at": "2026-07-21T01:52:00+08:00",
           "type": "直播",
-          "summary": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 c.m.163.com",
+          "summary": "4小时闭门会8小时直播，我们看到大家开始跟AI算账了 网易新闻客户端",
           "image": ""
         },
         {
@@ -731,9 +731,19 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅网",
+      "source": "36 Kr",
+      "title": "36氪_让一部分人先看到未来",
+      "point": "36氪_让一部分人先看到未来 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1HRUZNcUZONk50T2hMc2RIQlRPcUdoYUpPWUZyZXN2YmpTVncxYm45bS0wMFYxZw?oc=5",
+      "published_at": "2026-08-16T16:14:51+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅",
       "title": "一切皆插件，Harness 到底能改什么",
-      "point": "一切皆插件，Harness 到底能改什么 虎嗅网",
+      "point": "一切皆插件，Harness 到底能改什么 虎嗅",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oeWNmemNpSWJBSFAybUsxWU1BeVZ6ZVNuc0d1c0t3TWxPdWJRMVlRQjZpcG9NSnBudDBTekVuN0RaRmdjYVhKSE1pU1hNVXE0UmpzbA?oc=5",
       "published_at": "2026-08-14T15:00:00+08:00",
       "type": "媒体"
@@ -749,16 +759,6 @@
       "type": "媒体"
     },
     {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜",
-      "point": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY1BwOHBWY1J6MFU0NHFzQzNxN2ZLVjd3aHpzSDkxQkJNRjV4SnBxbGwyQTRHVWlkeVlSMlFQdzRjRFRxSzkxX0d6bkM4UQ?oc=5",
-      "published_at": "2026-08-14T00:23:32+08:00",
-      "type": "媒体"
-    },
-    {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
       "source": "新浪财经",
@@ -771,9 +771,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "虎嗅网",
+      "source": "虎嗅",
       "title": "李开复：当企业AI员工占四分之三时，会议自然减少",
-      "point": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅网",
+      "point": "李开复：当企业AI员工占四分之三时，会议自然减少 虎嗅",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q1VtUGhab0N4bWgyTnhOSlBGUUVHbFFBQnVkLXRHR0hCTXY2MjR4YmNzaWxmTk5Mc1U2VnNKbm4tcEFMVVpHbTFPWXBRaFhRS2c?oc=5",
       "published_at": "2026-08-06T22:03:09+08:00",
       "type": "媒体"
