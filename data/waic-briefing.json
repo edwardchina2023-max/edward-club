@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-18T03:31:55.566627+08:00",
+  "generated_at": "2026-08-18T04:31:32.328358+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月18日 03:31",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月18日 04:31",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 127 条、直播 20 条、观点 2 条、论坛 21 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 128 条、直播 20 条、观点 1 条、论坛 20 条，已按企业家阅读场景分组。",
     "虎嗅：支付宝发布国内首个智能体商业底座 - 虎嗅",
-    "36 Kr：请完成下列验证后继续 - 36 Kr",
-    "36 Kr：李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36 Kr",
+    "36kr.com：请完成下列验证后继续 - 36kr.com",
+    "36kr.com：李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36kr.com",
     "虎嗅：一切皆插件，Harness 到底能改什么 - 虎嗅",
-    "36 Kr：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr"
+    "36kr.com：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36kr.com"
   ],
   "sections": [
     {
@@ -51,15 +51,6 @@
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
-          "image": ""
-        },
-        {
-          "title": "AI+低空经济！2026世界人工智能大会·低空经济论坛举办 - jfdaily.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96SGRORUctY1U4RmtNeF9pMGVISlAtelZ5cHoyRkd6Y2ZwNGl4d0gwaVpMUE5ZZlBPc1FrOExRamt4QVVqZU5PeFRxNkxCSENwUWtZdzY5MEVtZw?oc=5",
-          "source": "jfdaily.com",
-          "published_at": "2026-07-19T11:48:00+08:00",
-          "type": "论坛",
-          "summary": "AI+低空经济！2026世界人工智能大会·低空经济论坛举办 jfdaily.com",
           "image": ""
         },
         {
@@ -123,6 +114,15 @@
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 科学网—新闻",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会开幕在即 中国与各国携手共促智能向善 - 中国网新闻中心",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RV0N3czNGVGxWNTEzN0I5bWJoa1JUVmpEdko1ekdVNDFNUHBJX1JlTHVxS3VBbVFzZlZDSHB2cmg2bGVweFJaT2VRZzdLN0dfQTdYRDhWWGdyaUZoeW1HaVJTMy1jWmgxckE?oc=5",
+          "source": "中国网新闻中心",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会开幕在即 中国与各国携手共促智能向善 中国网新闻中心",
           "image": ""
         }
       ]
@@ -248,15 +248,6 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
-          "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "观点",
-          "summary": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
-          "image": ""
-        },
-        {
           "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
           "source": "搜狐网",
@@ -282,21 +273,21 @@
           "image": ""
         },
         {
-          "title": "请完成下列验证后继续 - 36 Kr",
+          "title": "请完成下列验证后继续 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QWlk2WnQwWWpJWU1PeVlqWDU2aFpFbHNvS2MzanZ5b01vRkVwNTlYUHFRbDFMLUdVRkZGYV9YOE02WFI4eWcxcWs0TQ?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-17T12:42:16+08:00",
           "type": "媒体",
-          "summary": "请完成下列验证后继续 36 Kr",
+          "summary": "请完成下列验证后继续 36kr.com",
           "image": ""
         },
         {
-          "title": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36 Kr",
+          "title": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PeE9kM0RnMXk1ZWNFVzFvM2c0OVhXR0pJWTJ4Z1JZLUZ1TGFqYTR0U1Y4bkRtNGJNdnFhZ2s5YXdjbEFSZWdBMndIakZPdw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-17T05:11:00+08:00",
           "type": "媒体",
-          "summary": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 36 Kr",
+          "summary": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 36kr.com",
           "image": ""
         },
         {
@@ -309,21 +300,21 @@
           "image": ""
         },
         {
-          "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
+          "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY1BwOHBWY1J6MFU0NHFzQzNxN2ZLVjd3aHpzSDkxQkJNRjV4SnBxbGwyQTRHVWlkeVlSMlFQdzRjRFRxSzkxX0d6bkM4UQ?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-14T00:23:32+08:00",
           "type": "媒体",
-          "summary": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36 Kr",
+          "summary": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36kr.com",
           "image": ""
         },
         {
-          "title": "寒王、摩王“期中考试”不及格？ - 36 Kr",
+          "title": "寒王、摩王“期中考试”不及格？ - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lZ2pXMkh4eWhkNFZRU0QtNTFVeVZITDhVbFlyN05jVElJeFdYenlYa3FVZi1WQXEwakYxQ3Z2YVd4eEpFajhveFQzQ0tOZw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-13T21:24:00+08:00",
           "type": "媒体",
-          "summary": "寒王、摩王“期中考试”不及格？ 36 Kr",
+          "summary": "寒王、摩王“期中考试”不及格？ 36kr.com",
           "image": ""
         },
         {
@@ -336,12 +327,12 @@
           "image": ""
         },
         {
-          "title": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36 Kr",
+          "title": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BUER3UDd6X2xEMW1xcklOUHhfdFZrMnZoeUIxcFdta3dvYjlzdzJ1Q25qRC1MVWJ4cThpN2NfdTB6QjBYazZhZGQwWDE3Zw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-13T19:00:00+08:00",
           "type": "媒体",
-          "summary": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 36 Kr",
+          "summary": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 36kr.com",
           "image": ""
         },
         {
@@ -372,12 +363,12 @@
           "image": ""
         },
         {
-          "title": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ - 36 Kr",
+          "title": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRNVEycVhaVXU0aXhBVTZtX1MwYUQzeXdiTnNzNlpaNkFYQnRSeldBLUNxQUllbE5NSHRoMkpRRGdXVV83dlc1NlIwNzFWZw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-13T01:39:00+08:00",
           "type": "媒体",
-          "summary": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ 36 Kr",
+          "summary": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ 36kr.com",
           "image": ""
         }
       ]
@@ -424,15 +415,6 @@
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "直播",
           "summary": "直播预约| 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 启明创投",
-          "image": ""
-        },
-        {
-          "title": "AI+低空经济！2026世界人工智能大会·低空经济论坛举办 - jfdaily.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96SGRORUctY1U4RmtNeF9pMGVISlAtelZ5cHoyRkd6Y2ZwNGl4d0gwaVpMUE5ZZlBPc1FrOExRamt4QVVqZU5PeFRxNkxCSENwUWtZdzY5MEVtZw?oc=5",
-          "source": "jfdaily.com",
-          "published_at": "2026-07-19T11:48:00+08:00",
-          "type": "论坛",
-          "summary": "AI+低空经济！2026世界人工智能大会·低空经济论坛举办 jfdaily.com",
           "image": ""
         },
         {
@@ -795,9 +777,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
+      "source": "36kr.com",
       "title": "请完成下列验证后继续",
-      "point": "请完成下列验证后继续 36 Kr",
+      "point": "请完成下列验证后继续 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QWlk2WnQwWWpJWU1PeVlqWDU2aFpFbHNvS2MzanZ5b01vRkVwNTlYUHFRbDFMLUdVRkZGYV9YOE02WFI4eWcxcWs0TQ?oc=5",
       "published_at": "2026-08-17T12:42:16+08:00",
       "type": "媒体"
@@ -805,9 +787,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
+      "source": "36kr.com",
       "title": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录",
-      "point": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 36 Kr",
+      "point": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PeE9kM0RnMXk1ZWNFVzFvM2c0OVhXR0pJWTJ4Z1JZLUZ1TGFqYTR0U1Y4bkRtNGJNdnFhZ2s5YXdjbEFSZWdBMndIakZPdw?oc=5",
       "published_at": "2026-08-17T05:11:00+08:00",
       "type": "媒体"
@@ -845,16 +827,6 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "虎嗅",
-      "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心",
-      "point": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
-      "published_at": "2026-07-19T15:00:00+08:00",
-      "type": "观点"
-    },
-    {
-      "channel": "嘉宾 / 自媒体",
-      "en": "Guests & Creators",
       "source": "搜狐网",
       "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
       "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
@@ -871,6 +843,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
       "published_at": "2026-08-10T14:26:00+08:00",
       "type": "直播"
+    },
+    {
+      "channel": "嘉宾 / 自媒体",
+      "en": "Guests & Creators",
+      "source": "麻省理工科技评论",
+      "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案",
+      "point": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
+      "published_at": "2026-07-21T17:51:45+08:00",
+      "type": "论坛"
     }
   ],
   "sources": [
