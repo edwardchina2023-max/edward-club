@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-18T14:50:17.579365+08:00",
+  "generated_at": "2026-08-18T15:41:17.987656+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月18日 14:50",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月18日 15:41",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 132 条、直播 20 条、观点 1 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 132 条、直播 18 条、观点 1 条、论坛 23 条，已按企业家阅读场景分组。",
     "虎嗅：人形机器人第一股，到底能不能买？ - 虎嗅",
     "虎嗅：支付宝发布国内首个智能体商业底座 - 虎嗅",
-    "36 Kr：请完成下列验证后继续 - 36 Kr",
     "36 Kr：李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36 Kr",
-    "虎嗅：一切皆插件，Harness 到底能改什么 - 虎嗅"
+    "虎嗅：一切皆插件，Harness 到底能改什么 - 虎嗅",
+    "36 Kr：Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr"
   ],
   "sections": [
     {
@@ -18,21 +18,21 @@
       "en": "Forum agenda and conference signals",
       "items": [
         {
-          "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - 启明创投",
+          "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - qimingvc.com",
           "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
-          "source": "启明创投",
+          "source": "qimingvc.com",
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "论坛",
-          "summary": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
+          "summary": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 qimingvc.com",
           "image": ""
         },
         {
-          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - mittrchina.com",
+          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - 麻省理工科技评论",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
-          "source": "mittrchina.com",
+          "source": "麻省理工科技评论",
           "published_at": "2026-07-21T17:51:45+08:00",
           "type": "论坛",
-          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 mittrchina.com",
+          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
           "image": ""
         },
         {
@@ -54,12 +54,12 @@
           "image": ""
         },
         {
-          "title": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕 - 启明创投",
+          "title": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕 - qimingvc.com",
           "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQZ1pNSXhacUNLVERTZWNUaWRjZFlTN2Q4SjZqdW5MY3BhWmE0RWFyQTZ4VEFQUFdhZVFCc0RfZHFnUkM5Ulp0SURmMDlDdk1iQnFhbG1XQTlsaUZ3MVAtM2dSeGpvQzh3LWhPeHB4NjVQMWFCeldTYXhQOWx6MU8tVlpsYnpubkdDT3RXN25BQ2dfMTJIdkJZalZ0OUg3YUZJTTNnSGIyVXJzUGtjNDhvYzdSa3BPTUd6NWE1NjFCY01YUkhHeTN4UW9oYjd4R1g0d2NJWnlWUUNrS3E0S0VLb29pYzlqb0MxczI5UDgxSWR2MjNjSzQ3emNTR0Yzc0xSN3F0RzZaeDAwYl9zbTN2X21mR29wVlR0OUVOY2pnRWI0VTBTVTljS2diMkxmTU5XY0s1RUYwRnZsWXAtQ1dTN1VnMmJoLTh3UHV0Y05teTVhMHY5Y3BXWDBNZmhzNjg4VDdWMEptdkVndXpQaUpYeFNrejZwRVVFdTVFNDBYSDlOUGczN0dwYl9hdlRNSjQtNHdOMnV2MFduanpISWNPaUQtb0pTYk80VDJzQTRxRDZUdXhEWEFZbktKWUpadllpQVRvbmpXbV95VGRZZHpHQ1NWTHhHOWRSdWlVX28yckpSajRkbVZCWGQ2UklhN2hEUHRCMGdTRjRWUlgyZDFMYnZwOHNoX084WVI5R0Zn?oc=5",
-          "source": "启明创投",
+          "source": "qimingvc.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕 启明创投",
+          "summary": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕 qimingvc.com",
           "image": ""
         },
         {
@@ -142,21 +142,21 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - jfdaily.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRHpHVUpnektYZW9YdE1SR1JWeUtTQ3d6ZFQxektKcHFJN01CWTEwYmpQU1FLZi1OdlI1d1dCOS1pVnFwcWR3YldMZFNaN3J6LVZGX3hSclBrUQ?oc=5",
-          "source": "jfdaily.com",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 jfdaily.com",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - jfdaily.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
           "source": "jfdaily.com",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 jfdaily.com",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - jfdaily.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRHpHVUpnektYZW9YdE1SR1JWeUtTQ3d6ZFQxektKcHFJN01CWTEwYmpQU1FLZi1OdlI1d1dCOS1pVnFwcWR3YldMZFNaN3J6LVZGX3hSclBrUQ?oc=5",
+          "source": "jfdaily.com",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 jfdaily.com",
           "image": ""
         },
         {
@@ -214,12 +214,12 @@
           "image": ""
         },
         {
-          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - sohu.com",
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
-          "source": "sohu.com",
+          "source": "搜狐网",
           "published_at": "2026-07-07T15:00:00+08:00",
           "type": "直播",
-          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 sohu.com",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
           "image": ""
         },
         {
@@ -248,12 +248,12 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
-          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - sohu.com",
+          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
-          "source": "sohu.com",
+          "source": "搜狐网",
           "published_at": "2026-07-19T09:24:43+08:00",
           "type": "观点",
-          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 sohu.com",
+          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
           "image": ""
         }
       ]
@@ -279,15 +279,6 @@
           "published_at": "2026-08-17T17:41:01+08:00",
           "type": "媒体",
           "summary": "支付宝发布国内首个智能体商业底座 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "请完成下列验证后继续 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QWlk2WnQwWWpJWU1PeVlqWDU2aFpFbHNvS2MzanZ5b01vRkVwNTlYUHFRbDFMLUdVRkZGYV9YOE02WFI4eWcxcWs0TQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-17T12:42:16+08:00",
-          "type": "媒体",
-          "summary": "请完成下列验证后继续 36 Kr",
           "image": ""
         },
         {
@@ -370,6 +361,15 @@
           "type": "媒体",
           "summary": "workbuddy为什么来到了腾讯的舒适区？ 虎嗅",
           "image": ""
+        },
+        {
+          "title": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRNVEycVhaVXU0aXhBVTZtX1MwYUQzeXdiTnNzNlpaNkFYQnRSeldBLUNxQUllbE5NSHRoMkpRRGdXVV83dlc1NlIwNzFWZw?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-13T01:39:00+08:00",
+          "type": "媒体",
+          "summary": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ 36 Kr",
+          "image": ""
         }
       ]
     }
@@ -382,21 +382,12 @@
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
         {
-          "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - 启明创投",
+          "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 - qimingvc.com",
           "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
-          "source": "启明创投",
+          "source": "qimingvc.com",
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "论坛",
-          "summary": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
-          "image": ""
-        },
-        {
-          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - mittrchina.com",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
-          "source": "mittrchina.com",
-          "published_at": "2026-07-21T17:51:45+08:00",
-          "type": "论坛",
-          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 mittrchina.com",
+          "summary": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 qimingvc.com",
           "image": ""
         },
         {
@@ -418,12 +409,12 @@
           "image": ""
         },
         {
-          "title": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕 - 启明创投",
+          "title": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕 - qimingvc.com",
           "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQZ1pNSXhacUNLVERTZWNUaWRjZFlTN2Q4SjZqdW5MY3BhWmE0RWFyQTZ4VEFQUFdhZVFCc0RfZHFnUkM5Ulp0SURmMDlDdk1iQnFhbG1XQTlsaUZ3MVAtM2dSeGpvQzh3LWhPeHB4NjVQMWFCeldTYXhQOWx6MU8tVlpsYnpubkdDT3RXN25BQ2dfMTJIdkJZalZ0OUg3YUZJTTNnSGIyVXJzUGtjNDhvYzdSa3BPTUd6NWE1NjFCY01YUkhHeTN4UW9oYjd4R1g0d2NJWnlWUUNrS3E0S0VLb29pYzlqb0MxczI5UDgxSWR2MjNjSzQ3emNTR0Yzc0xSN3F0RzZaeDAwYl9zbTN2X21mR29wVlR0OUVOY2pnRWI0VTBTVTljS2diMkxmTU5XY0s1RUYwRnZsWXAtQ1dTN1VnMmJoLTh3UHV0Y05teTVhMHY5Y3BXWDBNZmhzNjg4VDdWMEptdkVndXpQaUpYeFNrejZwRVVFdTVFNDBYSDlOUGczN0dwYl9hdlRNSjQtNHdOMnV2MFduanpISWNPaUQtb0pTYk80VDJzQTRxRDZUdXhEWEFZbktKWUpadllpQVRvbmpXbV95VGRZZHpHQ1NWTHhHOWRSdWlVX28yckpSajRkbVZCWGQ2UklhN2hEUHRCMGdTRjRWUlgyZDFMYnZwOHNoX084WVI5R0Zn?oc=5",
-          "source": "启明创投",
+          "source": "qimingvc.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕 启明创投",
+          "summary": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕 qimingvc.com",
           "image": ""
         },
         {
@@ -508,12 +499,12 @@
           "image": ""
         },
         {
-          "title": "智能伙伴，共创未来：习近平将出席2026世界人工智能大会大会开幕式并发表主旨讲话，大会有5大亮点，今日已一票难求 - 智慧城市行业分析",
+          "title": "智能伙伴，共创未来：习近平将出席2026世界人工智能大会大会开幕式并发表主旨讲话，大会有5大亮点，今日已一票难求 - smartcity.team",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZFcwOWw3SFliTVF5NUNnNGtWTFZxZngzV3B1ZFRxRlFNZkZPQ0pobmE3YlZzQWQwako0dHFTSWdzSWpuWUlhZjdZRFNHdDVRLVc4?oc=5",
-          "source": "智慧城市行业分析",
+          "source": "smartcity.team",
           "published_at": "2026-07-13T15:00:00+08:00",
           "type": "论坛",
-          "summary": "智能伙伴，共创未来：习近平将出席2026世界人工智能大会大会开幕式并发表主旨讲话，大会有5大亮点，今日已一票难求 智慧城市行业分析",
+          "summary": "智能伙伴，共创未来：习近平将出席2026世界人工智能大会大会开幕式并发表主旨讲话，大会有5大亮点，今日已一票难求 smartcity.team",
           "image": ""
         },
         {
@@ -541,6 +532,24 @@
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
           "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "image": ""
+        },
+        {
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
+          "source": "36 Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36 Kr",
           "image": ""
         },
         {
@@ -579,12 +588,12 @@
           "image": ""
         },
         {
-          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - sohu.com",
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
-          "source": "sohu.com",
+          "source": "搜狐网",
           "published_at": "2026-07-07T15:00:00+08:00",
           "type": "直播",
-          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 sohu.com",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
           "image": ""
         }
       ]
@@ -602,6 +611,15 @@
           "published_at": "2026-08-10T14:26:00+08:00",
           "type": "直播",
           "summary": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
+          "image": ""
+        },
+        {
+          "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 - 麻省理工科技评论",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
+          "source": "麻省理工科技评论",
+          "published_at": "2026-07-21T17:51:45+08:00",
+          "type": "论坛",
+          "summary": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
           "image": ""
         },
         {
@@ -659,21 +677,12 @@
           "image": ""
         },
         {
-          "title": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 - sohu.com",
+          "title": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tYkQtSU5SQmhKd0luVWM1cXBmSy04RE9fVlVJazFYN3REaHllUHZiS2FTc1lvNkZZYzJ1RU1JWjY2TV9WeGItUk9aTzBSc2QwLUE?oc=5",
-          "source": "sohu.com",
+          "source": "搜狐网",
           "published_at": "2026-07-15T10:26:36+08:00",
           "type": "论坛",
-          "summary": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 sohu.com",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-07-09T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36 Kr",
+          "summary": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 搜狐网",
           "image": ""
         },
         {
@@ -695,15 +704,6 @@
           "image": ""
         },
         {
-          "title": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 - 上海有色金属",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wY253bl9vODhGWFpyZ0pqR2RUbnM3YW5pUElSWWVONEpxaTlOYUNBZnhBZXlhVmUyRV91cG5ENHhDTlZ0SEhwdll3?oc=5",
-          "source": "上海有色金属",
-          "published_at": "2026-06-15T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
-          "image": ""
-        },
-        {
           "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - 香港中联办",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdmhZSFRGWTlZZFlnMzZoMDBZQmczOTJYbHF6cldURTVQZ2ZtUHJHbFdmRG0xdkF6VklQcGJEaXVyNU5GRHhYUW9UZlRmb1VGMEdEQWdqenFudXlnanBMeXRsRkZQaE9YQVoxZDhFM0VhWWQwcTI5cHFTV1BEeWc?oc=5",
           "source": "香港中联办",
@@ -719,15 +719,6 @@
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
           "summary": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 香港中联办",
-          "image": ""
-        },
-        {
-          "title": "📆WAIC UP 魔盒直播间 DAY3️⃣ - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90TFRnOUxrVUs5dkdBQ0FqQnpDb21aWmVLYkFvNjI5UTBxVmFWUHdHN3pGRWpEZmhiT0JwU1M5QVdjZXcwRVRTVG9RajlBYWFMWnA2SFRMTQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2025-07-28T15:00:00+08:00",
-          "type": "直播",
-          "summary": "📆WAIC UP 魔盒直播间 DAY3️⃣ Bilibili",
           "image": ""
         },
         {
@@ -764,9 +755,9 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "启明创投",
+      "source": "qimingvc.com",
       "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办",
-      "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
+      "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 qimingvc.com",
       "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
       "published_at": "2026-07-22T15:00:00+08:00",
       "type": "论坛"
@@ -774,9 +765,9 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "mittrchina.com",
+      "source": "麻省理工科技评论",
       "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案",
-      "point": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 mittrchina.com",
+      "point": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
       "published_at": "2026-07-21T17:51:45+08:00",
       "type": "论坛"
@@ -815,10 +806,10 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "36 Kr",
-      "title": "请完成下列验证后继续",
-      "point": "请完成下列验证后继续 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QWlk2WnQwWWpJWU1PeVlqWDU2aFpFbHNvS2MzanZ5b01vRkVwNTlYUHFRbDFMLUdVRkZGYV9YOE02WFI4eWcxcWs0TQ?oc=5",
-      "published_at": "2026-08-17T12:42:16+08:00",
+      "title": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录",
+      "point": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PeE9kM0RnMXk1ZWNFVzFvM2c0OVhXR0pJWTJ4Z1JZLUZ1TGFqYTR0U1Y4bkRtNGJNdnFhZ2s5YXdjbEFSZWdBMndIakZPdw?oc=5",
+      "published_at": "2026-08-17T05:11:00+08:00",
       "type": "媒体"
     },
     {
@@ -834,9 +825,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "sohu.com",
+      "source": "搜狐网",
       "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会",
-      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 sohu.com",
+      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
       "published_at": "2026-07-07T15:00:00+08:00",
       "type": "直播"
@@ -844,9 +835,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "启明创投",
+      "source": "qimingvc.com",
       "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办",
-      "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
+      "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 qimingvc.com",
       "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
       "published_at": "2026-07-22T15:00:00+08:00",
       "type": "论坛"
@@ -854,9 +845,9 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "sohu.com",
+      "source": "搜狐网",
       "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
-      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 sohu.com",
+      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
       "published_at": "2026-07-19T09:24:43+08:00",
       "type": "观点"
@@ -874,12 +865,12 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "TradingView",
-      "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户观看AI内容",
-      "point": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户观看AI内容 TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GWGlGblNZcGZjUUl3aXJHWEtUM2F0djExdVN3SGRmSER1eV9XT1M1d0NUejV3UlFrNVkwVy1qMEExSWJteXQwRzJzajE0X1Y0VlFYQ0wwNktzZE5GSUJMUDctbXZwNXA5c3c?oc=5",
-      "published_at": "2026-07-17T15:00:00+08:00",
-      "type": "媒体"
+      "source": "麻省理工科技评论",
+      "title": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案",
+      "point": "AI大规模落地，电力如何跟上？WAIC 2026这场论坛给出了答案 麻省理工科技评论",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByX0RRQ0J3VGFnLVVUZUszazJOUFpQMldMT0V6VmFKX2MzYTFVZDMwT3FEMkcyc1RLQWFlS0s2WEJ2YTBFSzdtXzZ6alBYTjdZSzZnZUJ0RQ?oc=5",
+      "published_at": "2026-07-21T17:51:45+08:00",
+      "type": "论坛"
     }
   ],
   "sources": [
