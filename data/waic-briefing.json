@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19T00:35:51.556385+08:00",
+  "generated_at": "2026-08-19T01:30:58.516887+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 00:35",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 01:30",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 130 条、直播 20 条、观点 1 条、论坛 21 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 130 条、直播 20 条、观点 2 条、论坛 21 条，已按企业家阅读场景分组。",
     "虎嗅：一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅",
-    "36 Kr：百度转型AI为先，双重主要上市打开估值空间 - 36 Kr",
+    "36kr.com：百度转型AI为先，双重主要上市打开估值空间 - 36kr.com",
     "虎嗅：支付宝发布国内首个智能体商业底座 - 虎嗅",
-    "36 Kr：李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36 Kr",
+    "36kr.com：李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36kr.com",
     "虎嗅：一切皆插件，Harness 到底能改什么 - 虎嗅"
   ],
   "sections": [
@@ -214,12 +214,12 @@
           "image": ""
         },
         {
-          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
+          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2026-07-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI hub.baai.ac.cn",
           "image": ""
         },
         {
@@ -232,12 +232,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36kr.com",
           "image": ""
         }
       ]
@@ -254,6 +254,15 @@
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "观点",
           "summary": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-19T09:24:43+08:00",
+          "type": "观点",
+          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
           "image": ""
         }
       ]
@@ -273,12 +282,12 @@
           "image": ""
         },
         {
-          "title": "百度转型AI为先，双重主要上市打开估值空间 - 36 Kr",
+          "title": "百度转型AI为先，双重主要上市打开估值空间 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LdnVhc1M2UEF3T2ZGSFlYcjRlMmo0V0ZRNmM4SVNHWm9MY1BWMUhpdzlOcUtvQ2VwakJJU1NET2xhdHZxOGoySkZjeks1dw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-18T05:35:00+08:00",
           "type": "媒体",
-          "summary": "百度转型AI为先，双重主要上市打开估值空间 36 Kr",
+          "summary": "百度转型AI为先，双重主要上市打开估值空间 36kr.com",
           "image": ""
         },
         {
@@ -291,12 +300,12 @@
           "image": ""
         },
         {
-          "title": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36 Kr",
+          "title": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PeE9kM0RnMXk1ZWNFVzFvM2c0OVhXR0pJWTJ4Z1JZLUZ1TGFqYTR0U1Y4bkRtNGJNdnFhZ2s5YXdjbEFSZWdBMndIakZPdw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-17T05:11:00+08:00",
           "type": "媒体",
-          "summary": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 36 Kr",
+          "summary": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 36kr.com",
           "image": ""
         },
         {
@@ -309,21 +318,21 @@
           "image": ""
         },
         {
-          "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
+          "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY1BwOHBWY1J6MFU0NHFzQzNxN2ZLVjd3aHpzSDkxQkJNRjV4SnBxbGwyQTRHVWlkeVlSMlFQdzRjRFRxSzkxX0d6bkM4UQ?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-14T00:23:32+08:00",
           "type": "媒体",
-          "summary": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36 Kr",
+          "summary": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36kr.com",
           "image": ""
         },
         {
-          "title": "寒王、摩王“期中考试”不及格？ - 36 Kr",
+          "title": "寒王、摩王“期中考试”不及格？ - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lZ2pXMkh4eWhkNFZRU0QtNTFVeVZITDhVbFlyN05jVElJeFdYenlYa3FVZi1WQXEwakYxQ3Z2YVd4eEpFajhveFQzQ0tOZw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-13T21:24:00+08:00",
           "type": "媒体",
-          "summary": "寒王、摩王“期中考试”不及格？ 36 Kr",
+          "summary": "寒王、摩王“期中考试”不及格？ 36kr.com",
           "image": ""
         },
         {
@@ -336,12 +345,12 @@
           "image": ""
         },
         {
-          "title": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36 Kr",
+          "title": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BUER3UDd6X2xEMW1xcklOUHhfdFZrMnZoeUIxcFdta3dvYjlzdzJ1Q25qRC1MVWJ4cThpN2NfdTB6QjBYazZhZGQwWDE3Zw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-08-13T19:00:00+08:00",
           "type": "媒体",
-          "summary": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 36 Kr",
+          "summary": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 36kr.com",
           "image": ""
         },
         {
@@ -517,30 +526,30 @@
           "image": ""
         },
         {
-          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - 智源社区",
+          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkT1NhYU5QODFNMEVYMjgyNTQwd05uSWd0SUQ3SVNKTU1lQUxvX2hPSXN2a1E4UGhNakRCV1kzakRJOWNyaDBfMw?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
-          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 hub.baai.ac.cn",
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36 Kr",
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36 Kr",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36kr.com",
           "image": ""
         },
         {
-          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
+          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36 Kr",
+          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36kr.com",
           "image": ""
         },
         {
@@ -570,12 +579,12 @@
       "description": "展区、展台、探馆、现场走访和新品展示类直播/回放入口。",
       "items": [
         {
-          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
+          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2026-07-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI hub.baai.ac.cn",
           "image": ""
         },
         {
@@ -677,21 +686,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36 Kr",
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-07-09T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36 Kr",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36kr.com",
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36 Kr",
+          "source": "36kr.com",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36kr.com",
           "image": ""
         },
         {
@@ -804,9 +813,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
+      "source": "36kr.com",
       "title": "百度转型AI为先，双重主要上市打开估值空间",
-      "point": "百度转型AI为先，双重主要上市打开估值空间 36 Kr",
+      "point": "百度转型AI为先，双重主要上市打开估值空间 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LdnVhc1M2UEF3T2ZGSFlYcjRlMmo0V0ZRNmM4SVNHWm9MY1BWMUhpdzlOcUtvQ2VwakJJU1NET2xhdHZxOGoySkZjeks1dw?oc=5",
       "published_at": "2026-08-18T05:35:00+08:00",
       "type": "媒体"
@@ -824,9 +833,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "智源社区",
+      "source": "hub.baai.ac.cn",
       "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI",
-      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI hub.baai.ac.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
       "published_at": "2026-07-14T15:00:00+08:00",
       "type": "直播"
@@ -864,21 +873,21 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
+      "source": "搜狐网",
+      "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
+      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
+      "published_at": "2026-07-19T09:24:43+08:00",
+      "type": "观点"
+    },
+    {
+      "channel": "嘉宾 / 自媒体",
+      "en": "Guests & Creators",
       "source": "rmzxw.com.cn",
       "title": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验",
       "point": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
       "published_at": "2026-08-10T14:26:00+08:00",
-      "type": "直播"
-    },
-    {
-      "channel": "嘉宾 / 自媒体",
-      "en": "Guests & Creators",
-      "source": "China Daily",
-      "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法",
-      "point": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 China Daily",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamxfTmk4S0pWVTNYejd3MWV3aFJ3aHBGTnAtdzljSFNoWGpQWjJrN1VtYjJQaEI1Y1hwellXV3JULXRudXFHNXFINEJobzBYODJXR2NvZVBUbHJ1azVHczFNalAtdEtPdVlCSWhkVmNVLXpxLUNDTHEwTW1vQ0FybjhSMA?oc=5",
-      "published_at": "2026-07-20T15:00:00+08:00",
       "type": "直播"
     }
   ],
