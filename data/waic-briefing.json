@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-18T21:45:36.060472+08:00",
+  "generated_at": "2026-08-18T22:37:06.664942+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月18日 21:45",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月18日 22:37",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 111 条、直播 19 条、观点 21 条、论坛 22 条，已按企业家阅读场景分组。",
-    "huxiu.com：一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - huxiu.com",
-    "huxiu.com：人形机器人第一股，到底能不能买？ - huxiu.com",
+    "本轮抓取到 媒体 110 条、直播 20 条、观点 22 条、论坛 20 条，已按企业家阅读场景分组。",
+    "虎嗅：一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅",
     "36 Kr：百度转型AI为先，双重主要上市打开估值空间 - 36 Kr",
-    "huxiu.com：支付宝发布国内首个智能体商业底座 - huxiu.com",
-    "36 Kr：李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36 Kr"
+    "虎嗅：支付宝发布国内首个智能体商业底座 - 虎嗅",
+    "36 Kr：李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36 Kr",
+    "虎嗅：一切皆插件，Harness 到底能改什么 - 虎嗅"
   ],
   "sections": [
     {
@@ -99,12 +99,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会开幕在即 中国与各国携手共促智能向善 - news.china.com.cn",
+          "title": "2026世界人工智能大会开幕在即 中国与各国携手共促智能向善 - 中国网新闻中心",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RV0N3czNGVGxWNTEzN0I5bWJoa1JUVmpEdko1ekdVNDFNUHBJX1JlTHVxS3VBbVFzZlZDSHB2cmg2bGVweFJaT2VRZzdLN0dfQTdYRDhWWGdyaUZoeW1HaVJTMy1jWmgxckE?oc=5",
-          "source": "news.china.com.cn",
+          "source": "中国网新闻中心",
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会开幕在即 中国与各国携手共促智能向善 news.china.com.cn",
+          "summary": "2026世界人工智能大会开幕在即 中国与各国携手共促智能向善 中国网新闻中心",
           "image": ""
         },
         {
@@ -223,21 +223,21 @@
           "image": ""
         },
         {
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-07T15:00:00+08:00",
+          "type": "直播",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
+          "image": ""
+        },
+        {
           "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
           "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-06-28T15:00:00+08:00",
-          "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
           "image": ""
         }
       ]
@@ -302,6 +302,15 @@
           "image": ""
         },
         {
+          "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-07-19T15:00:00+08:00",
+          "type": "观点",
+          "summary": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
+          "image": ""
+        },
+        {
           "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
           "source": "搜狐网",
@@ -345,15 +354,6 @@
           "type": "观点",
           "summary": "WAIC 2026展商预告：清微智能_哔哩哔哩 bilibili.com",
           "image": ""
-        },
-        {
-          "title": "WAIC 2026展商预告：阿里巴巴_哔哩哔哩 - bilibili.com",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iMXpCbG03QmJJUDM2aTEzYmhaYy1PVlA3RUR4RkZ6R1N4RjdMYmhXNHk2UnRoOWN0dFNUZG5HUVdOc2M1cWo3dllOX1RGSTZPOFltbjNPMA?oc=5",
-          "source": "bilibili.com",
-          "published_at": "2026-07-08T15:00:00+08:00",
-          "type": "观点",
-          "summary": "WAIC 2026展商预告：阿里巴巴_哔哩哔哩 bilibili.com",
-          "image": ""
         }
       ]
     },
@@ -363,21 +363,12 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - huxiu.com",
+          "title": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mdmdZX090VmNqYkdKSFlqWlo3T2YxVjFXcUxqc0VBYkVwWlJ2eXFHcU93NE9lODFQSlQ3SDFRQ003bGt3TEs3dkVSb19NRDlxUVYwVw?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅",
           "published_at": "2026-08-18T14:51:39+08:00",
           "type": "媒体",
-          "summary": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 huxiu.com",
-          "image": ""
-        },
-        {
-          "title": "人形机器人第一股，到底能不能买？ - huxiu.com",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tTXdfZGwzX2VJazZJNExLdXpOcUdNSlRaUVctQ05mRFprSmo0RmRXSXp0aUVMUnl6Q1diUUFzZ196Y2txQXlTTTVCaDNFQy11Yjg5OA?oc=5",
-          "source": "huxiu.com",
-          "published_at": "2026-08-18T10:00:00+08:00",
-          "type": "媒体",
-          "summary": "人形机器人第一股，到底能不能买？ huxiu.com",
+          "summary": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 虎嗅",
           "image": ""
         },
         {
@@ -390,12 +381,12 @@
           "image": ""
         },
         {
-          "title": "支付宝发布国内首个智能体商业底座 - huxiu.com",
+          "title": "支付宝发布国内首个智能体商业底座 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZVlFITVJiRmpWTUdHQ3hkcTI4TzNaZkI4dzk3dG03eDR4S21YSzVIYlZmMi1MLWFoQUs1dV9kNXB0T004SnlXNEhLRW9nRWR5?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅",
           "published_at": "2026-08-17T17:41:01+08:00",
           "type": "媒体",
-          "summary": "支付宝发布国内首个智能体商业底座 huxiu.com",
+          "summary": "支付宝发布国内首个智能体商业底座 虎嗅",
           "image": ""
         },
         {
@@ -408,12 +399,12 @@
           "image": ""
         },
         {
-          "title": "一切皆插件，Harness 到底能改什么 - huxiu.com",
+          "title": "一切皆插件，Harness 到底能改什么 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oeWNmemNpSWJBSFAybUsxWU1BeVZ6ZVNuc0d1c0t3TWxPdWJRMVlRQjZpcG9NSnBudDBTekVuN0RaRmdjYVhKSE1pU1hNVXE0UmpzbA?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅",
           "published_at": "2026-08-14T15:00:00+08:00",
           "type": "媒体",
-          "summary": "一切皆插件，Harness 到底能改什么 huxiu.com",
+          "summary": "一切皆插件，Harness 到底能改什么 虎嗅",
           "image": ""
         },
         {
@@ -435,12 +426,12 @@
           "image": ""
         },
         {
-          "title": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - huxiu.com",
+          "title": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVFJyY1RiNGt1VmkyMzBFNk1yM29sbHR5TkFrcjdNVzBMN0xJNVFTdG9HY0Z6ZzRiR3dsVTlTODNXTGlzSXhWRDQ5ZDJscVFMaFRZeQ?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅",
           "published_at": "2026-08-13T19:35:38+08:00",
           "type": "媒体",
-          "summary": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 huxiu.com",
+          "summary": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 虎嗅",
           "image": ""
         },
         {
@@ -453,21 +444,30 @@
           "image": ""
         },
         {
-          "title": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 - huxiu.com",
+          "title": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5meXU4RkJGcWdvYXRlTFBjLVlkU0kxaDlmVzZERDhuRUxTMUY2VVVxWnVJaGlrTUhMcnROSWFhekxrbVBXYkF3U1FBX0ZNU1VmSkdUNA?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅",
           "published_at": "2026-08-13T17:40:38+08:00",
           "type": "媒体",
-          "summary": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 huxiu.com",
+          "summary": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 虎嗅",
           "image": ""
         },
         {
-          "title": "workbuddy为什么来到了腾讯的舒适区？ - huxiu.com",
+          "title": "workbuddy为什么来到了腾讯的舒适区？ - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKbVV4dVZyTFI4ZjgyRUgyOVVZWVRuRkdjMkFoZEtWY1VCQzdOd29WQ3BaU3pjbGpWUkhoMWVRaU1TOURrVW1MRVZaZjF5OEVZV2c?oc=5",
-          "source": "huxiu.com",
+          "source": "虎嗅",
           "published_at": "2026-08-13T10:35:28+08:00",
           "type": "媒体",
-          "summary": "workbuddy为什么来到了腾讯的舒适区？ huxiu.com",
+          "summary": "workbuddy为什么来到了腾讯的舒适区？ 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "workbuddy为什么来到了腾讯的舒适区？ - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LajlhTUdzU3R3VWhCQ19xR3E3bjRvNjVzbkZRTlduUzZmVkVza1k5R2VYT0FVNFowMVhZWTc0Z0psWkxRV2VCR1FVYWhqZ3k5em93eA?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-13T10:35:28+08:00",
+          "type": "媒体",
+          "summary": "workbuddy为什么来到了腾讯的舒适区？ 虎嗅",
           "image": ""
         }
       ]
@@ -634,15 +634,6 @@
           "image": ""
         },
         {
-          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2025-07-17T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36 Kr",
-          "image": ""
-        },
-        {
           "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察者",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRXNBNzAxajh5NkJQUjFXUHlaa0xJcTRaUG5UMHBQQmVlRzVFcW5ZQXV0eVljbjdJUE1HUklwTW4xdnhqSXVOYldDakRqYUtzdVpHYzdtMzZfWXBYcjc1eUY1V1ZfVUZURHRzMlFXOEU?oc=5",
           "source": "观察者",
@@ -675,6 +666,15 @@
           "published_at": "2026-07-14T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+          "image": ""
+        },
+        {
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-07T15:00:00+08:00",
+          "type": "直播",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
           "image": ""
         }
       ]
@@ -884,21 +884,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "huxiu.com",
+      "source": "虎嗅",
       "title": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强",
-      "point": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 huxiu.com",
+      "point": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 虎嗅",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mdmdZX090VmNqYkdKSFlqWlo3T2YxVjFXcUxqc0VBYkVwWlJ2eXFHcU93NE9lODFQSlQ3SDFRQ003bGt3TEs3dkVSb19NRDlxUVYwVw?oc=5",
       "published_at": "2026-08-18T14:51:39+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "huxiu.com",
-      "title": "人形机器人第一股，到底能不能买？",
-      "point": "人形机器人第一股，到底能不能买？ huxiu.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tTXdfZGwzX2VJazZJNExLdXpOcUdNSlRaUVctQ05mRFprSmo0RmRXSXp0aUVMUnl6Q1diUUFzZ196Y2txQXlTTTVCaDNFQy11Yjg5OA?oc=5",
-      "published_at": "2026-08-18T10:00:00+08:00",
       "type": "媒体"
     },
     {
@@ -909,6 +899,16 @@
       "point": "百度转型AI为先，双重主要上市打开估值空间 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LdnVhc1M2UEF3T2ZGSFlYcjRlMmo0V0ZRNmM4SVNHWm9MY1BWMUhpdzlOcUtvQ2VwakJJU1NET2xhdHZxOGoySkZjeks1dw?oc=5",
       "published_at": "2026-08-18T05:35:00+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅",
+      "title": "支付宝发布国内首个智能体商业底座",
+      "point": "支付宝发布国内首个智能体商业底座 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZVlFITVJiRmpWTUdHQ3hkcTI4TzNaZkI4dzk3dG03eDR4S21YSzVIYlZmMi1MLWFoQUs1dV9kNXB0T004SnlXNEhLRW9nRWR5?oc=5",
+      "published_at": "2026-08-17T17:41:01+08:00",
       "type": "媒体"
     },
     {
@@ -924,21 +924,21 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
+      "source": "搜狐网",
+      "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会",
+      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+      "published_at": "2026-07-07T15:00:00+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "直播 / 逛展",
+      "en": "Live & Expo",
       "source": "启明创投",
       "title": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办",
       "point": "启明头条 | WAIC启明创投·创业与投资论坛—从算力原点到应用落地的进化征程成功举办 启明创投",
       "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVXByRVQ1S1lURXZKOGFtMWIzQ2UwcTdlWnFyc2o3QjFKNXdrdzhXOFJnSXVIOWp3eEFfSlY2MURvc0lRNHBaQjZUNmhJaXdwSmp6VFA5UGZiTkVhbGFacXpkeThXcG5MS19OUEdLeXJTUklVdWwxWlF3UDNwM3VZc2ZuZDFIazVsVVBLaHY1TmFRaFpzeXhQRi1ET29mdlFfcVFkNzloOE1PU1ViTGF5ZUl2bDRmMDRjTFdqSkhRbzBvTC01MDEtYzhZLVEwX0RrN0VqdlgzWk02ajNLVHB6dWl2VzJYNkdEaURnT1VabUFjVlV5TkVoZjZENkVJUTNqVG53YTZod3c2Z2FIWEVUY19abUY0YnNZLTdKWVd2dzZLaS0wYXVCWTZHUlB6ZGNoSXNSTk1FaW5HS0pVZlVRZjNhYnZkVTRhcFpoU1hiMkdrQlhTODFpbjN5eXU3cFl4dV9pdWE0ODA0X2w4TjVyRUpCRWsySUdOdzV2REJvUXlXS0FMZUNJSUVOSC13YjJPMHdORThZRVo3U3dYQXp2WGJjQlU1ZFh1cG5CemIxSWlXUVF0eTRncE9jelNNQ0h5QnRkSDZ5TWhsLWpnS2FYVkYyOC1FYkJFaHhjVnNDeEozY2QtS1Y1X0tCeFlxLXVGbndfVFEzbUpmMUk?oc=5",
       "published_at": "2026-07-22T15:00:00+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "直播 / 逛展",
-      "en": "Live & Expo",
-      "source": "中国日报网",
-      "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行",
-      "point": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
-      "published_at": "2026-07-21T15:00:00+08:00",
       "type": "论坛"
     },
     {
