@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-19T12:41:08.094538+08:00",
+  "generated_at": "2026-08-19T13:34:34.653291+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 12:41",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 13:34",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 129 条、直播 21 条、观点 1 条、论坛 22 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 128 条、直播 20 条、观点 2 条、论坛 23 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 - 虎嗅",
     "36 Kr：WRC前夜，晚上10点，机器人和人都还没下班 - 36 Kr",
     "虎嗅：一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅",
@@ -248,6 +248,15 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
+          "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-07-19T15:00:00+08:00",
+          "type": "观点",
+          "summary": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
+          "image": ""
+        },
+        {
           "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
           "source": "搜狐网",
@@ -265,7 +274,7 @@
       "items": [
         {
           "title": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FMTlPNFZtMHFyQ2d0bU5QT1ZTdXVtTTRGVWVERnZQdUF6aE5RUFJya0wwOGk3RG90MWpNb2VVMzJnLXA0eDdKM2lDT1ZNYUNJV0Z5bw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wTHpPcnRqV0tWNUxmYW1vZXJSX3ZfelAzd2RpWTdoM2kxWjdRMFlwLTBMb0lFbHJ6TzM2cmlfcEN1VUFGd1haVjgxdVVmRXdxMlNSSjBYV0kzLVpTZkQ4RDlR?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-19T09:30:05+08:00",
           "type": "媒体",
@@ -517,6 +526,15 @@
           "image": ""
         },
         {
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
+          "source": "36 Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36 Kr",
+          "image": ""
+        },
+        {
           "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
           "source": "36 Kr",
@@ -704,15 +722,6 @@
           "image": ""
         },
         {
-          "title": "WAIC 2025 氪话未来直播间 - topics.36kr.com",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QN1FDdFo2QWdSN1NhbXVjQjVIODY2YkE2M0JqR0NJTi1uSkdqZkt4elpOTFZpQThvTXhwV3R6bm1VdjRoSXNkMjN1anl0T1U?oc=5",
-          "source": "topics.36kr.com",
-          "published_at": "2025-07-13T07:57:28+08:00",
-          "type": "直播",
-          "summary": "WAIC 2025 氪话未来直播间 topics.36kr.com",
-          "image": ""
-        },
-        {
           "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
           "source": "moe.gov.cn",
@@ -779,7 +788,7 @@
       "source": "虎嗅",
       "title": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点",
       "point": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FMTlPNFZtMHFyQ2d0bU5QT1ZTdXVtTTRGVWVERnZQdUF6aE5RUFJya0wwOGk3RG90MWpNb2VVMzJnLXA0eDdKM2lDT1ZNYUNJV0Z5bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wTHpPcnRqV0tWNUxmYW1vZXJSX3ZfelAzd2RpWTdoM2kxWjdRMFlwLTBMb0lFbHJ6TzM2cmlfcEN1VUFGd1haVjgxdVVmRXdxMlNSSjBYV0kzLVpTZkQ4RDlR?oc=5",
       "published_at": "2026-08-19T09:30:05+08:00",
       "type": "媒体"
     },
@@ -836,6 +845,16 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
+      "source": "虎嗅",
+      "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心",
+      "point": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
+      "published_at": "2026-07-19T15:00:00+08:00",
+      "type": "观点"
+    },
+    {
+      "channel": "嘉宾 / 自媒体",
+      "en": "Guests & Creators",
       "source": "搜狐网",
       "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
       "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
@@ -851,16 +870,6 @@
       "point": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
       "published_at": "2026-08-10T14:26:00+08:00",
-      "type": "直播"
-    },
-    {
-      "channel": "嘉宾 / 自媒体",
-      "en": "Guests & Creators",
-      "source": "China Daily",
-      "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法",
-      "point": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 China Daily",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamxfTmk4S0pWVTNYejd3MWV3aFJ3aHBGTnAtdzljSFNoWGpQWjJrN1VtYjJQaEI1Y1hwellXV3JULXRudXFHNXFINEJobzBYODJXR2NvZVBUbHJ1azVHczFNalAtdEtPdVlCSWhkVmNVLXpxLUNDTHEwTW1vQ0FybjhSMA?oc=5",
-      "published_at": "2026-07-20T15:00:00+08:00",
       "type": "直播"
     }
   ],
