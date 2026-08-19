@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-19T13:34:34.653291+08:00",
+  "generated_at": "2026-08-19T14:51:19.351645+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 13:34",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 14:51",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 128 条、直播 20 条、观点 2 条、论坛 23 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 130 条、直播 20 条、观点 1 条、论坛 22 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 - 虎嗅",
     "36 Kr：WRC前夜，晚上10点，机器人和人都还没下班 - 36 Kr",
     "虎嗅：一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅",
@@ -117,12 +117,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 品玩",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NS0pRM0RoWHlYcVF4Qmh1dU9vVFR1WEx4ZzB3bjRQZGtTWVVQOXI5dGFJdzJBNlhaRS1KWEoxYWpvTWozeDhsag?oc=5",
-          "source": "品玩",
-          "published_at": "2026-07-14T15:00:00+08:00",
+          "title": "五大亮点提前看！世界人工智能大会本周开幕 - 京报网",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSjNrTldwMnNad20zUzhIZkJ2YnNEVThoUW4zM0FJQ1h5aGNicl9abXc1R3U3emFDZFlmcVhxZFNuQy1HVG1vVWhEanIwTk1DdjJWWVFVY08wb3dDZTR3V2VGTzNsVDVXdGdQOGdfVXdlZw?oc=5",
+          "source": "京报网",
+          "published_at": "2026-07-13T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 品玩",
+          "summary": "五大亮点提前看！世界人工智能大会本周开幕 京报网",
           "image": ""
         }
       ]
@@ -232,12 +232,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - eu.36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36Kr",
+          "source": "eu.36kr.com",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 eu.36kr.com",
           "image": ""
         }
       ]
@@ -254,15 +254,6 @@
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "观点",
           "summary": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
-          "source": "搜狐网",
-          "published_at": "2026-07-19T09:24:43+08:00",
-          "type": "观点",
-          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
           "image": ""
         }
       ]
@@ -283,7 +274,7 @@
         },
         {
           "title": "WRC前夜，晚上10点，机器人和人都还没下班 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UNnJHdVFvMEpuSkw3WF9nU0FKdWg5TXBxUm51NXd1aXN0Znd3Z3Q4a2N2OHo4Qk5RYzBQX1Y2SHc5ZjdnVTlwM0t1MkJkUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53WTZOVmNkd28zQjhIX2lTZHFDU2l1eDhiWHpEN05KRC12aE92UFdrUEZ1U2o3bmY5a2pRN0dwVnIybXlrVzdfcTFhV0xWUFpR?oc=5",
           "source": "36 Kr",
           "published_at": "2026-08-18T20:05:00+08:00",
           "type": "媒体",
@@ -490,15 +481,6 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 品玩",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NS0pRM0RoWHlYcVF4Qmh1dU9vVFR1WEx4ZzB3bjRQZGtTWVVQOXI5dGFJdzJBNlhaRS1KWEoxYWpvTWozeDhsag?oc=5",
-          "source": "品玩",
-          "published_at": "2026-07-14T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 品玩",
-          "image": ""
-        },
-        {
           "title": "智能伙伴，共创未来：习近平将出席2026世界人工智能大会大会开幕式并发表主旨讲话，大会有5大亮点，今日已一票难求 - 智慧城市行业分析",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZFcwOWw3SFliTVF5NUNnNGtWTFZxZngzV3B1ZFRxRlFNZkZPQ0pobmE3YlZzQWQwako0dHFTSWdzSWpuWUlhZjdZRFNHdDVRLVc4?oc=5",
           "source": "智慧城市行业分析",
@@ -677,12 +659,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - eu.36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36Kr",
+          "source": "eu.36kr.com",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 eu.36kr.com",
           "image": ""
         },
         {
@@ -695,21 +677,21 @@
           "image": ""
         },
         {
-          "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - 香港中联办",
+          "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - big5.locpg.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdmhZSFRGWTlZZFlnMzZoMDBZQmczOTJYbHF6cldURTVQZ2ZtUHJHbFdmRG0xdkF6VklQcGJEaXVyNU5GRHhYUW9UZlRmb1VGMEdEQWdqenFudXlnanBMeXRsRkZQaE9YQVoxZDhFM0VhWWQwcTI5cHFTV1BEeWc?oc=5",
-          "source": "香港中联办",
+          "source": "big5.locpg.gov.cn",
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 香港中联办",
+          "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 big5.locpg.gov.cn",
           "image": ""
         },
         {
-          "title": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 - 香港中联办",
+          "title": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 - big5.locpg.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ROTBnNldoSmY4UDE4MmEyYU5kcl9qa0g1OGRvSHpaTG5SYmlXUjRiYjFDVDR2WW9EUm5mVnFaLWQyUFo5RWg1M1Utd25FdFJ2eTZKdXJ2YVZmYzdJQ2RYZTJsZDRVRG0yMUx0d0JDdjNIaGVMMWwyUDJzTQ?oc=5",
-          "source": "香港中联办",
+          "source": "big5.locpg.gov.cn",
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 香港中联办",
+          "summary": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 big5.locpg.gov.cn",
           "image": ""
         },
         {
@@ -798,7 +780,7 @@
       "source": "36 Kr",
       "title": "WRC前夜，晚上10点，机器人和人都还没下班",
       "point": "WRC前夜，晚上10点，机器人和人都还没下班 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UNnJHdVFvMEpuSkw3WF9nU0FKdWg5TXBxUm51NXd1aXN0Znd3Z3Q4a2N2OHo4Qk5RYzBQX1Y2SHc5ZjdnVTlwM0t1MkJkUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53WTZOVmNkd28zQjhIX2lTZHFDU2l1eDhiWHpEN05KRC12aE92UFdrUEZ1U2o3bmY5a2pRN0dwVnIybXlrVzdfcTFhV0xWUFpR?oc=5",
       "published_at": "2026-08-18T20:05:00+08:00",
       "type": "媒体"
     },
@@ -855,21 +837,21 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "搜狐网",
-      "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
-      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJpSl9nLXczRml0VjBJSjVsaGNPektxV1EzeTRJZ0U1Yk4xU2RkSHNNbjl5SHJYTE9sUFVLc3V4ZjdtWldqZFgwQU05YUUtUVRqQ1JVU2dxWWtHVUNZYnNFbWNmbjVrSFpNbXA2cHpTenFqR1htVWo4UzJuZ1k1Qm9HT1oxS09r?oc=5",
-      "published_at": "2026-07-19T09:24:43+08:00",
-      "type": "观点"
-    },
-    {
-      "channel": "嘉宾 / 自媒体",
-      "en": "Guests & Creators",
       "source": "rmzxw.com.cn",
       "title": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验",
       "point": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
       "published_at": "2026-08-10T14:26:00+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "嘉宾 / 自媒体",
+      "en": "Guests & Creators",
+      "source": "China Daily",
+      "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法",
+      "point": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 China Daily",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamxfTmk4S0pWVTNYejd3MWV3aFJ3aHBGTnAtdzljSFNoWGpQWjJrN1VtYjJQaEI1Y1hwellXV3JULXRudXFHNXFINEJobzBYODJXR2NvZVBUbHJ1azVHczFNalAtdEtPdVlCSWhkVmNVLXpxLUNDTHEwTW1vQ0FybjhSMA?oc=5",
+      "published_at": "2026-07-20T15:00:00+08:00",
       "type": "直播"
     }
   ],
