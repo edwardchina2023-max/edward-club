@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-19T15:42:03.486128+08:00",
+  "generated_at": "2026-08-19T16:42:41.474328+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 15:42",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 16:42",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 128 条、直播 20 条、观点 1 条、论坛 23 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 129 条、直播 20 条、论坛 23 条，已按企业家阅读场景分组。",
+    "36 Kr：卖得最好的 AI 硬件，一点都不 AI - 36 Kr",
     "虎嗅：2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 - 虎嗅",
     "36 Kr：WRC前夜，晚上10点，机器人和人都还没下班 - 36 Kr",
     "虎嗅：一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅",
-    "36 Kr：百度转型AI为先，双重主要上市打开估值空间 - 36 Kr",
-    "虎嗅：支付宝发布国内首个智能体商业底座 - 虎嗅"
+    "36 Kr：百度转型AI为先，双重主要上市打开估值空间 - 36 Kr"
   ],
   "sections": [
     {
@@ -142,15 +142,6 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 - China Daily",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamxfTmk4S0pWVTNYejd3MWV3aFJ3aHBGTnAtdzljSFNoWGpQWjJrN1VtYjJQaEI1Y1hwellXV3JULXRudXFHNXFINEJobzBYODJXR2NvZVBUbHJ1azVHczFNalAtdEtPdVlCSWhkVmNVLXpxLUNDTHEwTW1vQ0FybjhSMA?oc=5",
-          "source": "China Daily",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 China Daily",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会专属光影展演来了 - shobserver.com",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UVNFWklwVjBQWHlTcm1BU2lCd0pSeGpXM0NZTVJ6eDc1MDd1dzdkNGdFMjhtTzlMcC0wejJpdmtoYlh0S3VfS1JiVWhMUm9WM1lfb1o0WE5NNldUcnc?oc=5",
           "source": "shobserver.com",
@@ -232,6 +223,15 @@
           "image": ""
         },
         {
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-07T15:00:00+08:00",
+          "type": "直播",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
+          "image": ""
+        },
+        {
           "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
           "source": "36 Kr",
@@ -248,12 +248,30 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
-          "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-07-19T15:00:00+08:00",
+          "title": "公众号观点检索：WAIC / 世界人工智能大会",
+          "url": "https://www.google.com/search?q=site%3Amp.weixin.qq.com+WAIC+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+%E8%A7%82%E7%82%B9",
+          "source": "Google Search",
+          "published_at": "",
           "type": "观点",
-          "summary": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
+          "summary": "公开新闻源未抓到稳定公众号结果时，保留可点击检索入口，便于人工快速查看科技与科普作者更新。",
+          "image": ""
+        },
+        {
+          "title": "B站观点检索：WAIC 现场与科普解读",
+          "url": "https://www.google.com/search?q=site%3Abilibili.com+WAIC+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+AI+%E8%A7%82%E7%82%B9",
+          "source": "Google Search",
+          "published_at": "",
+          "type": "观点",
+          "summary": "用于追踪视频创作者、科技媒体号和大会现场解读内容。",
+          "image": ""
+        },
+        {
+          "title": "知乎/专栏观点检索：AI 大会讨论",
+          "url": "https://www.google.com/search?q=WAIC+2026+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+%E8%A7%82%E7%82%B9+%E7%9F%A5%E4%B9%8E+%E7%A7%91%E6%8A%80",
+          "source": "Google Search",
+          "published_at": "",
+          "type": "观点",
+          "summary": "用于补充大会期间的行业讨论、问答与长文观点。",
           "image": ""
         }
       ]
@@ -263,6 +281,15 @@
       "title": "媒体快讯与产业发布",
       "en": "Media updates and industry announcements",
       "items": [
+        {
+          "title": "卖得最好的 AI 硬件，一点都不 AI - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05dzBMUWpJcXFUYmhkYnN3akFoQ0VnOHhVbXRzQkU5d2trcVByTVI3OTIza1FOZlUzVy02SUI1STl0RTVPYWExeFNJbUlwd2s?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-19T16:30:24+08:00",
+          "type": "媒体",
+          "summary": "卖得最好的 AI 硬件，一点都不 AI 36 Kr",
+          "image": ""
+        },
         {
           "title": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wTHpPcnRqV0tWNUxmYW1vZXJSX3ZfelAzd2RpWTdoM2kxWjdRMFlwLTBMb0lFbHJ6TzM2cmlfcEN1VUFGd1haVjgxdVVmRXdxMlNSSjBYV0kzLVpTZkQ4RDlR?oc=5",
@@ -360,15 +387,6 @@
           "published_at": "2026-08-13T17:40:38+08:00",
           "type": "媒体",
           "summary": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "workbuddy为什么来到了腾讯的舒适区？ - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKbVV4dVZyTFI4ZjgyRUgyOVVZWVRuRkdjMkFoZEtWY1VCQzdOd29WQ3BaU3pjbGpWUkhoMWVRaU1TOURrVW1MRVZaZjF5OEVZV2c?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-13T10:35:28+08:00",
-          "type": "媒体",
-          "summary": "workbuddy为什么来到了腾讯的舒适区？ 虎嗅",
           "image": ""
         }
       ]
@@ -559,6 +577,15 @@
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
           "image": ""
+        },
+        {
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-07T15:00:00+08:00",
+          "type": "直播",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
+          "image": ""
         }
       ]
     },
@@ -575,15 +602,6 @@
           "published_at": "2026-08-10T14:26:00+08:00",
           "type": "直播",
           "summary": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 - China Daily",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamxfTmk4S0pWVTNYejd3MWV3aFJ3aHBGTnAtdzljSFNoWGpQWjJrN1VtYjJQaEI1Y1hwellXV3JULXRudXFHNXFINEJobzBYODJXR2NvZVBUbHJ1azVHczFNalAtdEtPdVlCSWhkVmNVLXpxLUNDTHEwTW1vQ0FybjhSMA?oc=5",
-          "source": "China Daily",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 China Daily",
           "image": ""
         },
         {
@@ -776,6 +794,16 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
+      "source": "36 Kr",
+      "title": "卖得最好的 AI 硬件，一点都不 AI",
+      "point": "卖得最好的 AI 硬件，一点都不 AI 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05dzBMUWpJcXFUYmhkYnN3akFoQ0VnOHhVbXRzQkU5d2trcVByTVI3OTIza1FOZlUzVy02SUI1STl0RTVPYWExeFNJbUlwd2s?oc=5",
+      "published_at": "2026-08-19T16:30:24+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
       "source": "虎嗅",
       "title": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点",
       "point": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 虎嗅",
@@ -794,16 +822,6 @@
       "type": "媒体"
     },
     {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅",
-      "title": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强",
-      "point": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mdmdZX090VmNqYkdKSFlqWlo3T2YxVjFXcUxqc0VBYkVwWlJ2eXFHcU93NE9lODFQSlQ3SDFRQ003bGt3TEs3dkVSb19NRDlxUVYwVw?oc=5",
-      "published_at": "2026-08-18T14:51:39+08:00",
-      "type": "媒体"
-    },
-    {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
       "source": "智源社区",
@@ -811,6 +829,16 @@
       "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
       "published_at": "2026-07-14T15:00:00+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "直播 / 逛展",
+      "en": "Live & Expo",
+      "source": "搜狐网",
+      "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会",
+      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+      "published_at": "2026-07-07T15:00:00+08:00",
       "type": "直播"
     },
     {
@@ -824,44 +852,34 @@
       "type": "论坛"
     },
     {
-      "channel": "直播 / 逛展",
-      "en": "Live & Expo",
-      "source": "中国日报网",
-      "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行",
-      "point": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
-      "published_at": "2026-07-21T15:00:00+08:00",
-      "type": "论坛"
-    },
-    {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "虎嗅",
-      "title": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心",
-      "point": "AI赋能影视创作：产能暴涨但精品稀缺，创作者的生活体验成不可替代核心 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWmFzOUhlVGhUMkxFZzR2RzhvVEJwZ1FIdHdrMjNhVnJubjJBNnNham1QQkhxcFNrSHpwcUxrdU9kT0VyU19zNXdJamlIa3B5TFZpQw?oc=5",
-      "published_at": "2026-07-19T15:00:00+08:00",
+      "source": "Google Search",
+      "title": "公众号观点检索：WAIC / 世界人工智能大会",
+      "point": "公开新闻源未抓到稳定公众号结果时，保留可点击检索入口，便于人工快速查看科技与科普作者更新。",
+      "url": "https://www.google.com/search?q=site%3Amp.weixin.qq.com+WAIC+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+%E8%A7%82%E7%82%B9",
+      "published_at": "",
       "type": "观点"
     },
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "rmzxw.com.cn",
-      "title": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验",
-      "point": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
-      "published_at": "2026-08-10T14:26:00+08:00",
-      "type": "直播"
+      "source": "Google Search",
+      "title": "B站观点检索：WAIC 现场与科普解读",
+      "point": "用于追踪视频创作者、科技媒体号和大会现场解读内容。",
+      "url": "https://www.google.com/search?q=site%3Abilibili.com+WAIC+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+AI+%E8%A7%82%E7%82%B9",
+      "published_at": "",
+      "type": "观点"
     },
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "China Daily",
-      "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法",
-      "point": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 China Daily",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamxfTmk4S0pWVTNYejd3MWV3aFJ3aHBGTnAtdzljSFNoWGpQWjJrN1VtYjJQaEI1Y1hwellXV3JULXRudXFHNXFINEJobzBYODJXR2NvZVBUbHJ1azVHczFNalAtdEtPdVlCSWhkVmNVLXpxLUNDTHEwTW1vQ0FybjhSMA?oc=5",
-      "published_at": "2026-07-20T15:00:00+08:00",
-      "type": "直播"
+      "source": "Google Search",
+      "title": "知乎/专栏观点检索：AI 大会讨论",
+      "point": "用于补充大会期间的行业讨论、问答与长文观点。",
+      "url": "https://www.google.com/search?q=WAIC+2026+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+%E8%A7%82%E7%82%B9+%E7%9F%A5%E4%B9%8E+%E7%A7%91%E6%8A%80",
+      "published_at": "",
+      "type": "观点"
     }
   ],
   "sources": [
