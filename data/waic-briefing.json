@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-19T19:28:56.114479+08:00",
+  "generated_at": "2026-08-19T19:54:23.101943+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 19:28",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 19:54",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 130 条、直播 21 条、论坛 20 条，已按企业家阅读场景分组。",
-    "36 Kr：卖得最好的 AI 硬件，一点都不 AI - 36 Kr",
-    "36 Kr：14.9克的Moonix，撑得起心眸科技过亿估值吗？ - 36 Kr",
-    "36 Kr：WRC前夜，晚上10点，机器人和人都还没下班 - 36 Kr",
-    "36 Kr：百度转型AI为先，双重主要上市打开估值空间 - 36 Kr",
-    "36 Kr：李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36 Kr"
+    "本轮抓取到 媒体 129 条、直播 21 条、论坛 21 条，已按企业家阅读场景分组。",
+    "36Kr：卖得最好的 AI 硬件，一点都不 AI - 36Kr",
+    "虎嗅：2026世界机器人大会：150款新品首发，行业从炫技转向落地 - 虎嗅",
+    "虎嗅：2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 - 虎嗅",
+    "36Kr：14.9克的Moonix，撑得起心眸科技过亿估值吗？ - 36Kr",
+    "36Kr：WRC前夜，晚上10点，机器人和人都还没下班 - 36Kr"
   ],
   "sections": [
     {
@@ -232,12 +232,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
           "image": ""
         }
       ]
@@ -282,111 +282,111 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "卖得最好的 AI 硬件，一点都不 AI - 36 Kr",
+          "title": "卖得最好的 AI 硬件，一点都不 AI - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05dzBMUWpJcXFUYmhkYnN3akFoQ0VnOHhVbXRzQkU5d2trcVByTVI3OTIza1FOZlUzVy02SUI1STl0RTVPYWExeFNJbUlwd2s?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-19T16:30:24+08:00",
           "type": "媒体",
-          "summary": "卖得最好的 AI 硬件，一点都不 AI 36 Kr",
+          "summary": "卖得最好的 AI 硬件，一点都不 AI 36Kr",
           "image": ""
         },
         {
-          "title": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ - 36 Kr",
+          "title": "2026世界机器人大会：150款新品首发，行业从炫技转向落地 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VC00Q3NmNlpobGxxUEhXWG9keFNCa0Z0V0JkRWtzLVZCTldpRERQNjQ0aDRsNEZ5c3NvTXFnamZHdHFsc01wekllZjgzVl9IYnNScQ?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-19T15:01:28+08:00",
+          "type": "媒体",
+          "summary": "2026世界机器人大会：150款新品首发，行业从炫技转向落地 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FMTlPNFZtMHFyQ2d0bU5QT1ZTdXVtTTRGVWVERnZQdUF6aE5RUFJya0wwOGk3RG90MWpNb2VVMzJnLXA0eDdKM2lDT1ZNYUNJV0Z5bw?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-19T09:30:05+08:00",
+          "type": "媒体",
+          "summary": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nN19mOHhHZVpfMjhmbEJ0ckk5RGY2S21TRUVKU2gzQ0dGdG5iMF94OVdTcnExT0RUQjRIZ01Fblp1cFY2eGJUZld5amRGZw?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-19T03:43:00+08:00",
           "type": "媒体",
-          "summary": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ 36 Kr",
+          "summary": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ 36Kr",
           "image": ""
         },
         {
-          "title": "WRC前夜，晚上10点，机器人和人都还没下班 - 36 Kr",
+          "title": "WRC前夜，晚上10点，机器人和人都还没下班 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53WTZOVmNkd28zQjhIX2lTZHFDU2l1eDhiWHpEN05KRC12aE92UFdrUEZ1U2o3bmY5a2pRN0dwVnIybXlrVzdfcTFhV0xWUFpR?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-18T20:05:00+08:00",
           "type": "媒体",
-          "summary": "WRC前夜，晚上10点，机器人和人都还没下班 36 Kr",
+          "summary": "WRC前夜，晚上10点，机器人和人都还没下班 36Kr",
           "image": ""
         },
         {
-          "title": "百度转型AI为先，双重主要上市打开估值空间 - 36 Kr",
+          "title": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mdmdZX090VmNqYkdKSFlqWlo3T2YxVjFXcUxqc0VBYkVwWlJ2eXFHcU93NE9lODFQSlQ3SDFRQ003bGt3TEs3dkVSb19NRDlxUVYwVw?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-18T14:51:39+08:00",
+          "type": "媒体",
+          "summary": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "百度转型AI为先，双重主要上市打开估值空间 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13Y2ZCdGx1Y1FzX3l6OFVXV3R5dnBKZTVoRkFTTUp5U2JkazBJNnNtT0Ytc3g2SDlJM1dfU2VRSC1GRDdndk1paWdCV0NEQmZy?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-18T05:35:00+08:00",
           "type": "媒体",
-          "summary": "百度转型AI为先，双重主要上市打开估值空间 36 Kr",
+          "summary": "百度转型AI为先，双重主要上市打开估值空间 36Kr",
           "image": ""
         },
         {
-          "title": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36 Kr",
+          "title": "支付宝发布国内首个智能体商业底座 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZVlFITVJiRmpWTUdHQ3hkcTI4TzNaZkI4dzk3dG03eDR4S21YSzVIYlZmMi1MLWFoQUs1dV9kNXB0T004SnlXNEhLRW9nRWR5?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-17T17:41:01+08:00",
+          "type": "媒体",
+          "summary": "支付宝发布国内首个智能体商业底座 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PeE9kM0RnMXk1ZWNFVzFvM2c0OVhXR0pJWTJ4Z1JZLUZ1TGFqYTR0U1Y4bkRtNGJNdnFhZ2s5YXdjbEFSZWdBMndIakZPdw?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-17T05:11:00+08:00",
           "type": "媒体",
-          "summary": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 36 Kr",
+          "summary": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录 36Kr",
           "image": ""
         },
         {
-          "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36 Kr",
+          "title": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY1BwOHBWY1J6MFU0NHFzQzNxN2ZLVjd3aHpzSDkxQkJNRjV4SnBxbGwyQTRHVWlkeVlSMlFQdzRjRFRxSzkxX0d6bkM4UQ?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-14T00:23:32+08:00",
           "type": "媒体",
-          "summary": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36 Kr",
+          "summary": "Future Tech | 图灵奖、诺奖得主、全球院士、硅谷投资与独角兽领袖，共聚WAIC 2026清华创新创业之夜 36Kr",
           "image": ""
         },
         {
-          "title": "寒王、摩王“期中考试”不及格？ - 36 Kr",
+          "title": "寒王、摩王“期中考试”不及格？ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lZ2pXMkh4eWhkNFZRU0QtNTFVeVZITDhVbFlyN05jVElJeFdYenlYa3FVZi1WQXEwakYxQ3Z2YVd4eEpFajhveFQzQ0tOZw?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-13T21:24:00+08:00",
           "type": "媒体",
-          "summary": "寒王、摩王“期中考试”不及格？ 36 Kr",
+          "summary": "寒王、摩王“期中考试”不及格？ 36Kr",
           "image": ""
         },
         {
-          "title": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BUER3UDd6X2xEMW1xcklOUHhfdFZrMnZoeUIxcFdta3dvYjlzdzJ1Q25qRC1MVWJ4cThpN2NfdTB6QjBYazZhZGQwWDE3Zw?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-13T19:00:00+08:00",
-          "type": "媒体",
-          "summary": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRNVEycVhaVXU0aXhBVTZtX1MwYUQzeXdiTnNzNlpaNkFYQnRSeldBLUNxQUllbE5NSHRoMkpRRGdXVV83dlc1NlIwNzFWZw?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-13T01:39:00+08:00",
-          "type": "媒体",
-          "summary": "骂战半年、站队失效，具身智能公司集体换了“新剧本”，VLA“自救”成功了吗？ 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "网球机器人赛道升温，中国企业以AI技术推动传统发球机向智能陪练升级 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CWktsSjB5UnJJRmRkWENKTlhENHg1UUVtSmlSb1ZfRDI1azBqVzdTQndLN1hBRms3LVljTEdoS0k4bHh0V0haeTJJZ2NUOWVrS0pXOA?oc=5",
+          "title": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVFJyY1RiNGt1VmkyMzBFNk1yM29sbHR5TkFrcjdNVzBMN0xJNVFTdG9HY0Z6ZzRiR3dsVTlTODNXTGlzSXhWRDQ5ZDJscVFMaFRZeQ?oc=5",
           "source": "虎嗅",
-          "published_at": "2026-08-12T18:50:43+08:00",
+          "published_at": "2026-08-13T19:35:38+08:00",
           "type": "媒体",
-          "summary": "网球机器人赛道升温，中国企业以AI技术推动传统发球机向智能陪练升级 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "索塔无界：原生物理世界模型落地商超，具身智能迎来“索塔时刻” - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50MVp2VDJjVHhDY09iRjAxX21RdzFfbmVlYnJuLWFNeWFOTDJYLXFMaTRGbXNNaExJeFpLenkwaHVod19EQkNqVm1yc0ZYQQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-12T18:00:00+08:00",
-          "type": "媒体",
-          "summary": "索塔无界：原生物理世界模型落地商超，具身智能迎来“索塔时刻” 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "2026年具身智能融资超750亿但有效数据成瓶颈 行业聚焦数据价值对账 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fQlJhN3VXWXZaRVZId1VFNUZkNWwzTVhWdnR1UnlUaTR2bmZ2UVIwdlVoTTFpVHlweThQZlM1Mlo1UTQ0SW9xMFEwYkFUYkVROXpCSkh5clZaUTlETjhna2ZR?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-12T11:25:56+08:00",
-          "type": "媒体",
-          "summary": "2026年具身智能融资超750亿但有效数据成瓶颈 行业聚焦数据价值对账 虎嗅",
+          "summary": "华威科灵巧手电子皮肤市占率超70%，触觉被视为AI第三大模态 虎嗅",
           "image": ""
         }
       ]
@@ -544,12 +544,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36 Kr",
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36 Kr",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36Kr",
           "image": ""
         },
         {
@@ -677,21 +677,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36 Kr",
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-07-09T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36 Kr",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
           "image": ""
         },
         {
@@ -728,15 +728,6 @@
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
           "summary": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 香港中联办",
-          "image": ""
-        },
-        {
-          "title": "AI视频生成赛道90天竞速：模型迭代加速行业洗牌 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qTUxueXRiS2VfbFFKRHg5XzUxUjJYc2NkdzIzMHBZZ2pVTFp3Vk9ZWUh4R2xzWjFiaXJ6YTBoYzZ3R0N4bnZiTXFScGpheG1RdUVEZw?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-05-06T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "AI视频生成赛道90天竞速：模型迭代加速行业洗牌 虎嗅",
           "image": ""
         },
         {
@@ -812,9 +803,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
+      "source": "36Kr",
       "title": "卖得最好的 AI 硬件，一点都不 AI",
-      "point": "卖得最好的 AI 硬件，一点都不 AI 36 Kr",
+      "point": "卖得最好的 AI 硬件，一点都不 AI 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05dzBMUWpJcXFUYmhkYnN3akFoQ0VnOHhVbXRzQkU5d2trcVByTVI3OTIza1FOZlUzVy02SUI1STl0RTVPYWExeFNJbUlwd2s?oc=5",
       "published_at": "2026-08-19T16:30:24+08:00",
       "type": "媒体"
@@ -822,21 +813,21 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "14.9克的Moonix，撑得起心眸科技过亿估值吗？",
-      "point": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nN19mOHhHZVpfMjhmbEJ0ckk5RGY2S21TRUVKU2gzQ0dGdG5iMF94OVdTcnExT0RUQjRIZ01Fblp1cFY2eGJUZld5amRGZw?oc=5",
-      "published_at": "2026-08-19T03:43:00+08:00",
+      "source": "虎嗅",
+      "title": "2026世界机器人大会：150款新品首发，行业从炫技转向落地",
+      "point": "2026世界机器人大会：150款新品首发，行业从炫技转向落地 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VC00Q3NmNlpobGxxUEhXWG9keFNCa0Z0V0JkRWtzLVZCTldpRERQNjQ0aDRsNEZ5c3NvTXFnamZHdHFsc01wekllZjgzVl9IYnNScQ?oc=5",
+      "published_at": "2026-08-19T15:01:28+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "WRC前夜，晚上10点，机器人和人都还没下班",
-      "point": "WRC前夜，晚上10点，机器人和人都还没下班 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53WTZOVmNkd28zQjhIX2lTZHFDU2l1eDhiWHpEN05KRC12aE92UFdrUEZ1U2o3bmY5a2pRN0dwVnIybXlrVzdfcTFhV0xWUFpR?oc=5",
-      "published_at": "2026-08-18T20:05:00+08:00",
+      "source": "虎嗅",
+      "title": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点",
+      "point": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FMTlPNFZtMHFyQ2d0bU5QT1ZTdXVtTTRGVWVERnZQdUF6aE5RUFJya0wwOGk3RG90MWpNb2VVMzJnLXA0eDdKM2lDT1ZNYUNJV0Z5bw?oc=5",
+      "published_at": "2026-08-19T09:30:05+08:00",
       "type": "媒体"
     },
     {
