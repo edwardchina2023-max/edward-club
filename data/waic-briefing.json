@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-19T17:37:59.102610+08:00",
+  "generated_at": "2026-08-19T18:33:03.738291+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 17:37",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月19日 18:33",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 131 条、直播 20 条、论坛 22 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 129 条、直播 21 条、论坛 23 条，已按企业家阅读场景分组。",
     "36 Kr：卖得最好的 AI 硬件，一点都不 AI - 36 Kr",
+    "虎嗅：2026世界机器人大会：150款新品首发，行业从炫技转向落地 - 虎嗅",
     "虎嗅：2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 - 虎嗅",
     "36 Kr：WRC前夜，晚上10点，机器人和人都还没下班 - 36 Kr",
-    "虎嗅：一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅",
-    "36 Kr：百度转型AI为先，双重主要上市打开估值空间 - 36 Kr"
+    "虎嗅：一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅"
   ],
   "sections": [
     {
@@ -117,12 +117,12 @@
           "image": ""
         },
         {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕 - 京报网",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSjNrTldwMnNad20zUzhIZkJ2YnNEVThoUW4zM0FJQ1h5aGNicl9abXc1R3U3emFDZFlmcVhxZFNuQy1HVG1vVWhEanIwTk1DdjJWWVFVY08wb3dDZTR3V2VGTzNsVDVXdGdQOGdfVXdlZw?oc=5",
-          "source": "京报网",
-          "published_at": "2026-07-13T15:00:00+08:00",
+          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 品玩",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NS0pRM0RoWHlYcVF4Qmh1dU9vVFR1WEx4ZzB3bjRQZGtTWVVQOXI5dGFJdzJBNlhaRS1KWEoxYWpvTWozeDhsag?oc=5",
+          "source": "品玩",
+          "published_at": "2026-07-14T15:00:00+08:00",
           "type": "论坛",
-          "summary": "五大亮点提前看！世界人工智能大会本周开幕 京报网",
+          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 品玩",
           "image": ""
         }
       ]
@@ -291,6 +291,15 @@
           "image": ""
         },
         {
+          "title": "2026世界机器人大会：150款新品首发，行业从炫技转向落地 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VC00Q3NmNlpobGxxUEhXWG9keFNCa0Z0V0JkRWtzLVZCTldpRERQNjQ0aDRsNEZ5c3NvTXFnamZHdHFsc01wekllZjgzVl9IYnNScQ?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-19T15:01:28+08:00",
+          "type": "媒体",
+          "summary": "2026世界机器人大会：150款新品首发，行业从炫技转向落地 虎嗅",
+          "image": ""
+        },
+        {
           "title": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FMTlPNFZtMHFyQ2d0bU5QT1ZTdXVtTTRGVWVERnZQdUF6aE5RUFJya0wwOGk3RG90MWpNb2VVMzJnLXA0eDdKM2lDT1ZNYUNJV0Z5bw?oc=5",
           "source": "虎嗅",
@@ -379,15 +388,6 @@
           "type": "媒体",
           "summary": "冲刺上市的面壁智能，正在试图回答端侧AI的价值 36 Kr",
           "image": ""
-        },
-        {
-          "title": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5meXU4RkJGcWdvYXRlTFBjLVlkU0kxaDlmVzZERDhuRUxTMUY2VVVxWnVJaGlrTUhMcnROSWFhekxrbVBXYkF3U1FBX0ZNU1VmSkdUNA?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-13T17:40:38+08:00",
-          "type": "媒体",
-          "summary": "荣耀Robot Phone发布24小时预约量破40万台，手机行业寒意中现亮点 虎嗅",
-          "image": ""
         }
       ]
     }
@@ -445,12 +445,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - c114.com.cn",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - C114通信网",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ1BCNGVsMURQNmNVbEd5U19wTWhkM2JMWjNianlNdVl1UGt3V3VYemtJQ1hmc05RY3ZvWURZOGxfLVRnRnNpTUc3a1FYTVk?oc=5",
-          "source": "c114.com.cn",
+          "source": "C114通信网",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "媒体",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 c114.com.cn",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 C114通信网",
           "image": ""
         },
         {
@@ -496,6 +496,15 @@
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC2026主论坛直播 广州日报新花城",
+          "image": ""
+        },
+        {
+          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 品玩",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NS0pRM0RoWHlYcVF4Qmh1dU9vVFR1WEx4ZzB3bjRQZGtTWVVQOXI5dGFJdzJBNlhaRS1KWEoxYWpvTWozeDhsag?oc=5",
+          "source": "品玩",
+          "published_at": "2026-07-14T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 品玩",
           "image": ""
         },
         {
@@ -686,12 +695,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - eu.36kr.com",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "eu.36kr.com",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 eu.36kr.com",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
           "image": ""
         },
         {
@@ -719,6 +728,15 @@
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
           "summary": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 香港中联办",
+          "image": ""
+        },
+        {
+          "title": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbWdWUmp4ZURKOUJVQlpjQjUyOFR4S09IZGlZX0ZCVGZ3QXd4Z2RQZEU4NXRhdFVCWHhEc3FKQ0NONjlrZTJjSkxpYUdfQS04N3k0M1dsYnI4c0RpcHlzcGFVNlUyOFh6Sm91d21RZTNwcDJSY1ZvUk9fVkxUVEU?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-02-10T16:00:00+08:00",
+          "type": "直播",
+          "summary": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 新浪财经",
           "image": ""
         },
         {
@@ -796,20 +814,20 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "虎嗅",
-      "title": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点",
-      "point": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FMTlPNFZtMHFyQ2d0bU5QT1ZTdXVtTTRGVWVERnZQdUF6aE5RUFJya0wwOGk3RG90MWpNb2VVMzJnLXA0eDdKM2lDT1ZNYUNJV0Z5bw?oc=5",
-      "published_at": "2026-08-19T09:30:05+08:00",
+      "title": "2026世界机器人大会：150款新品首发，行业从炫技转向落地",
+      "point": "2026世界机器人大会：150款新品首发，行业从炫技转向落地 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VC00Q3NmNlpobGxxUEhXWG9keFNCa0Z0V0JkRWtzLVZCTldpRERQNjQ0aDRsNEZ5c3NvTXFnamZHdHFsc01wekllZjgzVl9IYnNScQ?oc=5",
+      "published_at": "2026-08-19T15:01:28+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "WRC前夜，晚上10点，机器人和人都还没下班",
-      "point": "WRC前夜，晚上10点，机器人和人都还没下班 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53WTZOVmNkd28zQjhIX2lTZHFDU2l1eDhiWHpEN05KRC12aE92UFdrUEZ1U2o3bmY5a2pRN0dwVnIybXlrVzdfcTFhV0xWUFpR?oc=5",
-      "published_at": "2026-08-18T20:05:00+08:00",
+      "source": "虎嗅",
+      "title": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点",
+      "point": "2026世界机器人大会观察：展位扩张、场景化落地、灵巧手与数据成焦点 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FMTlPNFZtMHFyQ2d0bU5QT1ZTdXVtTTRGVWVERnZQdUF6aE5RUFJya0wwOGk3RG90MWpNb2VVMzJnLXA0eDdKM2lDT1ZNYUNJV0Z5bw?oc=5",
+      "published_at": "2026-08-19T09:30:05+08:00",
       "type": "媒体"
     },
     {
