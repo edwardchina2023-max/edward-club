@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-20T16:43:31.808579+08:00",
+  "generated_at": "2026-08-20T17:38:41.783365+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月20日 16:43",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月20日 17:38",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 132 条、直播 22 条、论坛 21 条，已按企业家阅读场景分组。",
-    "36Kr：留美25年搞机器人，他说：我完美错过了所有发财机会 - 36Kr",
-    "36Kr：王兴兴进入奥德赛时期，呼唤梁文锋 - 36Kr",
+    "本轮抓取到 媒体 134 条、直播 23 条、论坛 20 条，已按企业家阅读场景分组。",
+    "虎嗅：最难用上的Oura戒指，揭开了AI 硬件的真实战场 - 虎嗅",
+    "36 Kr：留美25年搞机器人，他说：我完美错过了所有发财机会 - 36 Kr",
     "凤凰网科技：速览“2026机器人大会”！从“讲故事”到“做生意”，机器人开始全员“干活” - 凤凰网科技",
     "虎嗅：脑机接口公司价值如何计算：从Neuralink融资看数据壁垒与商业化路径 - 虎嗅",
-    "36Kr：一年四轮融资近10亿，这家中性原子量子公司具备超千比特规模整机交付能力丨36氪首发 - 36Kr"
+    "36 Kr：一年四轮融资近10亿，这家中性原子量子公司具备超千比特规模整机交付能力丨36氪首发 - 36 Kr"
   ],
   "sections": [
     {
@@ -151,15 +151,6 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zaHp3UzBsVDZDSEEzcF94aXAzei02YndpYWRQbnBuX1JqYlAyaDZHSDVLZnhtUUdiSWxhTGp4LWxEYU5PWnlMSTFBWm9JeHlGZHVxaEhKUlhOaFlE?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBydjRrMkwyNVdKd01NbzBVZ280UlVqSHhOUEFCTk4wOUlfd2l0V014T2s2Q19fNVI0M21hLVp1UlpyY2haVmp5WVRqQVd5UHpISTVUV3VfOA?oc=5",
           "source": "上观新闻",
@@ -175,6 +166,15 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会专属光影展演来了 shobserver.com",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zaHp3UzBsVDZDSEEzcF94aXAzei02YndpYWRQbnBuX1JqYlAyaDZHSDVLZnhtUUdiSWxhTGp4LWxEYU5PWnlMSTFBWm9JeHlGZHVxaEhKUlhOaFlE?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
           "image": ""
         },
         {
@@ -282,21 +282,21 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "留美25年搞机器人，他说：我完美错过了所有发财机会 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LbFc0blZWS05ONDJfWlhYc0VTTUIzT2M3bEtWZGo1UHcxNkRYTWx0bDhGcVl5TGNkOUJKWnB5SWxzcWNMeGZ1Q2gzczcycFU?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-08-20T13:20:20+08:00",
+          "title": "最难用上的Oura戒指，揭开了AI 硬件的真实战场 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wUWExMzZ6Uk85ejJsX2NaZ3hWa2dkeGtHbWZ3QkN0U0VoNmlhLUpsOW1LRkphNGhMSDl3TVhGQmJwMjhnRjhzMHF5d3lkMTByYmtVRw?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-20T16:58:23+08:00",
           "type": "媒体",
-          "summary": "留美25年搞机器人，他说：我完美错过了所有发财机会 36Kr",
+          "summary": "最难用上的Oura戒指，揭开了AI 硬件的真实战场 虎嗅",
           "image": ""
         },
         {
-          "title": "王兴兴进入奥德赛时期，呼唤梁文锋 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RSDh2NGR5X1JYYVViZlhZZTNMcTBrZ25jZTViRlZQSEVSOFlUelpFMnhpbmdKLV95Ym93MnBZamdzMUJLRC1DZkFOVDRZNzA?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-08-20T13:20:18+08:00",
+          "title": "留美25年搞机器人，他说：我完美错过了所有发财机会 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LbFc0blZWS05ONDJfWlhYc0VTTUIzT2M3bEtWZGo1UHcxNkRYTWx0bDhGcVl5TGNkOUJKWnB5SWxzcWNMeGZ1Q2gzczcycFU?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-20T13:20:20+08:00",
           "type": "媒体",
-          "summary": "王兴兴进入奥德赛时期，呼唤梁文锋 36Kr",
+          "summary": "留美25年搞机器人，他说：我完美错过了所有发财机会 36 Kr",
           "image": ""
         },
         {
@@ -318,21 +318,30 @@
           "image": ""
         },
         {
-          "title": "一年四轮融资近10亿，这家中性原子量子公司具备超千比特规模整机交付能力丨36氪首发 - 36Kr",
+          "title": "一年四轮融资近10亿，这家中性原子量子公司具备超千比特规模整机交付能力丨36氪首发 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MUFjYWlsOGNvbDVHYlkxelJLRHp1VVlOTUZZbFVlNVF2ZzZxTTE5UEUyYVJBN0ZKcEdkSGFSSk1hRDhGWmgydGRCWnNIS0U?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-20T10:05:39+08:00",
           "type": "媒体",
-          "summary": "一年四轮融资近10亿，这家中性原子量子公司具备超千比特规模整机交付能力丨36氪首发 36Kr",
+          "summary": "一年四轮融资近10亿，这家中性原子量子公司具备超千比特规模整机交付能力丨36氪首发 36 Kr",
           "image": ""
         },
         {
-          "title": "AI办公赛道拥挤，两大产品凭什么跑出加速度？ - 36Kr",
+          "title": "AI办公赛道拥挤，两大产品凭什么跑出加速度？ - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XbXEtMG1EQ3oyUzl4ejhmeEdPenV1OEpsWjZrNWhWWDgxMkhvcG1hbWhBTXhTYmJZcXhBN01DT3hBVzhpR1JtQWNOTFJPdw?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-20T00:03:00+08:00",
           "type": "媒体",
-          "summary": "AI办公赛道拥挤，两大产品凭什么跑出加速度？ 36Kr",
+          "summary": "AI办公赛道拥挤，两大产品凭什么跑出加速度？ 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "王兴兴进入奥德赛时期，呼唤梁文锋 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55emtOa2ZCQ082cnZjVnJUYlAwR3BwM2xQdDd4QURCZ0lrZnRRdW5DamtpYXdGYWMteUpMeENKNG5HVHhON1U3d1hYOTRUQ29J?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-19T22:15:00+08:00",
+          "type": "媒体",
+          "summary": "王兴兴进入奥德赛时期，呼唤梁文锋 36 Kr",
           "image": ""
         },
         {
@@ -354,39 +363,30 @@
           "image": ""
         },
         {
-          "title": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ - 36Kr",
+          "title": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nN19mOHhHZVpfMjhmbEJ0ckk5RGY2S21TRUVKU2gzQ0dGdG5iMF94OVdTcnExT0RUQjRIZ01Fblp1cFY2eGJUZld5amRGZw?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-19T03:43:00+08:00",
           "type": "媒体",
-          "summary": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ 36Kr",
+          "summary": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ 36 Kr",
           "image": ""
         },
         {
-          "title": "卖得最好的 AI 硬件，一点都不 AI - 36Kr",
+          "title": "卖得最好的 AI 硬件，一点都不 AI - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TMDZtTUZDdVREVUxKVXMxd192QUVUUGtpdVNIR0F4SmtPTThvVFdLamdZcnZuQUI1MklOeklNT29PVm5DRkdFeWQ5OU9iUQ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-19T01:27:00+08:00",
           "type": "媒体",
-          "summary": "卖得最好的 AI 硬件，一点都不 AI 36Kr",
+          "summary": "卖得最好的 AI 硬件，一点都不 AI 36 Kr",
           "image": ""
         },
         {
-          "title": "WRC前夜，晚上10点，机器人和人都还没下班 - 36Kr",
+          "title": "WRC前夜，晚上10点，机器人和人都还没下班 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UNnJHdVFvMEpuSkw3WF9nU0FKdWg5TXBxUm51NXd1aXN0Znd3Z3Q4a2N2OHo4Qk5RYzBQX1Y2SHc5ZjdnVTlwM0t1MkJkUQ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-18T20:05:00+08:00",
           "type": "媒体",
-          "summary": "WRC前夜，晚上10点，机器人和人都还没下班 36Kr",
-          "image": ""
-        },
-        {
-          "title": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mdmdZX090VmNqYkdKSFlqWlo3T2YxVjFXcUxqc0VBYkVwWlJ2eXFHcU93NE9lODFQSlQ3SDFRQ003bGt3TEs3dkVSb19NRDlxUVYwVw?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-18T14:51:39+08:00",
-          "type": "媒体",
-          "summary": "一文讲透腾讯AI：腾讯最危险的成功，是AI 让旧腾讯变得更强 虎嗅",
+          "summary": "WRC前夜，晚上10点，机器人和人都还没下班 36 Kr",
           "image": ""
         }
       ]
@@ -605,15 +605,6 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zaHp3UzBsVDZDSEEzcF94aXAzei02YndpYWRQbnBuX1JqYlAyaDZHSDVLZnhtUUdiSWxhTGp4LWxEYU5PWnlMSTFBWm9JeHlGZHVxaEhKUlhOaFlE?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
-          "image": ""
-        },
-        {
           "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户观看AI内容 - TradingView",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GWGlGblNZcGZjUUl3aXJHWEtUM2F0djExdVN3SGRmSER1eV9XT1M1d0NUejV3UlFrNVkwVy1qMEExSWJteXQwRzJzajE0X1Y0VlFYQ0wwNktzZE5GSUJMUDctbXZwNXA5c3c?oc=5",
           "source": "TradingView",
@@ -629,6 +620,15 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会专属光影展演来了 shobserver.com",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zaHp3UzBsVDZDSEEzcF94aXAzei02YndpYWRQbnBuX1JqYlAyaDZHSDVLZnhtUUdiSWxhTGp4LWxEYU5PWnlMSTFBWm9JeHlGZHVxaEhKUlhOaFlE?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
           "image": ""
         },
         {
@@ -686,21 +686,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-07-09T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36 Kr",
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
           "image": ""
         },
         {
@@ -719,6 +719,15 @@
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
+          "image": ""
+        },
+        {
+          "title": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 - 香港中联办",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdmhZSFRGWTlZZFlnMzZoMDBZQmczOTJYbHF6cldURTVQZ2ZtUHJHbFdmRG0xdkF6VklQcGJEaXVyNU5GRHhYUW9UZlRmb1VGMEdEQWdqenFudXlnanBMeXRsRkZQaE9YQVoxZDhFM0VhWWQwcTI5cHFTV1BEeWc?oc=5",
+          "source": "香港中联办",
+          "published_at": "2026-06-15T15:00:00+08:00",
+          "type": "直播",
+          "summary": "花香直播app最新版下载-花香直播app2026最新版V.5.49.31-iphone版-2265安卓网 香港中联办",
           "image": ""
         },
         {
@@ -803,21 +812,21 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
-      "title": "留美25年搞机器人，他说：我完美错过了所有发财机会",
-      "point": "留美25年搞机器人，他说：我完美错过了所有发财机会 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LbFc0blZWS05ONDJfWlhYc0VTTUIzT2M3bEtWZGo1UHcxNkRYTWx0bDhGcVl5TGNkOUJKWnB5SWxzcWNMeGZ1Q2gzczcycFU?oc=5",
-      "published_at": "2026-08-20T13:20:20+08:00",
+      "source": "虎嗅",
+      "title": "最难用上的Oura戒指，揭开了AI 硬件的真实战场",
+      "point": "最难用上的Oura戒指，揭开了AI 硬件的真实战场 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wUWExMzZ6Uk85ejJsX2NaZ3hWa2dkeGtHbWZ3QkN0U0VoNmlhLUpsOW1LRkphNGhMSDl3TVhGQmJwMjhnRjhzMHF5d3lkMTByYmtVRw?oc=5",
+      "published_at": "2026-08-20T16:58:23+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
-      "title": "王兴兴进入奥德赛时期，呼唤梁文锋",
-      "point": "王兴兴进入奥德赛时期，呼唤梁文锋 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RSDh2NGR5X1JYYVViZlhZZTNMcTBrZ25jZTViRlZQSEVSOFlUelpFMnhpbmdKLV95Ym93MnBZamdzMUJLRC1DZkFOVDRZNzA?oc=5",
-      "published_at": "2026-08-20T13:20:18+08:00",
+      "source": "36 Kr",
+      "title": "留美25年搞机器人，他说：我完美错过了所有发财机会",
+      "point": "留美25年搞机器人，他说：我完美错过了所有发财机会 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LbFc0blZWS05ONDJfWlhYc0VTTUIzT2M3bEtWZGo1UHcxNkRYTWx0bDhGcVl5TGNkOUJKWnB5SWxzcWNMeGZ1Q2gzczcycFU?oc=5",
+      "published_at": "2026-08-20T13:20:20+08:00",
       "type": "媒体"
     },
     {
