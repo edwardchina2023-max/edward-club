@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-21T19:34:32.908548+08:00",
+  "generated_at": "2026-08-21T20:55:29.354784+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月21日 19:34",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月21日 20:55",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 133 条、直播 25 条、论坛 19 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 134 条、直播 24 条、论坛 19 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
     "36 Kr：机器人走向规模化，产业链准备好了吗？ - 36 Kr",
     "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr",
@@ -142,15 +142,6 @@
           "image": ""
         },
         {
-          "title": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 - rmzxw.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
-          "source": "rmzxw.com.cn",
-          "published_at": "2026-08-10T14:26:00+08:00",
-          "type": "直播",
-          "summary": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
-          "image": ""
-        },
-        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - finance.tom.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
           "source": "finance.tom.com",
@@ -238,6 +229,15 @@
           "published_at": "2026-07-17T11:49:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
           "image": ""
         }
       ]
@@ -602,15 +602,6 @@
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
           "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 - rmzxw.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVkMzN0xSdnZvYmh1WmRuWThwM1R3UzB6LWVVWFRweU5jRldLa09Mb21sbmkybGMwYWhtZFl3RV9nUmhISWExSy1tT0VQWTFEUzByd1lFQXU3ekhialNhUzJVaWZRSUU?oc=5",
-          "source": "rmzxw.com.cn",
-          "published_at": "2026-08-10T14:26:00+08:00",
-          "type": "直播",
-          "summary": "YY直播“文化新生活”走进第十六届漫博会，解锁“中国潮玩之都”新体验 rmzxw.com.cn",
           "image": ""
         },
         {
