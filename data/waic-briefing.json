@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-21T21:49:41.089324+08:00",
+  "generated_at": "2026-08-21T22:39:32.749788+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月21日 21:49",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月21日 22:39",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 24 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 134 条、直播 23 条、论坛 20 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
     "36 Kr：机器人走向规模化，产业链准备好了吗？ - 36 Kr",
+    "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
     "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr",
-    "虎嗅：2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅",
-    "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr"
+    "虎嗅：2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅"
   ],
   "sections": [
     {
@@ -196,12 +196,12 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "finance.sina.com.cn",
+          "source": "新浪财经",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
           "image": ""
         },
         {
@@ -300,6 +300,15 @@
           "image": ""
         },
         {
+          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-21T16:20:50+08:00",
+          "type": "媒体",
+          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36 Kr",
+          "image": ""
+        },
+        {
           "title": "这届机器人没有新故事，只有真问题 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOWtTMWxaem1uVkRlbGF2NUEyYjFjTHBqWFBYU0dlYWFWNXEzQjJtWnp6MjlFNThWYmd5VHIxQXBHQl93WE1EQTR2TkdfbG8?oc=5",
           "source": "36 Kr",
@@ -315,15 +324,6 @@
           "published_at": "2026-08-21T09:17:23+08:00",
           "type": "媒体",
           "summary": "2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iQlNYQXQ0RmpSVjJ1NGdaZS00dENGSnZZUVlzand0UGlEa2tjZGpKdmZRTERocEhqODQ0cml1NjdJY3FZcEdPM1lqRDUybnRL?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-21T01:19:00+08:00",
-          "type": "媒体",
-          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36 Kr",
           "image": ""
         },
         {
@@ -668,12 +668,12 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "finance.sina.com.cn",
+          "source": "新浪财经",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
           "image": ""
         },
         {
@@ -776,15 +776,6 @@
           "image": ""
         },
         {
-          "title": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 - finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbWdWUmp4ZURKOUJVQlpjQjUyOFR4S09IZGlZX0ZCVGZ3QXd4Z2RQZEU4NXRhdFVCWHhEc3FKQ0NONjlrZTJjSkxpYUdfQS04N3k0M1dsYnI4c0RpcHlzcGFVNlUyOFh6Sm91d21RZTNwcDJSY1ZvUk9fVkxUVEU?oc=5",
-          "source": "finance.sina.com.cn",
-          "published_at": "2026-02-10T16:00:00+08:00",
-          "type": "直播",
-          "summary": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 finance.sina.com.cn",
-          "image": ""
-        },
-        {
           "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
           "source": "moe.gov.cn",
@@ -878,10 +869,10 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "36 Kr",
-      "title": "这届机器人没有新故事，只有真问题",
-      "point": "这届机器人没有新故事，只有真问题 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOWtTMWxaem1uVkRlbGF2NUEyYjFjTHBqWFBYU0dlYWFWNXEzQjJtWnp6MjlFNThWYmd5VHIxQXBHQl93WE1EQTR2TkdfbG8?oc=5",
-      "published_at": "2026-08-21T15:45:36+08:00",
+      "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题",
+      "point": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
+      "published_at": "2026-08-21T16:20:50+08:00",
       "type": "媒体"
     },
     {
