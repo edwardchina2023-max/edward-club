@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-21T13:59:12.041456+08:00",
+  "generated_at": "2026-08-21T15:01:57.721002+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月21日 13:59",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月21日 15:01",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 23 条、论坛 21 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 133 条、直播 23 条、论坛 22 条，已按企业家阅读场景分组。",
     "虎嗅：三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
     "虎嗅：2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅",
+    "finance.sina.com.cn：WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 - finance.sina.com.cn",
     "虎嗅：最难用上的Oura戒指，揭开了AI 硬件的真实战场 - 虎嗅",
-    "36 Kr：留美25年搞机器人，他说：我完美错过了所有发财机会 - 36 Kr",
-    "虎嗅：脑机接口公司价值如何计算：从Neuralink融资看数据壁垒与商业化路径 - 虎嗅"
+    "36 Kr：留美25年搞机器人，他说：我完美错过了所有发财机会 - 36 Kr"
   ],
   "sections": [
     {
@@ -187,12 +187,21 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "finance.sina.com.cn",
+          "source": "新浪财经",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
+          "image": ""
+        },
+        {
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - CSDN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZXzEtV3ZyWGpEQkU1b0VjUlJFaEFaT0I3bE4xT1NyMEE5U0Y1SzNNUy1aS1JOTXhXRWIxUW81SzR1VmVKVVZGaHRpY2Rkak1yWTBrcXlqRWxUMVM2U3c?oc=5",
+          "source": "CSDN",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 CSDN",
           "image": ""
         },
         {
@@ -220,15 +229,6 @@
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
-          "image": ""
-        },
-        {
-          "title": "虎嗅WAIC现场直播：AI如何赚钱？谁已跑通？ - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sVm40QWhrSElWeXcyUk5iRGRiWk4zc3hySksxTXk2a3p4RHdRaThUYjhNajVka2dkMUdZQUR3TWFSY3R0RWxrVjZfRFJDNnE5QVVzRw?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-07-16T15:00:00+08:00",
-          "type": "直播",
-          "summary": "虎嗅WAIC现场直播：AI如何赚钱？谁已跑通？ 虎嗅",
           "image": ""
         },
         {
@@ -297,6 +297,15 @@
           "published_at": "2026-08-21T09:17:23+08:00",
           "type": "媒体",
           "summary": "2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 - finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjVsMXF2WUY1WVBTMDRmZzJyTEUycE5sU0ppWHRCV2NuMnZXVlhuMFYzRUtBYUtGVFhGdWc1Q3J5LTc1ek4wdGsxbjBCWmg1YWdTbWNLNEN6aDh4NTZsWFdDTHY5UmswTWtzYnFYLU5rWnhVRmptckZnT3IwVlFDaUtmb21nRlE?oc=5",
+          "source": "finance.sina.com.cn",
+          "published_at": "2026-08-20T20:44:55+08:00",
+          "type": "媒体",
+          "summary": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 finance.sina.com.cn",
           "image": ""
         },
         {
@@ -378,15 +387,6 @@
           "published_at": "2026-08-19T03:43:00+08:00",
           "type": "媒体",
           "summary": "14.9克的Moonix，撑得起心眸科技过亿估值吗？ 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "卖得最好的 AI 硬件，一点都不 AI - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TMDZtTUZDdVREVUxKVXMxd192QUVUUGtpdVNIR0F4SmtPTThvVFdLamdZcnZuQUI1MklOeklNT29PVm5DRkdFeWQ5OU9iUQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-19T01:27:00+08:00",
-          "type": "媒体",
-          "summary": "卖得最好的 AI 硬件，一点都不 AI 36 Kr",
           "image": ""
         }
       ]
@@ -562,6 +562,15 @@
           "image": ""
         },
         {
+          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36 Kr",
+          "image": ""
+        },
+        {
           "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察者",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRXNBNzAxajh5NkJQUjFXUHlaa0xJcTRaUG5UMHBQQmVlRzVFcW5ZQXV0eVljbjdJUE1HUklwTW4xdnhqSXVOYldDakRqYUtzdVpHYzdtMzZfWXBYcjc1eUY1V1ZfVUZURHRzMlFXOEU?oc=5",
           "source": "观察者",
@@ -659,12 +668,21 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "finance.sina.com.cn",
+          "source": "新浪财经",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
+          "image": ""
+        },
+        {
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - CSDN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZXzEtV3ZyWGpEQkU1b0VjUlJFaEFaT0I3bE4xT1NyMEE5U0Y1SzNNUy1aS1JOTXhXRWIxUW81SzR1VmVKVVZGaHRpY2Rkak1yWTBrcXlqRWxUMVM2U3c?oc=5",
+          "source": "CSDN",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 CSDN",
           "image": ""
         },
         {
@@ -683,15 +701,6 @@
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
-          "image": ""
-        },
-        {
-          "title": "虎嗅WAIC现场直播：AI如何赚钱？谁已跑通？ - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sVm40QWhrSElWeXcyUk5iRGRiWk4zc3hySksxTXk2a3p4RHdRaThUYjhNajVka2dkMUdZQUR3TWFSY3R0RWxrVjZfRFJDNnE5QVVzRw?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-07-16T15:00:00+08:00",
-          "type": "直播",
-          "summary": "虎嗅WAIC现场直播：AI如何赚钱？谁已跑通？ 虎嗅",
           "image": ""
         },
         {
@@ -801,6 +810,15 @@
           "type": "直播",
           "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
           "image": ""
+        },
+        {
+          "title": "学到了！UC Berkeley CS 294深度强化学习课程（附视频与PPT） - 机器之心",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KMlIwalNNTnU3WGVfX1dlcVZ5R0UzMVpQY2lkYmRhTmhTMFQyUjdvcnBJOW1uRjRLUnMwMm43SHFGZUlTNW5zNHlzRi1sUWJXVW9vZGZHMFJraTZkZFZTZmpNNA?oc=5",
+          "source": "机器之心",
+          "published_at": "2018-04-02T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "学到了！UC Berkeley CS 294深度强化学习课程（附视频与PPT） 机器之心",
+          "image": ""
         }
       ]
     }
@@ -859,11 +877,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅",
-      "title": "最难用上的Oura戒指，揭开了AI 硬件的真实战场",
-      "point": "最难用上的Oura戒指，揭开了AI 硬件的真实战场 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wUWExMzZ6Uk85ejJsX2NaZ3hWa2dkeGtHbWZ3QkN0U0VoNmlhLUpsOW1LRkphNGhMSDl3TVhGQmJwMjhnRjhzMHF5d3lkMTByYmtVRw?oc=5",
-      "published_at": "2026-08-20T16:58:23+08:00",
+      "source": "finance.sina.com.cn",
+      "title": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网",
+      "point": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjVsMXF2WUY1WVBTMDRmZzJyTEUycE5sU0ppWHRCV2NuMnZXVlhuMFYzRUtBYUtGVFhGdWc1Q3J5LTc1ek4wdGsxbjBCWmg1YWdTbWNLNEN6aDh4NTZsWFdDTHY5UmswTWtzYnFYLU5rWnhVRmptckZnT3IwVlFDaUtmb21nRlE?oc=5",
+      "published_at": "2026-08-20T20:44:55+08:00",
       "type": "媒体"
     },
     {
