@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-22T01:32:44.754309+08:00",
+  "generated_at": "2026-08-22T02:41:33.769019+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月22日 01:32",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月22日 02:41",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
     "本轮抓取到 媒体 137 条、直播 23 条、论坛 19 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
     "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
     "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr",
-    "womenofchina.com：全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 - womenofchina.com",
-    "虎嗅：2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅"
+    "虎嗅：2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅",
+    "36 Kr：机器人走向规模化，产业链准备好了吗？ - 36 Kr"
   ],
   "sections": [
     {
@@ -309,15 +309,6 @@
           "image": ""
         },
         {
-          "title": "全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 - womenofchina.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52dTlaMkphWEkwUjZYQ19uNHZJWGU0b3lNQ3Z5NlZGNk9scWpZTHVwS0tXT18wOVk0eUthRHpIdkJnMDJlbXllUk1FQV94VC01VDNZ?oc=5",
-          "source": "womenofchina.com",
-          "published_at": "2026-08-21T10:30:52+08:00",
-          "type": "媒体",
-          "summary": "全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 womenofchina.com",
-          "image": ""
-        },
-        {
           "title": "2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDNXRlbXE3Z0t3QnFPS3dzamxfMFNsbEQtWjVydkxiUFJYWWhfV0dfUmJQRTF6UEQ3MzZlX3k0cTNtOVJ1M1ZSYXV2M0t2OWVrWUpGbw?oc=5",
           "source": "虎嗅",
@@ -387,6 +378,15 @@
           "published_at": "2026-08-20T00:03:00+08:00",
           "type": "媒体",
           "summary": "AI办公赛道拥挤，两大产品凭什么跑出加速度？ 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "王兴兴进入奥德赛时期，呼唤梁文锋 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95U3h3TnFpU2dnRmt6N1JrMFBHQkJSV1dXNFNBVUJtcE1qQUtXUGw0a3FYRHgtLUtLT2ItUU1EVEgxTFB2eWY2MGhmZWdsUQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-19T22:15:00+08:00",
+          "type": "媒体",
+          "summary": "王兴兴进入奥德赛时期，呼唤梁文锋 36 Kr",
           "image": ""
         }
       ]
@@ -535,12 +535,12 @@
           "image": ""
         },
         {
-          "title": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 - Bilibili",
+          "title": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议AI开源、教育、AI普惠、赋身智能、神经网络、超级智能大模型！_哔哩哔哩 - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ySVlHVFFVU0lKNFVNQ1VRZm5rMGRtQUZ1TzQ2SkVCeHNGQ0R4VjlPaFhsOEZ4Vmg2alBiM2N5RTd6dl81V2NycEZzcFZoOC1aR2poSXlKMA?oc=5",
           "source": "Bilibili",
           "published_at": "2025-07-26T15:00:00+08:00",
           "type": "媒体",
-          "summary": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议 AI开源、教育、AI普惠、赋身智能、神经网络、超级智能 大模型 Bilibili",
+          "summary": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议AI开源、教育、AI普惠、赋身智能、神经网络、超级智能大模型！_哔哩哔哩 Bilibili",
           "image": ""
         },
         {
@@ -588,12 +588,12 @@
           "image": ""
         },
         {
-          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - Sohu",
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
-          "source": "Sohu",
+          "source": "搜狐网",
           "published_at": "2026-07-07T15:00:00+08:00",
           "type": "直播",
-          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 Sohu",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
           "image": ""
         }
       ]
@@ -638,15 +638,6 @@
           "published_at": "2026-07-18T14:20:33+08:00",
           "type": "直播",
           "summary": "*小秋葵成年直播软件*_《官方网站》_小秋葵成年直播软件*>>>首页>- 香港中联办",
-          "image": ""
-        },
-        {
-          "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户观看AI内容 - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GWGlGblNZcGZjUUl3aXJHWEtUM2F0djExdVN3SGRmSER1eV9XT1M1d0NUejV3UlFrNVkwVy1qMEExSWJteXQwRzJzajE0X1Y0VlFYQ0wwNktzZE5GSUJMUDctbXZwNXA5c3c?oc=5",
-          "source": "TradingView",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户观看AI内容 TradingView",
           "image": ""
         },
         {
@@ -722,12 +713,12 @@
           "image": ""
         },
         {
-          "title": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 - Sohu",
+          "title": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tYkQtSU5SQmhKd0luVWM1cXBmSy04RE9fVlVJazFYN3REaHllUHZiS2FTc1lvNkZZYzJ1RU1JWjY2TV9WeGItUk9aTzBSc2QwLUE?oc=5",
-          "source": "Sohu",
+          "source": "搜狐网",
           "published_at": "2026-07-15T10:26:36+08:00",
           "type": "论坛",
-          "summary": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 Sohu",
+          "summary": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 搜狐网",
           "image": ""
         },
         {
@@ -767,12 +758,12 @@
           "image": ""
         },
         {
-          "title": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbWdWUmp4ZURKOUJVQlpjQjUyOFR4S09IZGlZX0ZCVGZ3QXd4Z2RQZEU4NXRhdFVCWHhEc3FKQ0NONjlrZTJjSkxpYUdfQS04N3k0M1dsYnI4c0RpcHlzcGFVNlUyOFh6Sm91d21RZTNwcDJSY1ZvUk9fVkxUVEU?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-02-10T16:00:00+08:00",
+          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
+          "source": "moe.gov.cn",
+          "published_at": "2025-05-09T15:00:00+08:00",
           "type": "直播",
-          "summary": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 新浪财经",
+          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         },
         {
@@ -879,9 +870,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "Sohu",
+      "source": "搜狐网",
       "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会",
-      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 Sohu",
+      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
       "published_at": "2026-07-07T15:00:00+08:00",
       "type": "直播"
