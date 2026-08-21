@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-22T02:41:33.769019+08:00",
+  "generated_at": "2026-08-22T03:28:44.358698+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月22日 02:41",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月22日 03:28",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
     "本轮抓取到 媒体 137 条、直播 23 条、论坛 19 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
     "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
     "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr",
-    "虎嗅：2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅",
-    "36 Kr：机器人走向规模化，产业链准备好了吗？ - 36 Kr"
+    "虎嗅：三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
+    "虎嗅：2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅"
   ],
   "sections": [
     {
@@ -309,6 +309,15 @@
           "image": ""
         },
         {
+          "title": "三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVTlfX1pmWExsYXQ1MkFoUlI1WVFNSVg0bmpNSTNZM1VjRFg4eWdPX2VQTXpGOGRGcHR1MThBZ25WcENtMzhEVmdoRC1xX0lXdUt4Vw?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-21T11:11:24+08:00",
+          "type": "媒体",
+          "summary": "三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 虎嗅",
+          "image": ""
+        },
+        {
           "title": "2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDNXRlbXE3Z0t3QnFPS3dzamxfMFNsbEQtWjVydkxiUFJYWWhfV0dfUmJQRTF6UEQ3MzZlX3k0cTNtOVJ1M1ZSYXV2M0t2OWVrWUpGbw?oc=5",
           "source": "虎嗅",
@@ -378,15 +387,6 @@
           "published_at": "2026-08-20T00:03:00+08:00",
           "type": "媒体",
           "summary": "AI办公赛道拥挤，两大产品凭什么跑出加速度？ 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "王兴兴进入奥德赛时期，呼唤梁文锋 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95U3h3TnFpU2dnRmt6N1JrMFBHQkJSV1dXNFNBVUJtcE1qQUtXUGw0a3FYRHgtLUtLT2ItUU1EVEgxTFB2eWY2MGhmZWdsUQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-19T22:15:00+08:00",
-          "type": "媒体",
-          "summary": "王兴兴进入奥德赛时期，呼唤梁文锋 36 Kr",
           "image": ""
         }
       ]
