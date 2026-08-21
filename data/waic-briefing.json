@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-22T00:39:24.888663+08:00",
+  "generated_at": "2026-08-22T01:32:44.754309+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月22日 00:39",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月22日 01:32",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 23 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 137 条、直播 23 条、论坛 19 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
     "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
     "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr",
-    "虎嗅：2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅",
-    "36 Kr：机器人走向规模化，产业链准备好了吗？ - 36 Kr"
+    "womenofchina.com：全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 - womenofchina.com",
+    "虎嗅：2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅"
   ],
   "sections": [
     {
@@ -24,15 +24,6 @@
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
-          "image": ""
-        },
-        {
-          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
           "image": ""
         },
         {
@@ -123,6 +114,15 @@
           "published_at": "2026-07-16T18:05:49+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会：前沿AI与智能体安全论坛 21财经",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 - 科学网—新闻",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcWxndFltSVdRaHVhQkd4YzV1SF9OQ2JzeGRSaDJ1am1tSFIyTm50SDN2UHRMa3NRYlNfbjd6SHQ2MXN6bGZHekg3anMwYUVGSHpSX3pqVzJpc3ZuMTNPTXItdTM?oc=5",
+          "source": "科学网—新闻",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 科学网—新闻",
           "image": ""
         }
       ]
@@ -283,7 +283,7 @@
       "items": [
         {
           "title": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMdGNxUG9wMnlfQmZqSnIxTkpHc2t5RHNDRk1jRFczVVF0eHEzdXF5YUIzN0NnekFxdUpWeEVpTlpxeVVYNEUwSG9tUkFseWZhTE9VcA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaVh2NVFnR3BQNGRBTnJvLVdOeWMtSGZ5c2Jlc0dOdGstTTVqRWtSQ0N3SjdUM0s0SDUzX3VhLVZMYlI0Z0tZU0MxeUxEVmp4ek5GT3dPN0dGYzRhN0tFR1lB?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-21T18:36:52+08:00",
           "type": "媒体",
@@ -306,6 +306,15 @@
           "published_at": "2026-08-21T15:45:36+08:00",
           "type": "媒体",
           "summary": "这届机器人没有新故事，只有真问题 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 - womenofchina.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52dTlaMkphWEkwUjZYQ19uNHZJWGU0b3lNQ3Z5NlZGNk9scWpZTHVwS0tXT18wOVk0eUthRHpIdkJnMDJlbXllUk1FQV94VC01VDNZ?oc=5",
+          "source": "womenofchina.com",
+          "published_at": "2026-08-21T10:30:52+08:00",
+          "type": "媒体",
+          "summary": "全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 womenofchina.com",
           "image": ""
         },
         {
@@ -379,15 +388,6 @@
           "type": "媒体",
           "summary": "AI办公赛道拥挤，两大产品凭什么跑出加速度？ 36 Kr",
           "image": ""
-        },
-        {
-          "title": "王兴兴进入奥德赛时期，呼唤梁文锋 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95U3h3TnFpU2dnRmt6N1JrMFBHQkJSV1dXNFNBVUJtcE1qQUtXUGw0a3FYRHgtLUtLT2ItUU1EVEgxTFB2eWY2MGhmZWdsUQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-19T22:15:00+08:00",
-          "type": "媒体",
-          "summary": "王兴兴进入奥德赛时期，呼唤梁文锋 36 Kr",
-          "image": ""
         }
       ]
     }
@@ -406,15 +406,6 @@
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
-          "image": ""
-        },
-        {
-          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
           "image": ""
         },
         {
@@ -776,12 +767,12 @@
           "image": ""
         },
         {
-          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
-          "source": "moe.gov.cn",
-          "published_at": "2025-05-09T15:00:00+08:00",
+          "title": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbWdWUmp4ZURKOUJVQlpjQjUyOFR4S09IZGlZX0ZCVGZ3QXd4Z2RQZEU4NXRhdFVCWHhEc3FKQ0NONjlrZTJjSkxpYUdfQS04N3k0M1dsYnI4c0RpcHlzcGFVNlUyOFh6Sm91d21RZTNwcDJSY1ZvUk9fVkxUVEU?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-02-10T16:00:00+08:00",
           "type": "直播",
-          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
+          "summary": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 新浪财经",
           "image": ""
         },
         {
@@ -828,16 +819,6 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "中国日报网",
-      "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目",
-      "point": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-      "published_at": "2026-07-20T15:00:00+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
       "source": "21财经",
       "title": "WAIC 2026世界人工智能大会闭幕式论坛",
       "point": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
@@ -846,12 +827,22 @@
       "type": "论坛"
     },
     {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
+      "source": "新浪财经",
+      "title": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕",
+      "point": "倒计时1天 | 2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程即将启幕 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNU3ozRk1wY2ZDNmZfVU5vaE5WZUU1VVhsRlgxQU9fLVo5ZXpRQUt1Vms2LVJHRUxCcmsxZWk3ZE40c2VfX01wbXBPSWZOYXlCaFhrazEtb09NN056RlJ6bHNsMXF5Mnl5LTE1Z2xkal9WeEpzMWozdjE2YnpLLTRaUUdHQkhHSi04YWpyQjAwM1ZBN1UwUnZjNkJXMWdLbnhtS0JWNGJvSUJGdVhIWmVLY2MtU2xDZmdqd2JrdEoyc3B4VC1UTlJVT0p6djdEQkJBRDh1elJTY0MyMi1WMjJTQmVZdndzeTAtcHdMNV9GbWJPTkFNOXZwU1IyTGlXbDNMenB6SF9rLTdZWl9VMDM5R3drVWNRbjdDTkRZ?oc=5",
+      "published_at": "2026-07-19T15:00:00+08:00",
+      "type": "论坛"
+    },
+    {
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "虎嗅",
       "title": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段",
       "point": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMdGNxUG9wMnlfQmZqSnIxTkpHc2t5RHNDRk1jRFczVVF0eHEzdXF5YUIzN0NnekFxdUpWeEVpTlpxeVVYNEUwSG9tUkFseWZhTE9VcA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaVh2NVFnR3BQNGRBTnJvLVdOeWMtSGZ5c2Jlc0dOdGstTTVqRWtSQ0N3SjdUM0s0SDUzX3VhLVZMYlI0Z0tZU0MxeUxEVmp4ek5GT3dPN0dGYzRhN0tFR1lB?oc=5",
       "published_at": "2026-08-21T18:36:52+08:00",
       "type": "媒体"
     },
