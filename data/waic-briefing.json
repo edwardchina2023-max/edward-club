@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-23T01:48:44.305544+08:00",
+  "generated_at": "2026-08-23T02:36:02.909291+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月23日 01:48",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月23日 02:36",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 25 条、论坛 21 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 135 条、直播 27 条、论坛 20 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
     "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
     "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr",
-    "虎嗅：宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 - 虎嗅",
-    "虎嗅：三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅"
+    "虎嗅：三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
+    "womenofchina.com：全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 - womenofchina.com"
   ],
   "sections": [
     {
@@ -309,15 +309,6 @@
           "image": ""
         },
         {
-          "title": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QcXZJeHJtbGdDT2hWN3hKU0hxNDhQLXFFbmg2SGxsN2FaUlNMazI5Zks3X2k4QVFyZm5hLUhpUUNLTmsyMUVCOC04ZDZsb2tYc2FrZnpSdlVCQVZFSlNVanZR?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-21T14:07:38+08:00",
-          "type": "媒体",
-          "summary": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 虎嗅",
-          "image": ""
-        },
-        {
           "title": "三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVTlfX1pmWExsYXQ1MkFoUlI1WVFNSVg0bmpNSTNZM1VjRFg4eWdPX2VQTXpGOGRGcHR1MThBZ25WcENtMzhEVmdoRC1xX0lXdUt4Vw?oc=5",
           "source": "虎嗅",
@@ -346,7 +337,7 @@
         },
         {
           "title": "2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDNXRlbXE3Z0t3QnFPS3dzamxfMFNsbEQtWjVydkxiUFJYWWhfV0dfUmJQRTF6UEQ3MzZlX3k0cTNtOVJ1M1ZSYXV2M0t2OWVrWUpGbw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LaF9IMy1yeUxTaHpGeGNGbWkxaVR5aW5rcW4zd3B6aWpCTGF5SUUzeDNVNmRjWXpsZXdKS3BncTAzUkVHSjRVdEo3eFl6OE5aelE?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-21T09:17:23+08:00",
           "type": "媒体",
@@ -387,6 +378,15 @@
           "published_at": "2026-08-20T13:20:20+08:00",
           "type": "媒体",
           "summary": "留美25年搞机器人，他说：我完美错过了所有发财机会 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "脑机接口公司价值如何计算：从Neuralink融资看数据壁垒与商业化路径 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0UTQweEluOGE5UTdxUktZOFQ5UnZLSUpLWU43Z2FhVmNDUHdKU2VJbWc0MXVENXlUcmgySUNza2diU2RuU0FWeVdydGdSN0pibFdtZg?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-20T10:29:41+08:00",
+          "type": "媒体",
+          "summary": "脑机接口公司价值如何计算：从Neuralink融资看数据壁垒与商业化路径 虎嗅",
           "image": ""
         }
       ]
@@ -571,12 +571,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
+          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
           "source": "36 Kr",
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36 Kr",
+          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36 Kr",
           "image": ""
         },
         {
@@ -800,6 +800,24 @@
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
+          "image": ""
+        },
+        {
+          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
+          "source": "中华网",
+          "published_at": "2025-08-26T15:00:00+08:00",
+          "type": "直播",
+          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
+          "image": ""
+        },
+        {
+          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
+          "source": "moe.gov.cn",
+          "published_at": "2025-05-09T15:00:00+08:00",
+          "type": "直播",
+          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         },
         {
