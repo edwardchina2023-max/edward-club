@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-22T13:31:15.568758+08:00",
+  "generated_at": "2026-08-22T14:46:29.597419+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月22日 13:31",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月22日 14:46",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 25 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 137 条、直播 24 条、论坛 19 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
     "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
     "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr",
-    "虎嗅：宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 - 虎嗅",
-    "虎嗅：三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅"
+    "虎嗅：三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
+    "womenofchina.com：全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 - womenofchina.com"
   ],
   "sections": [
     {
@@ -187,15 +187,6 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wQTZRU2lrTVBaZGlVTGhDT1E0OUMxZXM3NzJ6ZFc1Y0JXbkZIYnhLajI4NFpBNTBEUHlOekgxS3dBX3FVOGdSekdzNmRIME9YcWc?oc=5",
-          "source": "搜狐网",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 搜狐网",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zaHp3UzBsVDZDSEEzcF94aXAzei02YndpYWRQbnBuX1JqYlAyaDZHSDVLZnhtUUdiSWxhTGp4LWxEYU5PWnlMSTFBWm9JeHlGZHVxaEhKUlhOaFlE?oc=5",
           "source": "上观新闻",
@@ -238,6 +229,15 @@
           "published_at": "2026-07-17T13:09:25+08:00",
           "type": "直播",
           "summary": "WAIC直击丨世界人工智能大会4×24LIVE全程大放送 thepaper.cn",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T11:49:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
           "image": ""
         }
       ]
@@ -283,7 +283,7 @@
       "items": [
         {
           "title": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMdGNxUG9wMnlfQmZqSnIxTkpHc2t5RHNDRk1jRFczVVF0eHEzdXF5YUIzN0NnekFxdUpWeEVpTlpxeVVYNEUwSG9tUkFseWZhTE9VcA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaVh2NVFnR3BQNGRBTnJvLVdOeWMtSGZ5c2Jlc0dOdGstTTVqRWtSQ0N3SjdUM0s0SDUzX3VhLVZMYlI0Z0tZU0MxeUxEVmp4ek5GT3dPN0dGYzRhN0tFR1lB?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-21T18:36:52+08:00",
           "type": "媒体",
@@ -309,21 +309,21 @@
           "image": ""
         },
         {
-          "title": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QcXZJeHJtbGdDT2hWN3hKU0hxNDhQLXFFbmg2SGxsN2FaUlNMazI5Zks3X2k4QVFyZm5hLUhpUUNLTmsyMUVCOC04ZDZsb2tYc2FrZnpSdlVCQVZFSlNVanZR?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-21T14:07:38+08:00",
-          "type": "媒体",
-          "summary": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 虎嗅",
-          "image": ""
-        },
-        {
           "title": "三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVTlfX1pmWExsYXQ1MkFoUlI1WVFNSVg0bmpNSTNZM1VjRFg4eWdPX2VQTXpGOGRGcHR1MThBZ25WcENtMzhEVmdoRC1xX0lXdUt4Vw?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-21T11:11:24+08:00",
           "type": "媒体",
           "summary": "三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 - womenofchina.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52dTlaMkphWEkwUjZYQ19uNHZJWGU0b3lNQ3Z5NlZGNk9scWpZTHVwS0tXT18wOVk0eUthRHpIdkJnMDJlbXllUk1FQV94VC01VDNZ?oc=5",
+          "source": "womenofchina.com",
+          "published_at": "2026-08-21T10:30:52+08:00",
+          "type": "媒体",
+          "summary": "全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 womenofchina.com",
           "image": ""
         },
         {
@@ -668,15 +668,6 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wQTZRU2lrTVBaZGlVTGhDT1E0OUMxZXM3NzJ6ZFc1Y0JXbkZIYnhLajI4NFpBNTBEUHlOekgxS3dBX3FVOGdSekdzNmRIME9YcWc?oc=5",
-          "source": "搜狐网",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 搜狐网",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zaHp3UzBsVDZDSEEzcF94aXAzei02YndpYWRQbnBuX1JqYlAyaDZHSDVLZnhtUUdiSWxhTGp4LWxEYU5PWnlMSTFBWm9JeHlGZHVxaEhKUlhOaFlE?oc=5",
           "source": "上观新闻",
@@ -869,7 +860,7 @@
       "source": "虎嗅",
       "title": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段",
       "point": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMdGNxUG9wMnlfQmZqSnIxTkpHc2t5RHNDRk1jRFczVVF0eHEzdXF5YUIzN0NnekFxdUpWeEVpTlpxeVVYNEUwSG9tUkFseWZhTE9VcA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaVh2NVFnR3BQNGRBTnJvLVdOeWMtSGZ5c2Jlc0dOdGstTTVqRWtSQ0N3SjdUM0s0SDUzX3VhLVZMYlI0Z0tZU0MxeUxEVmp4ek5GT3dPN0dGYzRhN0tFR1lB?oc=5",
       "published_at": "2026-08-21T18:36:52+08:00",
       "type": "媒体"
     },
