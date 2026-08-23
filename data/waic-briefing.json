@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-23T07:47:28.581768+08:00",
+  "generated_at": "2026-08-23T09:39:31.548287+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月23日 07:47",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月23日 09:39",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 132 条、直播 28 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 131 条、直播 28 条、论坛 22 条，已按企业家阅读场景分组。",
+    "新浪财经：绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 - 新浪财经",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
     "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
     "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr",
-    "虎嗅：三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
-    "womenofchina.com：全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 - womenofchina.com"
+    "虎嗅：宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 - 虎嗅"
   ],
   "sections": [
     {
@@ -17,6 +17,15 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
+        {
+          "title": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tblhSZmpQZUIwQXF1SDBucl9Sd0FFNEtUbnZvang1U1VlM2NOWGFoTVNsMFZsak9aLVBnZ01CRGJYUXdFSVFVRFZfSmw2N3VLd1JTRGprU3lOLXdxMGVsdDl3RFVfWHFaNi14VDE3amNZOTlTTmoxZg?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-08-22T20:53:00+08:00",
+          "type": "论坛",
+          "summary": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 新浪财经",
+          "image": ""
+        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -114,15 +123,6 @@
           "published_at": "2026-07-16T20:59:33+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
-          "source": "21财经",
-          "published_at": "2026-07-16T20:59:33+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
           "image": ""
         }
       ]
@@ -309,6 +309,15 @@
           "image": ""
         },
         {
+          "title": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QcXZJeHJtbGdDT2hWN3hKU0hxNDhQLXFFbmg2SGxsN2FaUlNMazI5Zks3X2k4QVFyZm5hLUhpUUNLTmsyMUVCOC04ZDZsb2tYc2FrZnpSdlVCQVZFSlNVanZR?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-21T14:07:38+08:00",
+          "type": "媒体",
+          "summary": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 虎嗅",
+          "image": ""
+        },
+        {
           "title": "三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVTlfX1pmWExsYXQ1MkFoUlI1WVFNSVg0bmpNSTNZM1VjRFg4eWdPX2VQTXpGOGRGcHR1MThBZ25WcENtMzhEVmdoRC1xX0lXdUt4Vw?oc=5",
           "source": "虎嗅",
@@ -363,15 +372,6 @@
           "image": ""
         },
         {
-          "title": "虎嗅2026 Q2 AI硬件趋势榜揭晓：20款产品从感知到生活改善交付有效解法 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wUWExMzZ6Uk85ejJsX2NaZ3hWa2dkeGtHbWZ3QkN0U0VoNmlhLUpsOW1LRkphNGhMSDl3TVhGQmJwMjhnRjhzMHF5d3lkMTByYmtVRw?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-20T16:58:23+08:00",
-          "type": "媒体",
-          "summary": "虎嗅2026 Q2 AI硬件趋势榜揭晓：20款产品从感知到生活改善交付有效解法 虎嗅",
-          "image": ""
-        },
-        {
           "title": "留美25年搞机器人，他说：我完美错过了所有发财机会 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LbFc0blZWS05ONDJfWlhYc0VTTUIzT2M3bEtWZGo1UHcxNkRYTWx0bDhGcVl5TGNkOUJKWnB5SWxzcWNMeGZ1Q2gzczcycFU?oc=5",
           "source": "36 Kr",
@@ -399,6 +399,15 @@
       "en": "Forum Livestreams",
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
+        {
+          "title": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tblhSZmpQZUIwQXF1SDBucl9Sd0FFNEtUbnZvang1U1VlM2NOWGFoTVNsMFZsak9aLVBnZ01CRGJYUXdFSVFVRFZfSmw2N3VLd1JTRGprU3lOLXdxMGVsdDl3RFVfWHFaNi14VDE3amNZOTlTTmoxZg?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-08-22T20:53:00+08:00",
+          "type": "论坛",
+          "summary": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 新浪财经",
+          "image": ""
+        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -586,6 +595,15 @@
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者",
+          "image": ""
+        },
+        {
+          "title": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ENHVlcGpvX2ZYanREQU1MVnozX21PSEM2X0FsT0tGWGtTNU0yWUxwa0JoaTZoVElTNUVoakhsaEp3SVJqbjE2MndZWC1iTmpFQ1Jma3A2TQ?oc=5",
+          "source": "Bilibili",
+          "published_at": "2020-08-08T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 Bilibili",
           "image": ""
         }
       ]
@@ -854,6 +872,16 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
+      "source": "新浪财经",
+      "title": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记",
+      "point": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tblhSZmpQZUIwQXF1SDBucl9Sd0FFNEtUbnZvang1U1VlM2NOWGFoTVNsMFZsak9aLVBnZ01CRGJYUXdFSVFVRFZfSmw2N3VLd1JTRGprU3lOLXdxMGVsdDl3RFVfWHFaNi14VDE3amNZOTlTTmoxZg?oc=5",
+      "published_at": "2026-08-22T20:53:00+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
       "source": "人民网-上海频道",
       "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
       "point": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
@@ -869,16 +897,6 @@
       "point": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
       "published_at": "2026-07-21T15:00:00+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
-      "source": "中国日报网",
-      "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目",
-      "point": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-      "published_at": "2026-07-20T15:00:00+08:00",
       "type": "论坛"
     },
     {
@@ -934,11 +952,11 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "人民网-上海频道",
-      "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
-      "point": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
-      "published_at": "2026-07-21T15:00:00+08:00",
+      "source": "新浪财经",
+      "title": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记",
+      "point": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tblhSZmpQZUIwQXF1SDBucl9Sd0FFNEtUbnZvang1U1VlM2NOWGFoTVNsMFZsak9aLVBnZ01CRGJYUXdFSVFVRFZfSmw2N3VLd1JTRGprU3lOLXdxMGVsdDl3RFVfWHFaNi14VDE3amNZOTlTTmoxZg?oc=5",
+      "published_at": "2026-08-22T20:53:00+08:00",
       "type": "论坛"
     },
     {
