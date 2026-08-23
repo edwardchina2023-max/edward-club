@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-23T09:39:31.548287+08:00",
+  "generated_at": "2026-08-23T11:06:31.583242+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月23日 09:39",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月23日 11:06",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 131 条、直播 28 条、论坛 22 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 130 条、直播 27 条、论坛 21 条，已按企业家阅读场景分组。",
+    "虎嗅：“大结果”成为年轻人流行语：从婚恋黑话到全民生存语言 - 虎嗅",
     "新浪财经：绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 - 新浪财经",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
     "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
-    "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr",
-    "虎嗅：宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 - 虎嗅"
+    "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr"
   ],
   "sections": [
     {
@@ -133,12 +133,12 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36Kr",
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36Kr",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
           "image": ""
         },
         {
@@ -282,6 +282,15 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
+          "title": "“大结果”成为年轻人流行语：从婚恋黑话到全民生存语言 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TcXd3aVhfZ2h0WlRsZXNWV0NGbkw2QmhwckpJeWM2RFViaTJnRUU1X2dkUlZab1BHUzZSQTlJTGVycF9iZGFUU1B1UjVsOHFLQmx5NQ?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-23T07:00:03+08:00",
+          "type": "媒体",
+          "summary": "“大结果”成为年轻人流行语：从婚恋黑话到全民生存语言 虎嗅",
+          "image": ""
+        },
+        {
           "title": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaVh2NVFnR3BQNGRBTnJvLVdOeWMtSGZ5c2Jlc0dOdGstTTVqRWtSQ0N3SjdUM0s0SDUzX3VhLVZMYlI0Z0tZU0MxeUxEVmp4ek5GT3dPN0dGYzRhN0tFR1lB?oc=5",
           "source": "虎嗅",
@@ -306,15 +315,6 @@
           "published_at": "2026-08-21T15:45:36+08:00",
           "type": "媒体",
           "summary": "这届机器人没有新故事，只有真问题 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QcXZJeHJtbGdDT2hWN3hKU0hxNDhQLXFFbmg2SGxsN2FaUlNMazI5Zks3X2k4QVFyZm5hLUhpUUNLTmsyMUVCOC04ZDZsb2tYc2FrZnpSdlVCQVZFSlNVanZR?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-21T14:07:38+08:00",
-          "type": "媒体",
-          "summary": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 虎嗅",
           "image": ""
         },
         {
@@ -363,12 +363,12 @@
           "image": ""
         },
         {
-          "title": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 - 新浪财经",
+          "title": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjVsMXF2WUY1WVBTMDRmZzJyTEUycE5sU0ppWHRCV2NuMnZXVlhuMFYzRUtBYUtGVFhGdWc1Q3J5LTc1ek4wdGsxbjBCWmg1YWdTbWNLNEN6aDh4NTZsWFdDTHY5UmswTWtzYnFYLU5rWnhVRmptckZnT3IwVlFDaUtmb21nRlE?oc=5",
-          "source": "新浪财经",
+          "source": "finance.sina.com.cn",
           "published_at": "2026-08-20T20:44:55+08:00",
           "type": "媒体",
-          "summary": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 新浪财经",
+          "summary": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 finance.sina.com.cn",
           "image": ""
         },
         {
@@ -596,15 +596,6 @@
           "type": "直播",
           "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者",
           "image": ""
-        },
-        {
-          "title": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ENHVlcGpvX2ZYanREQU1MVnozX21PSEM2X0FsT0tGWGtTNU0yWUxwa0JoaTZoVElTNUVoakhsaEp3SVJqbjE2MndZWC1iTmpFQ1Jma3A2TQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2020-08-08T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 Bilibili",
-          "image": ""
         }
       ]
     },
@@ -641,12 +632,12 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36Kr",
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36Kr",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
           "image": ""
         },
         {
@@ -776,15 +767,6 @@
           "image": ""
         },
         {
-          "title": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI - 凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Nb1hxc0FBYk9PcTlEejJtcEdWVW94MW9tY3MtMndwUkIyQTJKWnFlSWpxNzB6QTZ4Nm5kbC0wZWNKTjdOQTA4ZHdIRzE?oc=5",
-          "source": "凤凰网",
-          "published_at": "2026-07-15T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI 凤凰网",
-          "image": ""
-        },
-        {
           "title": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tYkQtSU5SQmhKd0luVWM1cXBmSy04RE9fVlVJazFYN3REaHllUHZiS2FTc1lvNkZZYzJ1RU1JWjY2TV9WeGItUk9aTzBSc2QwLUE?oc=5",
           "source": "搜狐网",
@@ -812,12 +794,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
           "image": ""
         },
         {
@@ -827,15 +809,6 @@
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2025 氪话未来直播间 - topics.36kr.com",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QN1FDdFo2QWdSN1NhbXVjQjVIODY2YkE2M0JqR0NJTi1uSkdqZkt4elpOTFZpQThvTXhwV3R6bm1VdjRoSXNkMjN1anl0T1U?oc=5",
-          "source": "topics.36kr.com",
-          "published_at": "2025-07-13T07:57:28+08:00",
-          "type": "直播",
-          "summary": "WAIC 2025 氪话未来直播间 topics.36kr.com",
           "image": ""
         },
         {
@@ -903,6 +876,16 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "虎嗅",
+      "title": "“大结果”成为年轻人流行语：从婚恋黑话到全民生存语言",
+      "point": "“大结果”成为年轻人流行语：从婚恋黑话到全民生存语言 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TcXd3aVhfZ2h0WlRsZXNWV0NGbkw2QmhwckpJeWM2RFViaTJnRUU1X2dkUlZab1BHUzZSQTlJTGVycF9iZGFUU1B1UjVsOHFLQmx5NQ?oc=5",
+      "published_at": "2026-08-23T07:00:03+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅",
       "title": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段",
       "point": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 虎嗅",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaVh2NVFnR3BQNGRBTnJvLVdOeWMtSGZ5c2Jlc0dOdGstTTVqRWtSQ0N3SjdUM0s0SDUzX3VhLVZMYlI0Z0tZU0MxeUxEVmp4ek5GT3dPN0dGYzRhN0tFR1lB?oc=5",
@@ -917,16 +900,6 @@
       "point": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
       "published_at": "2026-08-21T16:20:50+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "这届机器人没有新故事，只有真问题",
-      "point": "这届机器人没有新故事，只有真问题 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOWtTMWxaem1uVkRlbGF2NUEyYjFjTHBqWFBYU0dlYWFWNXEzQjJtWnp6MjlFNThWYmd5VHIxQXBHQl93WE1EQTR2TkdfbG8?oc=5",
-      "published_at": "2026-08-21T15:45:36+08:00",
       "type": "媒体"
     },
     {
