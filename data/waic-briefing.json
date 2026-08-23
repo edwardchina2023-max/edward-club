@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-23T22:53:18.128992+08:00",
+  "generated_at": "2026-08-23T23:26:36.390901+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月23日 22:53",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月23日 23:26",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 130 条、直播 28 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 128 条、直播 29 条、论坛 20 条，已按企业家阅读场景分组。",
     "虎嗅：“大结果”成为年轻人流行语：从婚恋黑话到全民生存语言 - 虎嗅",
     "新浪财经：绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 - 新浪财经",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
@@ -45,21 +45,21 @@
           "image": ""
         },
         {
-          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026世界人工智能大会闭幕式论坛 - 21财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
           "source": "21财经",
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
+          "image": ""
+        },
+        {
+          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
+          "source": "中国日报网",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
           "image": ""
         },
         {
@@ -133,12 +133,21 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36Kr",
+          "title": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 - 潮起网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kbG5wMnkxR2M5LXlrZHE1WUdRb1hNbVBTVWczdldVVzk0aUllM3ZLZDJ4Mnd0OVlEYm5FejBRSkdnY0dWMzdyRXM4VXlHekxoWmNkcHBXMUNmaUZVOVVnVnVn?oc=5",
+          "source": "潮起网",
+          "published_at": "2026-08-21T14:51:47+08:00",
+          "type": "直播",
+          "summary": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 潮起网",
+          "image": ""
+        },
+        {
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36Kr",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
           "image": ""
         },
         {
@@ -229,15 +238,6 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 搜狐网",
-          "image": ""
-        },
-        {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
           "image": ""
         }
       ]
@@ -381,12 +381,12 @@
           "image": ""
         },
         {
-          "title": "留美25年搞机器人，他说：我完美错过了所有发财机会 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LbFc0blZWS05ONDJfWlhYc0VTTUIzT2M3bEtWZGo1UHcxNkRYTWx0bDhGcVl5TGNkOUJKWnB5SWxzcWNMeGZ1Q2gzczcycFU?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-20T13:20:20+08:00",
+          "title": "脑机接口公司价值如何计算：从Neuralink融资看数据壁垒与商业化路径 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0UTQweEluOGE5UTdxUktZOFQ5UnZLSUpLWU43Z2FhVmNDUHdKU2VJbWc0MXVENXlUcmgySUNza2diU2RuU0FWeVdydGdSN0pibFdtZg?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-20T10:29:41+08:00",
           "type": "媒体",
-          "summary": "留美25年搞机器人，他说：我完美错过了所有发财机会 36 Kr",
+          "summary": "脑机接口公司价值如何计算：从Neuralink融资看数据壁垒与商业化路径 虎嗅",
           "image": ""
         }
       ]
@@ -427,21 +427,21 @@
           "image": ""
         },
         {
-          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026世界人工智能大会闭幕式论坛 - 21财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
           "source": "21财经",
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
+          "image": ""
+        },
+        {
+          "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 - 中国日报网",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
+          "source": "中国日报网",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
           "image": ""
         },
         {
@@ -588,6 +588,15 @@
       "description": "展区、展台、探馆、现场走访和新品展示类直播/回放入口。",
       "items": [
         {
+          "title": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 - 潮起网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kbG5wMnkxR2M5LXlrZHE1WUdRb1hNbVBTVWczdldVVzk0aUllM3ZLZDJ4Mnd0OVlEYm5FejBRSkdnY0dWMzdyRXM4VXlHekxoWmNkcHBXMUNmaUZVOVVnVnVn?oc=5",
+          "source": "潮起网",
+          "published_at": "2026-08-21T14:51:47+08:00",
+          "type": "直播",
+          "summary": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 潮起网",
+          "image": ""
+        },
+        {
           "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
           "source": "智源社区",
@@ -614,12 +623,12 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36Kr",
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36Kr",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
           "image": ""
         },
         {
@@ -794,12 +803,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
           "image": ""
         },
         {
@@ -905,6 +914,16 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
+      "source": "潮起网",
+      "title": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念",
+      "point": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 潮起网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kbG5wMnkxR2M5LXlrZHE1WUdRb1hNbVBTVWczdldVVzk0aUllM3ZLZDJ4Mnd0OVlEYm5FejBRSkdnY0dWMzdyRXM4VXlHekxoWmNkcHBXMUNmaUZVOVVnVnVn?oc=5",
+      "published_at": "2026-08-21T14:51:47+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "直播 / 逛展",
+      "en": "Live & Expo",
       "source": "智源社区",
       "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI",
       "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
@@ -921,16 +940,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
       "published_at": "2026-07-07T15:00:00+08:00",
       "type": "直播"
-    },
-    {
-      "channel": "直播 / 逛展",
-      "en": "Live & Expo",
-      "source": "新浪财经",
-      "title": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记",
-      "point": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tblhSZmpQZUIwQXF1SDBucl9Sd0FFNEtUbnZvang1U1VlM2NOWGFoTVNsMFZsak9aLVBnZ01CRGJYUXdFSVFVRFZfSmw2N3VLd1JTRGprU3lOLXdxMGVsdDl3RFVfWHFaNi14VDE3amNZOTlTTmoxZg?oc=5",
-      "published_at": "2026-08-22T20:53:00+08:00",
-      "type": "论坛"
     },
     {
       "channel": "嘉宾 / 自媒体",
