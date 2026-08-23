@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-24T05:25:49.592306+08:00",
+  "generated_at": "2026-08-24T05:48:38.437154+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 05:25",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 05:48",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 128 条、直播 26 条、论坛 22 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 129 条、直播 26 条、论坛 22 条，已按企业家阅读场景分组。",
     "虎嗅：“大结果”成为年轻人流行语：从婚恋黑话到全民生存语言 - 虎嗅",
     "新浪财经：绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 - 新浪财经",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
@@ -133,6 +133,15 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
+          "title": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 - 潮起网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kbG5wMnkxR2M5LXlrZHE1WUdRb1hNbVBTVWczdldVVzk0aUllM3ZLZDJ4Mnd0OVlEYm5FejBRSkdnY0dWMzdyRXM4VXlHekxoWmNkcHBXMUNmaUZVOVVnVnVn?oc=5",
+          "source": "潮起网",
+          "published_at": "2026-08-21T14:51:47+08:00",
+          "type": "直播",
+          "summary": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 潮起网",
+          "image": ""
+        },
+        {
           "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
           "source": "36 Kr",
@@ -229,15 +238,6 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
-          "image": ""
-        },
-        {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - CSDN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZXzEtV3ZyWGpEQkU1b0VjUlJFaEFaT0I3bE4xT1NyMEE5U0Y1SzNNUy1aS1JOTXhXRWIxUW81SzR1VmVKVVZGaHRpY2Rkak1yWTBrcXlqRWxUMVM2U3c?oc=5",
-          "source": "CSDN",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 CSDN",
           "image": ""
         }
       ]
@@ -588,6 +588,15 @@
       "description": "展区、展台、探馆、现场走访和新品展示类直播/回放入口。",
       "items": [
         {
+          "title": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 - 潮起网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kbG5wMnkxR2M5LXlrZHE1WUdRb1hNbVBTVWczdldVVzk0aUllM3ZLZDJ4Mnd0OVlEYm5FejBRSkdnY0dWMzdyRXM4VXlHekxoWmNkcHBXMUNmaUZVOVVnVnVn?oc=5",
+          "source": "潮起网",
+          "published_at": "2026-08-21T14:51:47+08:00",
+          "type": "直播",
+          "summary": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 潮起网",
+          "image": ""
+        },
+        {
           "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
           "source": "智源社区",
@@ -749,6 +758,15 @@
           "image": ""
         },
         {
+          "title": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI - 凤凰网",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Nb1hxc0FBYk9PcTlEejJtcEdWVW94MW9tY3MtMndwUkIyQTJKWnFlSWpxNzB6QTZ4Nm5kbC0wZWNKTjdOQTA4ZHdIRzE?oc=5",
+          "source": "凤凰网",
+          "published_at": "2026-07-15T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI 凤凰网",
+          "image": ""
+        },
+        {
           "title": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tYkQtSU5SQmhKd0luVWM1cXBmSy04RE9fVlVJazFYN3REaHllUHZiS2FTc1lvNkZZYzJ1RU1JWjY2TV9WeGItUk9aTzBSc2QwLUE?oc=5",
           "source": "搜狐网",
@@ -800,15 +818,6 @@
           "published_at": "2025-08-26T15:00:00+08:00",
           "type": "直播",
           "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
-          "image": ""
-        },
-        {
-          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
-          "source": "moe.gov.cn",
-          "published_at": "2025-05-09T15:00:00+08:00",
-          "type": "直播",
-          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         },
         {
@@ -887,6 +896,16 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
+      "source": "潮起网",
+      "title": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念",
+      "point": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 潮起网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kbG5wMnkxR2M5LXlrZHE1WUdRb1hNbVBTVWczdldVVzk0aUllM3ZLZDJ4Mnd0OVlEYm5FejBRSkdnY0dWMzdyRXM4VXlHekxoWmNkcHBXMUNmaUZVOVVnVnVn?oc=5",
+      "published_at": "2026-08-21T14:51:47+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "直播 / 逛展",
+      "en": "Live & Expo",
       "source": "智源社区",
       "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI",
       "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
@@ -903,16 +922,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
       "published_at": "2026-07-07T15:00:00+08:00",
       "type": "直播"
-    },
-    {
-      "channel": "直播 / 逛展",
-      "en": "Live & Expo",
-      "source": "新浪财经",
-      "title": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记",
-      "point": "绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tblhSZmpQZUIwQXF1SDBucl9Sd0FFNEtUbnZvang1U1VlM2NOWGFoTVNsMFZsak9aLVBnZ01CRGJYUXdFSVFVRFZfSmw2N3VLd1JTRGprU3lOLXdxMGVsdDl3RFVfWHFaNi14VDE3amNZOTlTTmoxZg?oc=5",
-      "published_at": "2026-08-22T20:53:00+08:00",
-      "type": "论坛"
     },
     {
       "channel": "嘉宾 / 自媒体",
