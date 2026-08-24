@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-24T20:57:32.390008+08:00",
+  "generated_at": "2026-08-24T21:56:21.478490+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 20:57",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 21:56",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 132 条、直播 25 条、论坛 18 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 132 条、直播 27 条、论坛 17 条，已按企业家阅读场景分组。",
     "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
     "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
     "虎嗅：机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
-    "36 Kr：拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36 Kr",
-    "36 Kr：具身智能，开始当消费品卖了 - 36 Kr"
+    "36Kr：具身江湖志（三）：机器人的草根阶层 - 36Kr",
+    "36Kr：拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36Kr"
   ],
   "sections": [
     {
@@ -17,15 +17,6 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
-        {
-          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-08-20T04:05:19+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
-          "image": ""
-        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -124,6 +115,15 @@
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
           "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-16T20:59:33+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
+          "image": ""
         }
       ]
     },
@@ -139,6 +139,15 @@
           "published_at": "2026-08-21T14:51:47+08:00",
           "type": "直播",
           "summary": "李佳琦直播间首设亚宠展线下展位，云逛展传递科学养宠理念 潮起网",
+          "image": ""
+        },
+        {
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-19T17:26:00+08:00",
+          "type": "直播",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
           "image": ""
         },
         {
@@ -230,15 +239,6 @@
           "type": "直播",
           "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
           "image": ""
-        },
-        {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - CSDN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZXzEtV3ZyWGpEQkU1b0VjUlJFaEFaT0I3bE4xT1NyMEE5U0Y1SzNNUy1aS1JOTXhXRWIxUW81SzR1VmVKVVZGaHRpY2Rkak1yWTBrcXlqRWxUMVM2U3c?oc=5",
-          "source": "CSDN",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 CSDN",
-          "image": ""
         }
       ]
     },
@@ -309,30 +309,39 @@
           "image": ""
         },
         {
-          "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36 Kr",
+          "title": "具身江湖志（三）：机器人的草根阶层 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93aGtKaUwwT1FIVkdDRU8xN0dyOS0wRjF5elhMT1hEcmpqM0RiQl9TQlBDU2Q2cHZ1bmU3cHVEUDRBWWpVQzJBVG56N0V1QQ?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-08-24T06:13:00+08:00",
+          "type": "媒体",
+          "summary": "具身江湖志（三）：机器人的草根阶层 36Kr",
+          "image": ""
+        },
+        {
+          "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eFVZWjlEWGFwem1IWGxvQUFJTGZXR0JyT2dHR0hPd0Uwb05lSEc1bkpqLWhIa3ZnUzZWb0Zna2RMdXJiR1pyaV8xMWtJdw?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-24T04:30:00+08:00",
           "type": "媒体",
-          "summary": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36 Kr",
+          "summary": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36Kr",
           "image": ""
         },
         {
-          "title": "具身智能，开始当消费品卖了 - 36 Kr",
+          "title": "具身智能，开始当消费品卖了 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aWGZHVTh5b3NPeDcxVlNSeTc2anlpeFdwdTB5S2FydHR2NUFobF9ydHhadlVKSS1VYWFGbGFpcUktd3FvUjlzSUd3eXpoZw?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-23T19:41:00+08:00",
           "type": "媒体",
-          "summary": "具身智能，开始当消费品卖了 36 Kr",
+          "summary": "具身智能，开始当消费品卖了 36Kr",
           "image": ""
         },
         {
-          "title": "三个月两轮，中国版Palantir火了 - 36 Kr",
+          "title": "三个月两轮，中国版Palantir火了 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lSUR0M1pUaGhhc1hyRGc5dk1LYzZZdUptSlRVX3BHWHRQeWRSTmthTzBrakdvT3dmZ3pUM3U0bVM2dmpSZTJWS1JyY1pqNWRi?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-23T18:45:00+08:00",
           "type": "媒体",
-          "summary": "三个月两轮，中国版Palantir火了 36 Kr",
+          "summary": "三个月两轮，中国版Palantir火了 36Kr",
           "image": ""
         },
         {
@@ -363,30 +372,21 @@
           "image": ""
         },
         {
-          "title": "机器人走向规模化，产业链准备好了吗？ - 36 Kr",
+          "title": "机器人走向规模化，产业链准备好了吗？ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKWHg2ZWt1VkY4ZUhKbUxrU0RaUHM1Y2Z0djM5WUowSURzTXhMU29pcnZpMHlXUWpIaVhYbXFLRDA3bC1QU3pSX01LV0hVeTg?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-21T18:21:20+08:00",
           "type": "媒体",
-          "summary": "机器人走向规模化，产业链准备好了吗？ 36 Kr",
+          "summary": "机器人走向规模化，产业链准备好了吗？ 36Kr",
           "image": ""
         },
         {
-          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
+          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-21T16:20:50+08:00",
           "type": "媒体",
-          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "这届机器人没有新故事，只有真问题 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOWtTMWxaem1uVkRlbGF2NUEyYjFjTHBqWFBYU0dlYWFWNXEzQjJtWnp6MjlFNThWYmd5VHIxQXBHQl93WE1EQTR2TkdfbG8?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-21T15:45:36+08:00",
-          "type": "媒体",
-          "summary": "这届机器人没有新故事，只有真问题 36 Kr",
+          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36Kr",
           "image": ""
         }
       ]
@@ -399,15 +399,6 @@
       "en": "Forum Livestreams",
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
-        {
-          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-08-20T04:05:19+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
-          "image": ""
-        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -623,6 +614,15 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-19T17:26:00+08:00",
+          "type": "直播",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
+          "image": ""
+        },
+        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - finance.tom.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
           "source": "finance.tom.com",
@@ -758,21 +758,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36 Kr",
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-07-09T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36 Kr",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
           "image": ""
         },
         {
@@ -791,6 +791,15 @@
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
+          "image": ""
+        },
+        {
+          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
+          "source": "中华网",
+          "published_at": "2025-08-26T15:00:00+08:00",
+          "type": "直播",
+          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
           "image": ""
         },
         {
@@ -818,16 +827,6 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "新浪财经",
-      "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网",
-      "point": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-      "published_at": "2026-08-20T04:05:19+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
       "source": "人民网-上海频道",
       "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
       "point": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
@@ -843,6 +842,16 @@
       "point": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
       "published_at": "2026-07-21T15:00:00+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
+      "source": "21财经",
+      "title": "WAIC 2026世界人工智能大会闭幕式论坛",
+      "point": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
+      "published_at": "2026-07-20T15:00:00+08:00",
       "type": "论坛"
     },
     {
