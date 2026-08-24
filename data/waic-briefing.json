@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-24T07:48:14.114790+08:00",
+  "generated_at": "2026-08-24T09:37:38.794418+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 07:48",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 09:37",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 127 条、直播 27 条、论坛 23 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 127 条、直播 27 条、论坛 22 条，已按企业家阅读场景分组。",
     "虎嗅：“大结果”成为年轻人流行语：从婚恋黑话到全民生存语言 - 虎嗅",
     "新浪财经：绿算聚变 智启未来——2026绿色算力（人工智能）大会“共建智能体时代”分论坛侧记 - 新浪财经",
     "虎嗅：2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 - 虎嗅",
-    "36 Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
-    "36 Kr：这届机器人没有新故事，只有真问题 - 36 Kr"
+    "36Kr：机器人走向规模化，产业链准备好了吗？ - 36Kr",
+    "36Kr：逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36Kr"
   ],
   "sections": [
     {
@@ -300,21 +300,30 @@
           "image": ""
         },
         {
-          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-21T16:20:50+08:00",
+          "title": "机器人走向规模化，产业链准备好了吗？ - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKWHg2ZWt1VkY4ZUhKbUxrU0RaUHM1Y2Z0djM5WUowSURzTXhMU29pcnZpMHlXUWpIaVhYbXFLRDA3bC1QU3pSX01LV0hVeTg?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-08-21T18:21:20+08:00",
           "type": "媒体",
-          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36 Kr",
+          "summary": "机器人走向规模化，产业链准备好了吗？ 36Kr",
           "image": ""
         },
         {
-          "title": "这届机器人没有新故事，只有真问题 - 36 Kr",
+          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-08-21T16:20:50+08:00",
+          "type": "媒体",
+          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36Kr",
+          "image": ""
+        },
+        {
+          "title": "这届机器人没有新故事，只有真问题 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOWtTMWxaem1uVkRlbGF2NUEyYjFjTHBqWFBYU0dlYWFWNXEzQjJtWnp6MjlFNThWYmd5VHIxQXBHQl93WE1EQTR2TkdfbG8?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-21T15:45:36+08:00",
           "type": "媒体",
-          "summary": "这届机器人没有新故事，只有真问题 36 Kr",
+          "summary": "这届机器人没有新故事，只有真问题 36Kr",
           "image": ""
         },
         {
@@ -360,15 +369,6 @@
           "published_at": "2026-08-21T09:17:23+08:00",
           "type": "媒体",
           "summary": "2025世界机器人大会观察：机器人开始找工作，从秀场走向市场 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "机器人走向规模化，产业链准备好了吗？ - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0eXNyQ3pZa2psYVNKSFVzWnBzRXRtdFhPN3hxR0tzSUtlRUwyNzRqcFNOMWNOOTZDS3h4Vl9FcWNPTnp5WVNxMERzTHAxdDFB?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-21T03:18:00+08:00",
-          "type": "媒体",
-          "summary": "机器人走向规模化，产业链准备好了吗？ 36 Kr",
           "image": ""
         },
         {
@@ -562,12 +562,12 @@
           "image": ""
         },
         {
-          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36 Kr",
+          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36 Kr",
+          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36Kr",
           "image": ""
         },
         {
@@ -577,15 +577,6 @@
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者",
-          "image": ""
-        },
-        {
-          "title": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ENHVlcGpvX2ZYanREQU1MVnozX21PSEM2X0FsT0tGWGtTNU0yWUxwa0JoaTZoVElTNUVoakhsaEp3SVJqbjE2MndZWC1iTmpFQ1Jma3A2TQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2020-08-08T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "准备好了吗？ 带你“体验”未来人机协作——世界人工智能大会2020云端峰会 Bilibili",
           "image": ""
         }
       ]
@@ -776,21 +767,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36 Kr",
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-07-09T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36 Kr",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
           "image": ""
         },
         {
@@ -895,11 +886,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题",
-      "point": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
-      "published_at": "2026-08-21T16:20:50+08:00",
+      "source": "36Kr",
+      "title": "机器人走向规模化，产业链准备好了吗？",
+      "point": "机器人走向规模化，产业链准备好了吗？ 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKWHg2ZWt1VkY4ZUhKbUxrU0RaUHM1Y2Z0djM5WUowSURzTXhMU29pcnZpMHlXUWpIaVhYbXFLRDA3bC1QU3pSX01LV0hVeTg?oc=5",
+      "published_at": "2026-08-21T18:21:20+08:00",
       "type": "媒体"
     },
     {
