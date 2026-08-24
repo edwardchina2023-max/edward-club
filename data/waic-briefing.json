@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-25T07:25:42.857430+08:00",
+  "generated_at": "2026-08-25T07:48:50.777446+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 07:25",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 07:48",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 129 条、直播 28 条、论坛 18 条，已按企业家阅读场景分组。",
-    "36 Kr：WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36 Kr",
-    "36 Kr：具身江湖志（三）：机器人的草根阶层 - 36 Kr",
+    "本轮抓取到 媒体 130 条、直播 27 条、论坛 17 条，已按企业家阅读场景分组。",
+    "36Kr：WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36Kr",
     "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
     "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
-    "虎嗅：机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅"
+    "虎嗅：机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
+    "36Kr：具身江湖志（三）：机器人的草根阶层 - 36Kr"
   ],
   "sections": [
     {
@@ -282,21 +282,12 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36 Kr",
+          "title": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGcXhLeVpRX1FaNG5yWXZERWs4NVhxS1phV0F6UHpKM25KbTBDaDQzVE8yVkNBVW1ub3psUEdYVHZTYUJkMDlxQ0JGMV9rUzA?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-24T22:22:54+08:00",
           "type": "媒体",
-          "summary": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "具身江湖志（三）：机器人的草根阶层 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OZEJVaVJhVmJfdGRPU29rMDhZVkRyakJIZHRUcGlkTE1yQzF5ZzlERS1JaFExTmpLOHVqQlU1OHRVZ0E4U0FKMGt6S1drS0JH?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-24T21:17:20+08:00",
-          "type": "媒体",
-          "summary": "具身江湖志（三）：机器人的草根阶层 36 Kr",
+          "summary": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 36Kr",
           "image": ""
         },
         {
@@ -327,39 +318,48 @@
           "image": ""
         },
         {
-          "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36 Kr",
+          "title": "具身江湖志（三）：机器人的草根阶层 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93aGtKaUwwT1FIVkdDRU8xN0dyOS0wRjF5elhMT1hEcmpqM0RiQl9TQlBDU2Q2cHZ1bmU3cHVEUDRBWWpVQzJBVG56N0V1QQ?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-08-24T06:13:00+08:00",
+          "type": "媒体",
+          "summary": "具身江湖志（三）：机器人的草根阶层 36Kr",
+          "image": ""
+        },
+        {
+          "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83NlpfSkFtNmRRbjloQXVhNVRtb2RGQjQ2RjVfQ002S0pEMDJYVHhaMXZwaW5OSVBsdW1DTGhDZjFibkJ1STVwOTEyeGFsSW9s?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-24T04:30:00+08:00",
           "type": "媒体",
-          "summary": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36 Kr",
+          "summary": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36Kr",
           "image": ""
         },
         {
-          "title": "具身智能，开始当消费品卖了 - 36 Kr",
+          "title": "具身智能，开始当消费品卖了 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aWGZHVTh5b3NPeDcxVlNSeTc2anlpeFdwdTB5S2FydHR2NUFobF9ydHhadlVKSS1VYWFGbGFpcUktd3FvUjlzSUd3eXpoZw?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-23T19:41:00+08:00",
           "type": "媒体",
-          "summary": "具身智能，开始当消费品卖了 36 Kr",
+          "summary": "具身智能，开始当消费品卖了 36Kr",
           "image": ""
         },
         {
-          "title": "三个月两轮，中国版Palantir火了 - 36 Kr",
+          "title": "三个月两轮，中国版Palantir火了 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lSUR0M1pUaGhhc1hyRGc5dk1LYzZZdUptSlRVX3BHWHRQeWRSTmthTzBrakdvT3dmZ3pUM3U0bVM2dmpSZTJWS1JyY1pqNWRi?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-23T18:45:00+08:00",
           "type": "媒体",
-          "summary": "三个月两轮，中国版Palantir火了 36 Kr",
+          "summary": "三个月两轮，中国版Palantir火了 36Kr",
           "image": ""
         },
         {
-          "title": "到底有多少人形机器人真正在干活？ - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UTVJfNUhyT1VjUWhYdjJfdk4xeE9LNGRFbmplN05sZkhPTjFwT3QtTEltSVVQaTNyWldqY1hTNjVpSWZ4ZEoySGRvUVRkUQ?oc=5",
+          "title": "揭秘真实落地场景：究竟有多少人形机器人正在实际干活投入商用？ - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VSm5zS1U5N0FsSGRCWEdtbk40MTgtSkhsbGtDNXVwUE1tSGJ5ZlRtRlhMc1BHeFhZcmVDNGZZb05JQUtxdkhxekpIQlV2bGJERlJv?oc=5",
           "source": "36 Kr",
           "published_at": "2026-08-23T17:12:00+08:00",
           "type": "媒体",
-          "summary": "到底有多少人形机器人真正在干活？ 36 Kr",
+          "summary": "揭秘真实落地场景：究竟有多少人形机器人正在实际干活投入商用？ 36 Kr",
           "image": ""
         },
         {
@@ -381,12 +381,12 @@
           "image": ""
         },
         {
-          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
+          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-08-21T16:20:50+08:00",
           "type": "媒体",
-          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36 Kr",
+          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36Kr",
           "image": ""
         }
       ]
@@ -758,21 +758,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36 Kr",
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-07-09T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36 Kr",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
           "image": ""
         },
         {
@@ -791,15 +791,6 @@
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
-          "image": ""
-        },
-        {
-          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
-          "source": "中华网",
-          "published_at": "2025-08-26T15:00:00+08:00",
-          "type": "直播",
-          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
           "image": ""
         },
         {
@@ -866,21 +857,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36 Kr",
+      "source": "36Kr",
       "title": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记",
-      "point": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 36 Kr",
+      "point": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGcXhLeVpRX1FaNG5yWXZERWs4NVhxS1phV0F6UHpKM25KbTBDaDQzVE8yVkNBVW1ub3psUEdYVHZTYUJkMDlxQ0JGMV9rUzA?oc=5",
       "published_at": "2026-08-24T22:22:54+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "具身江湖志（三）：机器人的草根阶层",
-      "point": "具身江湖志（三）：机器人的草根阶层 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OZEJVaVJhVmJfdGRPU29rMDhZVkRyakJIZHRUcGlkTE1yQzF5ZzlERS1JaFExTmpLOHVqQlU1OHRVZ0E4U0FKMGt6S1drS0JH?oc=5",
-      "published_at": "2026-08-24T21:17:20+08:00",
       "type": "媒体"
     },
     {
@@ -891,6 +872,16 @@
       "point": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od2hjUktnT0hiLUFGamhOcjgtWkZWMHA1NnB5ajVyTEE4bWZvMFRoQjBQeXZSYmkzMXdVWnppWnNuZUJYMG1pZ1ZkYkcya3JOS1E?oc=5",
       "published_at": "2026-08-24T18:58:30+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅",
+      "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！",
+      "point": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHl3dGRGakNENzZqWURuX29tZkJ1cV9GUC1jai1jZG9WVkdnX1JFbWdESlJ4YWRoZjYzZmh2WGUtV1lVLWFYUlV5VU9KWkctRDhBag?oc=5",
+      "published_at": "2026-08-24T18:34:26+08:00",
       "type": "媒体"
     },
     {
