@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-24T18:40:38.003313+08:00",
+  "generated_at": "2026-08-24T19:33:06.704786+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 18:40",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 19:33",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 132 条、直播 26 条、论坛 17 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 133 条、直播 27 条、观点 1 条、论坛 16 条，已按企业家阅读场景分组。",
+    "36Kr：拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36Kr",
+    "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
+    "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
     "虎嗅：机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
-    "36Kr：具身智能，开始当消费品卖了 - 36Kr",
-    "36Kr：三个月两轮，中国版Palantir火了 - 36Kr",
-    "36 Kr：揭秘真实落地场景：究竟有多少人形机器人正在实际干活投入商用？ - 36 Kr",
-    "虎嗅：“大结果”成为年轻人流行语：从婚恋黑话到全民生存语言 - 虎嗅"
+    "36Kr：具身智能，开始当消费品卖了 - 36Kr"
   ],
   "sections": [
     {
@@ -99,15 +99,6 @@
           "image": ""
         },
         {
-          "title": "2026 CBME国际孕婴童展盛大开幕，“新势力·新生长”擘画产业新蓝图 - Jiemian.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaDFPdDZITGJMeklPVzItYkRGVUJMTnU0OUFrRWlERm1OWkp5engzeHlDYjA3MzNLNlFjeF9FZkQ3aUtudjNibjdnR19VN2padUpzVDZn?oc=5",
-          "source": "Jiemian.com",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026 CBME国际孕婴童展盛大开幕，“新势力·新生长”擘画产业新蓝图 Jiemian.com",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026世界人工智能大会主论坛 - 21财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FeVdpdXg3Zi1GblFHTE5IbWlDRXhWMlI1VmFBdkVleXZYRm9PQmJrTG9GcUQ4T19sVXMzZUlGSzdBWi1GdWlUUW5PX0J0dkdPSmJB?oc=5",
           "source": "21财经",
@@ -123,6 +114,15 @@
           "published_at": "2026-07-16T20:59:33+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会：前沿AI与智能体安全论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ubFhwMnFBRFZ1ckVxN0hENTNQQVdNMVNDRmkyS2ZEd2RXZTZmeXhkZXkySG1rVk9BQjBLR25FWjRtNERoWEk0aU1Hdnl3d2hDd2U0?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-16T18:05:49+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会：前沿AI与智能体安全论坛 21财经",
           "image": ""
         }
       ]
@@ -248,30 +248,12 @@
       "en": "Creator and KOL viewpoints",
       "items": [
         {
-          "title": "公众号观点检索：WAIC / 世界人工智能大会",
-          "url": "https://www.google.com/search?q=site%3Amp.weixin.qq.com+WAIC+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+%E8%A7%82%E7%82%B9",
-          "source": "Google Search",
-          "published_at": "",
+          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - thepaper.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82bTVNd29HNjItQWhBaDJ2bi1JRlBSZVhrSHVNeFdrTHFFdGJTNTBLUDFmZDlUSjhZZDFFOEZzMVJHZWZpMDR0TE5yOXQ2bTBRV1ZOMl9tUmFPQkxXNEE?oc=5",
+          "source": "thepaper.cn",
+          "published_at": "2026-07-19T15:00:00+08:00",
           "type": "观点",
-          "summary": "公开新闻源未抓到稳定公众号结果时，保留可点击检索入口，便于人工快速查看科技与科普作者更新。",
-          "image": ""
-        },
-        {
-          "title": "B站观点检索：WAIC 现场与科普解读",
-          "url": "https://www.google.com/search?q=site%3Abilibili.com+WAIC+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+AI+%E8%A7%82%E7%82%B9",
-          "source": "Google Search",
-          "published_at": "",
-          "type": "观点",
-          "summary": "用于追踪视频创作者、科技媒体号和大会现场解读内容。",
-          "image": ""
-        },
-        {
-          "title": "知乎/专栏观点检索：AI 大会讨论",
-          "url": "https://www.google.com/search?q=WAIC+2026+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+%E8%A7%82%E7%82%B9+%E7%9F%A5%E4%B9%8E+%E7%A7%91%E6%8A%80",
-          "source": "Google Search",
-          "published_at": "",
-          "type": "观点",
-          "summary": "用于补充大会期间的行业讨论、问答与长文观点。",
+          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 thepaper.cn",
           "image": ""
         }
       ]
@@ -281,6 +263,33 @@
       "title": "媒体快讯与产业发布",
       "en": "Media updates and industry announcements",
       "items": [
+        {
+          "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xdlBTc2tkN0dLZE05UnlRY2NmQzF3bGt2R25VMDBxc3U0ZXpRNXZpUzhzMndhNHZySlFiaVU1Z2duT3BRRGJCYzBxVE8wYW8?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-08-24T19:31:57+08:00",
+          "type": "媒体",
+          "summary": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36Kr",
+          "image": ""
+        },
+        {
+          "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od2hjUktnT0hiLUFGamhOcjgtWkZWMHA1NnB5ajVyTEE4bWZvMFRoQjBQeXZSYmkzMXdVWnppWnNuZUJYMG1pZ1ZkYkcya3JOS1E?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-24T18:58:30+08:00",
+          "type": "媒体",
+          "summary": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHl3dGRGakNENzZqWURuX29tZkJ1cV9GUC1jai1jZG9WVkdnX1JFbWdESlJ4YWRoZjYzZmh2WGUtV1lVLWFYUlV5VU9KWkctRDhBag?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-24T18:34:26+08:00",
+          "type": "媒体",
+          "summary": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
+          "image": ""
+        },
         {
           "title": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wWFc2b0g1anJ6VF85R214MTJqVE9NRV9MeDJHRzlCZy13RklaSHJMNmc1X2NKVkVrWW9IUW91YW5YZDVGdGlKWk5oSFlZMHhaUzBudkRaTlp4YWlNUUtEWV9R?oc=5",
@@ -360,33 +369,6 @@
           "published_at": "2026-08-21T15:45:36+08:00",
           "type": "媒体",
           "summary": "这届机器人没有新故事，只有真问题 36Kr",
-          "image": ""
-        },
-        {
-          "title": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QcXZJeHJtbGdDT2hWN3hKU0hxNDhQLXFFbmg2SGxsN2FaUlNMazI5Zks3X2k4QVFyZm5hLUhpUUNLTmsyMUVCOC04ZDZsb2tYc2FrZnpSdlVCQVZFSlNVanZR?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-21T14:07:38+08:00",
-          "type": "媒体",
-          "summary": "宇树科技上市成\"人形机器人第一股\"，2026世界机器人大会聚焦机器人实用化变革 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pVTlfX1pmWExsYXQ1MkFoUlI1WVFNSVg0bmpNSTNZM1VjRFg4eWdPX2VQTXpGOGRGcHR1MThBZ25WcENtMzhEVmdoRC1xX0lXdUt4Vw?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-21T11:11:24+08:00",
-          "type": "媒体",
-          "summary": "三个元年交汇的WRC 2026：当机器人告别“摇篮”，开始解决“真”问题 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 - womenofchina.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52dTlaMkphWEkwUjZYQ19uNHZJWGU0b3lNQ3Z5NlZGNk9scWpZTHVwS0tXT18wOVk0eUthRHpIdkJnMDJlbXllUk1FQV94VC01VDNZ?oc=5",
-          "source": "womenofchina.com",
-          "published_at": "2026-08-21T10:30:52+08:00",
-          "type": "媒体",
-          "summary": "全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 womenofchina.com",
           "image": ""
         }
       ]
@@ -603,6 +585,15 @@
           "published_at": "2026-07-07T15:00:00+08:00",
           "type": "直播",
           "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
+          "image": ""
+        },
+        {
+          "title": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 - 华龙网",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmxQWmlxYzRDbURJTzhBUS0tLU80X3Eza2xGNDY4S2sxQ0xYemx2YmtoNlVGVW9TUTA0Q1RTOHEtWlBrVllYNUxsZ0NyTGQ5N1RFdThpajdkRFMtNC1LUnRNaFN0ZTBCM2w2Y3htem04R2dhMlg4YkhoVThaUGI3bEF5MUlWOHNYVlAwZHI2dC1mUQ?oc=5",
+          "source": "华龙网",
+          "published_at": "2025-09-05T15:00:00+08:00",
+          "type": "直播",
+          "summary": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 华龙网",
           "image": ""
         }
       ]
@@ -848,31 +839,31 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
+      "source": "36Kr",
+      "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜",
+      "point": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xdlBTc2tkN0dLZE05UnlRY2NmQzF3bGt2R25VMDBxc3U0ZXpRNXZpUzhzMndhNHZySlFiaVU1Z2duT3BRRGJCYzBxVE8wYW8?oc=5",
+      "published_at": "2026-08-24T19:31:57+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
       "source": "虎嗅",
-      "title": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付",
-      "point": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wWFc2b0g1anJ6VF85R214MTJqVE9NRV9MeDJHRzlCZy13RklaSHJMNmc1X2NKVkVrWW9IUW91YW5YZDVGdGlKWk5oSFlZMHhaUzBudkRaTlp4YWlNUUtEWV9R?oc=5",
-      "published_at": "2026-08-24T08:09:47+08:00",
+      "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！",
+      "point": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od2hjUktnT0hiLUFGamhOcjgtWkZWMHA1NnB5ajVyTEE4bWZvMFRoQjBQeXZSYmkzMXdVWnppWnNuZUJYMG1pZ1ZkYkcya3JOS1E?oc=5",
+      "published_at": "2026-08-24T18:58:30+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
-      "title": "具身智能，开始当消费品卖了",
-      "point": "具身智能，开始当消费品卖了 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aWGZHVTh5b3NPeDcxVlNSeTc2anlpeFdwdTB5S2FydHR2NUFobF9ydHhadlVKSS1VYWFGbGFpcUktd3FvUjlzSUd3eXpoZw?oc=5",
-      "published_at": "2026-08-23T19:41:00+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "36Kr",
-      "title": "三个月两轮，中国版Palantir火了",
-      "point": "三个月两轮，中国版Palantir火了 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lSUR0M1pUaGhhc1hyRGc5dk1LYzZZdUptSlRVX3BHWHRQeWRSTmthTzBrakdvT3dmZ3pUM3U0bVM2dmpSZTJWS1JyY1pqNWRi?oc=5",
-      "published_at": "2026-08-23T18:45:00+08:00",
+      "source": "虎嗅",
+      "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！",
+      "point": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHl3dGRGakNENzZqWURuX29tZkJ1cV9GUC1jai1jZG9WVkdnX1JFbWdESlJ4YWRoZjYzZmh2WGUtV1lVLWFYUlV5VU9KWkctRDhBag?oc=5",
+      "published_at": "2026-08-24T18:34:26+08:00",
       "type": "媒体"
     },
     {
@@ -908,32 +899,32 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "Google Search",
-      "title": "公众号观点检索：WAIC / 世界人工智能大会",
-      "point": "公开新闻源未抓到稳定公众号结果时，保留可点击检索入口，便于人工快速查看科技与科普作者更新。",
-      "url": "https://www.google.com/search?q=site%3Amp.weixin.qq.com+WAIC+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+%E8%A7%82%E7%82%B9",
-      "published_at": "",
+      "source": "thepaper.cn",
+      "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
+      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82bTVNd29HNjItQWhBaDJ2bi1JRlBSZVhrSHVNeFdrTHFFdGJTNTBLUDFmZDlUSjhZZDFFOEZzMVJHZWZpMDR0TE5yOXQ2bTBRV1ZOMl9tUmFPQkxXNEE?oc=5",
+      "published_at": "2026-07-19T15:00:00+08:00",
       "type": "观点"
     },
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "Google Search",
-      "title": "B站观点检索：WAIC 现场与科普解读",
-      "point": "用于追踪视频创作者、科技媒体号和大会现场解读内容。",
-      "url": "https://www.google.com/search?q=site%3Abilibili.com+WAIC+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+AI+%E8%A7%82%E7%82%B9",
-      "published_at": "",
-      "type": "观点"
+      "source": "36 Kr",
+      "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察",
+      "point": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
+      "published_at": "2026-08-19T17:26:00+08:00",
+      "type": "直播"
     },
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "Google Search",
-      "title": "知乎/专栏观点检索：AI 大会讨论",
-      "point": "用于补充大会期间的行业讨论、问答与长文观点。",
-      "url": "https://www.google.com/search?q=WAIC+2026+%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A+%E8%A7%82%E7%82%B9+%E7%9F%A5%E4%B9%8E+%E7%A7%91%E6%8A%80",
-      "published_at": "",
-      "type": "观点"
+      "source": "finance.tom.com",
+      "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济",
+      "point": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 finance.tom.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
+      "published_at": "2026-07-20T15:00:00+08:00",
+      "type": "直播"
     }
   ],
   "sources": [
