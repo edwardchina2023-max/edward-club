@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-24T22:49:48.754685+08:00",
+  "generated_at": "2026-08-24T23:43:25.726816+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 22:49",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 23:43",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 131 条、直播 28 条、论坛 18 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 130 条、直播 28 条、论坛 18 条，已按企业家阅读场景分组。",
+    "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
+    "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
+    "虎嗅：机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
     "36 Kr：WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36 Kr",
-    "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
-    "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
-    "36 Kr：具身江湖志（三）：机器人的草根阶层 - 36 Kr",
-    "36 Kr：拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36 Kr"
+    "36 Kr：具身江湖志（三）：机器人的草根阶层 - 36 Kr"
   ],
   "sections": [
     {
@@ -17,6 +17,15 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
+        {
+          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-08-20T04:05:19+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
+          "image": ""
+        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -114,15 +123,6 @@
           "published_at": "2026-07-16T20:59:33+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
-          "source": "21财经",
-          "published_at": "2026-07-16T20:59:33+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
           "image": ""
         }
       ]
@@ -282,15 +282,6 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QVVozZkh4Z1dMWEZGU25OUjBySDAzT1V4YUxoLVQtTWRDd2VVWGlDTXFnRm4zQnlBZUJIQmI2TEZhajFkaURDeHZCYTZTRFda?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-24T22:22:54+08:00",
-          "type": "媒体",
-          "summary": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 36 Kr",
-          "image": ""
-        },
-        {
           "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od2hjUktnT0hiLUFGamhOcjgtWkZWMHA1NnB5ajVyTEE4bWZvMFRoQjBQeXZSYmkzMXdVWnppWnNuZUJYMG1pZ1ZkYkcya3JOS1E?oc=5",
           "source": "虎嗅",
@@ -306,6 +297,24 @@
           "published_at": "2026-08-24T18:34:26+08:00",
           "type": "媒体",
           "summary": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wWFc2b0g1anJ6VF85R214MTJqVE9NRV9MeDJHRzlCZy13RklaSHJMNmc1X2NKVkVrWW9IUW91YW5YZDVGdGlKWk5oSFlZMHhaUzBudkRaTlp4YWlNUUtEWV9R?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-24T08:09:47+08:00",
+          "type": "媒体",
+          "summary": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oeXB3ZU5ZaU5mSnF3R0RIbGtfZUdfSlVVSGZFYVA2cGVEa1ZqWWtHQUtORkVla0VLZlJPVHZqc3NFdnk5X2xYMmNmVWNkZw?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-24T07:20:00+08:00",
+          "type": "媒体",
+          "summary": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 36 Kr",
           "image": ""
         },
         {
@@ -379,15 +388,6 @@
           "type": "媒体",
           "summary": "机器人走向规模化，产业链准备好了吗？ 36 Kr",
           "image": ""
-        },
-        {
-          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-21T16:20:50+08:00",
-          "type": "媒体",
-          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36 Kr",
-          "image": ""
         }
       ]
     }
@@ -399,6 +399,15 @@
       "en": "Forum Livestreams",
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
+        {
+          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
+          "source": "新浪财经",
+          "published_at": "2026-08-20T04:05:19+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
+          "image": ""
+        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -776,21 +785,21 @@
           "image": ""
         },
         {
-          "title": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbWdWUmp4ZURKOUJVQlpjQjUyOFR4S09IZGlZX0ZCVGZ3QXd4Z2RQZEU4NXRhdFVCWHhEc3FKQ0NONjlrZTJjSkxpYUdfQS04N3k0M1dsYnI4c0RpcHlzcGFVNlUyOFh6Sm91d21RZTNwcDJSY1ZvUk9fVkxUVEU?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-02-10T16:00:00+08:00",
-          "type": "直播",
-          "summary": "熙流数字CEO牟熙亮相“旭琴直播间”，共话AI赋能工业数智化未来 新浪财经",
-          "image": ""
-        },
-        {
           "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
           "source": "中华网",
           "published_at": "2025-08-26T15:00:00+08:00",
           "type": "直播",
           "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
+          "image": ""
+        },
+        {
+          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
+          "source": "moe.gov.cn",
+          "published_at": "2025-05-09T15:00:00+08:00",
+          "type": "直播",
+          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         },
         {
@@ -818,6 +827,16 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
+      "source": "新浪财经",
+      "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网",
+      "point": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
+      "published_at": "2026-08-20T04:05:19+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
       "source": "人民网-上海频道",
       "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
       "point": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
@@ -834,26 +853,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
       "published_at": "2026-07-21T15:00:00+08:00",
       "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
-      "source": "21财经",
-      "title": "WAIC 2026世界人工智能大会闭幕式论坛",
-      "point": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
-      "published_at": "2026-07-20T15:00:00+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "36 Kr",
-      "title": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记",
-      "point": "WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QVVozZkh4Z1dMWEZGU25OUjBySDAzT1V4YUxoLVQtTWRDd2VVWGlDTXFnRm4zQnlBZUJIQmI2TEZhajFkaURDeHZCYTZTRFda?oc=5",
-      "published_at": "2026-08-24T22:22:54+08:00",
-      "type": "媒体"
     },
     {
       "channel": "媒体快讯",
@@ -873,6 +872,16 @@
       "point": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHl3dGRGakNENzZqWURuX29tZkJ1cV9GUC1jai1jZG9WVkdnX1JFbWdESlJ4YWRoZjYzZmh2WGUtV1lVLWFYUlV5VU9KWkctRDhBag?oc=5",
       "published_at": "2026-08-24T18:34:26+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅",
+      "title": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付",
+      "point": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wWFc2b0g1anJ6VF85R214MTJqVE9NRV9MeDJHRzlCZy13RklaSHJMNmc1X2NKVkVrWW9IUW91YW5YZDVGdGlKWk5oSFlZMHhaUzBudkRaTlp4YWlNUUtEWV9R?oc=5",
+      "published_at": "2026-08-24T08:09:47+08:00",
       "type": "媒体"
     },
     {
