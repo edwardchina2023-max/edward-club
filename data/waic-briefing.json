@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-24T15:39:00.138459+08:00",
+  "generated_at": "2026-08-24T16:53:17.284576+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 15:39",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月24日 16:53",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 130 条、直播 25 条、论坛 22 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 131 条、直播 25 条、论坛 20 条，已按企业家阅读场景分组。",
     "虎嗅：机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
     "36Kr：具身智能，开始当消费品卖了 - 36Kr",
     "36Kr：三个月两轮，中国版Palantir火了 - 36Kr",
@@ -17,15 +17,6 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
-        {
-          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-          "source": "新浪网",
-          "published_at": "2026-08-20T04:05:19+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪网",
-          "image": ""
-        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -123,6 +114,15 @@
           "published_at": "2026-07-16T20:59:33+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-16T20:59:33+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
           "image": ""
         }
       ]
@@ -345,6 +345,15 @@
           "image": ""
         },
         {
+          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-08-21T16:20:50+08:00",
+          "type": "媒体",
+          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36Kr",
+          "image": ""
+        },
+        {
           "title": "这届机器人没有新故事，只有真问题 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOWtTMWxaem1uVkRlbGF2NUEyYjFjTHBqWFBYU0dlYWFWNXEzQjJtWnp6MjlFNThWYmd5VHIxQXBHQl93WE1EQTR2TkdfbG8?oc=5",
           "source": "36Kr",
@@ -379,15 +388,6 @@
           "type": "媒体",
           "summary": "全球唯一！J9集团|国际站官网荣获2026世界人工智能大会‘最佳体育科技应用’——从用户需求到全链AI智造的闭环革命 womenofchina.com",
           "image": ""
-        },
-        {
-          "title": "2024世界机器人大会观察：机器人落地困境与行业洗牌加速 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52YTFNRUNQRkN3NEllTU1rd0doU1JaZ0ZRdEZERVFZNXV5NHdVbDdKUDExRXlUaTZwbFgycWZScDFFU1A5NDRzMGVpZDYzQ296V0JYYg?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-21T09:18:58+08:00",
-          "type": "媒体",
-          "summary": "2024世界机器人大会观察：机器人落地困境与行业洗牌加速 虎嗅",
-          "image": ""
         }
       ]
     }
@@ -399,15 +399,6 @@
       "en": "Forum Livestreams",
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
-        {
-          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪网",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-          "source": "新浪网",
-          "published_at": "2026-08-20T04:05:19+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪网",
-          "image": ""
-        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -827,16 +818,6 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "新浪网",
-      "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网",
-      "point": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-      "published_at": "2026-08-20T04:05:19+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
       "source": "人民网-上海频道",
       "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
       "point": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
@@ -852,6 +833,16 @@
       "point": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
       "published_at": "2026-07-21T15:00:00+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
+      "source": "21财经",
+      "title": "WAIC 2026世界人工智能大会闭幕式论坛",
+      "point": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
+      "published_at": "2026-07-20T15:00:00+08:00",
       "type": "论坛"
     },
     {
