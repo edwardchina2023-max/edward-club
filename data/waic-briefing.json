@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-25T12:42:46.362169+08:00",
+  "generated_at": "2026-08-25T13:35:31.041489+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 12:42",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 13:35",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 25 条、论坛 17 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 135 条、直播 25 条、论坛 16 条，已按企业家阅读场景分组。",
     "36 Kr：WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36 Kr",
     "36 Kr：具身江湖志（三）：机器人的草根阶层 - 36 Kr",
     "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
     "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
-    "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅"
+    "虎嗅：机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅"
   ],
   "sections": [
     {
@@ -17,15 +17,6 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
-        {
-          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-08-20T04:05:19+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
-          "image": ""
-        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -124,6 +115,15 @@
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
           "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会：前沿AI与智能体安全论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ubFhwMnFBRFZ1ckVxN0hENTNQQVdNMVNDRmkyS2ZEd2RXZTZmeXhkZXkySG1rVk9BQjBLR25FWjRtNERoWEk0aU1Hdnl3d2hDd2U0?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-16T18:05:49+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会：前沿AI与智能体安全论坛 21财经",
+          "image": ""
         }
       ]
     },
@@ -133,12 +133,12 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36氪",
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36氪",
+          "source": "36 Kr",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36氪",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
           "image": ""
         },
         {
@@ -196,12 +196,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - 腾讯新闻",
+          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
-          "source": "腾讯新闻",
+          "source": "QQ News",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 腾讯新闻",
+          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
           "image": ""
         },
         {
@@ -223,12 +223,12 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "新浪财经",
+          "source": "finance.sina.com.cn",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
           "image": ""
         },
         {
@@ -310,15 +310,6 @@
         },
         {
           "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BbUV4SU1BQUFKSUlVbWVibWtoTFZXeEdtNWhWUGNWTFhBMjZjMzU4SzJrM2pDSUNOdWxsN2JMeVJMRmJBbWJVdmRaYk5BYXhnZHFxN3YzVUhlcW5LVXBIQg?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-24T18:34:26+08:00",
-          "type": "媒体",
-          "summary": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHl3dGRGakNENzZqWURuX29tZkJ1cV9GUC1jai1jZG9WVkdnX1JFbWdESlJ4YWRoZjYzZmh2WGUtV1lVLWFYUlV5VU9KWkctRDhBag?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-24T18:34:26+08:00",
@@ -388,6 +379,15 @@
           "type": "媒体",
           "summary": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 虎嗅",
           "image": ""
+        },
+        {
+          "title": "这届机器人没有新故事，只有真问题 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOWtTMWxaem1uVkRlbGF2NUEyYjFjTHBqWFBYU0dlYWFWNXEzQjJtWnp6MjlFNThWYmd5VHIxQXBHQl93WE1EQTR2TkdfbG8?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-21T15:45:36+08:00",
+          "type": "媒体",
+          "summary": "这届机器人没有新故事，只有真问题 36 Kr",
+          "image": ""
         }
       ]
     }
@@ -399,15 +399,6 @@
       "en": "Forum Livestreams",
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
-        {
-          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-08-20T04:05:19+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
-          "image": ""
-        },
         {
           "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
@@ -605,12 +596,12 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36氪",
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36氪",
+          "source": "36 Kr",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36氪",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
           "image": ""
         },
         {
@@ -659,12 +650,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - 腾讯新闻",
+          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
-          "source": "腾讯新闻",
+          "source": "QQ News",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 腾讯新闻",
+          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
           "image": ""
         },
         {
@@ -686,12 +677,12 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "新浪财经",
+          "source": "finance.sina.com.cn",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
           "image": ""
         },
         {
@@ -767,21 +758,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36氪",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36氪",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36氪",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
           "image": ""
         },
         {
-          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
-          "source": "中华网",
-          "published_at": "2025-08-26T15:00:00+08:00",
+          "title": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 - 上海有色金属",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wY253bl9vODhGWFpyZ0pqR2RUbnM3YW5pUElSWWVONEpxaTlOYUNBZnhBZXlhVmUyRV91cG5ENHhDTlZ0SEhwdll3?oc=5",
+          "source": "上海有色金属",
+          "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
+          "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
           "image": ""
         },
         {
@@ -809,16 +800,6 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "新浪财经",
-      "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网",
-      "point": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-      "published_at": "2026-08-20T04:05:19+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
       "source": "人民网-上海频道",
       "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
       "point": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
@@ -834,6 +815,16 @@
       "point": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
       "published_at": "2026-07-21T15:00:00+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
+      "source": "中国日报网",
+      "title": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目",
+      "point": "世界人工智能大会，慧博云通入选“数据要素赋能智能体”论坛典型实践项目 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVpnT0FRRExBeUk4Sllad1FrWlo5SWJDd3JYcmxmQUh4ZEpja2VTRmN1ck1Ec0FjOEV4d0hhUHc3TGdpVExDV3k2Q0ttR2RyVDg2Z0xxb1RZXzZyUTVkSW95bVN3SHFXMzQweXo5bnUxb1dLQzJmUnpUVFg?oc=5",
+      "published_at": "2026-07-20T15:00:00+08:00",
       "type": "论坛"
     },
     {
@@ -889,11 +880,11 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "新浪财经",
-      "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网",
-      "point": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-      "published_at": "2026-08-20T04:05:19+08:00",
+      "source": "人民网-上海频道",
+      "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
+      "point": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
+      "published_at": "2026-07-21T15:00:00+08:00",
       "type": "论坛"
     },
     {
