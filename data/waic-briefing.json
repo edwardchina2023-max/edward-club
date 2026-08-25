@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-25T07:48:50.777446+08:00",
+  "generated_at": "2026-08-25T09:27:13.945313+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 07:48",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 09:27",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
     "本轮抓取到 媒体 130 条、直播 27 条、论坛 17 条，已按企业家阅读场景分组。",
     "36Kr：WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36Kr",
+    "36Kr：具身江湖志（三）：机器人的草根阶层 - 36Kr",
     "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
     "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
-    "虎嗅：机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
-    "36Kr：具身江湖志（三）：机器人的草根阶层 - 36Kr"
+    "虎嗅：机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅"
   ],
   "sections": [
     {
@@ -142,12 +142,12 @@
           "image": ""
         },
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36氪",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36 Kr",
+          "source": "36氪",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36氪",
           "image": ""
         },
         {
@@ -291,10 +291,28 @@
           "image": ""
         },
         {
+          "title": "具身江湖志（三）：机器人的草根阶层 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OZEJVaVJhVmJfdGRPU29rMDhZVkRyakJIZHRUcGlkTE1yQzF5ZzlERS1JaFExTmpLOHVqQlU1OHRVZ0E4U0FKMGt6S1drS0JH?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-08-24T21:17:20+08:00",
+          "type": "媒体",
+          "summary": "具身江湖志（三）：机器人的草根阶层 36Kr",
+          "image": ""
+        },
+        {
           "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od2hjUktnT0hiLUFGamhOcjgtWkZWMHA1NnB5ajVyTEE4bWZvMFRoQjBQeXZSYmkzMXdVWnppWnNuZUJYMG1pZ1ZkYkcya3JOS1E?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-24T18:58:30+08:00",
+          "type": "媒体",
+          "summary": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BbUV4SU1BQUFKSUlVbWVibWtoTFZXeEdtNWhWUGNWTFhBMjZjMzU4SzJrM2pDSUNOdWxsN2JMeVJMRmJBbWJVdmRaYk5BYXhnZHFxN3YzVUhlcW5LVXBIQg?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-24T18:34:26+08:00",
           "type": "媒体",
           "summary": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
           "image": ""
@@ -315,15 +333,6 @@
           "published_at": "2026-08-24T08:09:47+08:00",
           "type": "媒体",
           "summary": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "具身江湖志（三）：机器人的草根阶层 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93aGtKaUwwT1FIVkdDRU8xN0dyOS0wRjF5elhMT1hEcmpqM0RiQl9TQlBDU2Q2cHZ1bmU3cHVEUDRBWWpVQzJBVG56N0V1QQ?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-08-24T06:13:00+08:00",
-          "type": "媒体",
-          "summary": "具身江湖志（三）：机器人的草根阶层 36Kr",
           "image": ""
         },
         {
@@ -354,12 +363,12 @@
           "image": ""
         },
         {
-          "title": "揭秘真实落地场景：究竟有多少人形机器人正在实际干活投入商用？ - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VSm5zS1U5N0FsSGRCWEdtbk40MTgtSkhsbGtDNXVwUE1tSGJ5ZlRtRlhMc1BHeFhZcmVDNGZZb05JQUtxdkhxekpIQlV2bGJERlJv?oc=5",
-          "source": "36 Kr",
+          "title": "到底有多少人形机器人真正在干活？ - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UTVJfNUhyT1VjUWhYdjJfdk4xeE9LNGRFbmplN05sZkhPTjFwT3QtTEltSVVQaTNyWldqY1hTNjVpSWZ4ZEoySGRvUVRkUQ?oc=5",
+          "source": "36Kr",
           "published_at": "2026-08-23T17:12:00+08:00",
           "type": "媒体",
-          "summary": "揭秘真实落地场景：究竟有多少人形机器人正在实际干活投入商用？ 36 Kr",
+          "summary": "到底有多少人形机器人真正在干活？ 36Kr",
           "image": ""
         },
         {
@@ -378,15 +387,6 @@
           "published_at": "2026-08-21T18:36:52+08:00",
           "type": "媒体",
           "summary": "2026世界机器人大会：49家央企首次成建制参展 具身智能产业进入国家牵引新阶段 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYV1ZKM2xXN1BEUlRtQUNjM3B5NGpXS2c3R2NrRVNkSURfMjhoX1c3V3ZCMnBRQ0ZpYnlMM2RxcnR1ZkVjblI1Q1JRc1N6M2c?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-08-21T16:20:50+08:00",
-          "type": "媒体",
-          "summary": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题 36Kr",
           "image": ""
         }
       ]
@@ -614,12 +614,21 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36氪",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36 Kr",
+          "source": "36氪",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36氪",
+          "image": ""
+        },
+        {
+          "title": "直击WAIC丨2026 世界人工智能大会 25位大佬核心观点盘点 - 风闻",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMVl6V3RrTGIyMkZ3cDFuSkdXTUhvQjV3Y3lUVHpjZEgyemxqcnVhYUxhU0ZSbndUNFp6d2gxb18zYWdxb2x1LTJhUThHczEyTXM3ZnpCOXl4NG8?oc=5",
+          "source": "风闻",
+          "published_at": "2026-07-22T10:09:58+08:00",
+          "type": "媒体",
+          "summary": "直击WAIC丨2026 世界人工智能大会 25位大佬核心观点盘点 风闻",
           "image": ""
         },
         {
@@ -776,12 +785,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36氪",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36 Kr",
+          "source": "36氪",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36氪",
           "image": ""
         },
         {
@@ -867,11 +876,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅",
-      "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！",
-      "point": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od2hjUktnT0hiLUFGamhOcjgtWkZWMHA1NnB5ajVyTEE4bWZvMFRoQjBQeXZSYmkzMXdVWnppWnNuZUJYMG1pZ1ZkYkcya3JOS1E?oc=5",
-      "published_at": "2026-08-24T18:58:30+08:00",
+      "source": "36Kr",
+      "title": "具身江湖志（三）：机器人的草根阶层",
+      "point": "具身江湖志（三）：机器人的草根阶层 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OZEJVaVJhVmJfdGRPU29rMDhZVkRyakJIZHRUcGlkTE1yQzF5ZzlERS1JaFExTmpLOHVqQlU1OHRVZ0E4U0FKMGt6S1drS0JH?oc=5",
+      "published_at": "2026-08-24T21:17:20+08:00",
       "type": "媒体"
     },
     {
@@ -880,8 +889,8 @@
       "source": "虎嗅",
       "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！",
       "point": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHl3dGRGakNENzZqWURuX29tZkJ1cV9GUC1jai1jZG9WVkdnX1JFbWdESlJ4YWRoZjYzZmh2WGUtV1lVLWFYUlV5VU9KWkctRDhBag?oc=5",
-      "published_at": "2026-08-24T18:34:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od2hjUktnT0hiLUFGamhOcjgtWkZWMHA1NnB5ajVyTEE4bWZvMFRoQjBQeXZSYmkzMXdVWnppWnNuZUJYMG1pZ1ZkYkcya3JOS1E?oc=5",
+      "published_at": "2026-08-24T18:58:30+08:00",
       "type": "媒体"
     },
     {
