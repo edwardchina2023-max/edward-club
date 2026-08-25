@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-25T21:54:03.425965+08:00",
+  "generated_at": "2026-08-25T22:50:44.611169+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 21:54",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 22:50",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 135 条、直播 24 条、论坛 18 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 133 条、直播 24 条、论坛 18 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会观察：机器人从炫技转向干活，但成本和落地账尚未算清 - 虎嗅",
     "虎嗅：英国首相伯纳姆将于下月与特朗普首次面对面会谈 - 虎嗅",
     "虎嗅：2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅",
@@ -355,6 +355,15 @@
         },
         {
           "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BbUV4SU1BQUFKSUlVbWVibWtoTFZXeEdtNWhWUGNWTFhBMjZjMzU4SzJrM2pDSUNOdWxsN2JMeVJMRmJBbWJVdmRaYk5BYXhnZHFxN3YzVUhlcW5LVXBIQg?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-24T18:34:26+08:00",
+          "type": "媒体",
+          "summary": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHl3dGRGakNENzZqWURuX29tZkJ1cV9GUC1jai1jZG9WVkdnX1JFbWdESlJ4YWRoZjYzZmh2WGUtV1lVLWFYUlV5VU9KWkctRDhBag?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-24T18:34:26+08:00",
@@ -378,15 +387,6 @@
           "published_at": "2026-08-24T04:30:00+08:00",
           "type": "媒体",
           "summary": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "具身智能，开始当消费品卖了 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aWGZHVTh5b3NPeDcxVlNSeTc2anlpeFdwdTB5S2FydHR2NUFobF9ydHhadlVKSS1VYWFGbGFpcUktd3FvUjlzSUd3eXpoZw?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-23T19:41:00+08:00",
-          "type": "媒体",
-          "summary": "具身智能，开始当消费品卖了 36 Kr",
           "image": ""
         }
       ]
@@ -647,15 +647,6 @@
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 China Daily",
-          "image": ""
-        },
-        {
-          "title": "从“能聊”到“能干”！京东机器人采销探展2026 WAIC直击具身智能机器人新趋势 - 驱动之家",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Rb0lWdmVZeEJlNy10UFhOUjhEcmU4ZVQtUjVndmllTWxpSmJWUnVuVVdOR2xmaGRlTGc5RDdkV0YydWpXSWtSV0djbTFFT3NUSTd0TFczZWQ?oc=5",
-          "source": "驱动之家",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "从“能聊”到“能干”！京东机器人采销探展2026 WAIC直击具身智能机器人新趋势 驱动之家",
           "image": ""
         },
         {
