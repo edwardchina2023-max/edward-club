@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-26T03:35:14.220801+08:00",
+  "generated_at": "2026-08-26T04:33:43.172268+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月26日 03:35",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月26日 04:33",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 24 条、论坛 16 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 132 条、直播 25 条、论坛 17 条，已按企业家阅读场景分组。",
     "虎嗅：2026世界机器人大会观察：机器人从炫技转向干活，但成本和落地账尚未算清 - 虎嗅",
     "虎嗅：英国首相伯纳姆将于下月与特朗普首次面对面会谈 - 虎嗅",
+    "36 Kr：拥抱AI背后，Keep的中场等待 - 36 Kr",
     "虎嗅：2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅",
-    "虎嗅：自动驾驶首次入法，自动驾驶激活状态下违法车企担责。 - 虎嗅",
-    "虎嗅：四足机器人商业化先于人类：五年内落地变电站、火场，2025年市场规模达35.5亿元 - 虎嗅"
+    "虎嗅：自动驾驶首次入法，自动驾驶激活状态下违法车企担责。 - 虎嗅"
   ],
   "sections": [
     {
@@ -81,6 +81,15 @@
           "image": ""
         },
         {
+          "title": "世界人工智能大会：两岸人工智能融合发展创新论坛在上海举行 - cnsphoto.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qOHgtdkVaekNaLVlPTUlidXYzOWNsSFRCQVVidUV1REdzUWtQNjNfaUtFU1NtRFJNZkxFZEJBWW5DRUJBN2pXMm5QLTNFeDhPemVPU002YlFDQU9IUDB2Tlh2SHBzTkR3ZlA4d0NtUDN5NzVVSmxoRg?oc=5",
+          "source": "cnsphoto.com",
+          "published_at": "2026-07-17T23:18:53+08:00",
+          "type": "论坛",
+          "summary": "世界人工智能大会：两岸人工智能融合发展创新论坛在上海举行 cnsphoto.com",
+          "image": ""
+        },
+        {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 证券时报",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53cFJaZ25uMEwzdDRYaDVWb1VSNmdEYkRVXzBFR19lMjIxMG5WU0pwYXRwMVNYcmlDOE9FS0FhdWZQdHRqUHNXaVgyYWtMN1I3OFRiUQ?oc=5",
           "source": "证券时报",
@@ -114,15 +123,6 @@
           "published_at": "2026-07-16T20:59:33+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
-          "source": "21财经",
-          "published_at": "2026-07-16T20:59:33+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
           "image": ""
         }
       ]
@@ -178,6 +178,15 @@
           "image": ""
         },
         {
+          "title": "*小秋葵成年直播软件*_《官方网站》_小秋葵成年直播软件*>>>首页>- - 香港中联办",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVC0xdlF4X29rT2Rwei1GRVFZamphUUtETFVya3lxR2FLODBzcV9ZanpkSU5uZVlRenQwYlVJQlhYZUN6RHVQZ3VvU3RqWGltNkpoc3FIOGlNVFZmejdaeldzUXJZaWItZ004MDM4QnRTOVZOYUdpT04zVUJwZlh5bw?oc=5",
+          "source": "香港中联办",
+          "published_at": "2026-07-18T14:20:33+08:00",
+          "type": "直播",
+          "summary": "*小秋葵成年直播软件*_《官方网站》_小秋葵成年直播软件*>>>首页>- 香港中联办",
+          "image": ""
+        },
+        {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
           "source": "上观新闻",
@@ -214,12 +223,12 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "finance.sina.com.cn",
+          "source": "新浪财经",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
           "image": ""
         },
         {
@@ -229,15 +238,6 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 CSDN",
-          "image": ""
-        },
-        {
-          "title": "直播预约 2026世界人工智能大会智能财务论坛 - 财富号",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFWlo0TWFtQXotWWxEbkdtRjFCQlpsYURsclFzSkNpUUlQTUFsaDRTdTlaNzRMLWxFNTk2RldsamJxeU9Obng0by1vdXBlS2JSZ0x5WXpQaVFIc3RUZ0QxVzlOUXBpeS1aYW93?oc=5",
-          "source": "财富号",
-          "published_at": "2026-07-16T15:00:00+08:00",
-          "type": "直播",
-          "summary": "直播预约 2026世界人工智能大会智能财务论坛 财富号",
           "image": ""
         }
       ]
@@ -297,6 +297,15 @@
           "published_at": "2026-08-25T18:43:29+08:00",
           "type": "媒体",
           "summary": "英国首相伯纳姆将于下月与特朗普首次面对面会谈 虎嗅",
+          "image": ""
+        },
+        {
+          "title": "拥抱AI背后，Keep的中场等待 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40UlQxWDZnU3NyaVlsN3dUMkFBdVgyTXBLVG03ei1JMzVKbnFxcFczVTQ1WkY2Rk9PYnFMU3RTc0gyd0ZON05DamxFbDVoZw?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-25T18:12:06+08:00",
+          "type": "媒体",
+          "summary": "拥抱AI背后，Keep的中场等待 36 Kr",
           "image": ""
         },
         {
@@ -378,15 +387,6 @@
           "published_at": "2026-08-24T08:09:47+08:00",
           "type": "媒体",
           "summary": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83NlpfSkFtNmRRbjloQXVhNVRtb2RGQjQ2RjVfQ002S0pEMDJYVHhaMXZwaW5OSVBsdW1DTGhDZjFibkJ1STVwOTEyeGFsSW9s?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-24T04:30:00+08:00",
-          "type": "媒体",
-          "summary": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36 Kr",
           "image": ""
         }
       ]
@@ -478,6 +478,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "世界人工智能大会：两岸人工智能融合发展创新论坛在上海举行 - cnsphoto.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qOHgtdkVaekNaLVlPTUlidXYzOWNsSFRCQVVidUV1REdzUWtQNjNfaUtFU1NtRFJNZkxFZEJBWW5DRUJBN2pXMm5QLTNFeDhPemVPU002YlFDQU9IUDB2Tlh2SHBzTkR3ZlA4d0NtUDN5NzVVSmxoRg?oc=5",
+          "source": "cnsphoto.com",
+          "published_at": "2026-07-17T23:18:53+08:00",
+          "type": "论坛",
+          "summary": "世界人工智能大会：两岸人工智能融合发展创新论坛在上海举行 cnsphoto.com",
           "image": ""
         },
         {
@@ -614,15 +623,6 @@
           "image": ""
         },
         {
-          "title": "直击WAIC丨2026 世界人工智能大会 25位大佬核心观点盘点 - 风闻",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMVl6V3RrTGIyMkZ3cDFuSkdXTUhvQjV3Y3lUVHpjZEgyemxqcnVhYUxhU0ZSbndUNFp6d2gxb18zYWdxb2x1LTJhUThHczEyTXM3ZnpCOXl4NG8?oc=5",
-          "source": "风闻",
-          "published_at": "2026-07-22T10:09:58+08:00",
-          "type": "媒体",
-          "summary": "直击WAIC丨2026 世界人工智能大会 25位大佬核心观点盘点 风闻",
-          "image": ""
-        },
-        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - finance.tom.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
           "source": "finance.tom.com",
@@ -647,6 +647,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "直播",
           "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
+          "image": ""
+        },
+        {
+          "title": "*小秋葵成年直播软件*_《官方网站》_小秋葵成年直播软件*>>>首页>- - 香港中联办",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVC0xdlF4X29rT2Rwei1GRVFZamphUUtETFVya3lxR2FLODBzcV9ZanpkSU5uZVlRenQwYlVJQlhYZUN6RHVQZ3VvU3RqWGltNkpoc3FIOGlNVFZmejdaeldzUXJZaWItZ004MDM4QnRTOVZOYUdpT04zVUJwZlh5bw?oc=5",
+          "source": "香港中联办",
+          "published_at": "2026-07-18T14:20:33+08:00",
+          "type": "直播",
+          "summary": "*小秋葵成年直播软件*_《官方网站》_小秋葵成年直播软件*>>>首页>- 香港中联办",
           "image": ""
         },
         {
@@ -677,12 +686,12 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "finance.sina.com.cn",
+          "source": "新浪财经",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
           "image": ""
         },
         {
@@ -850,11 +859,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅",
-      "title": "自动驾驶首次入法，自动驾驶激活状态下违法车企担责。",
-      "point": "自动驾驶首次入法，自动驾驶激活状态下违法车企担责。 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DaVRjdGtXeFh2bzJWaVROTkVyUkxFOExfalNsZ1ZzdlNHRGVDMmdrZ0IxVWxrcjYtbGRNT3FjRmowbzRUQl8xb3Bab0phVnFvMzhv?oc=5",
-      "published_at": "2026-08-25T17:31:56+08:00",
+      "source": "36 Kr",
+      "title": "拥抱AI背后，Keep的中场等待",
+      "point": "拥抱AI背后，Keep的中场等待 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40UlQxWDZnU3NyaVlsN3dUMkFBdVgyTXBLVG03ei1JMzVKbnFxcFczVTQ1WkY2Rk9PYnFMU3RTc0gyd0ZON05DamxFbDVoZw?oc=5",
+      "published_at": "2026-08-25T18:12:06+08:00",
       "type": "媒体"
     },
     {
