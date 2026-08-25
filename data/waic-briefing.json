@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-25T18:37:14.310654+08:00",
+  "generated_at": "2026-08-25T19:32:31.958213+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 18:37",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月25日 19:32",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 116 条、直播 25 条、观点 20 条、论坛 17 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 113 条、直播 25 条、观点 18 条、论坛 18 条，已按企业家阅读场景分组。",
+    "36Kr：上市第5天，宇树股价跌至603元 - 36Kr",
+    "虎嗅：英国首相伯纳姆将于下月与特朗普首次面对面会谈 - 虎嗅",
     "虎嗅：2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅",
     "虎嗅：自动驾驶首次入法，自动驾驶激活状态下违法车企担责。 - 虎嗅",
-    "虎嗅：四足机器人商业化先于人类：五年内落地变电站、火场，2025年市场规模达35.5亿元 - 虎嗅",
-    "虎嗅：字节跳动投资家庭通用机器人公司未来不远，半年融资近10亿元 - 虎嗅",
-    "36Kr：WRC收官盘点：如何像内行人一样围观世界机器人大会？｜现场笔记 - 36Kr"
+    "虎嗅：四足机器人商业化先于人类：五年内落地变电站、火场，2025年市场规模达35.5亿元 - 虎嗅"
   ],
   "sections": [
     {
@@ -24,15 +24,6 @@
           "published_at": "2026-08-25T17:48:21+08:00",
           "type": "论坛",
           "summary": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-08-20T04:05:19+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
           "image": ""
         },
         {
@@ -114,6 +105,15 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
           "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕-观察者网 观察者",
+          "image": ""
+        },
+        {
+          "title": "2026 CBME国际孕婴童展盛大开幕，“新势力·新生长”擘画产业新蓝图 - Jiemian.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaDFPdDZITGJMeklPVzItYkRGVUJMTnU0OUFrRWlERm1OWkp5engzeHlDYjA3MzNLNlFjeF9FZkQ3aUtudjNibjdnR19VN2padUpzVDZn?oc=5",
+          "source": "Jiemian.com",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026 CBME国际孕婴童展盛大开幕，“新势力·新生长”擘画产业新蓝图 Jiemian.com",
           "image": ""
         },
         {
@@ -266,15 +266,6 @@
           "image": ""
         },
         {
-          "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 - thepaper.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82bTVNd29HNjItQWhBaDJ2bi1JRlBSZVhrSHVNeFdrTHFFdGJTNTBLUDFmZDlUSjhZZDFFOEZzMVJHZWZpMDR0TE5yOXQ2bTBRV1ZOMl9tUmFPQkxXNEE?oc=5",
-          "source": "thepaper.cn",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "观点",
-          "summary": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 thepaper.cn",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026｜世博精彩速递 - bilibili.com",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XRW9TLUN4UnpmaGUtV0V6Vmh3WE5jVGxoSjNCTGI0S3RqbE80MHQtUEhDSUdQWWdUVGtfaXBjVHZkSVFRaWgyNjRvdUY5Z25XWnZaaU85TQ?oc=5",
           "source": "bilibili.com",
@@ -293,21 +284,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026展商预告：施耐德电气 - bilibili.com",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14VldWczFZWFlIT0lfVThmREgwWmMyV1VNTUhLRm5lLVBoaE00RWJFNE1xcjZJZmFLZW56RG9qVXFSSnFoNmVuWDVUZjM1R1ZTR29XNmpLMA?oc=5",
+          "title": "2026 WAIC UP!全球年终盛会| ALLEN YANG重磅发布：为物理人工智能时代孕育下一个 AlphaGo 时刻 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tRG5Ob1BQeDBTUG9lajZxVjUyM253dVU3bmdTQnNRLWEtYktuRkhqTkEwUmQ3OWtHUFFSWHlYTThISFRSV0hUSDlXMGRSZVpZUGs4dTRYNA?oc=5",
           "source": "bilibili.com",
-          "published_at": "2026-06-30T15:00:00+08:00",
+          "published_at": "2026-01-27T16:00:00+08:00",
           "type": "观点",
-          "summary": "WAIC 2026展商预告：施耐德电气 bilibili.com",
-          "image": ""
-        },
-        {
-          "title": "2026 WAIC UP!硅⾕⼈⼯智能研究院创始⼈、院⻓Piero现场分享AI见解_哔哩哔哩 - bilibili.com",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOQUZ5RFpVNWRQbnd3bWx4T0lyQUxXdVd5VjRwaTNRQWRJS2ZBcTh5cUJhTzlvd3lPZTd0R2pWdlF5RU1uTmNDVUxDVWRiZVRjeE9COVlPVQ?oc=5",
-          "source": "bilibili.com",
-          "published_at": "2026-01-21T16:00:00+08:00",
-          "type": "观点",
-          "summary": "2026 WAIC UP!硅⾕⼈⼯智能研究院创始⼈、院⻓Piero现场分享AI见解_哔哩哔哩 bilibili.com",
+          "summary": "2026 WAIC UP!全球年终盛会| ALLEN YANG重磅发布：为物理人工智能时代孕育下一个 AlphaGo 时刻 bilibili.com",
           "image": ""
         },
         {
@@ -329,30 +311,48 @@
           "image": ""
         },
         {
-          "title": "顶着38度的高温逛WAIC！2024上海世界人工智能大会 逛了两天的体验丨解说四个看点~还能免费领t恤 7.4~7.5 - bilibili.com",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WRUJQTlRqbVk5LTA4eTloSURIVl9BS3JyMkdXY2x2OVBFNEVCenJrenhIcjY0UTA1SXVaX1V5RUN2N1JLb3dSMkNHZTJaZmc2WmJOcUI0SQ?oc=5",
-          "source": "bilibili.com",
-          "published_at": "2024-07-05T15:00:00+08:00",
-          "type": "观点",
-          "summary": "顶着38度的高温逛WAIC！2024上海世界人工智能大会 逛了两天的体验丨解说四个看点~还能免费领t恤 7.4~7.5 bilibili.com",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2024｜WAIC 2024推出首支AI原创主题曲——《WAIC 正青春》！_哔哩哔哩 - bilibili.com",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hVVRhWDk3SHBCSm1FNWNUOHdBeThFWlNyd0JmX0hHdlgxZjNJelN5LWEwN2hDZGlEYUpxNm14MHBKZjVZNHF4bVBCZXlGbkxmeTBSaUFJZw?oc=5",
-          "source": "bilibili.com",
-          "published_at": "2024-07-03T15:00:00+08:00",
-          "type": "观点",
-          "summary": "WAIC 2024｜WAIC 2024推出首支AI原创主题曲——《WAIC 正青春》！_哔哩哔哩 bilibili.com",
-          "image": ""
-        },
-        {
           "title": "科大讯飞王勃：认知大模型带来了解决人类刚需的全新机遇｜WAIC Circle_哔哩哔哩 - bilibili.com",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SYWFZYXk5MzI2VlFWWFlGLXZvQzlBM0NVTENHb0pGN1lRdG40SEVPNVFNeDdUV1hpd0U3NUFBd19HRzI0UEpoRFlmNFoyVUg1LVBSR0Zpdw?oc=5",
           "source": "bilibili.com",
           "published_at": "2023-12-29T16:00:00+08:00",
           "type": "观点",
           "summary": "科大讯飞王勃：认知大模型带来了解决人类刚需的全新机遇｜WAIC Circle_哔哩哔哩 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "GLM大模型技术前沿与应用探索 世界人工智能大会2023 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPUDVRQXgycEdWQXBXeDBCX0NlV0xOTEJER19CRFpjaWtMVjFNZDI4QzEtaUxrLUlOZHgwSlpYZmFCQm5HdHBBa1lCOG1RTkJjY2ZCaDJzaw?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2023-07-07T15:00:00+08:00",
+          "type": "观点",
+          "summary": "GLM大模型技术前沿与应用探索 世界人工智能大会2023 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2023嘉宾金句|香港中文大学教授汤晓鸥：新一代人工智能领域的学生，已经在上海起步 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1bEtNNEtiSm5PVzJwRm1MZXJ2c2ROeFBWQUpxUGtsaGxGMXBZbHFUWnltbHBfWVFfZi1kanZ1V213M2E4cV80RUYzZW9BUWZXYWFwTVlBMA?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2023-07-06T15:00:00+08:00",
+          "type": "观点",
+          "summary": "WAIC 2023嘉宾金句|香港中文大学教授汤晓鸥：新一代人工智能领域的学生，已经在上海起步 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2023|2023世界人工智能大会元宇宙空间 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1obzNFc196bWtZVXk2UXBfNzFLYmthZ3lIcFdHNmFQblFMSXNfb1hxSE5fVnNESGpaVllKNDQ1cXk5OFVrYWQ3RHJ3aTVoQUcxdDRjak52cw?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2023-07-06T15:00:00+08:00",
+          "type": "观点",
+          "summary": "WAIC 2023|2023世界人工智能大会元宇宙空间 bilibili.com",
+          "image": ""
+        },
+        {
+          "title": "作为全球领先的通用算力提供商，算能科技将携多款AI芯片及产品亮相2023世界人工智能大会_哔哩哔哩 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Rc0JocTBPelNxc2xTYWZwUm1LbjJvMS1Vd29BWS1DLUtNZE5xZEg4RU9USzlleDZFUUV6RXNXa1NYR0I3SGdSX1lHWjhkSGZFbm9jUjRJbw?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2023-07-05T15:00:00+08:00",
+          "type": "观点",
+          "summary": "作为全球领先的通用算力提供商，算能科技将携多款AI芯片及产品亮相2023世界人工智能大会_哔哩哔哩 bilibili.com",
           "image": ""
         }
       ]
@@ -362,6 +362,24 @@
       "title": "媒体快讯与产业发布",
       "en": "Media updates and industry announcements",
       "items": [
+        {
+          "title": "上市第5天，宇树股价跌至603元 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBza3JsMXh0R3BXRUlfV096U21XeV8wTTFzdkVXS3hpbkRnVXpCNkd3bmVHMUJYa3F6c1czbGdydmFoWmFqNFY1dmlFemlxVVVy?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-08-25T19:02:27+08:00",
+          "type": "媒体",
+          "summary": "上市第5天，宇树股价跌至603元 36Kr",
+          "image": ""
+        },
+        {
+          "title": "英国首相伯纳姆将于下月与特朗普首次面对面会谈 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hZzUtekdlckZQS190U2REUEtQLXh1NU50RFFmUXBhdVNWbDRtck5HOWxhZWNEamJxRWxBQkpmVEhsNk5Ea3gzU18xeTBEcGswaUVz?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-25T18:43:29+08:00",
+          "type": "媒体",
+          "summary": "英国首相伯纳姆将于下月与特朗普首次面对面会谈 虎嗅",
+          "image": ""
+        },
         {
           "title": "自动驾驶首次入法，自动驾驶激活状态下违法车企担责。 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DaVRjdGtXeFh2bzJWaVROTkVyUkxFOExfalNsZ1ZzdlNHRGVDMmdrZ0IxVWxrcjYtbGRNT3FjRmowbzRUQl8xb3Bab0phVnFvMzhv?oc=5",
@@ -409,15 +427,6 @@
         },
         {
           "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od2hjUktnT0hiLUFGamhOcjgtWkZWMHA1NnB5ajVyTEE4bWZvMFRoQjBQeXZSYmkzMXdVWnppWnNuZUJYMG1pZ1ZkYkcya3JOS1E?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-24T18:58:30+08:00",
-          "type": "媒体",
-          "summary": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UHl3dGRGakNENzZqWURuX29tZkJ1cV9GUC1jai1jZG9WVkdnX1JFbWdESlJ4YWRoZjYzZmh2WGUtV1lVLWFYUlV5VU9KWkctRDhBag?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-24T18:34:26+08:00",
@@ -460,15 +469,6 @@
           "type": "媒体",
           "summary": "三个月两轮，中国版Palantir火了 36Kr",
           "image": ""
-        },
-        {
-          "title": "到底有多少人形机器人真正在干活？ - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UTVJfNUhyT1VjUWhYdjJfdk4xeE9LNGRFbmplN05sZkhPTjFwT3QtTEltSVVQaTNyWldqY1hTNjVpSWZ4ZEoySGRvUVRkUQ?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-08-23T17:12:00+08:00",
-          "type": "媒体",
-          "summary": "到底有多少人形机器人真正在干活？ 36Kr",
-          "image": ""
         }
       ]
     }
@@ -487,15 +487,6 @@
           "published_at": "2026-08-25T17:48:21+08:00",
           "type": "论坛",
           "summary": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 - 新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-          "source": "新浪财经",
-          "published_at": "2026-08-20T04:05:19+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
           "image": ""
         },
         {
@@ -694,15 +685,6 @@
           "type": "直播",
           "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
           "image": ""
-        },
-        {
-          "title": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 - 华龙网",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmxQWmlxYzRDbURJTzhBUS0tLU80X3Eza2xGNDY4S2sxQ0xYemx2YmtoNlVGVW9TUTA0Q1RTOHEtWlBrVllYNUxsZ0NyTGQ5N1RFdThpajdkRFMtNC1LUnRNaFN0ZTBCM2w2Y3htem04R2dhMlg4YkhoVThaUGI3bEF5MUlWOHNYVlAwZHI2dC1mUQ?oc=5",
-          "source": "华龙网",
-          "published_at": "2025-09-05T15:00:00+08:00",
-          "type": "直播",
-          "summary": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 华龙网",
-          "image": ""
         }
       ]
     },
@@ -740,12 +722,12 @@
           "image": ""
         },
         {
-          "title": "世界人工智能大会上，AI走出“青春期”丨C视频·唐探 - 川观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JczBINGtveVJITjRaeG5rOEdmRDZOd2J3SVYyekJiR29oWTRORjJ3b2lhSEx0eG5keWlua01uSEl3NGRMUHo0aEdzWDIyQQ?oc=5",
-          "source": "川观新闻",
-          "published_at": "2026-07-20T15:00:00+08:00",
+          "title": "从“能聊”到“能干”！京东机器人采销探展2026 WAIC直击具身智能机器人新趋势 - 驱动之家",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Rb0lWdmVZeEJlNy10UFhOUjhEcmU4ZVQtUjVndmllTWxpSmJWUnVuVVdOR2xmaGRlTGc5RDdkV0YydWpXSWtSV0djbTFFT3NUSTd0TFczZWQ?oc=5",
+          "source": "驱动之家",
+          "published_at": "2026-07-18T15:00:00+08:00",
           "type": "媒体",
-          "summary": "世界人工智能大会上，AI走出“青春期”丨C视频·唐探 川观新闻",
+          "summary": "从“能聊”到“能干”！京东机器人采销探展2026 WAIC直击具身智能机器人新趋势 驱动之家",
           "image": ""
         },
         {
@@ -900,6 +882,15 @@
           "type": "直播",
           "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
           "image": ""
+        },
+        {
+          "title": "魔盒直播间精彩混剪 - bilibili.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOTFlNTR3TjFsWm81WkVQNVNpdWFZaHIzWG4zdHRFelQzR0U4Q3EtRFl1V2FSMDFjNjNrMWFpZWpJdjFkcUdNWTVJaUZJUFBtbXlWODMzQQ?oc=5",
+          "source": "bilibili.com",
+          "published_at": "2021-07-10T15:00:00+08:00",
+          "type": "直播",
+          "summary": "魔盒直播间精彩混剪 bilibili.com",
+          "image": ""
         }
       ]
     }
@@ -918,22 +909,42 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "新浪财经",
-      "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网",
-      "point": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年_手机新浪网 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZXdMaWZ4bHRCNXA5LURMU09kX29MeVFmUVNpbmtZNENWQ0ZJR3pzeUJnSGRBRnpWdG5iVk42SWNjSExjY0JIdDBUbnZDMG9UcFl2ZTBFTUJ1TjRuSDBYMHJGVGhvbVRaYmtDZjN0YTByaFRRcTBWeHV3MThvbE0?oc=5",
-      "published_at": "2026-08-20T04:05:19+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
       "source": "人民网-上海频道",
       "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
       "point": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
       "published_at": "2026-07-21T15:00:00+08:00",
       "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
+      "source": "中国日报网",
+      "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行",
+      "point": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
+      "published_at": "2026-07-21T15:00:00+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "36Kr",
+      "title": "上市第5天，宇树股价跌至603元",
+      "point": "上市第5天，宇树股价跌至603元 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBza3JsMXh0R3BXRUlfV096U21XeV8wTTFzdkVXS3hpbkRnVXpCNkd3bmVHMUJYa3F6c1czbGdydmFoWmFqNFY1dmlFemlxVVVy?oc=5",
+      "published_at": "2026-08-25T19:02:27+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅",
+      "title": "英国首相伯纳姆将于下月与特朗普首次面对面会谈",
+      "point": "英国首相伯纳姆将于下月与特朗普首次面对面会谈 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hZzUtekdlckZQS190U2REUEtQLXh1NU50RFFmUXBhdVNWbDRtck5HOWxhZWNEamJxRWxBQkpmVEhsNk5Ea3gzU18xeTBEcGswaUVz?oc=5",
+      "published_at": "2026-08-25T18:43:29+08:00",
+      "type": "媒体"
     },
     {
       "channel": "媒体快讯",
@@ -943,26 +954,6 @@
       "point": "自动驾驶首次入法，自动驾驶激活状态下违法车企担责。 虎嗅",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DaVRjdGtXeFh2bzJWaVROTkVyUkxFOExfalNsZ1ZzdlNHRGVDMmdrZ0IxVWxrcjYtbGRNT3FjRmowbzRUQl8xb3Bab0phVnFvMzhv?oc=5",
       "published_at": "2026-08-25T17:31:56+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅",
-      "title": "四足机器人商业化先于人类：五年内落地变电站、火场，2025年市场规模达35.5亿元",
-      "point": "四足机器人商业化先于人类：五年内落地变电站、火场，2025年市场规模达35.5亿元 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96bEF5dnVhNUNILUpRWDBWbkUwWUpTWkFvQlg2UmxQWHdfYzhwNWxTeWwyZEZWMmgxQ2RzX25meEEtOXVTelgyRlpNaUJVQ0k4cEZPeA?oc=5",
-      "published_at": "2026-08-25T17:09:41+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅",
-      "title": "字节跳动投资家庭通用机器人公司未来不远，半年融资近10亿元",
-      "point": "字节跳动投资家庭通用机器人公司未来不远，半年融资近10亿元 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56OXc1THctTnBKWXBEb09HcU5mQ2tsdGNGWUYwTFpUVVFuc1htcVdyUGZfNktLMVNhMHctUnVtZm05Y3dxSmVrZndNdXNZM3p5Tl9VVg?oc=5",
-      "published_at": "2026-08-25T07:00:12+08:00",
       "type": "媒体"
     },
     {
@@ -988,12 +979,12 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "华龙网",
-      "title": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活",
-      "point": "华龙直播回顾 | 2025智博会来了！ 主播探馆带你“解锁”更多智慧生活 华龙网",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmxQWmlxYzRDbURJTzhBUS0tLU80X3Eza2xGNDY4S2sxQ0xYemx2YmtoNlVGVW9TUTA0Q1RTOHEtWlBrVllYNUxsZ0NyTGQ5N1RFdThpajdkRFMtNC1LUnRNaFN0ZTBCM2w2Y3htem04R2dhMlg4YkhoVThaUGI3bEF5MUlWOHNYVlAwZHI2dC1mUQ?oc=5",
-      "published_at": "2025-09-05T15:00:00+08:00",
-      "type": "直播"
+      "source": "虎嗅",
+      "title": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现",
+      "point": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WdmNQQ1NjSmstaUx1aHlVaXRsdHVwc2kxa1lDS2JRa3dUV0lPdGNuM2VxSDVqRHlFWGExRDhZbGZuNFlUX3lybnFxX2dsWkdiaXgyZQ?oc=5",
+      "published_at": "2026-08-25T17:48:21+08:00",
+      "type": "论坛"
     },
     {
       "channel": "嘉宾 / 自媒体",
@@ -1018,11 +1009,11 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "thepaper.cn",
-      "title": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会",
-      "point": "“AI产业内容创作者的理想之城”，网络名人带1.8亿粉丝走进世界人工智能大会 thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82bTVNd29HNjItQWhBaDJ2bi1JRlBSZVhrSHVNeFdrTHFFdGJTNTBLUDFmZDlUSjhZZDFFOEZzMVJHZWZpMDR0TE5yOXQ2bTBRV1ZOMl9tUmFPQkxXNEE?oc=5",
-      "published_at": "2026-07-19T15:00:00+08:00",
+      "source": "bilibili.com",
+      "title": "WAIC 2026｜世博精彩速递",
+      "point": "WAIC 2026｜世博精彩速递 bilibili.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XRW9TLUN4UnpmaGUtV0V6Vmh3WE5jVGxoSjNCTGI0S3RqbE80MHQtUEhDSUdQWWdUVGtfaXBjVHZkSVFRaWgyNjRvdUY5Z25XWnZaaU85TQ?oc=5",
+      "published_at": "2026-07-17T15:00:00+08:00",
       "type": "观点"
     }
   ],
