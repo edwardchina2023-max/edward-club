@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T07:27:56.559911+08:00",
+  "generated_at": "2026-08-26T07:51:46.742356+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月26日 07:27",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月26日 07:51",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
     "本轮抓取到 媒体 134 条、直播 24 条、论坛 18 条，已按企业家阅读场景分组。",
@@ -151,15 +151,6 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 - China Daily",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamxfTmk4S0pWVTNYejd3MWV3aFJ3aHBGTnAtdzljSFNoWGpQWjJrN1VtYjJQaEI1Y1hwellXV3JULXRudXFHNXFINEJobzBYODJXR2NvZVBUbHJ1azVHczFNalAtdEtPdVlCSWhkVmNVLXpxLUNDTHEwTW1vQ0FybjhSMA?oc=5",
-          "source": "China Daily",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 China Daily",
-          "image": ""
-        },
-        {
           "title": "直播预约| 就在今日！相约2026WAIC启明创投·创业与投资论坛——从算力原点到应用落地的进化征程 - 启明创投",
           "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPTnYwM0NyX1JObFRzUU9DNUxhOUNPLVNrdG56TTRTRUpHc0R5UmRxTS01cTZaYlRrY05vWUlnR1l2ejNpd3RYYzFiT0pnYzhCamZ4MHhfemVpOUVfc2dqT1UxWGNEYm95RVBBd2FjMXRsc2RDZ3N4a0ZkQVhIZTFURGhkRndWN2c1MnFwS3lFX3VNc2htTkJUZng4YXRSQXZqNlJkUmdiVjZlYUZ0Tjcwa3VmdDVyVUt2UzZia0VPVC1SU3RpTEFoTEptYTBXSXZ0VGVsWU1qa3JZeG5yYzdUODJyOGV3YWZfQ0dFTGxJUHp2dmprQmQtbElRalN1TDMySkxmcWYteWtibndPSVowZVE3YnJDb1luamxUU0NaVlYycHI2UXRzVDBMbEJQcFRETFozQVlSRmowTXZZblVMMjhTVTRkbTJwU0c5UUl1QkZDbGR4WU9PNmZvbWZjNWR3OVU0VWJVS0tzSThUYmFBb2FnYmtPZktDcjJUalkwVl9aR001bFFoRk9RcHJUNmdNY2lRemU1M2dlN3djX05VS1N2YnR3VXUxRXZvWl9vZFZjLWIzd2NHei04OURLYUFsbHlsOFFKQkp5OHU1SjgwaWhxR3MxVWw2VzhqVkotNjkyV2loZnN3b2FvY09rQkJrOXlGb3NMWGdKQVI1U2J5WnZONG1tM29XUHV5QlJIWlp6aW9odENjUkhjcFo4SE8wbFhYWFNyRUxnbjZGeWEyaQ?oc=5",
           "source": "启明创投",
@@ -202,6 +193,15 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
           "image": ""
         },
         {
@@ -372,21 +372,21 @@
           "image": ""
         },
         {
+          "title": "WRC 2026：300余家企业密集展示机器人应用，技术路线尚未统一 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ycC1ucmthTTBGbjVDNG9wWHFvOWVmejJuMmhaaU5IM2xxdVBuWUxvdGRoTlZrTi1Vc0Z1NHpCd2pkRlBwYUh2bGxVc3RJVDljVmc?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-24T18:11:10+08:00",
+          "type": "媒体",
+          "summary": "WRC 2026：300余家企业密集展示机器人应用，技术路线尚未统一 虎嗅",
+          "image": ""
+        },
+        {
           "title": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wWFc2b0g1anJ6VF85R214MTJqVE9NRV9MeDJHRzlCZy13RklaSHJMNmc1X2NKVkVrWW9IUW91YW5YZDVGdGlKWk5oSFlZMHhaUzBudkRaTlp4YWlNUUtEWV9R?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-24T08:09:47+08:00",
           "type": "媒体",
           "summary": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83NlpfSkFtNmRRbjloQXVhNVRtb2RGQjQ2RjVfQ002S0pEMDJYVHhaMXZwaW5OSVBsdW1DTGhDZjFibkJ1STVwOTEyeGFsSW9s?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-24T04:30:00+08:00",
-          "type": "媒体",
-          "summary": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36 Kr",
           "image": ""
         }
       ]
@@ -578,6 +578,15 @@
           "type": "直播",
           "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者",
           "image": ""
+        },
+        {
+          "title": "WAIC 2022开幕式完整回放（下）_ - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwdW40VGNBdmM3RkFuRkdpX01US2tzd2FkZW5Idm5weWFELUxkYkNyenVWcEI2LXJDM0xxbUFrd0ZpcGJBUGRDTlhXdE1aRHBqV2tSS0Q0QQ?oc=5",
+          "source": "Bilibili",
+          "published_at": "2022-12-08T16:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC 2022开幕式完整回放（下）_ Bilibili",
+          "image": ""
         }
       ]
     },
@@ -632,15 +641,6 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 - China Daily",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamxfTmk4S0pWVTNYejd3MWV3aFJ3aHBGTnAtdzljSFNoWGpQWjJrN1VtYjJQaEI1Y1hwellXV3JULXRudXFHNXFINEJobzBYODJXR2NvZVBUbHJ1azVHczFNalAtdEtPdVlCSWhkVmNVLXpxLUNDTHEwTW1vQ0FybjhSMA?oc=5",
-          "source": "China Daily",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 China Daily",
-          "image": ""
-        },
-        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
           "source": "品玩",
@@ -665,6 +665,15 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会开幕，浦江两岸、三地展品一起看 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
           "image": ""
         },
         {
@@ -782,15 +791,6 @@
           "published_at": "2023-02-12T16:32:04+08:00",
           "type": "直播",
           "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
-          "image": ""
-        },
-        {
-          "title": "魔盒直播间精彩混剪 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOTFlNTR3TjFsWm81WkVQNVNpdWFZaHIzWG4zdHRFelQzR0U4Q3EtRFl1V2FSMDFjNjNrMWFpZWpJdjFkcUdNWTVJaUZJUFBtbXlWODMzQQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2021-07-10T15:00:00+08:00",
-          "type": "直播",
-          "summary": "魔盒直播间精彩混剪 Bilibili",
           "image": ""
         }
       ]
