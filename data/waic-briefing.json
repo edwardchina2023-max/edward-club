@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-26T09:37:18.955723+08:00",
+  "generated_at": "2026-08-26T11:09:44.981821+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月26日 09:37",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月26日 11:09",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 134 条、直播 24 条、论坛 18 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 136 条、直播 23 条、论坛 18 条，已按企业家阅读场景分组。",
+    "虎嗅：机器人打网球： 春晚跳舞真不算啥 - 虎嗅",
     "虎嗅：2026世界机器人大会观察：机器人从炫技转向干活，但成本和落地账尚未算清 - 虎嗅",
     "虎嗅：英国首相伯纳姆将于下月与特朗普首次面对面会谈 - 虎嗅",
     "虎嗅：2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅",
-    "虎嗅：自动驾驶首次入法，自动驾驶激活状态下违法车企担责。 - 虎嗅",
-    "虎嗅：四足机器人商业化先于人类：五年内落地变电站、火场，2025年市场规模达35.5亿元 - 虎嗅"
+    "虎嗅：自动驾驶首次入法，自动驾驶激活状态下违法车企担责。 - 虎嗅"
   ],
   "sections": [
     {
@@ -133,12 +133,12 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36Kr",
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36Kr",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
           "image": ""
         },
         {
@@ -282,6 +282,15 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
+          "title": "机器人打网球： 春晚跳舞真不算啥 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41MlZSN0JvS3pwMW1fRFBoby1CQkpscEFyY2lqRXM3QUQ2Tl9vQ2syWTdvRjROS19GQ2RRS0MzSjc5WEZDTzVlSDZmUkJIYVUzdzU5Yw?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-26T09:46:11+08:00",
+          "type": "媒体",
+          "summary": "机器人打网球： 春晚跳舞真不算啥 虎嗅",
+          "image": ""
+        },
+        {
           "title": "2026世界机器人大会观察：机器人从炫技转向干活，但成本和落地账尚未算清 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FVzhCNS1iZ3g4OW9rN29XZ2lKSnhYeF9ydnM3VmI1dHJfT2V3QXBLVDdtR2N5WXA3M20ydEg0X0ZNWEJBZ2VCYS02aVFQNk1ETU5GdlJlUmp5S1FnVkRGLVBB?oc=5",
           "source": "虎嗅",
@@ -315,15 +324,6 @@
           "published_at": "2026-08-25T17:09:41+08:00",
           "type": "媒体",
           "summary": "四足机器人商业化先于人类：五年内落地变电站、火场，2025年市场规模达35.5亿元 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "字节跳动投资家庭通用机器人公司未来不远，半年融资近10亿元 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56OXc1THctTnBKWXBEb09HcU5mQ2tsdGNGWUYwTFpUVVFuc1htcVdyUGZfNktLMVNhMHctUnVtZm05Y3dxSmVrZndNdXNZM3p5Tl9VVg?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-25T07:00:12+08:00",
-          "type": "媒体",
-          "summary": "字节跳动投资家庭通用机器人公司未来不远，半年融资近10亿元 虎嗅",
           "image": ""
         },
         {
@@ -372,21 +372,21 @@
           "image": ""
         },
         {
+          "title": "WRC 2026：300余家企业密集展示机器人应用，技术路线尚未统一 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ycC1ucmthTTBGbjVDNG9wWHFvOWVmejJuMmhaaU5IM2xxdVBuWUxvdGRoTlZrTi1Vc0Z1NHpCd2pkRlBwYUh2bGxVc3RJVDljVmc?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-08-24T18:11:10+08:00",
+          "type": "媒体",
+          "summary": "WRC 2026：300余家企业密集展示机器人应用，技术路线尚未统一 虎嗅",
+          "image": ""
+        },
+        {
           "title": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wWFc2b0g1anJ6VF85R214MTJqVE9NRV9MeDJHRzlCZy13RklaSHJMNmc1X2NKVkVrWW9IUW91YW5YZDVGdGlKWk5oSFlZMHhaUzBudkRaTlp4YWlNUUtEWV9R?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-24T08:09:47+08:00",
           "type": "媒体",
           "summary": "机器人的“试用期”结束了？WRC 2026 揭示具身智能下半场比拼交付 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eFVZWjlEWGFwem1IWGxvQUFJTGZXR0JyT2dHR0hPd0Uwb05lSEc1bkpqLWhIa3ZnUzZWb0Zna2RMdXJiR1pyaV8xMWtJdw?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-08-24T04:30:00+08:00",
-          "type": "媒体",
-          "summary": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 36 Kr",
           "image": ""
         }
       ]
@@ -614,21 +614,12 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36Kr",
+          "title": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSV1phZUJSU1VMaHFLZjJGZDlUR0h4NHFnQUpTNUs4cVpVd1FId2hCa2pFdzg4cENBaVliVElPblp1b1JERFZCUnNGaTFVcEdRRHZn?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-19T17:26:00+08:00",
           "type": "直播",
-          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36Kr",
-          "image": ""
-        },
-        {
-          "title": "直击WAIC丨2026 世界人工智能大会 25位大佬核心观点盘点 - 风闻",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMVl6V3RrTGIyMkZ3cDFuSkdXTUhvQjV3Y3lUVHpjZEgyemxqcnVhYUxhU0ZSbndUNFp6d2gxb18zYWdxb2x1LTJhUThHczEyTXM3ZnpCOXl4NG8?oc=5",
-          "source": "风闻",
-          "published_at": "2026-07-22T10:09:58+08:00",
-          "type": "媒体",
-          "summary": "直击WAIC丨2026 世界人工智能大会 25位大佬核心观点盘点 风闻",
+          "summary": "2026世界机器人大会WRC：具身智能行业全景解析与众生相洞察 36 Kr",
           "image": ""
         },
         {
@@ -758,12 +749,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
           "image": ""
         },
         {
@@ -791,15 +782,6 @@
           "published_at": "2023-02-12T16:32:04+08:00",
           "type": "直播",
           "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
-          "image": ""
-        },
-        {
-          "title": "魔盒直播间精彩混剪 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOTFlNTR3TjFsWm81WkVQNVNpdWFZaHIzWG4zdHRFelQzR0U4Q3EtRFl1V2FSMDFjNjNrMWFpZWpJdjFkcUdNWTVJaUZJUFBtbXlWODMzQQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2021-07-10T15:00:00+08:00",
-          "type": "直播",
-          "summary": "魔盒直播间精彩混剪 Bilibili",
           "image": ""
         }
       ]
@@ -840,6 +822,16 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "虎嗅",
+      "title": "机器人打网球： 春晚跳舞真不算啥",
+      "point": "机器人打网球： 春晚跳舞真不算啥 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41MlZSN0JvS3pwMW1fRFBoby1CQkpscEFyY2lqRXM3QUQ2Tl9vQ2syWTdvRjROS19GQ2RRS0MzSjc5WEZDTzVlSDZmUkJIYVUzdzU5Yw?oc=5",
+      "published_at": "2026-08-26T09:46:11+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅",
       "title": "2026世界机器人大会观察：机器人从炫技转向干活，但成本和落地账尚未算清",
       "point": "2026世界机器人大会观察：机器人从炫技转向干活，但成本和落地账尚未算清 虎嗅",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FVzhCNS1iZ3g4OW9rN29XZ2lKSnhYeF9ydnM3VmI1dHJfT2V3QXBLVDdtR2N5WXA3M20ydEg0X0ZNWEJBZ2VCYS02aVFQNk1ETU5GdlJlUmp5S1FnVkRGLVBB?oc=5",
@@ -854,16 +846,6 @@
       "point": "英国首相伯纳姆将于下月与特朗普首次面对面会谈 虎嗅",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hZzUtekdlckZQS190U2REUEtQLXh1NU50RFFmUXBhdVNWbDRtck5HOWxhZWNEamJxRWxBQkpmVEhsNk5Ea3gzU18xeTBEcGswaUVz?oc=5",
       "published_at": "2026-08-25T18:43:29+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅",
-      "title": "自动驾驶首次入法，自动驾驶激活状态下违法车企担责。",
-      "point": "自动驾驶首次入法，自动驾驶激活状态下违法车企担责。 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DaVRjdGtXeFh2bzJWaVROTkVyUkxFOExfalNsZ1ZzdlNHRGVDMmdrZ0IxVWxrcjYtbGRNT3FjRmowbzRUQl8xb3Bab0phVnFvMzhv?oc=5",
-      "published_at": "2026-08-25T17:31:56+08:00",
       "type": "媒体"
     },
     {
