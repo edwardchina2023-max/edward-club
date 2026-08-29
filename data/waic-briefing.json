@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-30T01:49:14.176187+08:00",
+  "generated_at": "2026-08-30T04:42:35.678864+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 08月30日 01:49",
+  "edition_title": "上海人工智能大会公开信号追踪 · 08月30日 04:42",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 139 条、直播 24 条、观点 1 条、论坛 20 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 140 条、直播 20 条、观点 1 条、论坛 21 条，已按企业家阅读场景分组。",
     "虎嗅：人形机器人从会跑到会干活：进厂试用与家庭应用仍存技术门槛 - 虎嗅",
     "虎嗅：Oura计划IPO估值160亿美元，AI叙事推动智能戒指公司转型健康数据平台 - 虎嗅",
     "虎嗅：智能戒指厂商Oura筹备IPO，估值或超160亿美元 - 虎嗅",
@@ -42,6 +42,15 @@
           "published_at": "2026-07-27T15:00:00+08:00",
           "type": "论坛",
           "summary": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
+          "image": ""
+        },
+        {
+          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYXlIS2ZzMXJzZHNBMHBBeEdsaVY0Nll5N0VQajdpd3FXUWRoaTNndnMzNUZUamRmb3ZNTVlBNTlTNm8xX3g3NkRCNjRybnRwSXdsYjZB?oc=5",
+          "source": "QQ News",
+          "published_at": "2026-07-23T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 QQ News",
           "image": ""
         },
         {
@@ -115,15 +124,6 @@
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
           "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 - 科学网—新闻",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcWxndFltSVdRaHVhQkd4YzV1SF9OQ2JzeGRSaDJ1am1tSFIyTm50SDN2UHRMa3NRYlNfbjd6SHQ2MXN6bGZHekg3anMwYUVGSHpSX3pqVzJpc3ZuMTNPTXItdTM?oc=5",
-          "source": "科学网—新闻",
-          "published_at": "2026-07-16T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 科学网—新闻",
-          "image": ""
         }
       ]
     },
@@ -139,15 +139,6 @@
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "直播",
           "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 finance.tom.com",
-          "image": ""
-        },
-        {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
-          "source": "品玩",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
           "image": ""
         },
         {
@@ -196,12 +187,12 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "新浪财经",
+          "source": "finance.sina.com.cn",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
           "image": ""
         },
         {
@@ -238,6 +229,15 @@
           "published_at": "2026-07-14T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+          "image": ""
+        },
+        {
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-07T15:00:00+08:00",
+          "type": "直播",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
           "image": ""
         }
       ]
@@ -301,7 +301,7 @@
         },
         {
           "title": "家用机器人进入家庭进程加速，行业内部对普及时间预期分歧明显 - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SEp1S3RVcG1wTWZQX2RCbkxKYkhqNVozZjRTLVdqMDYyWTdqZWxncmVEUm82c1J5MUI0LTFEdTZoTUM0N2lhcmJxT1VGYVVWdUowQg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55ZlR3dkFRd1BVYW1mTHFwVTJMMlFUSmphbmwtWEhubW9VUUZ6VGcwSDhyUVIzcVM3QmJEeDR4NmFlWW5jeEt6TUVxeHJ4d1paLUt3MlBWNXBvYnQ4?oc=5",
           "source": "虎嗅",
           "published_at": "2026-08-28T17:07:35+08:00",
           "type": "媒体",
@@ -309,21 +309,21 @@
           "image": ""
         },
         {
-          "title": "80%订单是假的？谁在掏钱买人形机器人？ - 36Kr",
+          "title": "80%订单是假的？谁在掏钱买人形机器人？ - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSzB5SnhWaXBtMzgwanR2QjZGaDY2MlNPUWtIVGh4Q28zdzdpZ3B2NnVEM1B0dHg2WUR2NmphNHF3bzJ6MTlqakx0WldHVGM?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-27T20:51:00+08:00",
           "type": "媒体",
-          "summary": "80%订单是假的？谁在掏钱买人形机器人？ 36Kr",
+          "summary": "80%订单是假的？谁在掏钱买人形机器人？ 36 Kr",
           "image": ""
         },
         {
-          "title": "生产制造企业的AI应用：正在穿越拐点 - 36Kr",
+          "title": "生产制造企业的AI应用：正在穿越拐点 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GbUhXSmljcjRScXoyWTVxTmQxeU4tUUc1NllJX2hVR2Y3R3FVMERJekZFd0JIYm54czN0VjUxMV9mUk9XY0IxWTdsN29RUQ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-27T00:45:00+08:00",
           "type": "媒体",
-          "summary": "生产制造企业的AI应用：正在穿越拐点 36Kr",
+          "summary": "生产制造企业的AI应用：正在穿越拐点 36 Kr",
           "image": ""
         },
         {
@@ -345,30 +345,30 @@
           "image": ""
         },
         {
-          "title": "上市第5天，宇树股价跌至603元 - 36Kr",
+          "title": "上市第5天，宇树股价跌至603元 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1waXlLVHBJMjU1TnA1SmRYRExSWjV5ejFDcUFfSkJkcGt2eTd5RGRwYzFRQ0hwMmd6dnk0MmU1OEJ2QjFoYlN0YWtYd1FDQQ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-25T04:00:00+08:00",
           "type": "媒体",
-          "summary": "上市第5天，宇树股价跌至603元 36Kr",
+          "summary": "上市第5天，宇树股价跌至603元 36 Kr",
           "image": ""
         },
         {
-          "title": "智元出货第一、宇树抢先上市，具身智能下半场该算算“有效工时”了 - 36Kr",
+          "title": "智元出货第一、宇树抢先上市，具身智能下半场该算算“有效工时”了 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGeDJmcTE0NzZrZGdkT01iNVFFRnU3a3VmaHpQR3lJbkxmWll3OE5tWG5TWjc5Vk0yaS14aWd3ZTlia0xWM3FDWVk3ZFhRZw?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-08-25T03:42:00+08:00",
           "type": "媒体",
-          "summary": "智元出货第一、宇树抢先上市，具身智能下半场该算算“有效工时”了 36Kr",
+          "summary": "智元出货第一、宇树抢先上市，具身智能下半场该算算“有效工时”了 36 Kr",
           "image": ""
         },
         {
-          "title": "机器人会踢球、会弹琴，甚至能办婚礼了？！ - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od2hjUktnT0hiLUFGamhOcjgtWkZWMHA1NnB5ajVyTEE4bWZvMFRoQjBQeXZSYmkzMXdVWnppWnNuZUJYMG1pZ1ZkYkcya3JOS1E?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-08-24T18:58:30+08:00",
+          "title": "具身江湖志（三）：机器人的草根阶层 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02dWpLVHZhUlNrMDBOajlNcWVpZFhvZndmMFBXX1d0REExTVc0LUdTdFdpRU9yb1ZPOTcxeWdlakMzMTlOVDl1dWhvS1ZYN0k?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-08-24T21:17:20+08:00",
           "type": "媒体",
-          "summary": "机器人会踢球、会弹琴，甚至能办婚礼了？！ 虎嗅",
+          "summary": "具身江湖志（三）：机器人的草根阶层 36 Kr",
           "image": ""
         }
       ]
@@ -406,6 +406,15 @@
           "published_at": "2026-07-27T15:00:00+08:00",
           "type": "论坛",
           "summary": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
+          "image": ""
+        },
+        {
+          "title": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYXlIS2ZzMXJzZHNBMHBBeEdsaVY0Nll5N0VQajdpd3FXUWRoaTNndnMzNUZUamRmb3ZNTVlBNTlTNm8xX3g3NkRCNjRybnRwSXdsYjZB?oc=5",
+          "source": "QQ News",
+          "published_at": "2026-07-23T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "香港科技大学·国际AI产业创新生态论坛在沪圆满落幕丨WAIC 2026 QQ News",
           "image": ""
         },
         {
@@ -517,12 +526,12 @@
           "image": ""
         },
         {
-          "title": "三场研讨会开讲VLA、世界模型与RL！具身智能大会议程公布，邀你下周三见 - 新浪财经",
+          "title": "三场研讨会开讲VLA、世界模型与RL！具身智能大会议程公布，邀你下周三见 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaeG5hVVliZG9CbEVGdldLNVpKMHZkMGduNS12NERnXzlfV2lsMHdRaHktVS1GbzY5TktqSmVTeGFnLTNPUDVkbVA1UzZVVmhGOXdVc1ZVX2lFWHBQWGU5dXNuMzhsdE5FUDB4NzZ5WU1wanFFVFZTUVM0eFg?oc=5",
-          "source": "新浪财经",
+          "source": "finance.sina.com.cn",
           "published_at": "2025-11-14T16:00:00+08:00",
           "type": "论坛",
-          "summary": "三场研讨会开讲VLA、世界模型与RL！具身智能大会议程公布，邀你下周三见 新浪财经",
+          "summary": "三场研讨会开讲VLA、世界模型与RL！具身智能大会议程公布，邀你下周三见 finance.sina.com.cn",
           "image": ""
         },
         {
@@ -587,15 +596,6 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
-          "source": "品玩",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
           "source": "QQ News",
@@ -632,12 +632,12 @@
           "image": ""
         },
         {
-          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - 新浪财经",
+          "title": "直播 | 华沿机器人邀您线上逛WAIC 2026 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96ZHZ0UktJVEFVZzhZWUpiZ1U3VUVOMFAzV19mbzZrMEtDWFdSMzMtcjRrVWFiZkNUN3dMT0lmMGNxejBhUHVmVmw3RjFjcHdfSC1ocnhxTm5vVWt0ZWlJOE9sdEhDMzlEZ2FBUUV6WWhPOUNsNlE?oc=5",
-          "source": "新浪财经",
+          "source": "finance.sina.com.cn",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 新浪财经",
+          "summary": "直播 | 华沿机器人邀您线上逛WAIC 2026 finance.sina.com.cn",
           "image": ""
         },
         {
@@ -686,21 +686,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-07-09T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36 Kr",
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36Kr",
+          "source": "36 Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36 Kr",
           "image": ""
         },
         {
@@ -737,33 +737,6 @@
           "published_at": "2026-06-14T15:00:00+08:00",
           "type": "直播",
           "summary": "成人心上人直播最新版下载-成人心上人直播2026最新版V.6.45.73-企业版-2265安卓网 香港中联办",
-          "image": ""
-        },
-        {
-          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
-          "source": "中华网",
-          "published_at": "2025-08-26T15:00:00+08:00",
-          "type": "直播",
-          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
-          "image": ""
-        },
-        {
-          "title": "WAIC UP 魔盒直播间 DAY3️⃣_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90TFRnOUxrVUs5dkdBQ0FqQnpDb21aWmVLYkFvNjI5UTBxVmFWUHdHN3pGRWpEZmhiT0JwU1M5QVdjZXcwRVRTVG9RajlBYWFMWnA2SFRMTQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2025-07-28T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC UP 魔盒直播间 DAY3️⃣_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
-          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
-          "source": "moe.gov.cn",
-          "published_at": "2025-05-09T15:00:00+08:00",
-          "type": "直播",
-          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         },
         {
@@ -892,11 +865,11 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "品玩",
-      "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济",
-      "point": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
-      "published_at": "2026-07-18T15:00:00+08:00",
+      "source": "QQ News",
+      "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴",
+      "point": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
+      "published_at": "2026-07-17T15:00:00+08:00",
       "type": "直播"
     }
   ],
