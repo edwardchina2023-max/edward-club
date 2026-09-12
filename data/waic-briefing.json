@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-13T00:27:54.752098+08:00",
+  "generated_at": "2026-09-13T02:39:54.414656+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 09月13日 00:27",
+  "edition_title": "上海人工智能大会公开信号追踪 · 09月13日 02:39",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 132 条、直播 19 条、观点 1 条、论坛 19 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 134 条、直播 19 条、观点 1 条、论坛 19 条，已按企业家阅读场景分组。",
     "36 Kr：AI移动应用2026年7月洞察：月活重回增长，陪伴类升温、教育类放量 - 36 Kr",
     "虎嗅网：人工智能产业拆解：九个最朴素的问题，和一笔能算清的账 - 虎嗅网",
     "体坛加：阿里云亮相2026世界人工智能大会，发布奇亿登录纲69686AI赋能成果 - 体坛加",
-    "36 Kr：让孤军奋战转为系统作战：华泰创星的CEO加速营方法论 - 36 Kr",
-    "36 Kr：东盟AI的「词元」出海船票，被润建股份攥在了手里 - 36 Kr"
+    "虎嗅网：京东正式启动物理AI加速计划 计划五年内采购300万台机器人 - 虎嗅网",
+    "36 Kr：让孤军奋战转为系统作战：华泰创星的CEO加速营方法论 - 36 Kr"
   ],
   "sections": [
     {
@@ -291,6 +291,15 @@
           "image": ""
         },
         {
+          "title": "京东正式启动物理AI加速计划 计划五年内采购300万台机器人 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFQWt0VWFveUc5dXRzT2hRQ3JERmtLb2RNbG9WcVRRRllQRHRpcDFqSVppbXdBbF9HWE5FZm8wbnNYbmtKaHFzcGxOXzRyTkhXN3c?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-09-11T08:47:09+08:00",
+          "type": "媒体",
+          "summary": "京东正式启动物理AI加速计划 计划五年内采购300万台机器人 虎嗅网",
+          "image": ""
+        },
+        {
           "title": "让孤军奋战转为系统作战：华泰创星的CEO加速营方法论 - 36 Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9URGh3UC1yRnVlRWFwTFdpS043cS0xVUtLX0xJMXA1N3VOV2R1c3BmSWE3UHM4UnJSWlBBQ3dadHVtV0k2RkR2dVQzV2lRQQ?oc=5",
           "source": "36 Kr",
@@ -360,15 +369,6 @@
           "published_at": "2026-09-08T02:23:00+08:00",
           "type": "媒体",
           "summary": "B面具身智能 ：机器人烧钱，数采公司躺赚？ 36 Kr",
-          "image": ""
-        },
-        {
-          "title": "2024具身智能行业新趋势 机器人正式上岗 跨越价值分水岭开启商用落地新时代 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyUDJRSDF3TE5VYkFXd0FBdGp6aXVxbHpzbHdkYjFIVWs4Y21NQjlNZXF6aTRxM3N3bEpFYlZqS2F4ZVViZ0JYLTVCX1lBX092bUZF?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-09-07T21:13:00+08:00",
-          "type": "媒体",
-          "summary": "2024具身智能行业新趋势 机器人正式上岗 跨越价值分水岭开启商用落地新时代 36 Kr",
           "image": ""
         }
       ]
@@ -686,12 +686,12 @@
           "image": ""
         },
         {
-          "title": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI - news.cnwest.com",
+          "title": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI - 西部网",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51c0xieGRXcXRfby1BeUNVNUhWWEVBZXBJVHRJRGNWTS1RWlBQT0xqVHNNd0htdi10TEhHa2NVbi1FLXBLUk9QYzNvWXBwaVVHVXNtM0hYSEVMUWRoRC1RRHJUb0c?oc=5",
-          "source": "news.cnwest.com",
+          "source": "西部网",
           "published_at": "2026-07-15T20:49:00+08:00",
           "type": "媒体",
-          "summary": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI news.cnwest.com",
+          "summary": "视频丨2026世界人工智能大会即将启幕 一起聊会儿AI 西部网",
           "image": ""
         },
         {
@@ -722,12 +722,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - eu.36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36 Kr",
+          "source": "eu.36kr.com",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 eu.36kr.com",
           "image": ""
         },
         {
