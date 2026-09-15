@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-15T20:51:33.805700+08:00",
+  "generated_at": "2026-09-16T01:34:05.134043+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 09月15日 20:51",
+  "edition_title": "上海人工智能大会公开信号追踪 · 09月16日 01:34",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 133 条、直播 24 条、观点 1 条、论坛 18 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 133 条、直播 26 条、观点 1 条、论坛 17 条，已按企业家阅读场景分组。",
     "虎嗅网：AI眼镜虹膜支付亮相外滩大会：前景与争议并存 - 虎嗅网",
-    "36 Kr：豆包二代手机要来了，能绕过一代撞上的“生态墙”吗？ - 36 Kr",
+    "36 Kr：豆包手机明日开卖，AI能帮你操作App了吗？ - 36 Kr",
     "36 Kr：京东建十万卡，字节借296亿：大厂为何还在加码AI？ - 36 Kr",
     "36 Kr：圆桌：落地·量子计算的场景涌现——如果量子算力明天就可用，谁会第一个买单| 36氪 2026产业未来大会 - 36 Kr",
-    "虎嗅网：京东规划十万卡集群，字节获296亿美元贷款，AI算力投资进入豪赌时刻 - 虎嗅网"
+    "36 Kr：豆包二代手机要来了，能绕过一代撞上的“生态墙”吗？ - 36 Kr"
   ],
   "sections": [
     {
@@ -36,21 +36,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 - cn.chinadaily.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
-          "source": "cn.chinadaily.com.cn",
-          "published_at": "2026-07-21T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 cn.chinadaily.com.cn",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 - cn.chinadaily.com.cn",
+          "title": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 - 中国日报网",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mMmVqdUdEd1JvSkRSNnU2VlV6c0c0Ti1JckJmOTBLeWUzOFRwbDU0SDFraVhienB4WGJ1a3p2MklKWGlsSWdHU0JWbzN3NHEwelh2WWhsenpYaS1PMEZMeURXRDZvblZ5WkVvejdUR2pyZFEwenQ3RFc4T3E?oc=5",
-          "source": "cn.chinadaily.com.cn",
+          "source": "中国日报网",
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 cn.chinadaily.com.cn",
+          "summary": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 中国日报网",
           "image": ""
         },
         {
@@ -123,6 +114,15 @@
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会开幕在即 中国与各国携手共促智能向善 中国网新闻中心",
+          "image": ""
+        },
+        {
+          "title": "即将开幕，多款具身智能与AI基础设施新品亮相WAIC 2026 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OWUVqam9YeVRQM3ZZSHB6UXllZThsWUxhcEloTXBLOGVSeVZKMWpZeVZSc0VwMVNrdHBVbW5uaVpvZTFNTUkzb3ktNkdQQQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "即将开幕，多款具身智能与AI基础设施新品亮相WAIC 2026 36 Kr",
           "image": ""
         }
       ]
@@ -273,12 +273,12 @@
           "image": ""
         },
         {
-          "title": "豆包二代手机要来了，能绕过一代撞上的“生态墙”吗？ - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qRHU4MzloTk9vdTJBUEloSTBsSWNMNGt2U2x5SXNaVUlyekVOY3A2LXc3djVkTHpFRFRiMmNMZERXMHVFYU9GWFNNM0p4RW8?oc=5",
+          "title": "豆包手机明日开卖，AI能帮你操作App了吗？ - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wMjlOcDl6X2VjbnBXWTAzcmh3SDUtaFFQaTg2dmFsY1FKMnN0T1BaMkJvMXVSelY3d2tsSm05dDdLOEE4Y2xSNVZVNEViZw?oc=5",
           "source": "36 Kr",
-          "published_at": "2026-09-15T15:26:39+08:00",
+          "published_at": "2026-09-15T07:32:00+08:00",
           "type": "媒体",
-          "summary": "豆包二代手机要来了，能绕过一代撞上的“生态墙”吗？ 36 Kr",
+          "summary": "豆包手机明日开卖，AI能帮你操作App了吗？ 36 Kr",
           "image": ""
         },
         {
@@ -288,6 +288,15 @@
           "published_at": "2026-09-15T03:34:00+08:00",
           "type": "媒体",
           "summary": "京东建十万卡，字节借296亿：大厂为何还在加码AI？ 36 Kr",
+          "image": ""
+        },
+        {
+          "title": "豆包二代手机要来了，能绕过一代撞上的“生态墙”吗？ - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ra3NEYVJBbVlfTmwxNVpBaUhfWFFsN2FnQUNfOURBOWp0b19GOVd4RlFkX1ktRlE3Y1FfS1hHZWluUlRBOFNGelFFczRWQQ?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-09-15T00:24:00+08:00",
+          "type": "媒体",
+          "summary": "豆包二代手机要来了，能绕过一代撞上的“生态墙”吗？ 36 Kr",
           "image": ""
         },
         {
@@ -310,7 +319,7 @@
         },
         {
           "title": "王坚：以青年人的方式思考人工智能，城市智能是AI皇冠 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40QnB6STRHaG5sOXJSSGs5VmVycUlVd2N6VHZXWXRvU0piWWtWUGlmcTJvR1owTGpRWDJJSjlyNDJFZXZObFlUeE5DVENxc0swVW95Y0RCeVRMLWltRjE4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLV2cxMndTNnZVcG9SZ1pPOEJzWVdJRm5RRG55MXp3bUJGUWlQUzFrSGJ6dmFTM2VzS05sLUY2NVNobEZqT2lTNHpfQnhSMVBZZTFtUA?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-09-14T00:06:58+08:00",
           "type": "媒体",
@@ -345,12 +354,12 @@
           "image": ""
         },
         {
-          "title": "阿里云亮相2026世界人工智能大会，发布奇亿登录纲69686AI赋能成果 - 体坛",
+          "title": "阿里云亮相2026世界人工智能大会，发布奇亿登录纲69686AI赋能成果 - 体坛加",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05LW5NdVhZNFhUNURfazhHN3NvMUVXWWN2TlZacURwWFc5dG9Iai1JZEdPOGVoWnBJQVV6Q3RKa1JSbno0U2V1WjlQMThvcmd0U2tvQ2MyN3lGWVpySEtJ?oc=5",
-          "source": "体坛",
+          "source": "体坛加",
           "published_at": "2026-09-11T10:00:42+08:00",
           "type": "媒体",
-          "summary": "阿里云亮相2026世界人工智能大会，发布奇亿登录纲69686AI赋能成果 体坛",
+          "summary": "阿里云亮相2026世界人工智能大会，发布奇亿登录纲69686AI赋能成果 体坛加",
           "image": ""
         },
         {
@@ -360,15 +369,6 @@
           "published_at": "2026-09-11T08:47:09+08:00",
           "type": "媒体",
           "summary": "京东正式启动物理AI加速计划 计划五年内采购300万台机器人 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "AI移动应用2026年7月洞察：月活重回增长，陪伴类升温、教育类放量 - 36 Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aRDRMODJRT2tOUTl2Y2pOMTk2Zkc4VEdWR0hpTXVDbF85bUFoMFJkRTYxRU9LOG82U2xza3J2NVdKQ1lyMFN0MHRmb1JuUQ?oc=5",
-          "source": "36 Kr",
-          "published_at": "2026-09-11T04:58:00+08:00",
-          "type": "媒体",
-          "summary": "AI移动应用2026年7月洞察：月活重回增长，陪伴类升温、教育类放量 36 Kr",
           "image": ""
         }
       ]
@@ -400,15 +400,6 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 - cn.chinadaily.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
-          "source": "cn.chinadaily.com.cn",
-          "published_at": "2026-07-21T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 cn.chinadaily.com.cn",
-          "image": ""
-        },
-        {
           "title": "WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式 - thepaper.cn",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KVC0zMHBWMHQxNEExT1dacmhUcEE3emFiOXA2WUhfM3pNS3VWazZKUzBkNUoyc25VenRhaHRSYVdRZURGS3lSUHRWRUJORjYzVmpLaU1KMTRtd21YVVE?oc=5",
           "source": "thepaper.cn",
@@ -418,12 +409,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 - cn.chinadaily.com.cn",
+          "title": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 - 中国日报网",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mMmVqdUdEd1JvSkRSNnU2VlV6c0c0Ti1JckJmOTBLeWUzOFRwbDU0SDFraVhienB4WGJ1a3p2MklKWGlsSWdHU0JWbzN3NHEwelh2WWhsenpYaS1PMEZMeURXRDZvblZ5WkVvejdUR2pyZFEwenQ3RFc4T3E?oc=5",
-          "source": "cn.chinadaily.com.cn",
+          "source": "中国日报网",
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 cn.chinadaily.com.cn",
+          "summary": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 中国日报网",
           "image": ""
         },
         {
@@ -567,6 +558,15 @@
           "published_at": "2026-07-14T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+          "image": ""
+        },
+        {
+          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - Sohu",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+          "source": "Sohu",
+          "published_at": "2026-07-07T15:00:00+08:00",
+          "type": "直播",
+          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 Sohu",
           "image": ""
         }
       ]
@@ -767,12 +767,12 @@
           "image": ""
         },
         {
-          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - 中华网",
+          "title": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 - mtz.china.com",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESG94dFhuYWVmVG5yazJiMlpNNkNySVRfSVRiNS1wclJDSnlwUDZWeXpMMUwzWnF6Y2FLLV84dEpzelpvbTlUT0V6OWRtZi1RSFBKOE1NdkUtaHB2TFE?oc=5",
-          "source": "中华网",
+          "source": "mtz.china.com",
           "published_at": "2025-08-26T15:00:00+08:00",
           "type": "直播",
-          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 中华网",
+          "summary": "李佳琦直播间“空降”亚宠展，超长直播引领宠物消费新体验 mtz.china.com",
           "image": ""
         },
         {
@@ -782,6 +782,15 @@
           "published_at": "2025-07-27T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月26日 央视网",
+          "image": ""
+        },
+        {
+          "title": "介绍2025世界数字教育大会有关情况[图文直播] - moe.gov.cn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
+          "source": "moe.gov.cn",
+          "published_at": "2025-05-09T15:00:00+08:00",
+          "type": "直播",
+          "summary": "介绍2025世界数字教育大会有关情况[图文直播] moe.gov.cn",
           "image": ""
         },
         {
@@ -820,11 +829,11 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "cn.chinadaily.com.cn",
-      "title": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行",
-      "point": "2026世界人工智能大会｜贵州·AI驱动东西部协同发展论坛在上海举行 cn.chinadaily.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pVVRGMG1Od3lLZHpScUJ2cVdtUmk2S2ptMVhZWERqSEIzUUZqXzRTM1NwUGFpNFZ4blU4WnVocnBQNkE1Um9GcHNERlVsR01HTXIzbFRIRFN6VHFQRXlJaHpyU2k0dWJtamxWRUN4Rnd2TVdJdVNOYUVETW0?oc=5",
-      "published_at": "2026-07-21T15:00:00+08:00",
+      "source": "中国日报网",
+      "title": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办",
+      "point": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mMmVqdUdEd1JvSkRSNnU2VlV6c0c0Ti1JckJmOTBLeWUzOFRwbDU0SDFraVhienB4WGJ1a3p2MklKWGlsSWdHU0JWbzN3NHEwelh2WWhsenpYaS1PMEZMeURXRDZvblZ5WkVvejdUR2pyZFEwenQ3RFc4T3E?oc=5",
+      "published_at": "2026-07-19T15:00:00+08:00",
       "type": "论坛"
     },
     {
@@ -841,10 +850,10 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "36 Kr",
-      "title": "豆包二代手机要来了，能绕过一代撞上的“生态墙”吗？",
-      "point": "豆包二代手机要来了，能绕过一代撞上的“生态墙”吗？ 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qRHU4MzloTk9vdTJBUEloSTBsSWNMNGt2U2x5SXNaVUlyekVOY3A2LXc3djVkTHpFRFRiMmNMZERXMHVFYU9GWFNNM0p4RW8?oc=5",
-      "published_at": "2026-09-15T15:26:39+08:00",
+      "title": "豆包手机明日开卖，AI能帮你操作App了吗？",
+      "point": "豆包手机明日开卖，AI能帮你操作App了吗？ 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wMjlOcDl6X2VjbnBXWTAzcmh3SDUtaFFQaTg2dmFsY1FKMnN0T1BaMkJvMXVSelY3d2tsSm05dDdLOEE4Y2xSNVZVNEViZw?oc=5",
+      "published_at": "2026-09-15T07:32:00+08:00",
       "type": "媒体"
     },
     {
@@ -870,21 +879,21 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
+      "source": "Sohu",
+      "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会",
+      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+      "published_at": "2026-07-07T15:00:00+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "直播 / 逛展",
+      "en": "Live & Expo",
       "source": "36 Kr",
       "title": "圆桌：落地·量子计算的场景涌现——如果量子算力明天就可用，谁会第一个买单| 36氪 2026产业未来大会",
       "point": "圆桌：落地·量子计算的场景涌现——如果量子算力明天就可用，谁会第一个买单| 36氪 2026产业未来大会 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idWt3dVNGRWEzMHNGaV92SzVQSW10Q05XdkhoYjhRYlZkcnNIN1BqWEFzQUw5QmUzSTQyV3NiQWU3dVZ6bGlDWU1oSDBSUQ?oc=5",
       "published_at": "2026-09-15T03:08:00+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "直播 / 逛展",
-      "en": "Live & Expo",
-      "source": "智慧城市行业分析",
-      "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势",
-      "point": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMGxJRlB6MzV1UjlNcnc4SnVMT003RUZzNmJtbnZjR1BVZ3g4QnlQS0ZnZllMZFpBZmJHX0lLTDFBTm1qM3hQX01VVjBVaU1TdXJDWGEtTGpwcWJB?oc=5",
-      "published_at": "2026-07-27T15:00:00+08:00",
       "type": "论坛"
     },
     {
