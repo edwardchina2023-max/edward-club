@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-25T15:23:27.428208+08:00",
+  "generated_at": "2026-09-25T20:54:02.997065+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 09月25日 15:23",
+  "edition_title": "上海人工智能大会公开信号追踪 · 09月25日 20:54",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 126 条、直播 26 条、观点 1 条、论坛 23 条，已按企业家阅读场景分组。",
-    "虎嗅：阿里在2026云栖大会上发布原生智能体电脑QwenBook - 虎嗅",
-    "36Kr：罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个Agent 基准比肩闭源旗舰 - 36Kr",
-    "虎嗅：阿里任命刘大一恒为千问新负责人 云栖大会前完成人事调整 - 虎嗅",
-    "36Kr：AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 - 36Kr",
+    "本轮抓取到 媒体 123 条、直播 27 条、观点 1 条、论坛 22 条，已按企业家阅读场景分组。",
+    "虎嗅网：阿里在2026云栖大会上发布原生智能体电脑QwenBook - 虎嗅网",
+    "36kr.com：罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个Agent 基准比肩闭源旗舰 - 36kr.com",
+    "虎嗅网：阿里任命刘大一恒为千问新负责人 云栖大会前完成人事调整 - 虎嗅网",
+    "36kr.com：AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 - 36kr.com",
     "体坛：阿里云亮相2026世界人工智能大会：皇冠手机版在线官方进入“AI+场景”时代-体坛网_体坛+ - 体坛"
   ],
   "sections": [
@@ -160,6 +160,15 @@
           "image": ""
         },
         {
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
+          "source": "品玩",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "直播",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
+          "image": ""
+        },
+        {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
           "source": "上观新闻",
@@ -230,15 +239,6 @@
           "type": "直播",
           "summary": "WAIC直击丨世界人工智能大会4×24LIVE全程大放送 thepaper.cn",
           "image": ""
-        },
-        {
-          "title": "WAIC2026主论坛直播 - 广州日报新花城",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHJ5UTBORFZPMDhUVFZ1cFc2d2FYdG9FT0RuekdObWk2WEF4Zzc3UmpucjNfRk5qM2x2N1hiT1NvREV4QnR5RTRGMnVHNWV1WFExRlFRT0JWZjFYRjdyZ0hRUzEwR0Q2TTBQUHV3NHhHUTVaNzBfX2tJd2dVWWNSZjBvbzQxSnZP?oc=5",
-          "source": "广州日报新花城",
-          "published_at": "2026-07-16T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC2026主论坛直播 广州日报新花城",
-          "image": ""
         }
       ]
     },
@@ -264,39 +264,39 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "阿里在2026云栖大会上发布原生智能体电脑QwenBook - 虎嗅",
+          "title": "阿里在2026云栖大会上发布原生智能体电脑QwenBook - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJWnZ6d1FaYlVyLWJFVWllZS0yMmI5Z1JaYzJjNi1vX3lrODYzSFBZWVRqdXRuaW9yd3YxN0lmblZSLVFGZWNlNHI0ZUp0clVOajJ0cmw5eGMxOFlJMHMw?oc=5",
-          "source": "虎嗅",
+          "source": "虎嗅网",
           "published_at": "2026-09-23T09:56:27+08:00",
           "type": "媒体",
-          "summary": "阿里在2026云栖大会上发布原生智能体电脑QwenBook 虎嗅",
+          "summary": "阿里在2026云栖大会上发布原生智能体电脑QwenBook 虎嗅网",
           "image": ""
         },
         {
-          "title": "罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个Agent 基准比肩闭源旗舰 - 36Kr",
+          "title": "罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个Agent 基准比肩闭源旗舰 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkUTJmMXlsbG1WQ3o1V1VUVlFULTRHbmlRMmxkbzhwNGZQOXptTzNQTlV4cHlwRVBNNXBXRkN3YnRsam1wa0F1U0ZKMWwzdw?oc=5",
-          "source": "36Kr",
+          "source": "36kr.com",
           "published_at": "2026-09-22T00:23:00+08:00",
           "type": "媒体",
-          "summary": "罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个Agent 基准比肩闭源旗舰 36Kr",
+          "summary": "罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个Agent 基准比肩闭源旗舰 36kr.com",
           "image": ""
         },
         {
-          "title": "阿里任命刘大一恒为千问新负责人 云栖大会前完成人事调整 - 虎嗅",
+          "title": "阿里任命刘大一恒为千问新负责人 云栖大会前完成人事调整 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tcnFGeUFsQ0tkQXFWd09TUTZYMklfR0czUVA0Y3lQNWZMeGIyUG5GZ3JLbEFleHFZY2ZFX3BzUl80TEY4ZklvY0Z1TTh2ZlhEdnpfOQ?oc=5",
-          "source": "虎嗅",
+          "source": "虎嗅网",
           "published_at": "2026-09-21T20:17:04+08:00",
           "type": "媒体",
-          "summary": "阿里任命刘大一恒为千问新负责人 云栖大会前完成人事调整 虎嗅",
+          "summary": "阿里任命刘大一恒为千问新负责人 云栖大会前完成人事调整 虎嗅网",
           "image": ""
         },
         {
-          "title": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 - 36Kr",
+          "title": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5ZFNvVjFoczJpek9SdHdEV1lFS1VZbmtLNUJ6MHFSMXFkdGVYVjV0U3VkT096ZElYZHc5bW9XdmdEMGJKM1FBaTRyN3Rmdw?oc=5",
-          "source": "36Kr",
+          "source": "36kr.com",
           "published_at": "2026-09-20T05:58:00+08:00",
           "type": "媒体",
-          "summary": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 36Kr",
+          "summary": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 36kr.com",
           "image": ""
         },
         {
@@ -309,21 +309,21 @@
           "image": ""
         },
         {
-          "title": "从“镇馆之宝”到“SAIL之星”：凯联资本被投企业WAIC 2026集中交卷 - 36Kr",
+          "title": "从“镇馆之宝”到“SAIL之星”：凯联资本被投企业WAIC 2026集中交卷 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kUDZmXzJZN29zdEtpVVB1M2hSdktrNHNQbzNCVDgzY0d5Ry1IemFzZ0hVcGphTFNPV3pMT1BBdnpUSkhWcHY4djNST01qdw?oc=5",
-          "source": "36Kr",
+          "source": "36kr.com",
           "published_at": "2026-07-30T15:00:00+08:00",
           "type": "媒体",
-          "summary": "从“镇馆之宝”到“SAIL之星”：凯联资本被投企业WAIC 2026集中交卷 36Kr",
+          "summary": "从“镇馆之宝”到“SAIL之星”：凯联资本被投企业WAIC 2026集中交卷 36kr.com",
           "image": ""
         },
         {
-          "title": "WAIC现场发现的宝藏AI 助手马维斯 - 虎嗅",
+          "title": "WAIC现场发现的宝藏AI 助手马维斯 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54LUR1cVI2cEtja3djSndGWjIxVE5ZVkN2WHNKamx3N0RmQVlqYjJ0MTZHTWpmLWNYeENqaTNlaVF4TlptVmpWQUx2MURuTGtFWmtwdXBjNTFrdlJydFJ6QQ?oc=5",
-          "source": "虎嗅",
+          "source": "虎嗅网",
           "published_at": "2026-07-28T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WAIC现场发现的宝藏AI 助手马维斯 虎嗅",
+          "summary": "WAIC现场发现的宝藏AI 助手马维斯 虎嗅网",
           "image": ""
         },
         {
@@ -336,39 +336,39 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会：人形机器人量产提速，半导体并购整合持续 - 虎嗅",
+          "title": "2026世界人工智能大会：人形机器人量产提速，半导体并购整合持续 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMU5OTzU0dnB2MjhmaTJZQ3FvXzJvWUd2NzZXSTRCdkdaUHNWWS1hcGxBRzd4cWhiTmRaZHlsVFczd3Uxd1ZFODZ6Tlg4UEZGY2RETWpxNEUxclBDT0tn?oc=5",
-          "source": "虎嗅",
+          "source": "虎嗅网",
           "published_at": "2026-07-27T15:00:00+08:00",
           "type": "媒体",
-          "summary": "2026世界人工智能大会：人形机器人量产提速，半导体并购整合持续 虎嗅",
+          "summary": "2026世界人工智能大会：人形机器人量产提速，半导体并购整合持续 虎嗅网",
           "image": ""
         },
         {
-          "title": "优必选U1超仿生人形机器人预售超万台，情感陪伴引发伦理与商业深层次拷问 - 虎嗅",
+          "title": "优必选U1超仿生人形机器人预售超万台，情感陪伴引发伦理与商业深层次拷问 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qbnUyVXZGNVFMbEF0WDlWUGJQS001RUJLZXRObEVETmFBYmhMUjdMT3dJSGJKdlJRczFLMjFLMVBGWEVCTS1WT1ZROE9wN2N2bWc?oc=5",
-          "source": "虎嗅",
+          "source": "虎嗅网",
           "published_at": "2026-07-27T15:00:00+08:00",
           "type": "媒体",
-          "summary": "优必选U1超仿生人形机器人预售超万台，情感陪伴引发伦理与商业深层次拷问 虎嗅",
+          "summary": "优必选U1超仿生人形机器人预售超万台，情感陪伴引发伦理与商业深层次拷问 虎嗅网",
           "image": ""
         },
         {
-          "title": "直击WAIC2026 |从“炫技”到“实干” WAIC 2026机器人集体“上岗”打工 - cb.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbVkzUjNROF9tSEhJaG5GX2hjcjhGWWs0ck1kUTJGYTdjQUN5aG13SEVBempJMGZPY3NFVGI3eHJ0VUNDM0hBYnJENmkzb0ZkZ1RDV1MtOUljdUZkV0dF?oc=5",
-          "source": "cb.com.cn",
-          "published_at": "2026-07-27T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "直击WAIC2026 |从“炫技”到“实干” WAIC 2026机器人集体“上岗”打工 cb.com.cn",
-          "image": ""
-        },
-        {
-          "title": "AI手机大战全面开打：端侧AI备案落地，系统级智能体走向前台 - 虎嗅",
+          "title": "AI手机大战全面开打：端侧AI备案落地，系统级智能体走向前台 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9paXc5b0NONDRtVHo3Zlh3SEthbDJnN29rRDhyb2tjeHVlX1VJYnZzeGJuSnBDcExMNld4ZEVweTdCcXROTEctN29VVHBHRThsX05ZOWJDVVVWNl9VLWxz?oc=5",
-          "source": "虎嗅",
+          "source": "虎嗅网",
           "published_at": "2026-07-24T15:00:00+08:00",
           "type": "媒体",
-          "summary": "AI手机大战全面开打：端侧AI备案落地，系统级智能体走向前台 虎嗅",
+          "summary": "AI手机大战全面开打：端侧AI备案落地，系统级智能体走向前台 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "逛完 WAIC，发现大家都在认真赚钱 - 手机网易网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zbHR0Z0pEMXhJSlJrMXl0QzJRVGVKYkx2MXoyN3p5dTdxaExDUWZkNlg2eVViVkxCOVBEaHl6Qk5SdGpZOVhuZVJVZDNSVTZfRkNrUjh1NzgtMUpTVGZMT2J3?oc=5",
+          "source": "手机网易网",
+          "published_at": "2026-07-24T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "逛完 WAIC，发现大家都在认真赚钱 手机网易网",
           "image": ""
         }
       ]
@@ -562,21 +562,21 @@
           "image": ""
         },
         {
-          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - 智源社区",
+          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkT1NhYU5QODFNMEVYMjgyNTQwd05uSWd0SUQ3SVNKTU1lQUxvX2hPSXN2a1E4UGhNakRCV1kzakRJOWNyaDBfMw?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
-          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 hub.baai.ac.cn",
           "image": ""
         },
         {
-          "title": "【倒计时3天】直播观看：人工智能前沿技术的治理挑战与应对措施论坛 - 智源社区",
+          "title": "【倒计时3天】直播观看：人工智能前沿技术的治理挑战与应对措施论坛 - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6WnpheldSOGQ1Wmdtc0xfdnFwUGUyc0tnWHNXbk1vdjlLN29TNDVJMEo5M1FzVVhkUXVzMU91aTRXeFFncU9EVQ?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2024-07-02T15:00:00+08:00",
           "type": "直播",
-          "summary": "【倒计时3天】直播观看：人工智能前沿技术的治理挑战与应对措施论坛 智源社区",
+          "summary": "【倒计时3天】直播观看：人工智能前沿技术的治理挑战与应对措施论坛 hub.baai.ac.cn",
           "image": ""
         },
         {
@@ -633,12 +633,12 @@
           "image": ""
         },
         {
-          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
+          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - hub.baai.ac.cn",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
-          "source": "智源社区",
+          "source": "hub.baai.ac.cn",
           "published_at": "2026-07-14T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI hub.baai.ac.cn",
           "image": ""
         },
         {
@@ -668,15 +668,6 @@
           "image": ""
         },
         {
-          "title": "直击WAIC2026 |从“炫技”到“实干” WAIC 2026机器人集体“上岗”打工 - cb.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbVkzUjNROF9tSEhJaG5GX2hjcjhGWWs0ck1kUTJGYTdjQUN5aG13SEVBempJMGZPY3NFVGI3eHJ0VUNDM0hBYnJENmkzb0ZkZ1RDV1MtOUljdUZkV0dF?oc=5",
-          "source": "cb.com.cn",
-          "published_at": "2026-07-27T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "直击WAIC2026 |从“炫技”到“实干” WAIC 2026机器人集体“上岗”打工 cb.com.cn",
-          "image": ""
-        },
-        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - finance.tom.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
           "source": "finance.tom.com",
@@ -686,12 +677,21 @@
           "image": ""
         },
         {
-          "title": "【视频播客】中国AI未来去哪里？年轻人如何学AI？来WAIC现场听听院士怎么讲！ | B站 x WAIC AI会客厅 - Bilibili",
+          "title": "【视频播客】中国AI未来去哪里？年轻人如何学AI？来WAIC现场听听院士怎么讲！ | B站 x WAIC AI会客厅_哔哩哔哩 - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3Qm9UTmMwWU43bVI4WXhTSUs5OTh2aG9MTnhNOFJCT0ZqXzI0Zjc2VVFFWTE4R0hYTk9FVFd2TVI2dGZDczNMenFqenhhUnBZdmFuTWp2MA?oc=5",
           "source": "Bilibili",
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "媒体",
-          "summary": "【视频播客】中国AI未来去哪里？年轻人如何学AI？来WAIC现场听听院士怎么讲！ | B站 x WAIC AI会客厅 Bilibili",
+          "summary": "【视频播客】中国AI未来去哪里？年轻人如何学AI？来WAIC现场听听院士怎么讲！ | B站 x WAIC AI会客厅_哔哩哔哩 Bilibili",
+          "image": ""
+        },
+        {
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
+          "source": "品玩",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "直播",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
           "image": ""
         },
         {
@@ -758,12 +758,12 @@
           "image": ""
         },
         {
-          "title": "虎嗅WAIC现场直播：AI如何赚钱？谁已跑通？ - 虎嗅",
+          "title": "虎嗅WAIC现场直播：AI如何赚钱？谁已跑通？ - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sVm40QWhrSElWeXcyUk5iRGRiWk4zc3hySksxTXk2a3p4RHdRaThUYjhNajVka2dkMUdZQUR3TWFSY3R0RWxrVjZfRFJDNnE5QVVzRw?oc=5",
-          "source": "虎嗅",
+          "source": "虎嗅网",
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "直播",
-          "summary": "虎嗅WAIC现场直播：AI如何赚钱？谁已跑通？ 虎嗅",
+          "summary": "虎嗅WAIC现场直播：AI如何赚钱？谁已跑通？ 虎嗅网",
           "image": ""
         },
         {
@@ -785,12 +785,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36Kr",
+          "source": "36kr.com",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36kr.com",
           "image": ""
         },
         {
@@ -803,12 +803,12 @@
           "image": ""
         },
         {
-          "title": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 - 上海有色金属",
+          "title": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 - news.smm.cn",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wY253bl9vODhGWFpyZ0pqR2RUbnM3YW5pUElSWWVONEpxaTlOYUNBZnhBZXlhVmUyRV91cG5ENHhDTlZ0SEhwdll3?oc=5",
-          "source": "上海有色金属",
+          "source": "news.smm.cn",
           "published_at": "2026-06-15T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 上海有色金属",
+          "summary": "【直播】亚非多国锡矿市场解读 剖析全球供需变局、价格趋势、贸易转型与可持续发展 news.smm.cn",
           "image": ""
         },
         {
@@ -884,9 +884,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅",
+      "source": "虎嗅网",
       "title": "阿里在2026云栖大会上发布原生智能体电脑QwenBook",
-      "point": "阿里在2026云栖大会上发布原生智能体电脑QwenBook 虎嗅",
+      "point": "阿里在2026云栖大会上发布原生智能体电脑QwenBook 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJWnZ6d1FaYlVyLWJFVWllZS0yMmI5Z1JaYzJjNi1vX3lrODYzSFBZWVRqdXRuaW9yd3YxN0lmblZSLVFGZWNlNHI0ZUp0clVOajJ0cmw5eGMxOFlJMHMw?oc=5",
       "published_at": "2026-09-23T09:56:27+08:00",
       "type": "媒体"
@@ -894,9 +894,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
+      "source": "36kr.com",
       "title": "罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个Agent 基准比肩闭源旗舰",
-      "point": "罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个Agent 基准比肩闭源旗舰 36Kr",
+      "point": "罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多个Agent 基准比肩闭源旗舰 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkUTJmMXlsbG1WQ3o1V1VUVlFULTRHbmlRMmxkbzhwNGZQOXptTzNQTlV4cHlwRVBNNXBXRkN3YnRsam1wa0F1U0ZKMWwzdw?oc=5",
       "published_at": "2026-09-22T00:23:00+08:00",
       "type": "媒体"
@@ -904,9 +904,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅",
+      "source": "虎嗅网",
       "title": "阿里任命刘大一恒为千问新负责人 云栖大会前完成人事调整",
-      "point": "阿里任命刘大一恒为千问新负责人 云栖大会前完成人事调整 虎嗅",
+      "point": "阿里任命刘大一恒为千问新负责人 云栖大会前完成人事调整 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tcnFGeUFsQ0tkQXFWd09TUTZYMklfR0czUVA0Y3lQNWZMeGIyUG5GZ3JLbEFleHFZY2ZFX3BzUl80TEY4ZklvY0Z1TTh2ZlhEdnpfOQ?oc=5",
       "published_at": "2026-09-21T20:17:04+08:00",
       "type": "媒体"
@@ -934,9 +934,9 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "智源社区",
+      "source": "hub.baai.ac.cn",
       "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI",
-      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI hub.baai.ac.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
       "published_at": "2026-07-14T15:00:00+08:00",
       "type": "直播"
@@ -964,12 +964,12 @@
     {
       "channel": "嘉宾 / 自媒体",
       "en": "Guests & Creators",
-      "source": "cb.com.cn",
-      "title": "直击WAIC2026 |从“炫技”到“实干” WAIC 2026机器人集体“上岗”打工",
-      "point": "直击WAIC2026 |从“炫技”到“实干” WAIC 2026机器人集体“上岗”打工 cb.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbVkzUjNROF9tSEhJaG5GX2hjcjhGWWs0ck1kUTJGYTdjQUN5aG13SEVBempJMGZPY3NFVGI3eHJ0VUNDM0hBYnJENmkzb0ZkZ1RDV1MtOUljdUZkV0dF?oc=5",
-      "published_at": "2026-07-27T15:00:00+08:00",
-      "type": "媒体"
+      "source": "finance.tom.com",
+      "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济",
+      "point": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 finance.tom.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
+      "published_at": "2026-07-20T15:00:00+08:00",
+      "type": "直播"
     }
   ],
   "sources": [
