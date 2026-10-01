@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-01T15:00:51.142399+08:00",
+  "generated_at": "2026-10-01T22:41:40.614329+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月01日 15:00",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月01日 22:41",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 122 条、直播 24 条、观点 1 条、论坛 25 条，已按企业家阅读场景分组。",
-    "36kr.com：- 36kr.com",
+    "本轮抓取到 媒体 123 条、直播 24 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
     "虎嗅网：从赛场到职场，什么在变、什么不变？ - 虎嗅网",
     "36kr.com：多家品牌金饰价格上调，老凤祥单日涨14元 - 36kr.com",
     "36kr.com：圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 - 36kr.com",
-    "光通信Pro：跟着36氪逛2026云栖大会：AI如何变成生产力？ - 光通信Pro"
+    "光通信Pro：跟着36氪逛2026云栖大会：AI如何变成生产力？ - 光通信Pro",
+    "虎嗅网：机器人落地催生七大新生意：从RaaS到远程安全员 - 虎嗅网"
   ],
   "sections": [
     {
@@ -178,12 +178,12 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - shobserver.cn",
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
-          "source": "shobserver.cn",
+          "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 shobserver.cn",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
           "image": ""
         },
         {
@@ -264,15 +264,6 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "- 36kr.com",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HWEh6UDNuck80cUZGaHNtdGtCX2g3bVdoSEFlUm5nUjRZc1dDWDlMOGdmblNxaVh0VW91bnI5YXdqME9HQ2ZpV0RoM3JyTmJpaHVGZGM5N2U?oc=5",
-          "source": "36kr.com",
-          "published_at": "2026-09-30T11:01:22+08:00",
-          "type": "媒体",
-          "summary": "36kr.com",
-          "image": ""
-        },
-        {
           "title": "从赛场到职场，什么在变、什么不变？ - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12YU4tUE1VVzBKckttSVR2ZzJqLUdwTm1UUm1ZYWdWcVRkMG9zbEFOa0kyQnduNWNoZzlPZnJuUVllcmFCYkhLR3gteVU4THNvX19YVzhNelJzaERrN3pv?oc=5",
           "source": "虎嗅网",
@@ -336,15 +327,6 @@
           "image": ""
         },
         {
-          "title": "阿里在2026云栖大会上发布原生智能体电脑QwenBook - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJWnZ6d1FaYlVyLWJFVWllZS0yMmI5Z1JaYzJjNi1vX3lrODYzSFBZWVRqdXRuaW9yd3YxN0lmblZSLVFGZWNlNHI0ZUp0clVOajJ0cmw5eGMxOFlJMHMw?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-09-23T09:56:27+08:00",
-          "type": "媒体",
-          "summary": "阿里在2026云栖大会上发布原生智能体电脑QwenBook 虎嗅网",
-          "image": ""
-        },
-        {
           "title": "破产、疫情、战争—— 迪拜二十年 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42OWJBTEpZc2JMaUR5aF9FZVFlMDdGVU5NR2FfWFV0ekdXOEREekV0V3c0QUpwZHRIRnYtMkdtbzl6SlVBdmRISXVPSkZGZlZaSXc?oc=5",
           "source": "虎嗅网",
@@ -369,6 +351,24 @@
           "published_at": "2026-07-29T15:00:00+08:00",
           "type": "媒体",
           "summary": "启明星 | 回顾一下！那些你在WAIC 2026意犹未尽的展览和演讲 启明创投",
+          "image": ""
+        },
+        {
+          "title": "逛完 WAIC，发现大家都在认真赚钱 - 163.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zbHR0Z0pEMXhJSlJrMXl0QzJRVGVKYkx2MXoyN3p5dTdxaExDUWZkNlg2eVViVkxCOVBEaHl6Qk5SdGpZOVhuZVJVZDNSVTZfRkNrUjh1NzgtMUpTVGZMT2J3?oc=5",
+          "source": "163.com",
+          "published_at": "2026-07-24T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "逛完 WAIC，发现大家都在认真赚钱 163.com",
+          "image": ""
+        },
+        {
+          "title": "同济大学科技园硬科技企业组团亮相2026世界人工智能大会 - 同济大学新闻网",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SE50SlRUaEY0S2dFYnl3Xy1FOWJrOXJmQVAyeG1rTVNoa3JXWENtM04wUEpvXzhZc3JaQS1DOWxWTmNHRmNkUUdTSExWNFZha01yZzNIYmRQZw?oc=5",
+          "source": "同济大学新闻网",
+          "published_at": "2026-07-23T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "同济大学科技园硬科技企业组团亮相2026世界人工智能大会 同济大学新闻网",
           "image": ""
         }
       ]
@@ -490,17 +490,8 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - shobserver.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
-          "source": "shobserver.cn",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 shobserver.cn",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
@@ -544,12 +535,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 - 科学网—新闻",
+          "title": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 - news.sciencenet.cn",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcWxndFltSVdRaHVhQkd4YzV1SF9OQ2JzeGRSaDJ1am1tSFIyTm50SDN2UHRMa3NRYlNfbjd6SHQ2MXN6bGZHekg3anMwYUVGSHpSX3pqVzJpc3ZuMTNPTXItdTM?oc=5",
-          "source": "科学网—新闻",
+          "source": "news.sciencenet.cn",
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 科学网—新闻",
+          "summary": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 news.sciencenet.cn",
           "image": ""
         },
         {
@@ -595,6 +586,15 @@
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
           "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "image": ""
+        },
+        {
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36kr.com",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
+          "source": "36kr.com",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36kr.com",
           "image": ""
         },
         {
@@ -758,15 +758,6 @@
           "image": ""
         },
         {
-          "title": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tYkQtSU5SQmhKd0luVWM1cXBmSy04RE9fVlVJazFYN3REaHllUHZiS2FTc1lvNkZZYzJ1RU1JWjY2TV9WeGItUk9aTzBSc2QwLUE?oc=5",
-          "source": "搜狐网",
-          "published_at": "2026-07-15T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 搜狐网",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
           "source": "36kr.com",
@@ -857,16 +848,6 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36kr.com",
-      "title": "- 36kr.com",
-      "point": "36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HWEh6UDNuck80cUZGaHNtdGtCX2g3bVdoSEFlUm5nUjRZc1dDWDlMOGdmblNxaVh0VW91bnI5YXdqME9HQ2ZpV0RoM3JyTmJpaHVGZGM5N2U?oc=5",
-      "published_at": "2026-09-30T11:01:22+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
       "source": "虎嗅网",
       "title": "从赛场到职场，什么在变、什么不变？",
       "point": "从赛场到职场，什么在变、什么不变？ 虎嗅网",
@@ -882,6 +863,16 @@
       "point": "多家品牌金饰价格上调，老凤祥单日涨14元 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XTTdVN2dPeWtKNkY0Umc3THR6RE9MaGJNVWhIbU03dXozbC1ONDhldnhwZ3NrVl83dWtJZGJUN3d3S2JZQTc2cUhDRXlWQS1MQ1B5OWwzWlc?oc=5",
       "published_at": "2026-09-29T19:00:00+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "光通信Pro",
+      "title": "跟着36氪逛2026云栖大会：AI如何变成生产力？",
+      "point": "跟着36氪逛2026云栖大会：AI如何变成生产力？ 光通信Pro",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5laHM2endITDI4UWFyZy1sZXJDZjlHd0J6Z2V4OWVDbmRtTWZCQUl5Njh0b0lvN182MlFGS1R1Q2F4MVlrNlF4dXF1bTIzbG54c19BejdUYw?oc=5",
+      "published_at": "2026-09-28T13:58:36+08:00",
       "type": "媒体"
     },
     {
