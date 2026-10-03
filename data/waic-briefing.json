@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-04T01:31:47.376447+08:00",
+  "generated_at": "2026-10-04T04:48:47.291991+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月04日 01:31",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月04日 04:48",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 122 条、直播 22 条、论坛 22 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 120 条、直播 22 条、论坛 23 条，已按企业家阅读场景分组。",
     "虎嗅网：AI产业发展需平衡快慢节奏 底层投入与场景渗透并重 - 虎嗅网",
     "虎嗅网：宁德时代、小米都投了， 苏度科技瞄准哪门生意 - 虎嗅网",
     "虎嗅网：内蒙古乌兰察布崛起为AI算力重镇，高盛报告披露12.5GW容量承诺 - 虎嗅网",
-    "虎嗅网：智能眼镜的形态取舍：Meta与苹果如何分配脸上的计算预算 - 虎嗅网",
-    "虎嗅网：从赛场到职场，什么在变、什么不变？ - 虎嗅网"
+    "虎嗅网：从赛场到职场，什么在变、什么不变？ - 虎嗅网",
+    "36Kr：多家品牌金饰价格上调，老凤祥单日涨14元 - 36Kr"
   ],
   "sections": [
     {
@@ -18,12 +18,12 @@
       "en": "Forum agenda and conference signals",
       "items": [
         {
-          "title": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 - 36kr.com",
+          "title": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2QkJaaUVhQVlqcjdsaFE3Y3IzR1gzSGdPTkR1MWkzYzRRM2p1ZklPTGZXSTB6M2o4SXdvajlCYUpXbzBRNjZVODdYaHBaUQ?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-09-28T20:45:00+08:00",
           "type": "论坛",
-          "summary": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 36kr.com",
+          "summary": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 36Kr",
           "image": ""
         },
         {
@@ -72,12 +72,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 - news.tongji.edu.cn",
+          "title": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDY2lNSXFKZXpDb3k1UXIzS0RRdEdtV3cxVzR2UGdlbzJEeWRuZVp4VXJuYVJkVXlPUndjOVpuS0REQktKY0FhdmRMdFBkVDN6UzZQMm5Xa3J3dw?oc=5",
-          "source": "news.tongji.edu.cn",
+          "source": "同济大学新闻网",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 news.tongji.edu.cn",
+          "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
           "image": ""
         },
         {
@@ -133,12 +133,12 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
-          "title": "皇冠中国注册官网亮相2026世界人工智能大会，定义体育直播智能新标杆- 体坛网_体坛+ - ttplus.cn",
+          "title": "皇冠中国注册官网亮相2026世界人工智能大会，定义体育直播智能新标杆- 体坛网_体坛+ - 体坛",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TMkFzam9pYUk3Y3d5QmVwbXBZbzJ0cFVpMjBKbF9FdklJYW1fblFJUnQ2TTZwNW1HU2ZaREJsM2pQdjM0MmFTOG9JOXZpOTV0Z2JB?oc=5",
-          "source": "ttplus.cn",
+          "source": "体坛",
           "published_at": "2026-09-26T10:33:33+08:00",
           "type": "直播",
-          "summary": "皇冠中国注册官网亮相2026世界人工智能大会，定义体育直播智能新标杆- 体坛网_体坛+ ttplus.cn",
+          "summary": "皇冠中国注册官网亮相2026世界人工智能大会，定义体育直播智能新标杆- 体坛网_体坛+ 体坛",
           "image": ""
         },
         {
@@ -151,12 +151,12 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - pingwest.com",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
-          "source": "品玩",
+          "source": "pingwest.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 pingwest.com",
           "image": ""
         },
         {
@@ -178,12 +178,12 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - tech.china.com",
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 中华网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwVmdBaV9XSEwtVDZ1N3dzVjA3RW1nQ3p4cEt5SzNNOTBYY0NCRldJN3Q0eW5Kb3ZvSVNvSzBINGE3Wkd5WWdaWUZuY1JxVGl5ZnN6SndjRU5SWjhqVGlkT25YZDRmNmJpS2ZZZ18zaUw?oc=5",
-          "source": "tech.china.com",
+          "source": "中华网",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 tech.china.com",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 中华网",
           "image": ""
         },
         {
@@ -309,15 +309,6 @@
           "image": ""
         },
         {
-          "title": "智能眼镜的形态取舍：Meta与苹果如何分配脸上的计算预算 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zMm5JVGhld3FFUmpSLTBJNU9BU0J1YllNUkJkNExmYm9uOVRmYzJRTnh2aVdUbmJKRjFGeUtHVjVCUHZ3UUVoNllYSXExUWpXMVFOTw?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-09-30T14:07:37+08:00",
-          "type": "媒体",
-          "summary": "智能眼镜的形态取舍：Meta与苹果如何分配脸上的计算预算 虎嗅网",
-          "image": ""
-        },
-        {
           "title": "从赛场到职场，什么在变、什么不变？ - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12YU4tUE1VVzBKckttSVR2ZzJqLUdwTm1UUm1ZYWdWcVRkMG9zbEFOa0kyQnduNWNoZzlPZnJuUVllcmFCYkhLR3gteVU4THNvX19YVzhNelJzaERrN3pv?oc=5",
           "source": "虎嗅网",
@@ -327,12 +318,12 @@
           "image": ""
         },
         {
-          "title": "多家品牌金饰价格上调，老凤祥单日涨14元 - 36kr.com",
+          "title": "多家品牌金饰价格上调，老凤祥单日涨14元 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XTTdVN2dPeWtKNkY0Umc3THR6RE9MaGJNVWhIbU03dXozbC1ONDhldnhwZ3NrVl83dWtJZGJUN3d3S2JZQTc2cUhDRXlWQS1MQ1B5OWwzWlc?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-09-29T19:00:00+08:00",
           "type": "媒体",
-          "summary": "多家品牌金饰价格上调，老凤祥单日涨14元 36kr.com",
+          "summary": "多家品牌金饰价格上调，老凤祥单日涨14元 36Kr",
           "image": ""
         },
         {
@@ -345,21 +336,21 @@
           "image": ""
         },
         {
-          "title": "华为、腾讯、阿里都盯上的生意：不造机器人，却想控制所有机器人 - 36kr.com",
+          "title": "华为、腾讯、阿里都盯上的生意：不造机器人，却想控制所有机器人 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JS2YydGNtZk5jVFhtTFctckRyY0FVX1hzVWZ5TnNKSWlhb0R6Qkh4VE1uejZpM1gzQkNSMTFTbXpwOXVlbFpoOFBwdkZHdw?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-09-27T22:11:00+08:00",
           "type": "媒体",
-          "summary": "华为、腾讯、阿里都盯上的生意：不造机器人，却想控制所有机器人 36kr.com",
+          "summary": "华为、腾讯、阿里都盯上的生意：不造机器人，却想控制所有机器人 36Kr",
           "image": ""
         },
         {
-          "title": "海康威视，修旧如新 - 36kr.com",
+          "title": "海康威视，修旧如新 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhVGk1MlkteXJVckZZRm10MUl1UXZOLXByNkllX0RCanljc3hEWWlyNG9mWmdlT2tCdzU0TXNtTXJ3WWEyTENRUjFzY3MzUQ?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-09-27T18:21:00+08:00",
           "type": "媒体",
-          "summary": "海康威视，修旧如新 36kr.com",
+          "summary": "海康威视，修旧如新 36Kr",
           "image": ""
         },
         {
@@ -388,6 +379,15 @@
           "type": "媒体",
           "summary": "上海精智WAIC 2026：把工厂经验变成可迭代的物理AI资产 icloudnews.net",
           "image": ""
+        },
+        {
+          "title": "AI手机大战全面开打：端侧AI备案落地，系统级智能体走向前台 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ibURrbnRlMnlDc05lZGNMNWtGSXpqQ3hqMDUyalhoUWtIcFhCQ1laR0k5aHNyZzJWYkZxcjFKOHlySy10cVpSWFJxR2NUemdsdGc?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-07-24T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "AI手机大战全面开打：端侧AI备案落地，系统级智能体走向前台 虎嗅网",
+          "image": ""
         }
       ]
     }
@@ -400,12 +400,12 @@
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
         {
-          "title": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 - 36kr.com",
+          "title": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2QkJaaUVhQVlqcjdsaFE3Y3IzR1gzSGdPTkR1MWkzYzRRM2p1ZklPTGZXSTB6M2o4SXdvajlCYUpXbzBRNjZVODdYaHBaUQ?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-09-28T20:45:00+08:00",
           "type": "论坛",
-          "summary": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 36kr.com",
+          "summary": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 36Kr",
           "image": ""
         },
         {
@@ -463,12 +463,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 - news.tongji.edu.cn",
+          "title": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDY2lNSXFKZXpDb3k1UXIzS0RRdEdtV3cxVzR2UGdlbzJEeWRuZVp4VXJuYVJkVXlPUndjOVpuS0REQktKY0FhdmRMdFBkVDN6UzZQMm5Xa3J3dw?oc=5",
-          "source": "news.tongji.edu.cn",
+          "source": "同济大学新闻网",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 news.tongji.edu.cn",
+          "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
           "image": ""
         },
         {
@@ -535,6 +535,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026世界人工智能大会：前沿AI与智能体安全论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ubFhwMnFBRFZ1ckVxN0hENTNQQVdNMVNDRmkyS2ZEd2RXZTZmeXhkZXkySG1rVk9BQjBLR25FWjRtNERoWEk0aU1Hdnl3d2hDd2U0?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-16T18:05:49+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会：前沿AI与智能体安全论坛 21财经",
+          "image": ""
+        },
+        {
           "title": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 - 科学网—新闻",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcWxndFltSVdRaHVhQkd4YzV1SF9OQ2JzeGRSaDJ1am1tSFIyTm50SDN2UHRMa3NRYlNfbjd6SHQ2MXN6bGZHekg3anMwYUVGSHpSX3pqVzJpc3ZuMTNPTXItdTM?oc=5",
           "source": "科学网—新闻",
@@ -562,12 +571,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - C114通信网",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - c114.com.cn",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ1BCNGVsMURQNmNVbEd5U19wTWhkM2JMWjNianlNdVl1UGt3V3VYemtJQ1hmc05RY3ZvWURZOGxfLVRnRnNpTUc3a1FYTVk?oc=5",
-          "source": "C114通信网",
+          "source": "c114.com.cn",
           "published_at": "2026-07-09T17:23:22+08:00",
           "type": "媒体",
-          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 C114通信网",
+          "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 c114.com.cn",
           "image": ""
         },
         {
@@ -649,15 +658,6 @@
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
           "image": ""
-        },
-        {
-          "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
-          "source": "搜狐网",
-          "published_at": "2026-07-07T15:00:00+08:00",
-          "type": "直播",
-          "summary": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
-          "image": ""
         }
       ]
     },
@@ -668,12 +668,12 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
-          "title": "皇冠中国注册官网亮相2026世界人工智能大会，定义体育直播智能新标杆- 体坛网_体坛+ - ttplus.cn",
+          "title": "皇冠中国注册官网亮相2026世界人工智能大会，定义体育直播智能新标杆- 体坛网_体坛+ - 体坛",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TMkFzam9pYUk3Y3d5QmVwbXBZbzJ0cFVpMjBKbF9FdklJYW1fblFJUnQ2TTZwNW1HU2ZaREJsM2pQdjM0MmFTOG9JOXZpOTV0Z2JB?oc=5",
-          "source": "ttplus.cn",
+          "source": "体坛",
           "published_at": "2026-09-26T10:33:33+08:00",
           "type": "直播",
-          "summary": "皇冠中国注册官网亮相2026世界人工智能大会，定义体育直播智能新标杆- 体坛网_体坛+ ttplus.cn",
+          "summary": "皇冠中国注册官网亮相2026世界人工智能大会，定义体育直播智能新标杆- 体坛网_体坛+ 体坛",
           "image": ""
         },
         {
@@ -686,12 +686,12 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - pingwest.com",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
-          "source": "品玩",
+          "source": "pingwest.com",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 pingwest.com",
           "image": ""
         },
         {
@@ -713,12 +713,12 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - tech.china.com",
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 中华网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwVmdBaV9XSEwtVDZ1N3dzVjA3RW1nQ3p4cEt5SzNNOTBYY0NCRldJN3Q0eW5Kb3ZvSVNvSzBINGE3Wkd5WWdaWUZuY1JxVGl5ZnN6SndjRU5SWjhqVGlkT25YZDRmNmJpS2ZZZ18zaUw?oc=5",
-          "source": "tech.china.com",
+          "source": "中华网",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 tech.china.com",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 中华网",
           "image": ""
         },
         {
@@ -749,12 +749,21 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36kr.com",
+          "title": "努比亚公布WAIC 2026产品阵容：全球首款AI智能体手机、AI宠物、直播神器 - 驱动之家",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hNlVLVGNRNUxCUGhBWEpnQnVrNllNN3ZWanhwZWlmQTVjYnBSZnExWG5zUWFiVmdNUG5KSXJwMlZlODJZeHpvMmlXMDlNbjlBTjh2VkZ0Tmg?oc=5",
+          "source": "驱动之家",
+          "published_at": "2026-07-14T15:00:00+08:00",
+          "type": "直播",
+          "summary": "努比亚公布WAIC 2026产品阵容：全球首款AI智能体手机、AI宠物、直播神器 驱动之家",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36kr.com",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
           "image": ""
         },
         {
@@ -776,12 +785,12 @@
           "image": ""
         },
         {
-          "title": "大模型、机器人、Agent扎堆亮相……36氪WAIC2025「氪话未来」直播间藏着多少AI「未来答案」？ - 36kr.com",
+          "title": "大模型、机器人、Agent扎堆亮相……36氪WAIC2025「氪话未来」直播间藏着多少AI「未来答案」？ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpQ2E3YXM2N1F6eXRubnhFVXhTWlFxdndnMWZWOGsyWklzRGJkMFBZQXBmVnlVek9YNzFXcklDbWpLenhMaGk1bUp4MlZmQQ?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2025-08-05T15:00:00+08:00",
           "type": "直播",
-          "summary": "大模型、机器人、Agent扎堆亮相……36氪WAIC2025「氪话未来」直播间藏着多少AI「未来答案」？ 36kr.com",
+          "summary": "大模型、机器人、Agent扎堆亮相……36氪WAIC2025「氪话未来」直播间藏着多少AI「未来答案」？ 36Kr",
           "image": ""
         },
         {
@@ -803,12 +812,12 @@
           "image": ""
         },
         {
-          "title": "“AI教父”杨立昆：不喜欢AGI这个词，大语言模型不是通往人类智慧的道路 | 直击WAIC 2023 - 36kr.com",
+          "title": "“AI教父”杨立昆：不喜欢AGI这个词，大语言模型不是通往人类智慧的道路 | 直击WAIC 2023 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EZE5hTUFGa3JCdEk5ckNUYU9JbTdTcEo0a1dKeDA2UF9qZnlDU294Q05MdFYtSWkybWFSNUJiNXQ5N1BMeUJzX1dTTnFhUQ?oc=5",
-          "source": "36kr.com",
+          "source": "36Kr",
           "published_at": "2023-07-05T15:00:00+08:00",
           "type": "媒体",
-          "summary": "“AI教父”杨立昆：不喜欢AGI这个词，大语言模型不是通往人类智慧的道路 | 直击WAIC 2023 36kr.com",
+          "summary": "“AI教父”杨立昆：不喜欢AGI这个词，大语言模型不是通往人类智慧的道路 | 直击WAIC 2023 36Kr",
           "image": ""
         },
         {
@@ -827,9 +836,9 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "36kr.com",
+      "source": "36Kr",
       "title": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会",
-      "point": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 36kr.com",
+      "point": "圆桌：「具身智能」 打通技术到场景的最后一公里｜36氪 2026 产业未来大会 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2QkJaaUVhQVlqcjdsaFE3Y3IzR1gzSGdPTkR1MWkzYzRRM2p1ZklPTGZXSTB6M2o4SXdvajlCYUpXbzBRNjZVODdYaHBaUQ?oc=5",
       "published_at": "2026-09-28T20:45:00+08:00",
       "type": "论坛"
