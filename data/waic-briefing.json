@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-07T15:36:54.003808+08:00",
+  "generated_at": "2026-10-07T23:21:12.646872+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月07日 15:36",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月07日 23:21",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 114 条、直播 24 条、论坛 24 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 114 条、直播 24 条、论坛 23 条，已按企业家阅读场景分组。",
     "虎嗅网：AI产业发展需平衡快慢节奏 底层投入与场景渗透并重 - 虎嗅网",
     "虎嗅网：苏度科技完成超10亿元融资，具身智能机器人平台获多家机构投资 - 虎嗅网",
     "36Kr：请完成下列验证后继续 - 36Kr",
     "虎嗅网：内蒙古乌兰察布崛起为AI算力重镇，高盛报告披露12.5GW容量承诺 - 虎嗅网",
-    "虎嗅网：破产、疫情、战争—— 迪拜二十年 - 虎嗅网"
+    "虎嗅网：2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅网"
   ],
   "sections": [
     {
@@ -100,7 +100,7 @@
         },
         {
           "title": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85UWxmUVJfbmVOWGFnWEE3RDZyWWUtMmx6dzE0aUh0bHhZSUdnc2t4Zk01ZHhPWjQyYUloXzVpbmRlS1NCRXMwTGkwMGZ3TmNXd1cyWnhJVDdjTUU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vLUdZb0x1OUFRYUtKaEhoWWt4eGxMVkdITEM0X2k4WkwydHlwQ25wdHVES1JEMGx2cWc2cjNFOEtNeEpIRVI0OEt1VlJYV04tajRlU1JQMUpjdw?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
@@ -233,7 +233,7 @@
         },
         {
           "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eUtoTzg1NG1mU0w1bUk0TkNLMmtfZHgzcFNHTVNVYlZPQXRUd3pENzVFemhHeWZFUXZYNVdHR3RZSzJ1OUJXalpSR0d4QzhsOVY5X0JKbjhKS2VIclJF?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "直播",
@@ -318,30 +318,12 @@
           "image": ""
         },
         {
-          "title": "破产、疫情、战争—— 迪拜二十年 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42OWJBTEpZc2JMaUR5aF9FZVFlMDdGVU5NR2FfWFV0ekdXOEREekV0V3c0QUpwZHRIRnYtMkdtbzl6SlVBdmRISXVPSkZGZlZaSXc?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-09-22T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "破产、疫情、战争—— 迪拜二十年 虎嗅网",
-          "image": ""
-        },
-        {
           "title": "这届机器人没有新故事，只有真问题 - 华尔街见闻",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96dFdiZ204bVloRDBWbzd4Y2txaF9aaVBUbXRvdXZIcG5DaHJXejgtSk4yNmJ3TjlSUG51WmowZHI0UUZSRHNVcW45TnBnME14YjE4?oc=5",
           "source": "华尔街见闻",
           "published_at": "2026-08-21T15:00:00+08:00",
           "type": "媒体",
           "summary": "这届机器人没有新故事，只有真问题 华尔街见闻",
-          "image": ""
-        },
-        {
-          "title": "AI加持下，终端如何与游戏“同游” - 中华网",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15d2ZndUxnNXg2NlFxRkZMeUZqczFsbkxHa1VtWC1xd0U0U1JaX0pWQkNBS0JRcEg0V0U5QzM5T3lxTGd0TnRfWnQ2dV9NSEN1WmJpVmQza1Nodmw5ckgwN0Z0UWhGYTVfdlI4cFRR?oc=5",
-          "source": "中华网",
-          "published_at": "2026-07-31T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "AI加持下，终端如何与游戏“同游” 中华网",
           "image": ""
         },
         {
@@ -387,6 +369,24 @@
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "媒体",
           "summary": "SMG千人团队深度参与2026世界人工智能大会 https://guan.media/",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会：AI边界延伸，场景落地成为核心议题 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13eXFScGJad1hfYk5RdGNscDJPaG5wZUozcVVfUVdFbW1DSmQ0Tl9NMC0wWWIyNVQ4MFV3X2E1a2M5UzNkYjdqZmtnQUJFamxIRnVFRA?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-07-22T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "2026世界人工智能大会：AI边界延伸，场景落地成为核心议题 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会热搜盘点：AI能办事、能执行、产业政策为何让全民“上头”？ - ThePaper.cn",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yV0t0M0NZejlZOE05UlItNTBvSS16T2NLQnRVQ1JGTExoQ0JET1hzc3pWM2N4TmZZb2s1anBSbmJzWm5sZXctNng2Q3BMa243VWthOFE1RnlXXzNxTmhTTg?oc=5",
+          "source": "ThePaper.cn",
+          "published_at": "2026-07-21T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "2026世界人工智能大会热搜盘点：AI能办事、能执行、产业政策为何让全民“上头”？ ThePaper.cn",
           "image": ""
         }
       ]
@@ -482,7 +482,7 @@
         },
         {
           "title": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85UWxmUVJfbmVOWGFnWEE3RDZyWWUtMmx6dzE0aUh0bHhZSUdnc2t4Zk01ZHhPWjQyYUloXzVpbmRlS1NCRXMwTGkwMGZ3TmNXd1cyWnhJVDdjTUU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vLUdZb0x1OUFRYUtKaEhoWWt4eGxMVkdITEM0X2k4WkwydHlwQ25wdHVES1JEMGx2cWc2cjNFOEtNeEpIRVI0OEt1VlJYV04tajRlU1JQMUpjdw?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
@@ -517,12 +517,12 @@
           "image": ""
         },
         {
-          "title": "WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - ThePaper.cn",
+          "title": "WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛__澎湃新闻-The Paper - ThePaper.cn",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBN09kNnVkWU5US2hZYU1OQko5cm1KQzBnM2xUV3h1SjVzdEpKQkZFX2o3NnZjeXYwMUU3ZEZjVmdJeDVzMkdFZGF0SEZkMkxsVk5meDVIbkQ5NnVKb1E?oc=5",
           "source": "ThePaper.cn",
           "published_at": "2026-07-17T13:30:41+08:00",
           "type": "论坛",
-          "summary": "WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 ThePaper.cn",
+          "summary": "WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛__澎湃新闻-The Paper ThePaper.cn",
           "image": ""
         },
         {
@@ -613,15 +613,6 @@
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者网",
-          "image": ""
-        },
-        {
-          "title": "燧原科技亮相“2020世界人工智能大会云端峰会”-美通社PR-Newswire - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nTmFYRl8yeDNCZEtxdmRkVEhiN1JEUFgwZ1BJaXdKM0V6TGg2VzdfTktOejk4WU5uWi1LYlB6SkUxeURHR2ZZNlE5c1lWT3NmTENRSUNB?oc=5",
-          "source": "PR Newswire",
-          "published_at": "2020-07-14T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "燧原科技亮相“2020世界人工智能大会云端峰会”-美通社PR-Newswire PR Newswire",
           "image": ""
         },
         {
@@ -759,7 +750,7 @@
         },
         {
           "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eUtoTzg1NG1mU0w1bUk0TkNLMmtfZHgzcFNHTVNVYlZPQXRUd3pENzVFemhHeWZFUXZYNVdHR3RZSzJ1OUJXalpSR0d4QzhsOVY5X0JKbjhKS2VIclJF?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "直播",
@@ -794,12 +785,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36 Kr",
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
-          "source": "36 Kr",
+          "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36 Kr",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
           "image": ""
         },
         {
