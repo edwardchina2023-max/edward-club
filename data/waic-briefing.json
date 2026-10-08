@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-08T15:08:59.919460+08:00",
+  "generated_at": "2026-10-08T22:48:26.532086+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月08日 15:08",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月08日 22:48",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 116 条、直播 24 条、论坛 25 条，已按企业家阅读场景分组。",
-    "36Kr：从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr",
+    "本轮抓取到 媒体 118 条、直播 24 条、论坛 23 条，已按企业家阅读场景分组。",
+    "虎嗅网：中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网",
+    "虎嗅网：【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ - 虎嗅网",
     "虎嗅网：AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
-    "虎嗅网：AI产业发展需平衡快慢节奏 底层投入与场景渗透并重 - 虎嗅网",
-    "虎嗅网：苏度科技完成超10亿元融资，具身智能机器人平台获多家机构投资 - 虎嗅网",
-    "虎嗅网：2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅网"
+    "36Kr：从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr",
+    "虎嗅网：AI产业发展需平衡快慢节奏 底层投入与场景渗透并重 - 虎嗅网"
   ],
   "sections": [
     {
@@ -17,15 +17,6 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
-        {
-          "title": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WdmNQQ1NjSmstaUx1aHlVaXRsdHVwc2kxa1lDS2JRa3dUV0lPdGNuM2VxSDVqRHlFWGExRDhZbGZuNFlUX3lybnFxX2dsWkdiaXgyZQ?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-08-25T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 虎嗅网",
-          "image": ""
-        },
         {
           "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 - 智慧城市行业分析",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMGxJRlB6MzV1UjlNcnc4SnVMT003RUZzNmJtbnZjR1BVZ3g4QnlQS0ZnZllMZFpBZmJHX0lLTDFBTm1qM3hQX01VVjBVaU1TdXJDWGEtTGpwcWJB?oc=5",
@@ -123,6 +114,15 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报网",
+          "image": ""
+        },
+        {
+          "title": "三地四馆、规模创纪录，WAIC 2026今日开幕 - 观察者网",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSE95eVVKV2IxbHd4amRvSV9zVE4tVjFLTEw2VXV1MWY0eDBucVkyZVVZNkQ5MHJ0OTI2djlpQVQzSzFhWEgxZWFrSFZ0allkeFFDLVR3LUZacGdPVmJHZ3VyRTJKZw?oc=5",
+          "source": "观察者网",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕 观察者网",
           "image": ""
         }
       ]
@@ -282,21 +282,39 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
-          "title": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51Ny1RaDNPenZKRTJNamppWHd2OVFqbmU1cUlHaUxFUVNlUHZrMVpUZXRtQ3dfbklPMkZreXN1TENOb3ZhSVlIQ0FGZVJTY2wz?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-10-08T14:21:02+08:00",
+          "title": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTXIxVWlJb0ZLaTN1aGdIZzNHRktXM0s0R0NrbTBMaHU0WEFkZmRRVS1IRFpHc1JYOWlhQ05UZVA2aERUejg0Q2I5WEdQVTF5d1lhNA?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-08T18:59:54+08:00",
           "type": "媒体",
-          "summary": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 36Kr",
+          "summary": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BajR3TU5sbTNnM0JSX1Npak5HOEY2Ync4Rk5Ca1lxOTZXSUhfS19HNTZQTDVBYnV2Vk55aUEySU1fWTltUE1ZRDNSa2xXbDExUUN6Sm1VVHFjQkhjODBj?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-08T14:34:11+08:00",
+          "type": "媒体",
+          "summary": "【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ 虎嗅网",
           "image": ""
         },
         {
           "title": "AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtX3U1VWtNNnNQNnhQbWluNWtxSnJWWG1HSTZidTlkamNEdzdEdjBCWF9qRG9tQm80c1Y5RzBCTEdKN1JFem9EakU2eTV6NEgzYmR5NjRPTlBtcEdyLUFJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UM3FmZHpLNFZfZzlnbXdNSGNzcUFHN3I3NzJ4V1hrMHhUWmZBcmo0RXdXRHEyQVBhVnJMTEtvSnFCSndkVGtyaVowQ0ZkOG91YS1hag?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-10-08T11:30:26+08:00",
           "type": "媒体",
           "summary": "AI算力重心从训练转向推理 Token消耗五年或增370倍 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51Ny1RaDNPenZKRTJNamppWHd2OVFqbmU1cUlHaUxFUVNlUHZrMVpUZXRtQ3dfbklPMkZreXN1TENOb3ZhSVlIQ0FGZVJTY2wz?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-10-07T23:16:00+08:00",
+          "type": "媒体",
+          "summary": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 36Kr",
           "image": ""
         },
         {
@@ -354,12 +372,12 @@
           "image": ""
         },
         {
-          "title": "从WAIC回来，发现AI 圈的风口彻底变了 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15NXFNSTU3MFBsUTNYUWRTZkxEZEFUTzV1X2xYMFJ4ZERIa2xvdkZHTmU4RWtwMERnX2VELVlnMkd4Mk15S0Q0OVI5VzlwM1RzSVZoZWRuamEySF9iSHJ4Ng?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-07-23T15:00:00+08:00",
+          "title": "为什么AI还不会科学发现？这是人工智能的终极考题 - 第一财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6RWU1V3o2UjVmYUFjc2RoQ2M2ck1kQUg3eGlhQ3dCZ19NX1paS2t3d19lYkVSZWVyTkJVQk0ya0g3dGY3LXNIa2FiSk9QT0NmYUxF?oc=5",
+          "source": "第一财经",
+          "published_at": "2026-07-22T21:41:09+08:00",
           "type": "媒体",
-          "summary": "从WAIC回来，发现AI 圈的风口彻底变了 虎嗅网",
+          "summary": "为什么AI还不会科学发现？这是人工智能的终极考题 第一财经",
           "image": ""
         },
         {
@@ -369,24 +387,6 @@
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "媒体",
           "summary": "SMG千人团队深度参与2026世界人工智能大会 https://guan.media/",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aSERGMUp4UlV3Z1Q5Wl8tMkJ2VjhuWVZ0QTluTDV2LU5XbVM1ZHhrTFp0VHI0UkY2bkVXZmc1ZHJXRjlaTE1UcDc0dG1XWkxqM3RaVQ?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-07-22T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "超86%都是这三类话题！2026 WAIC透露出哪些热门方向？ - 手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVnVrdXdYMndhMElYMVc4T284S1hWTVhxa1JZTlMxNC1rWXA3LXp3NV9FemNJTG9CdnpVR1FiTkZ5ZzVDOW93Z1EyVXl4emZXV1UwazI3Y3JVVFdfenFmTkFDZUtJNERDVl9WMzAyTmY?oc=5",
-          "source": "手机新浪网",
-          "published_at": "2026-07-22T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "超86%都是这三类话题！2026 WAIC透露出哪些热门方向？ 手机新浪网",
           "image": ""
         }
       ]
@@ -399,15 +399,6 @@
       "en": "Forum Livestreams",
       "description": "主论坛、分论坛、圆桌、开幕式与高级别会议的直播/回放入口。",
       "items": [
-        {
-          "title": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WdmNQQ1NjSmstaUx1aHlVaXRsdHVwc2kxa1lDS2JRa3dUV0lPdGNuM2VxSDVqRHlFWGExRDhZbGZuNFlUX3lybnFxX2dsWkdiaXgyZQ?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-08-25T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 虎嗅网",
-          "image": ""
-        },
         {
           "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 - 智慧城市行业分析",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMGxJRlB6MzV1UjlNcnc4SnVMT003RUZzNmJtbnZjR1BVZ3g4QnlQS0ZnZllMZFpBZmJHX0lLTDFBTm1qM3hQX01VVjBVaU1TdXJDWGEtTGpwcWJB?oc=5",
@@ -523,15 +514,6 @@
           "published_at": "2026-07-17T13:30:41+08:00",
           "type": "论坛",
           "summary": "WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛__澎湃新闻-The Paper ThePaper.cn",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026世界人工智能大会主论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FeVdpdXg3Zi1GblFHTE5IbWlDRXhWMlI1VmFBdkVleXZYRm9PQmJrTG9GcUQ4T19sVXMzZUlGSzdBWi1GdWlUUW5PX0J0dkdPSmJB?oc=5",
-          "source": "21财经",
-          "published_at": "2026-07-16T20:59:33+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
           "image": ""
         },
         {
@@ -704,21 +686,21 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
-          "source": "品玩",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
-          "image": ""
-        },
-        {
           "title": "直击WAIC｜消费企业一旦建立起用户洞察、营销与产品创新、服务反馈、供应链与经营优化的正向飞轮，就会形成“越用越聪明、越高效、越增长”的复利循环。_哔哩哔哩 - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSDA5dmxmbW0zX1ZLWmdQWThjbVRYZjJvN3RLXzNJeVpRS1VIWTZLT2pLMm50UnQ3SGhlM3ZwVW5mRm5lZnpJVzR4SEpuUW82Y2htWjF0VQ?oc=5",
           "source": "Bilibili",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "媒体",
           "summary": "直击WAIC｜消费企业一旦建立起用户洞察、营销与产品创新、服务反馈、供应链与经营优化的正向飞轮，就会形成“越用越聪明、越高效、越增长”的复利循环。_哔哩哔哩 Bilibili",
+          "image": ""
+        },
+        {
+          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
+          "source": "品玩",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "直播",
+          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
           "image": ""
         },
         {
@@ -863,16 +845,6 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
-      "source": "虎嗅网",
-      "title": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现",
-      "point": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WdmNQQ1NjSmstaUx1aHlVaXRsdHVwc2kxa1lDS2JRa3dUV0lPdGNuM2VxSDVqRHlFWGExRDhZbGZuNFlUX3lybnFxX2dsWkdiaXgyZQ?oc=5",
-      "published_at": "2026-08-25T15:00:00+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
       "source": "智慧城市行业分析",
       "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势",
       "point": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
@@ -891,13 +863,33 @@
       "type": "论坛"
     },
     {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
+      "source": "人民网-上海频道",
+      "title": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 - 人民网-上海频道",
+      "point": "2026世界人工智能大会·国际AI城市生态论坛在上海举办 人民网-上海频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMjZaa3AxY3FtMEtyeTB5X1oyck5iZG5GMFNKVmViaC1hZ1RrSTJfa0oyN0R4aHFaRlFEd3N3S21HTUk3b0ZxdU95TVI2RWxSYU4yTGpxdWZoaWFWWFN0TFRxMks4UGZPMEE?oc=5",
+      "published_at": "2026-07-21T15:00:00+08:00",
+      "type": "论坛"
+    },
+    {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
-      "title": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资",
-      "point": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51Ny1RaDNPenZKRTJNamppWHd2OVFqbmU1cUlHaUxFUVNlUHZrMVpUZXRtQ3dfbklPMkZreXN1TENOb3ZhSVlIQ0FGZVJTY2wz?oc=5",
-      "published_at": "2026-10-08T14:21:02+08:00",
+      "source": "虎嗅网",
+      "title": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口",
+      "point": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTXIxVWlJb0ZLaTN1aGdIZzNHRktXM0s0R0NrbTBMaHU0WEFkZmRRVS1IRFpHc1JYOWlhQ05UZVA2aERUejg0Q2I5WEdQVTF5d1lhNA?oc=5",
+      "published_at": "2026-10-08T18:59:54+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅网",
+      "title": "【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？",
+      "point": "【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BajR3TU5sbTNnM0JSX1Npak5HOEY2Ync4Rk5Ca1lxOTZXSUhfS19HNTZQTDVBYnV2Vk55aUEySU1fWTltUE1ZRDNSa2xXbDExUUN6Sm1VVHFjQkhjODBj?oc=5",
+      "published_at": "2026-10-08T14:34:11+08:00",
       "type": "媒体"
     },
     {
@@ -906,18 +898,8 @@
       "source": "虎嗅网",
       "title": "AI算力重心从训练转向推理 Token消耗五年或增370倍",
       "point": "AI算力重心从训练转向推理 Token消耗五年或增370倍 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtX3U1VWtNNnNQNnhQbWluNWtxSnJWWG1HSTZidTlkamNEdzdEdjBCWF9qRG9tQm80c1Y5RzBCTEdKN1JFem9EakU2eTV6NEgzYmR5NjRPTlBtcEdyLUFJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UM3FmZHpLNFZfZzlnbXdNSGNzcUFHN3I3NzJ4V1hrMHhUWmZBcmo0RXdXRHEyQVBhVnJMTEtvSnFCSndkVGtyaVowQ0ZkOG91YS1hag?oc=5",
       "published_at": "2026-10-08T11:30:26+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "AI产业发展需平衡快慢节奏 底层投入与场景渗透并重",
-      "point": "AI产业发展需平衡快慢节奏 底层投入与场景渗透并重 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY3Z5QWRyeTJxOFR4REl5OXJ2RnVNLWdleFdFSWRHTDdKUkREX2h2Z2x6LWIxOWJxS1RSbGhVZEtPbkZsMmR1WkpYanh5Y1NXWWZ6T0t4UTdvY1VOclJj?oc=5",
-      "published_at": "2026-10-03T19:59:09+08:00",
       "type": "媒体"
     },
     {
