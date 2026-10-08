@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-08T08:50:50.088148+08:00",
+  "generated_at": "2026-10-08T15:08:59.919460+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月08日 08:50",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月08日 15:08",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 115 条、直播 24 条、论坛 25 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 116 条、直播 24 条、论坛 25 条，已按企业家阅读场景分组。",
+    "36Kr：从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr",
+    "虎嗅网：AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
     "虎嗅网：AI产业发展需平衡快慢节奏 底层投入与场景渗透并重 - 虎嗅网",
     "虎嗅网：苏度科技完成超10亿元融资，具身智能机器人平台获多家机构投资 - 虎嗅网",
-    "36Kr：请完成下列验证后继续 - 36Kr",
-    "虎嗅网：内蒙古乌兰察布崛起为AI算力重镇，高盛报告披露12.5GW容量承诺 - 虎嗅网",
     "虎嗅网：2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅网"
   ],
   "sections": [
@@ -282,6 +282,24 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
+          "title": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51Ny1RaDNPenZKRTJNamppWHd2OVFqbmU1cUlHaUxFUVNlUHZrMVpUZXRtQ3dfbklPMkZreXN1TENOb3ZhSVlIQ0FGZVJTY2wz?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-10-08T14:21:02+08:00",
+          "type": "媒体",
+          "summary": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 36Kr",
+          "image": ""
+        },
+        {
+          "title": "AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtX3U1VWtNNnNQNnhQbWluNWtxSnJWWG1HSTZidTlkamNEdzdEdjBCWF9qRG9tQm80c1Y5RzBCTEdKN1JFem9EakU2eTV6NEgzYmR5NjRPTlBtcEdyLUFJ?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-08T11:30:26+08:00",
+          "type": "媒体",
+          "summary": "AI算力重心从训练转向推理 Token消耗五年或增370倍 虎嗅网",
+          "image": ""
+        },
+        {
           "title": "AI产业发展需平衡快慢节奏 底层投入与场景渗透并重 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY3Z5QWRyeTJxOFR4REl5OXJ2RnVNLWdleFdFSWRHTDdKUkREX2h2Z2x6LWIxOWJxS1RSbGhVZEtPbkZsMmR1WkpYanh5Y1NXWWZ6T0t4UTdvY1VOclJj?oc=5",
           "source": "虎嗅网",
@@ -297,24 +315,6 @@
           "published_at": "2026-10-02T09:34:28+08:00",
           "type": "媒体",
           "summary": "苏度科技完成超10亿元融资，具身智能机器人平台获多家机构投资 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "请完成下列验证后继续 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVWt6aGlpRFhNYnRzYkM0cWdlVDNKMVlYU0Nta1o1anNfNXFCTzEzSy05SmsyeERfdzJVNXdPbUxYd25QNktFZW9Dcw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-10-01T12:31:27+08:00",
-          "type": "媒体",
-          "summary": "请完成下列验证后继续 36Kr",
-          "image": ""
-        },
-        {
-          "title": "内蒙古乌兰察布崛起为AI算力重镇，高盛报告披露12.5GW容量承诺 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OSUFlZDlPVEI5ZlM1SG5Ub09oUnFnb1dWbEdtTUNLd1YwZjd4cGhsTHIxc3ZDUG13bEZqODNnX2otNE85ZjhGTHhPR19aSnVvWXhiUQ?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-10-01T12:12:13+08:00",
-          "type": "媒体",
-          "summary": "内蒙古乌兰察布崛起为AI算力重镇，高盛报告披露12.5GW容量承诺 虎嗅网",
           "image": ""
         },
         {
@@ -381,12 +381,12 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会：AI边界延伸，场景落地成为核心议题 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13eXFScGJad1hfYk5RdGNscDJPaG5wZUozcVVfUVdFbW1DSmQ0Tl9NMC0wWWIyNVQ4MFV3X2E1a2M5UzNkYjdqZmtnQUJFamxIRnVFRA?oc=5",
-          "source": "虎嗅网",
+          "title": "超86%都是这三类话题！2026 WAIC透露出哪些热门方向？ - 手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVnVrdXdYMndhMElYMVc4T284S1hWTVhxa1JZTlMxNC1rWXA3LXp3NV9FemNJTG9CdnpVR1FiTkZ5ZzVDOW93Z1EyVXl4emZXV1UwazI3Y3JVVFdfenFmTkFDZUtJNERDVl9WMzAyTmY?oc=5",
+          "source": "手机新浪网",
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "媒体",
-          "summary": "2026世界人工智能大会：AI边界延伸，场景落地成为核心议题 虎嗅网",
+          "summary": "超86%都是这三类话题！2026 WAIC透露出哪些热门方向？ 手机新浪网",
           "image": ""
         }
       ]
@@ -893,31 +893,31 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
+      "source": "36Kr",
+      "title": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资",
+      "point": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51Ny1RaDNPenZKRTJNamppWHd2OVFqbmU1cUlHaUxFUVNlUHZrMVpUZXRtQ3dfbklPMkZreXN1TENOb3ZhSVlIQ0FGZVJTY2wz?oc=5",
+      "published_at": "2026-10-08T14:21:02+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅网",
+      "title": "AI算力重心从训练转向推理 Token消耗五年或增370倍",
+      "point": "AI算力重心从训练转向推理 Token消耗五年或增370倍 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtX3U1VWtNNnNQNnhQbWluNWtxSnJWWG1HSTZidTlkamNEdzdEdjBCWF9qRG9tQm80c1Y5RzBCTEdKN1JFem9EakU2eTV6NEgzYmR5NjRPTlBtcEdyLUFJ?oc=5",
+      "published_at": "2026-10-08T11:30:26+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
       "source": "虎嗅网",
       "title": "AI产业发展需平衡快慢节奏 底层投入与场景渗透并重",
       "point": "AI产业发展需平衡快慢节奏 底层投入与场景渗透并重 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY3Z5QWRyeTJxOFR4REl5OXJ2RnVNLWdleFdFSWRHTDdKUkREX2h2Z2x6LWIxOWJxS1RSbGhVZEtPbkZsMmR1WkpYanh5Y1NXWWZ6T0t4UTdvY1VOclJj?oc=5",
       "published_at": "2026-10-03T19:59:09+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "苏度科技完成超10亿元融资，具身智能机器人平台获多家机构投资",
-      "point": "苏度科技完成超10亿元融资，具身智能机器人平台获多家机构投资 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YWDJ4RDZnVU9iX0xRYlRmQXR3ODZYTjJveVZYT1lOUVVlZzJoc0hXVURJVDliSnJZcXk1TzFkTy1HZlgwVG5SUzNXY0s4UExndkRJTA?oc=5",
-      "published_at": "2026-10-02T09:34:28+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "36Kr",
-      "title": "请完成下列验证后继续",
-      "point": "请完成下列验证后继续 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVWt6aGlpRFhNYnRzYkM0cWdlVDNKMVlYU0Nta1o1anNfNXFCTzEzSy05SmsyeERfdzJVNXdPbUxYd25QNktFZW9Dcw?oc=5",
-      "published_at": "2026-10-01T12:31:27+08:00",
       "type": "媒体"
     },
     {
