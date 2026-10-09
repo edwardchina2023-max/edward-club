@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-09T09:04:00.244393+08:00",
+  "generated_at": "2026-10-09T15:52:05.674166+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月09日 09:04",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月09日 15:52",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 119 条、直播 22 条、论坛 24 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 115 条、直播 21 条、论坛 23 条，已按企业家阅读场景分组。",
+    "虎嗅网：中国黑客松热潮：一场各取所需的资源置换游戏 - 虎嗅网",
     "虎嗅网：中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网",
     "虎嗅网：【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ - 虎嗅网",
     "虎嗅网：AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
-    "36Kr：从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr",
-    "虎嗅网：AI产业发展需平衡快慢节奏 底层投入与场景渗透并重 - 虎嗅网"
+    "36Kr：从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr"
   ],
   "sections": [
     {
@@ -60,15 +60,6 @@
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "论坛",
           "summary": "直击现场！WAIC这一论坛上，超多成果重磅发布！ 上海市人民政府",
-          "image": ""
-        },
-        {
-          "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WdGgzQ2kzSllmalg3cldWWHVBQm9XU0pkZHJYWjlLMXQ1Z09OR01lMDNMR1NMaGowTUhmcmJ5OERDMmVuWVd0VFBBVU44dw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新 36Kr",
           "image": ""
         },
         {
@@ -124,6 +115,15 @@
           "type": "论坛",
           "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 证券时报网",
           "image": ""
+        },
+        {
+          "title": "三地四馆、规模创纪录，WAIC 2026今日开幕 - 观察者网",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSE95eVVKV2IxbHd4amRvSV9zVE4tVjFLTEw2VXV1MWY0eDBucVkyZVVZNkQ5MHJ0OTI2djlpQVQzSzFhWEgxZWFrSFZ0allkeFFDLVR3LUZacGdPVmJHZ3VyRTJKZw?oc=5",
+          "source": "观察者网",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕 观察者网",
+          "image": ""
         }
       ]
     },
@@ -161,7 +161,7 @@
         },
         {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
@@ -175,15 +175,6 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
-          "image": ""
-        },
-        {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
           "image": ""
         },
         {
@@ -239,6 +230,15 @@
           "type": "直播",
           "summary": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 观察者网",
           "image": ""
+        },
+        {
+          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
+          "source": "智源社区",
+          "published_at": "2026-07-14T15:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+          "image": ""
         }
       ]
     },
@@ -281,6 +281,15 @@
       "title": "媒体快讯与产业发布",
       "en": "Media updates and industry announcements",
       "items": [
+        {
+          "title": "中国黑客松热潮：一场各取所需的资源置换游戏 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03ZjZBZzQ0LXlhbUZHb1BwT0JmdlVRUzk2Tkd5TXN6OVJ4R3hFbmgtb0EydGlqVjJjbjk5T0VvRl9obHlRekh1MmZFd2U4Wmx4dmdFSQ?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-09T12:09:09+08:00",
+          "type": "媒体",
+          "summary": "中国黑客松热潮：一场各取所需的资源置换游戏 虎嗅网",
+          "image": ""
+        },
         {
           "title": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTXIxVWlJb0ZLaTN1aGdIZzNHRktXM0s0R0NrbTBMaHU0WEFkZmRRVS1IRFpHc1JYOWlhQ05UZVA2aERUejg0Q2I5WEdQVTF5d1lhNA?oc=5",
@@ -327,24 +336,6 @@
           "image": ""
         },
         {
-          "title": "苏度科技完成超10亿元融资，具身智能机器人平台获多家机构投资 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YWDJ4RDZnVU9iX0xRYlRmQXR3ODZYTjJveVZYT1lOUVVlZzJoc0hXVURJVDliSnJZcXk1TzFkTy1HZlgwVG5SUzNXY0s4UExndkRJTA?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-10-02T09:34:28+08:00",
-          "type": "媒体",
-          "summary": "苏度科技完成超10亿元融资，具身智能机器人平台获多家机构投资 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "华为全联接大会演播室 - Huawei",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WUtxd0F4cnZsT1ZxbWtIS0lpLVhIei1ZVlh3VWxlcEhsanlKTXg2alNoLTJYV1JuSDJ6NVk3RFRULXJZdUl4SmYzMnotSHNKWVdza3hkZmRJQQ?oc=5",
-          "source": "Huawei",
-          "published_at": "2026-09-16T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "华为全联接大会演播室 Huawei",
-          "image": ""
-        },
-        {
           "title": "这届机器人没有新故事，只有真问题 - 华尔街见闻",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96dFdiZ204bVloRDBWbzd4Y2txaF9aaVBUbXRvdXZIcG5DaHJXejgtSk4yNmJ3TjlSUG51WmowZHI0UUZSRHNVcW45TnBnME14YjE4?oc=5",
           "source": "华尔街见闻",
@@ -387,6 +378,15 @@
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "媒体",
           "summary": "SMG千人团队深度参与2026世界人工智能大会 https://guan.media/",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aSERGMUp4UlV3Z1Q5Wl8tMkJ2VjhuWVZ0QTluTDV2LU5XbVM1ZHhrTFp0VHI0UkY2bkVXZmc1ZHJXRjlaTE1UcDc0dG1XWkxqM3RaVQ?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-07-22T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 虎嗅网",
           "image": ""
         }
       ]
@@ -445,15 +445,6 @@
           "image": ""
         },
         {
-          "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WdGgzQ2kzSllmalg3cldWWHVBQm9XU0pkZHJYWjlLMXQ1Z09OR01lMDNMR1NMaGowTUhmcmJ5OERDMmVuWVd0VFBBVU44dw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新 36Kr",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026世界人工智能大会：实体世界智能科学论坛 - 21财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ub2pBVmM1YWVobXhiUnhReFRWRGczTUI5VHdqck5yTkR6WlpiXzZyLVo2eG04aklOa1JaZDAtZmxxbkpxRlV0UmZBS20tb1BvQXNV?oc=5",
           "source": "21财经",
@@ -509,7 +500,7 @@
         },
         {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
@@ -580,15 +571,6 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13QU5yWkg2ejIwUExWOEk3bXhHTFgyQ0p2SjNTLVlrNjFEMVFZWmM1OFZfMXhSdzhodjE4OVF4ekpndnZwRzV2VC1JSUxTdw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-07T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 36Kr",
-          "image": ""
-        },
-        {
           "title": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议AI开源、教育、AI普惠、赋身智能、神经网络、超级智能大模型！_哔哩哔哩 - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ySVlHVFFVU0lKNFVNQ1VRZm5rMGRtQUZ1TzQ2SkVCeHNGQ0R4VjlPaFhsOEZ4Vmg2alBiM2N5RTd6dl81V2NycEZzcFZoOC1aR2poSXlKMA?oc=5",
           "source": "Bilibili",
@@ -604,6 +586,15 @@
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
           "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "image": ""
+        },
+        {
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
+          "source": "36Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36Kr",
           "image": ""
         },
         {
@@ -686,21 +677,21 @@
           "image": ""
         },
         {
-          "title": "直击WAIC｜消费企业一旦建立起用户洞察、营销与产品创新、服务反馈、供应链与经营优化的正向飞轮，就会形成“越用越聪明、越高效、越增长”的复利循环。_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSDA5dmxmbW0zX1ZLWmdQWThjbVRYZjJvN3RLXzNJeVpRS1VIWTZLT2pLMm50UnQ3SGhlM3ZwVW5mRm5lZnpJVzR4SEpuUW82Y2htWjF0VQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "直击WAIC｜消费企业一旦建立起用户洞察、营销与产品创新、服务反馈、供应链与经营优化的正向飞轮，就会形成“越用越聪明、越高效、越增长”的复利循环。_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
           "source": "品玩",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "直播",
           "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 品玩",
+          "image": ""
+        },
+        {
+          "title": "直击WAIC｜消费企业一旦建立起用户洞察、营销与产品创新、服务反馈、供应链与经营优化的正向飞轮，就会形成“越用越聪明、越高效、越增长”的复利循环。_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSDA5dmxmbW0zX1ZLWmdQWThjbVRYZjJvN3RLXzNJeVpRS1VIWTZLT2pLMm50UnQ3SGhlM3ZwVW5mRm5lZnpJVzR4SEpuUW82Y2htWjF0VQ?oc=5",
+          "source": "Bilibili",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "直击WAIC｜消费企业一旦建立起用户洞察、营销与产品创新、服务反馈、供应链与经营优化的正向飞轮，就会形成“越用越聪明、越高效、越增长”的复利循环。_哔哩哔哩 Bilibili",
           "image": ""
         },
         {
@@ -867,6 +858,16 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "虎嗅网",
+      "title": "中国黑客松热潮：一场各取所需的资源置换游戏",
+      "point": "中国黑客松热潮：一场各取所需的资源置换游戏 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03ZjZBZzQ0LXlhbUZHb1BwT0JmdlVRUzk2Tkd5TXN6OVJ4R3hFbmgtb0EydGlqVjJjbjk5T0VvRl9obHlRekh1MmZFd2U4Wmx4dmdFSQ?oc=5",
+      "published_at": "2026-10-09T12:09:09+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅网",
       "title": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口",
       "point": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTXIxVWlJb0ZLaTN1aGdIZzNHRktXM0s0R0NrbTBMaHU0WEFkZmRRVS1IRFpHc1JYOWlhQ05UZVA2aERUejg0Q2I5WEdQVTF5d1lhNA?oc=5",
@@ -881,16 +882,6 @@
       "point": "【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BajR3TU5sbTNnM0JSX1Npak5HOEY2Ync4Rk5Ca1lxOTZXSUhfS19HNTZQTDVBYnV2Vk55aUEySU1fWTltUE1ZRDNSa2xXbDExUUN6Sm1VVHFjQkhjODBj?oc=5",
       "published_at": "2026-10-08T14:34:11+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "AI算力重心从训练转向推理 Token消耗五年或增370倍",
-      "point": "AI算力重心从训练转向推理 Token消耗五年或增370倍 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UM3FmZHpLNFZfZzlnbXdNSGNzcUFHN3I3NzJ4V1hrMHhUWmZBcmo0RXdXRHEyQVBhVnJMTEtvSnFCSndkVGtyaVowQ0ZkOG91YS1hag?oc=5",
-      "published_at": "2026-10-08T11:30:26+08:00",
       "type": "媒体"
     },
     {
