@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-11T08:22:33.947953+08:00",
+  "generated_at": "2026-10-11T14:14:59.265219+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月11日 08:22",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月11日 14:14",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 119 条、直播 20 条、论坛 25 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 118 条、直播 20 条、论坛 24 条，已按企业家阅读场景分组。",
     "虎嗅网：中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网",
     "虎嗅网：【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ - 虎嗅网",
     "虎嗅网：AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
@@ -90,15 +90,6 @@
           "image": ""
         },
         {
-          "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WdGgzQ2kzSllmalg3cldWWHVBQm9XU0pkZHJYWjlLMXQ1Z09OR01lMDNMR1NMaGowTUhmcmJ5OERDMmVuWVd0VFBBVU44dw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新 36Kr",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026世界人工智能大会：实体世界智能科学论坛 - 21财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ub2pBVmM1YWVobXhiUnhReFRWRGczTUI5VHdqck5yTkR6WlpiXzZyLVo2eG04aklOa1JaZDAtZmxxbkpxRlV0UmZBS20tb1BvQXNV?oc=5",
           "source": "21财经",
@@ -123,6 +114,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vLUdZb0x1OUFRYUtKaEhoWWt4eGxMVkdITEM0X2k4WkwydHlwQ25wdHVES1JEMGx2cWc2cjNFOEtNeEpIRVI0OEt1VlJYV04tajRlU1JQMUpjdw?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 上观新闻",
           "image": ""
         }
       ]
@@ -318,15 +318,6 @@
           "image": ""
         },
         {
-          "title": "华为全联接大会演播室 - Huawei",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WUtxd0F4cnZsT1ZxbWtIS0lpLVhIei1ZVlh3VWxlcEhsanlKTXg2alNoLTJYV1JuSDJ6NVk3RFRULXJZdUl4SmYzMnotSHNKWVdza3hkZmRJQQ?oc=5",
-          "source": "Huawei",
-          "published_at": "2026-09-16T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "华为全联接大会演播室 Huawei",
-          "image": ""
-        },
-        {
           "title": "这届机器人没有新故事，只有真问题 - 华尔街见闻",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96dFdiZ204bVloRDBWbzd4Y2txaF9aaVBUbXRvdXZIcG5DaHJXejgtSk4yNmJ3TjlSUG51WmowZHI0UUZSRHNVcW45TnBnME14YjE4?oc=5",
           "source": "华尔街见闻",
@@ -387,6 +378,15 @@
           "published_at": "2026-07-22T21:41:09+08:00",
           "type": "媒体",
           "summary": "为什么AI还不会科学发现？这是人工智能的终极考题 第一财经",
+          "image": ""
+        },
+        {
+          "title": "SMG千人团队深度参与2026世界人工智能大会 - https://guan.media/",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRmdkMTRwMVd3ZWxmUU5mMHlRUEFaX1d0NUFkWmRNOFJORWtsdExzU0RmbnlLZ0pEYjdRLVQ2bVRSX1Fna0tQZlpJRHBkcWFxSEhQNVJLOV80R2ZwbnBhdEExZW1pOThJenc?oc=5",
+          "source": "https://guan.media/",
+          "published_at": "2026-07-22T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "SMG千人团队深度参与2026世界人工智能大会 https://guan.media/",
           "image": ""
         }
       ]
@@ -469,15 +469,6 @@
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "论坛",
           "summary": "直击现场！WAIC这一论坛上，超多成果重磅发布！ 上海市人民政府",
-          "image": ""
-        },
-        {
-          "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WdGgzQ2kzSllmalg3cldWWHVBQm9XU0pkZHJYWjlLMXQ1Z09OR01lMDNMR1NMaGowTUhmcmJ5OERDMmVuWVd0VFBBVU44dw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新 36Kr",
           "image": ""
         },
         {
