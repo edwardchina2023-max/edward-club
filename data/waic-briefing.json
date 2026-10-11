@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T02:21:23.368454+08:00",
+  "generated_at": "2026-10-12T06:19:31.345071+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月12日 02:21",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月12日 06:19",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
     "本轮抓取到 媒体 117 条、直播 20 条、论坛 25 条，已按企业家阅读场景分组。",
@@ -160,15 +160,6 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
           "source": "QQ News",
@@ -184,6 +175,15 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
           "image": ""
         },
         {
@@ -318,6 +318,15 @@
           "image": ""
         },
         {
+          "title": "开放边缘平台、具身智能开发套件，英特尔把AI“装进现实”_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04U2V4TVE5M2d5bm92bExyXzZkb3lMa3pGSUNmOGVFN0JZLUJtbXBsSHhTbkNSOU1ZeEQ0M01DUUx5cVJ3V19KaC1TYlNzdnctZzQyTjd3?oc=5",
+          "source": "Bilibili",
+          "published_at": "2026-09-24T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "开放边缘平台、具身智能开发套件，英特尔把AI“装进现实”_哔哩哔哩 Bilibili",
+          "image": ""
+        },
+        {
           "title": "这届机器人没有新故事，只有真问题 - 华尔街见闻",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96dFdiZ204bVloRDBWbzd4Y2txaF9aaVBUbXRvdXZIcG5DaHJXejgtSk4yNmJ3TjlSUG51WmowZHI0UUZSRHNVcW45TnBnME14YjE4?oc=5",
           "source": "华尔街见闻",
@@ -378,15 +387,6 @@
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "媒体",
           "summary": "SMG千人团队深度参与2026世界人工智能大会 https://guan.media/",
-          "image": ""
-        },
-        {
-          "title": "AI手机，开始革自己的命 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EMldwNjZuc3JHeWk3eVVPcXlyX1VXeHBNWGE5X1RsTDl6M1VEWFhDZ3dITDIwYmZ0aEdfUHZ5NWVCMEVhMFhpcEpiM2hXQQ?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-22T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "AI手机，开始革自己的命 36Kr",
           "image": ""
         }
       ]
