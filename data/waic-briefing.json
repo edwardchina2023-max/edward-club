@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-11T05:22:54.360474+08:00",
+  "generated_at": "2026-10-11T08:22:33.947953+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月11日 05:22",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月11日 08:22",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 119 条、直播 19 条、论坛 25 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 119 条、直播 20 条、论坛 25 条，已按企业家阅读场景分组。",
     "虎嗅网：中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网",
     "虎嗅网：【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ - 虎嗅网",
     "虎嗅网：AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
-    "36Kr：从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr",
+    "36氪：从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36氪",
     "finance.sina.com.cn：2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年 - finance.sina.com.cn"
   ],
   "sections": [
@@ -178,6 +178,15 @@
           "image": ""
         },
         {
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
+          "image": ""
+        },
+        {
           "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
           "source": "上观新闻",
@@ -229,15 +238,6 @@
           "published_at": "2026-07-14T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
-          "image": ""
-        },
-        {
-          "title": "努比亚公布WAIC 2026产品阵容：全球首款AI智能体手机、AI宠物、直播神器 - 驱动之家",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hNlVLVGNRNUxCUGhBWEpnQnVrNllNN3ZWanhwZWlmQTVjYnBSZnExWG5zUWFiVmdNUG5KSXJwMlZlODJZeHpvMmlXMDlNbjlBTjh2VkZ0Tmg?oc=5",
-          "source": "驱动之家",
-          "published_at": "2026-07-14T15:00:00+08:00",
-          "type": "直播",
-          "summary": "努比亚公布WAIC 2026产品阵容：全球首款AI智能体手机、AI宠物、直播神器 驱动之家",
           "image": ""
         }
       ]
@@ -309,12 +309,12 @@
           "image": ""
         },
         {
-          "title": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51Ny1RaDNPenZKRTJNamppWHd2OVFqbmU1cUlHaUxFUVNlUHZrMVpUZXRtQ3dfbklPMkZreXN1TENOb3ZhSVlIQ0FGZVJTY2wz?oc=5",
-          "source": "36Kr",
+          "title": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36氪",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03cURCbl9LWGMxemxlUmVpQnZOeWtKREZwZ2hIWDBWczdpYmxOOHJaWHRMTlpZSDFoaFRqSkdzWkFGVUU5QnlMbnctV2NEdw?oc=5",
+          "source": "36氪",
           "published_at": "2026-10-07T23:16:00+08:00",
           "type": "媒体",
-          "summary": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 36Kr",
+          "summary": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 36氪",
           "image": ""
         },
         {
@@ -535,15 +535,6 @@
           "image": ""
         },
         {
-          "title": "WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛__澎湃新闻-The Paper - ThePaper.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBN09kNnVkWU5US2hZYU1OQko5cm1KQzBnM2xUV3h1SjVzdEpKQkZFX2o3NnZjeXYwMUU3ZEZjVmdJeDVzMkdFZGF0SEZkMkxsVk5meDVIbkQ5NnVKb1E?oc=5",
-          "source": "ThePaper.cn",
-          "published_at": "2026-07-17T13:30:41+08:00",
-          "type": "论坛",
-          "summary": "WAIC直击丨2026世界人工智能大会暨人工智能全球治理高级别会议主论坛__澎湃新闻-The Paper ThePaper.cn",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026世界人工智能大会：未来计算与未来算力论坛 - 21财经",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ib18yYnZVLWhfR0EyY3luUF9BN2Q2VXZlNHp3YmlVWjBUVXpjWGZjNUJYa0JKUEtsTTkwVjJmbUZhOHh0NEpXYmExdHdBRjJWVGNZ?oc=5",
           "source": "21财经",
@@ -595,6 +586,15 @@
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
           "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "image": ""
+        },
+        {
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
+          "source": "36Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36Kr",
           "image": ""
         },
         {
