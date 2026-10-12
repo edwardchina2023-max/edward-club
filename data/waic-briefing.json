@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-12T09:36:31.232175+08:00",
+  "generated_at": "2026-10-12T16:52:25.504908+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月12日 09:36",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月12日 16:52",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 117 条、直播 20 条、论坛 24 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 119 条、直播 20 条、论坛 24 条，已按企业家阅读场景分组。",
+    "36Kr：累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36Kr",
+    "虎嗅网：2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 - 虎嗅网",
     "虎嗅网：中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网",
     "虎嗅网：【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ - 虎嗅网",
-    "虎嗅网：AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
-    "36氪：从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 - 36氪",
-    "finance.sina.com.cn：2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年 - finance.sina.com.cn"
+    "虎嗅网：AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网"
   ],
   "sections": [
     {
@@ -169,6 +169,15 @@
           "image": ""
         },
         {
+          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
+          "image": ""
+        },
+        {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
           "source": "上观新闻",
@@ -184,15 +193,6 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
-          "image": ""
-        },
-        {
-          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
           "image": ""
         },
         {
@@ -282,6 +282,24 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
+          "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSnVBNE45VGlDbjAzdUpRVFRCRFZ0VHB4eEE4a3E1ekRTY3BZcUJ3eDBLYWpYMGZXbGw1d19lWGxIUDRFR0JwbTMzdjF6dw?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-10-11T22:55:00+08:00",
+          "type": "媒体",
+          "summary": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 36Kr",
+          "image": ""
+        },
+        {
+          "title": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ERTFQT1FSVEtKSi1oMF9XQTRrT0xZc3hjNFhLMGRCRWhPaDB2Zk1VZUtXTU9BSHJqd08xenVNSi1FYUNvU0JZSmdZN2laQ29VNElFbA?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-10T18:09:14+08:00",
+          "type": "媒体",
+          "summary": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 虎嗅网",
+          "image": ""
+        },
+        {
           "title": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTXIxVWlJb0ZLaTN1aGdIZzNHRktXM0s0R0NrbTBMaHU0WEFkZmRRVS1IRFpHc1JYOWlhQ05UZVA2aERUejg0Q2I5WEdQVTF5d1lhNA?oc=5",
           "source": "虎嗅网",
@@ -315,6 +333,15 @@
           "published_at": "2026-10-07T23:16:00+08:00",
           "type": "媒体",
           "summary": "从红外卫星到太空私有云SaaS，星火传明完成新一轮融资 36氪",
+          "image": ""
+        },
+        {
+          "title": "美国机器人格斗赛上演人机大战，人类挑战者被机器人一脚踹飞 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fT2pxVFlqdHdYMkVHYzNVcTZNNXA5WHExaUdaUkd2VVUwaTY5a0hnRXpFZ2d2RGRIRzVveXpnQlZfSWFNMjlTSkFJVTMxRmNKMXBROQ?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-06T22:10:59+08:00",
+          "type": "媒体",
+          "summary": "美国机器人格斗赛上演人机大战，人类挑战者被机器人一脚踹飞 虎嗅网",
           "image": ""
         },
         {
@@ -360,33 +387,6 @@
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "媒体",
           "summary": "同济大学科技园硬科技企业组团亮相2026世界人工智能大会 同济大学新闻网",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GYlg5YVZTLUZhN1p5MzBwazZ4TGxoRExXSTlTUzJBUU5QYWdjMGZWR0VfWkhaQzNsRnRwU2habFJSUDhCcjAwN2JQUmlWRldEalFMZA?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51X05nYUU1cnJDUzdYTDZQQkZ5ZWxSdzhsSTVuMGRVQndsMEQ1SERnTGRPRUk3T1VqZFBDc1RtMEZIU1dkRGEtS0V1cDVKdw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ 36Kr",
-          "image": ""
-        },
-        {
-          "title": "SMG千人团队深度参与2026世界人工智能大会 - https://guan.media/",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRmdkMTRwMVd3ZWxmUU5mMHlRUEFaX1d0NUFkWmRNOFJORWtsdExzU0RmbnlLZ0pEYjdRLVQ2bVRSX1Fna0tQZlpJRHBkcWFxSEhQNVJLOV80R2ZwbnBhdEExZW1pOThJenc?oc=5",
-          "source": "https://guan.media/",
-          "published_at": "2026-07-22T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "SMG千人团队深度参与2026世界人工智能大会 https://guan.media/",
           "image": ""
         }
       ]
@@ -839,31 +839,31 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
+      "source": "36Kr",
+      "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿",
+      "point": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSnVBNE45VGlDbjAzdUpRVFRCRFZ0VHB4eEE4a3E1ekRTY3BZcUJ3eDBLYWpYMGZXbGw1d19lWGxIUDRFR0JwbTMzdjF6dw?oc=5",
+      "published_at": "2026-10-11T22:55:00+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅网",
+      "title": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流",
+      "point": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ERTFQT1FSVEtKSi1oMF9XQTRrT0xZc3hjNFhLMGRCRWhPaDB2Zk1VZUtXTU9BSHJqd08xenVNSi1FYUNvU0JZSmdZN2laQ29VNElFbA?oc=5",
+      "published_at": "2026-10-10T18:09:14+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
       "source": "虎嗅网",
       "title": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口",
       "point": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTXIxVWlJb0ZLaTN1aGdIZzNHRktXM0s0R0NrbTBMaHU0WEFkZmRRVS1IRFpHc1JYOWlhQ05UZVA2aERUejg0Q2I5WEdQVTF5d1lhNA?oc=5",
       "published_at": "2026-10-08T18:59:54+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？",
-      "point": "【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BajR3TU5sbTNnM0JSX1Npak5HOEY2Ync4Rk5Ca1lxOTZXSUhfS19HNTZQTDVBYnV2Vk55aUEySU1fWTltUE1ZRDNSa2xXbDExUUN6Sm1VVHFjQkhjODBj?oc=5",
-      "published_at": "2026-10-08T14:34:11+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "AI算力重心从训练转向推理 Token消耗五年或增370倍",
-      "point": "AI算力重心从训练转向推理 Token消耗五年或增370倍 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UM3FmZHpLNFZfZzlnbXdNSGNzcUFHN3I3NzJ4V1hrMHhUWmZBcmo0RXdXRHEyQVBhVnJMTEtvSnFCSndkVGtyaVowQ0ZkOG91YS1hag?oc=5",
-      "published_at": "2026-10-08T11:30:26+08:00",
       "type": "媒体"
     },
     {
