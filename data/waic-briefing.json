@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-12T16:52:25.504908+08:00",
+  "generated_at": "2026-10-13T02:47:13.187455+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月12日 16:52",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月13日 02:47",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 119 条、直播 20 条、论坛 24 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 118 条、直播 21 条、论坛 25 条，已按企业家阅读场景分组。",
+    "虎嗅网：虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 - 虎嗅网",
+    "36Kr：23亿，AI Infra独角兽又拿到大额融资 - 36Kr",
     "36Kr：累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36Kr",
     "虎嗅网：2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 - 虎嗅网",
-    "虎嗅网：中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网",
-    "虎嗅网：【关于 AI 产品经理】战略价值和用户场景之间的鸿沟，要用什么来填？ - 虎嗅网",
-    "虎嗅网：AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网"
+    "虎嗅网：中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网"
   ],
   "sections": [
     {
@@ -282,6 +282,24 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
+          "title": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpd21RV3R3M2Y3eWlxYkl0UnI1MHh5bjh2ZVNXenRaZ3dIVnQzTU96aFhuSGVicG9GNU1JY2E1UlBDWHNEVzEzLVJSZXFUVGhkcHc?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-12T21:37:17+08:00",
+          "type": "媒体",
+          "summary": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "23亿，AI Infra独角兽又拿到大额融资 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS3hXZnJGem1ETlZ4UDVOdWJfV0dtSW5zek5RZExuS2NEVVRJa0pGSWwzc3Nyc0tZQ1RFZDBicjY3UDNleHVQYW1XaXFMUQ?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-10-12T05:31:00+08:00",
+          "type": "媒体",
+          "summary": "23亿，AI Infra独角兽又拿到大额融资 36Kr",
+          "image": ""
+        },
+        {
           "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSnVBNE45VGlDbjAzdUpRVFRCRFZ0VHB4eEE4a3E1ekRTY3BZcUJ3eDBLYWpYMGZXbGw1d19lWGxIUDRFR0JwbTMzdjF6dw?oc=5",
           "source": "36Kr",
@@ -345,15 +363,6 @@
           "image": ""
         },
         {
-          "title": "开放边缘平台、具身智能开发套件，英特尔把AI“装进现实”_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04U2V4TVE5M2d5bm92bExyXzZkb3lMa3pGSUNmOGVFN0JZLUJtbXBsSHhTbkNSOU1ZeEQ0M01DUUx5cVJ3V19KaC1TYlNzdnctZzQyTjd3?oc=5",
-          "source": "Bilibili",
-          "published_at": "2026-09-24T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "开放边缘平台、具身智能开发套件，英特尔把AI“装进现实”_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
           "title": "这届机器人没有新故事，只有真问题 - 华尔街见闻",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96dFdiZ204bVloRDBWbzd4Y2txaF9aaVBUbXRvdXZIcG5DaHJXejgtSk4yNmJ3TjlSUG51WmowZHI0UUZSRHNVcW45TnBnME14YjE4?oc=5",
           "source": "华尔街见闻",
@@ -378,15 +387,6 @@
           "published_at": "2026-07-29T15:00:00+08:00",
           "type": "媒体",
           "summary": "启明星 | 回顾一下！那些你在WAIC 2026意犹未尽的展览和演讲 启明创投",
-          "image": ""
-        },
-        {
-          "title": "同济大学科技园硬科技企业组团亮相2026世界人工智能大会 - 同济大学新闻网",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SE50SlRUaEY0S2dFYnl3Xy1FOWJrOXJmQVAyeG1rTVNoa3JXWENtM04wUEpvXzhZc3JaQS1DOWxWTmNHRmNkUUdTSExWNFZha01yZzNIYmRQZw?oc=5",
-          "source": "同济大学新闻网",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "同济大学科技园硬科技企业组团亮相2026世界人工智能大会 同济大学新闻网",
           "image": ""
         }
       ]
@@ -505,6 +505,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会“AI+媒体”主题论坛在沪举行 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办，多项智能体产业成果集中亮相 - 中华网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4RTZKVTZtS2hjeFVVWjFTZ3cydExrS3BmUjlfMzVCRTRxckV0NGZQTW9SR0tkRWRmT1FOZFVyS096d2FhREhBd1Z6YjM0OEdjNGlLaXdfNXRZZWxVTE05U2xrVll3MUFWSTVCb1RrZzY?oc=5",
+          "source": "中华网",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办，多项智能体产业成果集中亮相 中华网",
           "image": ""
         },
         {
@@ -677,15 +686,6 @@
           "image": ""
         },
         {
-          "title": "直击WAIC｜消费企业一旦建立起用户洞察、营销与产品创新、服务反馈、供应链与经营优化的正向飞轮，就会形成“越用越聪明、越高效、越增长”的复利循环。_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSDA5dmxmbW0zX1ZLWmdQWThjbVRYZjJvN3RLXzNJeVpRS1VIWTZLT2pLMm50UnQ3SGhlM3ZwVW5mRm5lZnpJVzR4SEpuUW82Y2htWjF0VQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "直击WAIC｜消费企业一旦建立起用户洞察、营销与产品创新、服务反馈、供应链与经营优化的正向飞轮，就会形成“越用越聪明、越高效、越增长”的复利循环。_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
           "source": "QQ News",
@@ -794,6 +794,15 @@
           "image": ""
         },
         {
+          "title": "东南亚1v1社交、dating、语聊房、直播top App声网渗透率第一 - 飞象网",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbUpXVWpxQ3lmS1IxaEV6TFFiSDB0VEFUYUtrQy10eC14cVpZV1FueTBwU0Q5MjRJUWdGYmJDeV82WnBrQUVUekhxeHJQbzViRE04aE9NZUkwOXdtS1E?oc=5",
+          "source": "飞象网",
+          "published_at": "2024-06-26T15:00:00+08:00",
+          "type": "直播",
+          "summary": "东南亚1v1社交、dating、语聊房、直播top App声网渗透率第一 飞象网",
+          "image": ""
+        },
+        {
           "title": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 - 21财经",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fMmFDV0l4UzB5eWtiR25wYTJVUHd1UnA1UDZXSm92djZrQ3FFbHF2UWFuTHVYRWVLZ1hENmhOSWF5WGVTM2Z6OHMzeVZLOUkya0E?oc=5",
           "source": "21财经",
@@ -839,31 +848,31 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
+      "source": "虎嗅网",
+      "title": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值",
+      "point": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpd21RV3R3M2Y3eWlxYkl0UnI1MHh5bjh2ZVNXenRaZ3dIVnQzTU96aFhuSGVicG9GNU1JY2E1UlBDWHNEVzEzLVJSZXFUVGhkcHc?oc=5",
+      "published_at": "2026-10-12T21:37:17+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "36Kr",
+      "title": "23亿，AI Infra独角兽又拿到大额融资",
+      "point": "23亿，AI Infra独角兽又拿到大额融资 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS3hXZnJGem1ETlZ4UDVOdWJfV0dtSW5zek5RZExuS2NEVVRJa0pGSWwzc3Nyc0tZQ1RFZDBicjY3UDNleHVQYW1XaXFMUQ?oc=5",
+      "published_at": "2026-10-12T05:31:00+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
       "source": "36Kr",
       "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿",
       "point": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSnVBNE45VGlDbjAzdUpRVFRCRFZ0VHB4eEE4a3E1ekRTY3BZcUJ3eDBLYWpYMGZXbGw1d19lWGxIUDRFR0JwbTMzdjF6dw?oc=5",
       "published_at": "2026-10-11T22:55:00+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流",
-      "point": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ERTFQT1FSVEtKSi1oMF9XQTRrT0xZc3hjNFhLMGRCRWhPaDB2Zk1VZUtXTU9BSHJqd08xenVNSi1FYUNvU0JZSmdZN2laQ29VNElFbA?oc=5",
-      "published_at": "2026-10-10T18:09:14+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口",
-      "point": "中国传统行业加速AI落地：微观提效与经验数字化成为突破口 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTXIxVWlJb0ZLaTN1aGdIZzNHRktXM0s0R0NrbTBMaHU0WEFkZmRRVS1IRFpHc1JYOWlhQ05UZVA2aERUejg0Q2I5WEdQVTF5d1lhNA?oc=5",
-      "published_at": "2026-10-08T18:59:54+08:00",
       "type": "媒体"
     },
     {
