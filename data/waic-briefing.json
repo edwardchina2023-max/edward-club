@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-13T09:10:11.892105+08:00",
+  "generated_at": "2026-10-13T16:15:18.104888+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月13日 09:10",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月13日 16:15",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 118 条、直播 21 条、论坛 25 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 118 条、直播 22 条、论坛 25 条，已按企业家阅读场景分组。",
     "搜狐：广交会探营“剧透”：从海外直播间到1米级导航，新意扑面而来 - 搜狐",
     "虎嗅网：虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 - 虎嗅网",
+    "36 Kr：2026国际具身智能技能大赛10月23日上海举办 真机实训打造全国具身智能实景实战示范平台 - 36 Kr",
     "36Kr：23亿，AI Infra独角兽又拿到大额融资 - 36Kr",
-    "36Kr：累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36Kr",
-    "虎嗅网：2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 - 虎嗅网"
+    "36Kr：累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36Kr"
   ],
   "sections": [
     {
@@ -151,6 +151,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 - CSDN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWOHdWYjdnS0J4R2ZoWWhmWXNGcGFOSG05MFM3OWNBaUVUQjRUdkRINEg2VVZqbUFScjRydEdkck1pRnUydy1HN2w2cFhUd0hCMnhxTlF6ejJxQW1VZHc?oc=5",
+          "source": "CSDN",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 CSDN",
+          "image": ""
+        },
+        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
           "source": "品玩",
@@ -230,15 +239,6 @@
           "type": "直播",
           "summary": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 观察者网",
           "image": ""
-        },
-        {
-          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
-          "source": "智源社区",
-          "published_at": "2026-07-14T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
-          "image": ""
         }
       ]
     },
@@ -291,6 +291,15 @@
           "image": ""
         },
         {
+          "title": "2026国际具身智能技能大赛10月23日上海举办 真机实训打造全国具身智能实景实战示范平台 - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xaldJZmZQT01Mand1dkJGVHRyT0JYcTVmYTR3OGE4ME1nWHpzaVYwaHoxWXBPaDdYeE0tSTVITGgwM1pZdEpUWF9SQ21MaUxvYmVj?oc=5",
+          "source": "36 Kr",
+          "published_at": "2026-10-12T19:22:00+08:00",
+          "type": "媒体",
+          "summary": "2026国际具身智能技能大赛10月23日上海举办 真机实训打造全国具身智能实景实战示范平台 36 Kr",
+          "image": ""
+        },
+        {
           "title": "23亿，AI Infra独角兽又拿到大额融资 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS3hXZnJGem1ETlZ4UDVOdWJfV0dtSW5zek5RZExuS2NEVVRJa0pGSWwzc3Nyc0tZQ1RFZDBicjY3UDNleHVQYW1XaXFMUQ?oc=5",
           "source": "36Kr",
@@ -337,7 +346,7 @@
         },
         {
           "title": "AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtX3U1VWtNNnNQNnhQbWluNWtxSnJWWG1HSTZidTlkamNEdzdEdjBCWF9qRG9tQm80c1Y5RzBCTEdKN1JFem9EakU2eTV6NEgzYmR5NjRPTlBtcEdyLUFJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UM3FmZHpLNFZfZzlnbXdNSGNzcUFHN3I3NzJ4V1hrMHhUWmZBcmo0RXdXRHEyQVBhVnJMTEtvSnFCSndkVGtyaVowQ0ZkOG91YS1hag?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-10-08T11:30:26+08:00",
           "type": "媒体",
@@ -378,15 +387,6 @@
           "published_at": "2026-08-07T15:00:00+08:00",
           "type": "媒体",
           "summary": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "启明星 | 回顾一下！那些你在WAIC 2026意犹未尽的展览和演讲 - 启明创投",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNLUVKcVZwSnhMdzF5c2pOQ2xadTFyaG9jeEhuQk9sbDdGT1VCcXg5M1FqekRaVktlRF9jMFdQZzZpZ19MSFdpMjVZMi1UWFhEMWRnOE12YUE2c1dQT09nOW50c2xPYk9Wcmp0Q3poRVBRUElidC1IVjZfTHdPYnVqdDBkdTFITnhFbUQ0YmhreVJoQXoySVE0alhQT21VWHZwTG9BckdLSWJuRWduRTZxYVEtZHFHczZZcXp2VDgxTDAxUjRsNnZCXzlPZ2NIUlNWZzljOU1ieFlTb2Y1TUdHSE1oNlpUd3lERnNfX3JvYnItc3BOSWdybzV5M1ZNNnM5SEEySHkzN2N4Q0RYR001OTJwSzczQmRBOFRPQ2tPalpENzA3elN5RXZ6cEZRRnFaT1ZsdGpKcWlES05VT3EtdG1PYUxSTG9uSG9BZ0gwa0d0d0lhMjNpcms1a2hFQQ?oc=5",
-          "source": "启明创投",
-          "published_at": "2026-07-29T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "启明星 | 回顾一下！那些你在WAIC 2026意犹未尽的展览和演讲 启明创投",
           "image": ""
         }
       ]
@@ -677,6 +677,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 - CSDN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWOHdWYjdnS0J4R2ZoWWhmWXNGcGFOSG05MFM3OWNBaUVUQjRUdkRINEg2VVZqbUFScjRydEdkck1pRnUydy1HN2w2cFhUd0hCMnhxTlF6ejJxQW1VZHc?oc=5",
+          "source": "CSDN",
+          "published_at": "2026-07-20T15:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 CSDN",
+          "image": ""
+        },
+        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
           "source": "品玩",
@@ -785,21 +794,21 @@
           "image": ""
         },
         {
+          "title": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月28日 - 央视网",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jYkVmcTJ3c2FkeExieGpJTTdIZlhyc1hPaHpOVlc4anpIVEhFZTI0UHZIUzFUMXZFX2lCSGtvLWNGT3dMM1BtR1hYcDB0SFA3dnFPSlM1a043YWVKVmZHUXdUX0NVZFc5aWlaTE4tR2ZuWGQ0cVRfaUk4QVY2QQ?oc=5",
+          "source": "央视网",
+          "published_at": "2025-07-28T15:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月28日 央视网",
+          "image": ""
+        },
+        {
           "title": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月26日 - 央视网",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaLWJSVDNpUU9Ob2hOLUpfZ1ZyNHpqRXNGZ2Q0bm93aVE3ZlV6aUp4WnB3dDA0Z0Yzc2ozbEwxVm1BTXJ6YXllRkY1LWVqYnYyLWVIRmJQTXJrXzFCVjA5TjhoWS1BYTY3NnVIcDlGVDRZR1dvUERmQ3hfUmZaUQ?oc=5",
           "source": "央视网",
           "published_at": "2025-07-27T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月26日 央视网",
-          "image": ""
-        },
-        {
-          "title": "东南亚1v1社交、dating、语聊房、直播top App声网渗透率第一 - 飞象网",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbUpXVWpxQ3lmS1IxaEV6TFFiSDB0VEFUYUtrQy10eC14cVpZV1FueTBwU0Q5MjRJUWdGYmJDeV82WnBrQUVUekhxeHJQbzViRE04aE9NZUkwOXdtS1E?oc=5",
-          "source": "飞象网",
-          "published_at": "2024-06-26T15:00:00+08:00",
-          "type": "直播",
-          "summary": "东南亚1v1社交、dating、语聊房、直播top App声网渗透率第一 飞象网",
           "image": ""
         },
         {
@@ -858,21 +867,21 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
-      "title": "23亿，AI Infra独角兽又拿到大额融资",
-      "point": "23亿，AI Infra独角兽又拿到大额融资 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS3hXZnJGem1ETlZ4UDVOdWJfV0dtSW5zek5RZExuS2NEVVRJa0pGSWwzc3Nyc0tZQ1RFZDBicjY3UDNleHVQYW1XaXFMUQ?oc=5",
-      "published_at": "2026-10-12T05:31:00+08:00",
+      "source": "36 Kr",
+      "title": "2026国际具身智能技能大赛10月23日上海举办 真机实训打造全国具身智能实景实战示范平台",
+      "point": "2026国际具身智能技能大赛10月23日上海举办 真机实训打造全国具身智能实景实战示范平台 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xaldJZmZQT01Mand1dkJGVHRyT0JYcTVmYTR3OGE4ME1nWHpzaVYwaHoxWXBPaDdYeE0tSTVITGgwM1pZdEpUWF9SQ21MaUxvYmVj?oc=5",
+      "published_at": "2026-10-12T19:22:00+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "36Kr",
-      "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿",
-      "point": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSnVBNE45VGlDbjAzdUpRVFRCRFZ0VHB4eEE4a3E1ekRTY3BZcUJ3eDBLYWpYMGZXbGw1d19lWGxIUDRFR0JwbTMzdjF6dw?oc=5",
-      "published_at": "2026-10-11T22:55:00+08:00",
+      "title": "23亿，AI Infra独角兽又拿到大额融资",
+      "point": "23亿，AI Infra独角兽又拿到大额融资 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS3hXZnJGem1ETlZ4UDVOdWJfV0dtSW5zek5RZExuS2NEVVRJa0pGSWwzc3Nyc0tZQ1RFZDBicjY3UDNleHVQYW1XaXFMUQ?oc=5",
+      "published_at": "2026-10-12T05:31:00+08:00",
       "type": "媒体"
     },
     {
