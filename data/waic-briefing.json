@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-13T02:47:13.187455+08:00",
+  "generated_at": "2026-10-13T09:10:11.892105+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月13日 02:47",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月13日 09:10",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
     "本轮抓取到 媒体 118 条、直播 21 条、论坛 25 条，已按企业家阅读场景分组。",
+    "搜狐：广交会探营“剧透”：从海外直播间到1米级导航，新意扑面而来 - 搜狐",
     "虎嗅网：虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 - 虎嗅网",
     "36Kr：23亿，AI Infra独角兽又拿到大额融资 - 36Kr",
     "36Kr：累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36Kr",
-    "虎嗅网：2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 - 虎嗅网",
-    "虎嗅网：中国传统行业加速AI落地：微观提效与经验数字化成为突破口 - 虎嗅网"
+    "虎嗅网：2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 - 虎嗅网"
   ],
   "sections": [
     {
@@ -133,21 +133,21 @@
       "en": "Livestream rooms and replays",
       "items": [
         {
+          "title": "广交会探营“剧透”：从海外直播间到1米级导航，新意扑面而来 - 搜狐",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3QzYS0yVkQ0ampzWnJMQjktb0pSVDRDMFVHam9RbTE3NW1lNXR5VVJfa0hqalR5V21OT3A0cXVQb096b2FDdzY0MHNCTjJvbDJ4OGNOSFhRbFlLTmhZZ19nY2l1VVR1RGlmMlhrZTBieDhKXzZ5MnFNbDNrTlFPSVdxcm1uV0IxVGhKWA?oc=5",
+          "source": "搜狐",
+          "published_at": "2026-10-12T23:57:00+08:00",
+          "type": "直播",
+          "summary": "广交会探营“剧透”：从海外直播间到1米级导航，新意扑面而来 搜狐",
+          "image": ""
+        },
+        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - TOM财经",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
           "source": "TOM财经",
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "直播",
           "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 TOM财经",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 - CSDN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWOHdWYjdnS0J4R2ZoWWhmWXNGcGFOSG05MFM3OWNBaUVUQjRUdkRINEg2VVZqbUFScjRydEdkck1pRnUydy1HN2w2cFhUd0hCMnhxTlF6ejJxQW1VZHc?oc=5",
-          "source": "CSDN",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 CSDN",
           "image": ""
         },
         {
@@ -337,7 +337,7 @@
         },
         {
           "title": "AI算力重心从训练转向推理 Token消耗五年或增370倍 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UM3FmZHpLNFZfZzlnbXdNSGNzcUFHN3I3NzJ4V1hrMHhUWmZBcmo0RXdXRHEyQVBhVnJMTEtvSnFCSndkVGtyaVowQ0ZkOG91YS1hag?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtX3U1VWtNNnNQNnhQbWluNWtxSnJWWG1HSTZidTlkamNEdzdEdjBCWF9qRG9tQm80c1Y5RzBCTEdKN1JFem9EakU2eTV6NEgzYmR5NjRPTlBtcEdyLUFJ?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-10-08T11:30:26+08:00",
           "type": "媒体",
@@ -659,21 +659,21 @@
       "description": "大会嘉宾、专家、企业家、科技媒体和科普创作者的观点解读直播/回放入口。",
       "items": [
         {
+          "title": "广交会探营“剧透”：从海外直播间到1米级导航，新意扑面而来 - 搜狐",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3QzYS0yVkQ0ampzWnJMQjktb0pSVDRDMFVHam9RbTE3NW1lNXR5VVJfa0hqalR5V21OT3A0cXVQb096b2FDdzY0MHNCTjJvbDJ4OGNOSFhRbFlLTmhZZ19nY2l1VVR1RGlmMlhrZTBieDhKXzZ5MnFNbDNrTlFPSVdxcm1uV0IxVGhKWA?oc=5",
+          "source": "搜狐",
+          "published_at": "2026-10-12T23:57:00+08:00",
+          "type": "直播",
+          "summary": "广交会探营“剧透”：从海外直播间到1米级导航，新意扑面而来 搜狐",
+          "image": ""
+        },
+        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - TOM财经",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3alV1ZEVTamJ2VXdVZ0dhb0J6ZVRCcDJRdTVuMDNWUTVLcHNGVkYxZGl2b1VBQ2hnZUQ1dUx2bFdncXc3akgzTGZHZExKY295RFR1QTNmZlVvQQ?oc=5",
           "source": "TOM财经",
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "直播",
           "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 TOM财经",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 - CSDN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWOHdWYjdnS0J4R2ZoWWhmWXNGcGFOSG05MFM3OWNBaUVUQjRUdkRINEg2VVZqbUFScjRydEdkck1pRnUydy1HN2w2cFhUd0hCMnhxTlF6ejJxQW1VZHc?oc=5",
-          "source": "CSDN",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026 | 禾蛙CEO何洪锴做客36氪直播间，首发猎头AI Agent Domi，共话猎头行业的AI解法 CSDN",
           "image": ""
         },
         {
