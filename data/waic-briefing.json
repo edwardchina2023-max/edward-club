@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-15T04:31:20.657811+08:00",
+  "generated_at": "2026-10-15T07:46:38.501436+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月15日 04:31",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月15日 07:46",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 119 条、直播 22 条、论坛 23 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 122 条、直播 21 条、论坛 25 条，已按企业家阅读场景分组。",
     "虎嗅网：第26届工博会开幕：机器人从展台表演转向工厂上岗 - 虎嗅网",
     "虎嗅网：工业世界模型“闯”进工博会， 火了 - 虎嗅网",
     "36Kr：卡奥斯主导工业世界模型 IEEE 国际标准成功立项 - 36Kr",
@@ -381,12 +381,12 @@
           "image": ""
         },
         {
-          "title": "从租到用，擎天租定义机器人商业化应用新范式 - 36氪",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zLTJFZW9WZlpwTEJnRk1UQktfaHVKR0xRSE1NY204ZWFsMjNkY3RJM2tydGh3QlJtSmQ1aTlVanRPUnNSeGxpenFub0dMdw?oc=5",
-          "source": "36氪",
+          "title": "华为全联接大会演播室 - Huawei",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WUtxd0F4cnZsT1ZxbWtIS0lpLVhIei1ZVlh3VWxlcEhsanlKTXg2alNoLTJYV1JuSDJ6NVk3RFRULXJZdUl4SmYzMnotSHNKWVdza3hkZmRJQQ?oc=5",
+          "source": "Huawei",
           "published_at": "2026-09-16T15:00:00+08:00",
           "type": "媒体",
-          "summary": "从租到用，擎天租定义机器人商业化应用新范式 36氪",
+          "summary": "华为全联接大会演播室 Huawei",
           "image": ""
         }
       ]
@@ -596,6 +596,15 @@
           "type": "论坛",
           "summary": "仅剩九天！令人满怀期待的2020世界人工智能健康云峰会就来咯！_哔哩哔哩 Bilibili",
           "image": ""
+        },
+        {
+          "title": "倒计时30天，2020世界人工智能大会云端峰会7月9日至11日在沪举行 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZXZxZDZycElld3ZPdjBZTDh3Wk1lTmVjVV9xOWhxNzV6V3dLQVNoRDhTVzNBX3NkN1RsaDVFeExOcWNZelZ6QmQzbUJfSzBVaDU0Wl96ZmxtQQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2020-06-09T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "倒计时30天，2020世界人工智能大会云端峰会7月9日至11日在沪举行 上观新闻",
+          "image": ""
         }
       ]
     },
@@ -656,6 +665,15 @@
           "published_at": "2026-07-20T15:00:00+08:00",
           "type": "直播",
           "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 TOM财经",
+          "image": ""
+        },
+        {
+          "title": "直击WAIC 2026：十万卡算力成真，AI竞争从“拼芯片”转向“拼系统、拼场景” - 电子工程专辑",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpV0RvUnBmNTdZM1pxT0FJbEc3RjB0eDNOMGdwVEpPY1YxNmlRZ1BqLVVSWDJsVHlfWHJtOUcwM1poZFhsS09sTnpVWWcwSExTdU5R?oc=5",
+          "source": "电子工程专辑",
+          "published_at": "2026-07-19T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "直击WAIC 2026：十万卡算力成真，AI竞争从“拼芯片”转向“拼系统、拼场景” 电子工程专辑",
           "image": ""
         },
         {
@@ -773,15 +791,6 @@
           "published_at": "2025-07-27T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月26日 央视网",
-          "image": ""
-        },
-        {
-          "title": "上海世界AI大会直播机器人拒跳舞 网友笑翻 - 阿波罗新闻网",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4YzBsZjZEWV9MMXgzNXJkNk9aNWV2SzdoREUyS00zVUtaVktTSVlBZ2x2UHRrVi0tV0V1MU5LWHhDYXl0ckpKRUNoNmM5WFZiNUVxVDBEeDF3OWhSeWfSAWNBVV95cUxOVDJuZzhrSU52eWxwVVh5TTQ2MTJEOUpiUWt4LVpEZnVZVzZQSDc5R1c1Yl9MbTBXdUxlbUpYSWZic3VQekFDZHdmbERkNEVWZ1NEU2tQRTM4RnYyMTRPRFV4UFk?oc=5",
-          "source": "阿波罗新闻网",
-          "published_at": "2024-07-09T15:00:00+08:00",
-          "type": "直播",
-          "summary": "上海世界AI大会直播机器人拒跳舞 网友笑翻 阿波罗新闻网",
           "image": ""
         },
         {
