@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-14T13:56:30.681799+08:00",
+  "generated_at": "2026-10-14T19:36:47.833053+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月14日 13:56",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月14日 19:36",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 121 条、直播 22 条、论坛 25 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 120 条、直播 22 条、论坛 24 条，已按企业家阅读场景分组。",
+    "虎嗅网：第26届工博会开幕：机器人从展台表演转向工厂上岗 - 虎嗅网",
+    "虎嗅网：工业世界模型“闯”进工博会， 火了 - 虎嗅网",
+    "36Kr：卡奥斯主导工业世界模型 IEEE 国际标准成功立项 - 36Kr",
     "飞象网：优良！第37届世界运河大会在桂林举行 5G-A护航国际盛会 - 飞象网",
-    "搜狐：广交会探营“剧透”：从海外直播间到1米级导航，新意扑面而来 - 搜狐",
-    "虎嗅网：虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 - 虎嗅网",
-    "36Kr：2026国际具身智能技能大赛10月23日上海举办 真机实训打造全国具身智能实景实战示范平台 - 36Kr",
-    "36Kr：23亿，AI Infra独角兽又拿到大额融资 - 36Kr"
+    "搜狐：广交会探营“剧透”：从海外直播间到1米级导航，新意扑面而来 - 搜狐"
   ],
   "sections": [
     {
@@ -17,6 +17,15 @@
       "title": "论坛议题与大会现场",
       "en": "Forum agenda and conference signals",
       "items": [
+        {
+          "title": "第26届工博会开幕：机器人从展台表演转向工厂上岗 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13M0NSdGxfMWU0LXJSMlZYWDhoRGc3YUd0c2ZzZEU1bkNrVkg3R1BfTTlLYzVTSVFZM0ZfOGxsRGpRWG1WcEpMWmpFbDVpR1p2VU5rMkp6akNmSHIyMTNV?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-14T18:10:38+08:00",
+          "type": "论坛",
+          "summary": "第26届工博会开幕：机器人从展台表演转向工厂上岗 虎嗅网",
+          "image": ""
+        },
         {
           "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年 - finance.sina.com.cn",
           "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObHg1UWZuclNUNlhDZHdXQ3lKOUZxbkdLZGtvSXIxY3l4Y0MxQ3FieFRwSThORmVBbHNGeFdFMmp1eUNRWkRkeThoNW9kbEQxMGtuU2tXVUZaSUNlam8tRUc2RmtGMU93eXZaN3BqTjBWQm96RnRNR1Q2b3hwc0o1c1FNMU9jUDJfbmlUaHdMemNORkRRdTNyMGd2UExZXzdrVERpLVVPaVp2eXlwUjFaTExkV3ZYRkZHdnczV1lKX2NpZFdZTzNXV2lva0ZtSDBTV1o0RDB6WGd2X3Y1VG84bTQ5dWZCQ2p3cDFmbFlsMjh6d1JHYXRZMklCWG82ZXBoclJVdQ?oc=5",
@@ -87,15 +96,6 @@
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "论坛",
           "summary": "WAIC 2026科学智能开放论坛举行，聚焦AI原生时代的科学闭环发现 上观新闻",
-          "image": ""
-        },
-        {
-          "title": "2026 世界人工智能大会\"未来计算·未来算力\"专题论坛在沪召开，共识凝聚五问 - 凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqS0Y5WE0yY0ItUEc5M0lGeGZBcl9iN2hheExheFlVT2oza01IdkVHZW5nVUJ3WTktVVFpXzM2V1hQSlNQYmczYjlqaHNxeU0?oc=5",
-          "source": "凤凰网",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026 世界人工智能大会\"未来计算·未来算力\"专题论坛在沪召开，共识凝聚五问 凤凰网",
           "image": ""
         },
         {
@@ -282,6 +282,24 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
+          "title": "工业世界模型“闯”进工博会， 火了 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rVTh1M3kwelk3NHF2NDBCMmRkNUlMTTJZOS02TW1TdGFRMTVfanMzTE9velQzNWVvMElFQ1BJQVkzQWhYTXpRaWxlMlNVSzBMNEpmcw?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-14T17:44:05+08:00",
+          "type": "媒体",
+          "summary": "工业世界模型“闯”进工博会， 火了 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "卡奥斯主导工业世界模型 IEEE 国际标准成功立项 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5UjZRc0RzUHpBT2sxY29KenpEYzZYeVlveUZMcFFDelpoX19IMDhiYkVwMXpXSmZBMEVWa3lrTnZTaXBOUlF3Z0lfSQ?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-10-14T02:35:00+08:00",
+          "type": "媒体",
+          "summary": "卡奥斯主导工业世界模型 IEEE 国际标准成功立项 36Kr",
+          "image": ""
+        },
+        {
           "title": "优良！第37届世界运河大会在桂林举行 5G-A护航国际盛会 - 飞象网",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fdGFSRVRJTlNRdG5weGl1ZUIxclhVNV9TZjNURGQ1djhVSUI0SjBtNVE1QWxVcEpqUHZDZUI2WktKMjM3cjAwamc4akJfT2FyNWk2Yk10WV9xRVRYdElN?oc=5",
           "source": "飞象网",
@@ -363,30 +381,12 @@
           "image": ""
         },
         {
-          "title": "这届机器人没有新故事，只有真问题 - 华尔街见闻",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96dFdiZ204bVloRDBWbzd4Y2txaF9aaVBUbXRvdXZIcG5DaHJXejgtSk4yNmJ3TjlSUG51WmowZHI0UUZSRHNVcW45TnBnME14YjE4?oc=5",
-          "source": "华尔街见闻",
-          "published_at": "2026-08-21T15:00:00+08:00",
+          "title": "从租到用，擎天租定义机器人商业化应用新范式 - 36氪",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zLTJFZW9WZlpwTEJnRk1UQktfaHVKR0xRSE1NY204ZWFsMjNkY3RJM2tydGh3QlJtSmQ1aTlVanRPUnNSeGxpenFub0dMdw?oc=5",
+          "source": "36氪",
+          "published_at": "2026-09-16T15:00:00+08:00",
           "type": "媒体",
-          "summary": "这届机器人没有新故事，只有真问题 华尔街见闻",
-          "image": ""
-        },
-        {
-          "title": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91eG0zQkRGRnRMeHlWQ3l2UGMtcUtXVDVYTWpFOUtlU0hjLTVDZDl3YjVDMm5TRHZlSUU1RXJOYkcyVDBReFFkY2ZQRDY3OGZUVURnbTk3S2xTamRDU2xB?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-08-07T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "启明星 | 回顾一下！那些你在WAIC 2026意犹未尽的展览和演讲 - 启明创投",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNLUVKcVZwSnhMdzF5c2pOQ2xadTFyaG9jeEhuQk9sbDdGT1VCcXg5M1FqekRaVktlRF9jMFdQZzZpZ19MSFdpMjVZMi1UWFhEMWRnOE12YUE2c1dQT09nOW50c2xPYk9Wcmp0Q3poRVBRUElidC1IVjZfTHdPYnVqdDBkdTFITnhFbUQ0YmhreVJoQXoySVE0alhQT21VWHZwTG9BckdLSWJuRWduRTZxYVEtZHFHczZZcXp2VDgxTDAxUjRsNnZCXzlPZ2NIUlNWZzljOU1ieFlTb2Y1TUdHSE1oNlpUd3lERnNfX3JvYnItc3BOSWdybzV5M1ZNNnM5SEEySHkzN2N4Q0RYR001OTJwSzczQmRBOFRPQ2tPalpENzA3elN5RXZ6cEZRRnFaT1ZsdGpKcWlES05VT3EtdG1PYUxSTG9uSG9BZ0gwa0d0d0lhMjNpcms1a2hFQQ?oc=5",
-          "source": "启明创投",
-          "published_at": "2026-07-29T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "启明星 | 回顾一下！那些你在WAIC 2026意犹未尽的展览和演讲 启明创投",
+          "summary": "从租到用，擎天租定义机器人商业化应用新范式 36氪",
           "image": ""
         }
       ]
@@ -469,15 +469,6 @@
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "论坛",
           "summary": "WAIC 2026科学智能开放论坛举行，聚焦AI原生时代的科学闭环发现 上观新闻",
-          "image": ""
-        },
-        {
-          "title": "2026 世界人工智能大会\"未来计算·未来算力\"专题论坛在沪召开，共识凝聚五问 - 凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqS0Y5WE0yY0ItUEc5M0lGeGZBcl9iN2hheExheFlVT2oza01IdkVHZW5nVUJ3WTktVVFpXzM2V1hQSlNQYmczYjlqaHNxeU0?oc=5",
-          "source": "凤凰网",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026 世界人工智能大会\"未来计算·未来算力\"专题论坛在沪召开，共识凝聚五问 凤凰网",
           "image": ""
         },
         {
@@ -740,15 +731,6 @@
           "image": ""
         },
         {
-          "title": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 - 搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tYkQtSU5SQmhKd0luVWM1cXBmSy04RE9fVlVJazFYN3REaHllUHZiS2FTc1lvNkZZYzJ1RU1JWjY2TV9WeGItUk9aTzBSc2QwLUE?oc=5",
-          "source": "搜狐网",
-          "published_at": "2026-07-15T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 搜狐网",
-          "image": ""
-        },
-        {
           "title": "努比亚公布WAIC 2026产品阵容：全球首款AI智能体手机、AI宠物、直播神器 - 驱动之家",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hNlVLVGNRNUxCUGhBWEpnQnVrNllNN3ZWanhwZWlmQTVjYnBSZnExWG5zUWFiVmdNUG5KSXJwMlZlODJZeHpvMmlXMDlNbjlBTjh2VkZ0Tmg?oc=5",
           "source": "驱动之家",
@@ -827,6 +809,16 @@
     {
       "channel": "官方 / 论坛",
       "en": "Official & Forum",
+      "source": "虎嗅网",
+      "title": "第26届工博会开幕：机器人从展台表演转向工厂上岗",
+      "point": "第26届工博会开幕：机器人从展台表演转向工厂上岗 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13M0NSdGxfMWU0LXJSMlZYWDhoRGc3YUd0c2ZzZEU1bkNrVkg3R1BfTTlLYzVTSVFZM0ZfOGxsRGpRWG1WcEpMWmpFbDVpR1p2VU5rMkp6akNmSHIyMTNV?oc=5",
+      "published_at": "2026-10-14T18:10:38+08:00",
+      "type": "论坛"
+    },
+    {
+      "channel": "官方 / 论坛",
+      "en": "Official & Forum",
       "source": "finance.sina.com.cn",
       "title": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年",
       "point": "2026世界人工智能大会7月17日启幕超300款产品将全球首发|上海市|规模|论坛|数据|青年 finance.sina.com.cn",
@@ -845,14 +837,24 @@
       "type": "论坛"
     },
     {
-      "channel": "官方 / 论坛",
-      "en": "Official & Forum",
-      "source": "智慧城市行业分析",
-      "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势",
-      "point": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMGxJRlB6MzV1UjlNcnc4SnVMT003RUZzNmJtbnZjR1BVZ3g4QnlQS0ZnZllMZFpBZmJHX0lLTDFBTm1qM3hQX01VVjBVaU1TdXJDWGEtTGpwcWJB?oc=5",
-      "published_at": "2026-07-27T15:00:00+08:00",
-      "type": "论坛"
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "虎嗅网",
+      "title": "工业世界模型“闯”进工博会， 火了",
+      "point": "工业世界模型“闯”进工博会， 火了 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rVTh1M3kwelk3NHF2NDBCMmRkNUlMTTJZOS02TW1TdGFRMTVfanMzTE9velQzNWVvMElFQ1BJQVkzQWhYTXpRaWxlMlNVSzBMNEpmcw?oc=5",
+      "published_at": "2026-10-14T17:44:05+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "36Kr",
+      "title": "卡奥斯主导工业世界模型 IEEE 国际标准成功立项",
+      "point": "卡奥斯主导工业世界模型 IEEE 国际标准成功立项 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5UjZRc0RzUHpBT2sxY29KenpEYzZYeVlveUZMcFFDelpoX19IMDhiYkVwMXpXSmZBMEVWa3lrTnZTaXBOUlF3Z0lfSQ?oc=5",
+      "published_at": "2026-10-14T02:35:00+08:00",
+      "type": "媒体"
     },
     {
       "channel": "媒体快讯",
@@ -862,26 +864,6 @@
       "point": "优良！第37届世界运河大会在桂林举行 5G-A护航国际盛会 飞象网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fdGFSRVRJTlNRdG5weGl1ZUIxclhVNV9TZjNURGQ1djhVSUI0SjBtNVE1QWxVcEpqUHZDZUI2WktKMjM3cjAwamc4akJfT2FyNWk2Yk10WV9xRVRYdElN?oc=5",
       "published_at": "2026-10-13T16:09:54+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值",
-      "point": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpd21RV3R3M2Y3eWlxYkl0UnI1MHh5bjh2ZVNXenRaZ3dIVnQzTU96aFhuSGVicG9GNU1JY2E1UlBDWHNEVzEzLVJSZXFUVGhkcHc?oc=5",
-      "published_at": "2026-10-12T21:37:17+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "36Kr",
-      "title": "2026国际具身智能技能大赛10月23日上海举办 真机实训打造全国具身智能实景实战示范平台",
-      "point": "2026国际具身智能技能大赛10月23日上海举办 真机实训打造全国具身智能实景实战示范平台 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xaldJZmZQT01Mand1dkJGVHRyT0JYcTVmYTR3OGE4ME1nWHpzaVYwaHoxWXBPaDdYeE0tSTVITGgwM1pZdEpUWF9SQ21MaUxvYmVj?oc=5",
-      "published_at": "2026-10-12T19:22:00+08:00",
       "type": "媒体"
     },
     {
