@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-16T13:37:28.906590+08:00",
+  "generated_at": "2026-10-16T19:02:06.093051+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月16日 13:37",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月16日 19:02",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 126 条、直播 20 条、论坛 26 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 126 条、直播 20 条、论坛 25 条，已按企业家阅读场景分组。",
+    "虎嗅网：第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
+    "虎嗅网：无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO - 虎嗅网",
+    "36Kr：“夹缝”中找生意的无问芯穹，要IPO了 - 36Kr",
     "36Kr：算力网4万亿之后，谁能把算力“用起来”？ - 36Kr",
-    "36氪：全球人形机器人背后的20位领军人物 - 36氪",
-    "虎嗅网：第26届工博会开幕：机器人从展台表演转向工厂上岗 - 虎嗅网",
-    "虎嗅网：工业世界模型“闯”进工博会， 火了 - 虎嗅网",
-    "36Kr：卡奥斯主导工业世界模型 IEEE 国际标准成功立项 - 36Kr"
+    "36氪：全球人形机器人背后的20位领军人物 - 36氪"
   ],
   "sections": [
     {
@@ -99,21 +99,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 - 同济大学新闻网",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDY2lNSXFKZXpDb3k1UXIzS0RRdEdtV3cxVzR2UGdlbzJEeWRuZVp4VXJuYVJkVXlPUndjOVpuS0REQktKY0FhdmRMdFBkVDN6UzZQMm5Xa3J3dw?oc=5",
-          "source": "同济大学新闻网",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
           "source": "中国科技网",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 - 同济大学新闻网",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDY2lNSXFKZXpDb3k1UXIzS0RRdEdtV3cxVzR2UGdlbzJEeWRuZVp4VXJuYVJkVXlPUndjOVpuS0REQktKY0FhdmRMdFBkVDN6UzZQMm5Xa3J3dw?oc=5",
+          "source": "同济大学新闻网",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
           "image": ""
         },
         {
@@ -282,6 +282,33 @@
       "en": "Media updates and industry announcements",
       "items": [
         {
+          "title": "第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4WHdVTWdIWFQwNnFzNTBrNjBYajk0azlicGJwUmZuOUYyczFILW9DTkRWajNOV2JNOXQ3TVNkb2o5UlVTYllvZTNXOGFDMzN2WThuWg?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-16T18:10:14+08:00",
+          "type": "媒体",
+          "summary": "第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQy04UTBaZW1HYlM3cmE4UWt1WUNudFpIaUJkZjhZZXhxNlpEOXFpS1ozcHlhbGplc3hYS1cwYUhqMW9PaU5Qa0RMUEEwbmFiUGExRw?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-16T16:04:14+08:00",
+          "type": "媒体",
+          "summary": "无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "“夹缝”中找生意的无问芯穹，要IPO了 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wSks3TlFNUjJGOElhTzRFQkhjMk84NVJ3LXA2MW1nTFNkZDVrVFN0eFRUcS0xblNGMjFHakF4aVN3eHpTWnFpdFd3ZUswUQ?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-10-16T02:26:00+08:00",
+          "type": "媒体",
+          "summary": "“夹缝”中找生意的无问芯穹，要IPO了 36Kr",
+          "image": ""
+        },
+        {
           "title": "算力网4万亿之后，谁能把算力“用起来”？ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnSmhsU2prSUhvWnhGc3VYM1RERUdpNmtzeEZDbDdYV0ZBQTFrclM0bkpHQ29obElQN1dlRW5mRnNya3l2cTBycWgwM1NYZw?oc=5",
           "source": "36Kr",
@@ -360,33 +387,6 @@
           "published_at": "2026-10-10T18:09:14+08:00",
           "type": "媒体",
           "summary": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "华为全联接大会演播室 - Huawei",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WUtxd0F4cnZsT1ZxbWtIS0lpLVhIei1ZVlh3VWxlcEhsanlKTXg2alNoLTJYV1JuSDJ6NVk3RFRULXJZdUl4SmYzMnotSHNKWVdza3hkZmRJQQ?oc=5",
-          "source": "Huawei",
-          "published_at": "2026-09-16T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "华为全联接大会演播室 Huawei",
-          "image": ""
-        },
-        {
-          "title": "从租到用，擎天租定义机器人商业化应用新范式 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zLTJFZW9WZlpwTEJnRk1UQktfaHVKR0xRSE1NY204ZWFsMjNkY3RJM2tydGh3QlJtSmQ1aTlVanRPUnNSeGxpenFub0dMdw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-09-16T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "从租到用，擎天租定义机器人商业化应用新范式 36Kr",
-          "image": ""
-        },
-        {
-          "title": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91eG0zQkRGRnRMeHlWQ3l2UGMtcUtXVDVYTWpFOUtlU0hjLTVDZDl3YjVDMm5TRHZlSUU1RXJOYkcyVDBReFFkY2ZQRDY3OGZUVURnbTk3S2xTamRDU2xB?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-08-07T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 虎嗅网",
           "image": ""
         }
       ]
@@ -472,21 +472,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 - 同济大学新闻网",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDY2lNSXFKZXpDb3k1UXIzS0RRdEdtV3cxVzR2UGdlbzJEeWRuZVp4VXJuYVJkVXlPUndjOVpuS0REQktKY0FhdmRMdFBkVDN6UzZQMm5Xa3J3dw?oc=5",
-          "source": "同济大学新闻网",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
           "source": "中国科技网",
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 - 同济大学新闻网",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDY2lNSXFKZXpDb3k1UXIzS0RRdEdtV3cxVzR2UGdlbzJEeWRuZVp4VXJuYVJkVXlPUndjOVpuS0REQktKY0FhdmRMdFBkVDN6UzZQMm5Xa3J3dw?oc=5",
+          "source": "同济大学新闻网",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
           "image": ""
         },
         {
@@ -577,15 +577,6 @@
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
           "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
-          "image": ""
-        },
-        {
-          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
-          "source": "36Kr",
-          "published_at": "2025-07-17T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36Kr",
           "image": ""
         },
         {
@@ -695,12 +686,12 @@
           "image": ""
         },
         {
-          "title": "【视频播客】中国AI未来去哪里？年轻人如何学AI？来WAIC现场听听院士怎么讲！ | B站 x WAIC AI会客厅_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3Qm9UTmMwWU43bVI4WXhTSUs5OTh2aG9MTnhNOFJCT0ZqXzI0Zjc2VVFFWTE4R0hYTk9FVFd2TVI2dGZDczNMenFqenhhUnBZdmFuTWp2MA?oc=5",
-          "source": "Bilibili",
+          "title": "直击WAIC 2026：十万卡算力成真，AI竞争从“拼芯片”转向“拼系统、拼场景” - 电子工程专辑",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpV0RvUnBmNTdZM1pxT0FJbEc3RjB0eDNOMGdwVEpPY1YxNmlRZ1BqLVVSWDJsVHlfWHJtOUcwM1poZFhsS09sTnpVWWcwSExTdU5R?oc=5",
+          "source": "电子工程专辑",
           "published_at": "2026-07-19T15:00:00+08:00",
           "type": "媒体",
-          "summary": "【视频播客】中国AI未来去哪里？年轻人如何学AI？来WAIC现场听听院士怎么讲！ | B站 x WAIC AI会客厅_哔哩哔哩 Bilibili",
+          "summary": "直击WAIC 2026：十万卡算力成真，AI竞争从“拼芯片”转向“拼系统、拼场景” 电子工程专辑",
           "image": ""
         },
         {
@@ -848,31 +839,31 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
-      "title": "算力网4万亿之后，谁能把算力“用起来”？",
-      "point": "算力网4万亿之后，谁能把算力“用起来”？ 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnSmhsU2prSUhvWnhGc3VYM1RERUdpNmtzeEZDbDdYV0ZBQTFrclM0bkpHQ29obElQN1dlRW5mRnNya3l2cTBycWgwM1NYZw?oc=5",
-      "published_at": "2026-10-15T17:30:00+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "36氪",
-      "title": "全球人形机器人背后的20位领军人物",
-      "point": "全球人形机器人背后的20位领军人物 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10WjB6VjhPai1XS2ZETDlPclkzZEFKenNzaFZGaWVaRzhSMVktTm5BVmE3R0NENGFoZW0yc2k2bF9lX3ozVmFfME5BNW5Hdw?oc=5",
-      "published_at": "2026-10-15T11:26:00+08:00",
+      "source": "虎嗅网",
+      "title": "第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期",
+      "point": "第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4WHdVTWdIWFQwNnFzNTBrNjBYajk0azlicGJwUmZuOUYyczFILW9DTkRWajNOV2JNOXQ3TVNkb2o5UlVTYllvZTNXOGFDMzN2WThuWg?oc=5",
+      "published_at": "2026-10-16T18:10:14+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "虎嗅网",
-      "title": "工业世界模型“闯”进工博会， 火了",
-      "point": "工业世界模型“闯”进工博会， 火了 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rVTh1M3kwelk3NHF2NDBCMmRkNUlMTTJZOS02TW1TdGFRMTVfanMzTE9velQzNWVvMElFQ1BJQVkzQWhYTXpRaWxlMlNVSzBMNEpmcw?oc=5",
-      "published_at": "2026-10-14T17:44:05+08:00",
+      "title": "无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO",
+      "point": "无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQy04UTBaZW1HYlM3cmE4UWt1WUNudFpIaUJkZjhZZXhxNlpEOXFpS1ozcHlhbGplc3hYS1cwYUhqMW9PaU5Qa0RMUEEwbmFiUGExRw?oc=5",
+      "published_at": "2026-10-16T16:04:14+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
+      "source": "36Kr",
+      "title": "“夹缝”中找生意的无问芯穹，要IPO了",
+      "point": "“夹缝”中找生意的无问芯穹，要IPO了 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wSks3TlFNUjJGOElhTzRFQkhjMk84NVJ3LXA2MW1nTFNkZDVrVFN0eFRUcS0xblNGMjFHakF4aVN3eHpTWnFpdFd3ZUswUQ?oc=5",
+      "published_at": "2026-10-16T02:26:00+08:00",
       "type": "媒体"
     },
     {
