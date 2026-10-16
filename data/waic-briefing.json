@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-16T08:37:39.040795+08:00",
+  "generated_at": "2026-10-16T13:37:28.906590+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月16日 08:37",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月16日 13:37",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 125 条、直播 20 条、论坛 26 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 126 条、直播 20 条、论坛 26 条，已按企业家阅读场景分组。",
     "36Kr：算力网4万亿之后，谁能把算力“用起来”？ - 36Kr",
     "36氪：全球人形机器人背后的20位领军人物 - 36氪",
     "虎嗅网：第26届工博会开幕：机器人从展台表演转向工厂上岗 - 虎嗅网",
@@ -283,7 +283,7 @@
       "items": [
         {
           "title": "算力网4万亿之后，谁能把算力“用起来”？ - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tdnJSdGF0UzBrRHBKRkQwRjRseDIzbnE4NWhiS01pTXNVcjJMRlVZbVYzMFFKRHJ5VXpobEthMXJNSmVCNDhBbGZDemdubkh0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnSmhsU2prSUhvWnhGc3VYM1RERUdpNmtzeEZDbDdYV0ZBQTFrclM0bkpHQ29obElQN1dlRW5mRnNya3l2cTBycWgwM1NYZw?oc=5",
           "source": "36Kr",
           "published_at": "2026-10-15T17:30:00+08:00",
           "type": "媒体",
@@ -324,15 +324,6 @@
           "published_at": "2026-10-13T16:09:54+08:00",
           "type": "媒体",
           "summary": "优良！第37届世界运河大会在桂林举行 5G-A护航国际盛会 飞象网",
-          "image": ""
-        },
-        {
-          "title": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpd21RV3R3M2Y3eWlxYkl0UnI1MHh5bjh2ZVNXenRaZ3dIVnQzTU96aFhuSGVicG9GNU1JY2E1UlBDWHNEVzEzLVJSZXFUVGhkcHc?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-10-12T21:37:17+08:00",
-          "type": "媒体",
-          "summary": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 虎嗅网",
           "image": ""
         },
         {
@@ -387,6 +378,15 @@
           "published_at": "2026-09-16T15:00:00+08:00",
           "type": "媒体",
           "summary": "从租到用，擎天租定义机器人商业化应用新范式 36Kr",
+          "image": ""
+        },
+        {
+          "title": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91eG0zQkRGRnRMeHlWQ3l2UGMtcUtXVDVYTWpFOUtlU0hjLTVDZDl3YjVDMm5TRHZlSUU1RXJOYkcyVDBReFFkY2ZQRDY3OGZUVURnbTk3S2xTamRDU2xB?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-08-07T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "具身智能量产竞赛加速：宇树科技IPO定价150.8元，特斯拉、小米、华为云等巨头争相布局 虎嗅网",
           "image": ""
         }
       ]
@@ -704,15 +704,6 @@
           "image": ""
         },
         {
-          "title": "直击WAIC 2026：十万卡算力成真，AI竞争从“拼芯片”转向“拼系统、拼场景” - 电子工程专辑",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpV0RvUnBmNTdZM1pxT0FJbEc3RjB0eDNOMGdwVEpPY1YxNmlRZ1BqLVVSWDJsVHlfWHJtOUcwM1poZFhsS09sTnpVWWcwSExTdU5R?oc=5",
-          "source": "电子工程专辑",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "直击WAIC 2026：十万卡算力成真，AI竞争从“拼芯片”转向“拼系统、拼场景” 电子工程专辑",
-          "image": ""
-        },
-        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 品玩",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STmNfOGRRX0VnVDROYldlb1dESUdsa2d6d0d1bFJNVktSRVFQWGx6aEFFSWdDS3ZjU25VSlZHbW4xSnVicW5kVg?oc=5",
           "source": "品玩",
@@ -860,7 +851,7 @@
       "source": "36Kr",
       "title": "算力网4万亿之后，谁能把算力“用起来”？",
       "point": "算力网4万亿之后，谁能把算力“用起来”？ 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tdnJSdGF0UzBrRHBKRkQwRjRseDIzbnE4NWhiS01pTXNVcjJMRlVZbVYzMFFKRHJ5VXpobEthMXJNSmVCNDhBbGZDemdubkh0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnSmhsU2prSUhvWnhGc3VYM1RERUdpNmtzeEZDbDdYV0ZBQTFrclM0bkpHQ29obElQN1dlRW5mRnNya3l2cTBycWgwM1NYZw?oc=5",
       "published_at": "2026-10-15T17:30:00+08:00",
       "type": "媒体"
     },
