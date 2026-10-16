@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-16T19:02:06.093051+08:00",
+  "generated_at": "2026-10-16T23:28:05.998249+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月16日 19:02",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月16日 23:28",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 126 条、直播 20 条、论坛 25 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 125 条、直播 20 条、论坛 25 条，已按企业家阅读场景分组。",
     "虎嗅网：第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
-    "虎嗅网：无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO - 虎嗅网",
+    "虎嗅网：“夹缝”中找生意的无问芯穹，要IPO了 - 虎嗅网",
+    "36Kr：2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 - 36Kr",
     "36Kr：“夹缝”中找生意的无问芯穹，要IPO了 - 36Kr",
-    "36Kr：算力网4万亿之后，谁能把算力“用起来”？ - 36Kr",
-    "36氪：全球人形机器人背后的20位领军人物 - 36氪"
+    "36Kr：算力网4万亿之后，谁能把算力“用起来”？ - 36Kr"
   ],
   "sections": [
     {
@@ -291,12 +291,21 @@
           "image": ""
         },
         {
-          "title": "无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO - 虎嗅网",
+          "title": "“夹缝”中找生意的无问芯穹，要IPO了 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQy04UTBaZW1HYlM3cmE4UWt1WUNudFpIaUJkZjhZZXhxNlpEOXFpS1ozcHlhbGplc3hYS1cwYUhqMW9PaU5Qa0RMUEEwbmFiUGExRw?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-10-16T16:04:14+08:00",
           "type": "媒体",
-          "summary": "无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO 虎嗅网",
+          "summary": "“夹缝”中找生意的无问芯穹，要IPO了 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tN1Y0bERMa1RjM0pXa29uWFJqbzlNNFdTTWlzWTl2cTVLVmZlSk40emk4TDVmUl9SR1hLRlpSZTR0ZDhYQXN0dGZTTU9FQl9yWVNj?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-10-16T05:04:00+08:00",
+          "type": "媒体",
+          "summary": "2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 36Kr",
           "image": ""
         },
         {
@@ -378,15 +387,6 @@
           "published_at": "2026-10-11T22:55:00+08:00",
           "type": "媒体",
           "summary": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 36Kr",
-          "image": ""
-        },
-        {
-          "title": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zSzRaMVQ2QkVCTUMzaE11cVlOUS1Zc3dKYzl2T19Kd1V6UnAyNjZFdDFiWVZVdE5nYjdfOGVsRDVYYk1pY2QtaUgySUVTVWVEa1ZTQ3BtaVBkNm0tNFQw?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-10-10T18:09:14+08:00",
-          "type": "媒体",
-          "summary": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流 虎嗅网",
           "image": ""
         }
       ]
@@ -850,8 +850,8 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "虎嗅网",
-      "title": "无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO",
-      "point": "无问芯穹完成23亿元C轮融资，累计融资43亿元并推进港股IPO 虎嗅网",
+      "title": "“夹缝”中找生意的无问芯穹，要IPO了",
+      "point": "“夹缝”中找生意的无问芯穹，要IPO了 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQy04UTBaZW1HYlM3cmE4UWt1WUNudFpIaUJkZjhZZXhxNlpEOXFpS1ozcHlhbGplc3hYS1cwYUhqMW9PaU5Qa0RMUEEwbmFiUGExRw?oc=5",
       "published_at": "2026-10-16T16:04:14+08:00",
       "type": "媒体"
@@ -860,10 +860,10 @@
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "36Kr",
-      "title": "“夹缝”中找生意的无问芯穹，要IPO了",
-      "point": "“夹缝”中找生意的无问芯穹，要IPO了 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wSks3TlFNUjJGOElhTzRFQkhjMk84NVJ3LXA2MW1nTFNkZDVrVFN0eFRUcS0xblNGMjFHakF4aVN3eHpTWnFpdFd3ZUswUQ?oc=5",
-      "published_at": "2026-10-16T02:26:00+08:00",
+      "title": "2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析",
+      "point": "2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tN1Y0bERMa1RjM0pXa29uWFJqbzlNNFdTTWlzWTl2cTVLVmZlSk40emk4TDVmUl9SR1hLRlpSZTR0ZDhYQXN0dGZTTU9FQl9yWVNj?oc=5",
+      "published_at": "2026-10-16T05:04:00+08:00",
       "type": "媒体"
     },
     {
