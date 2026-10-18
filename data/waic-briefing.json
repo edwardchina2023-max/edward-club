@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-18T11:49:59.747535+08:00",
+  "generated_at": "2026-10-18T16:43:27.359019+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月18日 11:49",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月18日 16:43",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 123 条、直播 20 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 123 条、直播 21 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
     "虎嗅网：第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
     "虎嗅网：“夹缝”中找生意的无问芯穹，要IPO了 - 虎嗅网",
     "36Kr：2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 - 36Kr",
     "36Kr：“夹缝”中找生意的无问芯穹，要IPO了 - 36Kr",
-    "飞象网：桂林移动5G护航千年灵渠与世界对话 - 飞象网"
+    "36Kr：算力网4万亿之后，谁能把算力“用起来”？ - 36Kr"
   ],
   "sections": [
     {
@@ -300,15 +300,6 @@
           "image": ""
         },
         {
-          "title": "桂林移动5G护航千年灵渠与世界对话 - 飞象网",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJYXpGS1NFNmpUb2owRnVneGlsZmxCT2FxVF9zaUtsX2h3eUdlNHBfcUpLSW1LR1NDQjYwV1pHMks4YXZzNFZ3S0lHVFgzY21Pb1pFX3pxblhfVmJ1U0Uw?oc=5",
-          "source": "飞象网",
-          "published_at": "2026-10-15T18:28:43+08:00",
-          "type": "媒体",
-          "summary": "桂林移动5G护航千年灵渠与世界对话 飞象网",
-          "image": ""
-        },
-        {
           "title": "算力网4万亿之后，谁能把算力“用起来”？ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnSmhsU2prSUhvWnhGc3VYM1RERUdpNmtzeEZDbDdYV0ZBQTFrclM0bkpHQ29obElQN1dlRW5mRnNya3l2cTBycWgwM1NYZw?oc=5",
           "source": "36Kr",
@@ -351,6 +342,15 @@
           "published_at": "2026-10-13T14:37:09+08:00",
           "type": "媒体",
           "summary": "2026年超节点算力竞赛升温：华为、浪潮等厂商布局千亿市场，金融租赁与光互联成关键 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 - 虎嗅网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpd21RV3R3M2Y3eWlxYkl0UnI1MHh5bjh2ZVNXenRaZ3dIVnQzTU96aFhuSGVicG9GNU1JY2E1UlBDWHNEVzEzLVJSZXFUVGhkcHc?oc=5",
+          "source": "虎嗅网",
+          "published_at": "2026-10-12T21:37:17+08:00",
+          "type": "媒体",
+          "summary": "虎嗅启动2026 Q3“向上向新·AI硬件产品力榜”，以30天真实使用检验AI硬件留存价值 虎嗅网",
           "image": ""
         },
         {
@@ -746,6 +746,15 @@
           "published_at": "2026-07-14T15:00:00+08:00",
           "type": "直播",
           "summary": "努比亚公布WAIC 2026产品阵容：全球首款AI智能体手机、AI宠物、直播神器 驱动之家",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-06-28T15:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
           "image": ""
         },
         {
