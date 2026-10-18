@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-18T07:52:21.606351+08:00",
+  "generated_at": "2026-10-18T11:49:59.747535+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月18日 07:52",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月18日 11:49",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 124 条、直播 21 条、观点 1 条、论坛 25 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 123 条、直播 20 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
     "虎嗅网：第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
     "虎嗅网：“夹缝”中找生意的无问芯穹，要IPO了 - 虎嗅网",
     "36Kr：2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 - 36Kr",
     "36Kr：“夹缝”中找生意的无问芯穹，要IPO了 - 36Kr",
-    "36Kr：算力网4万亿之后，谁能把算力“用起来”？ - 36Kr"
+    "飞象网：桂林移动5G护航千年灵渠与世界对话 - 飞象网"
   ],
   "sections": [
     {
@@ -300,6 +300,15 @@
           "image": ""
         },
         {
+          "title": "桂林移动5G护航千年灵渠与世界对话 - 飞象网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJYXpGS1NFNmpUb2owRnVneGlsZmxCT2FxVF9zaUtsX2h3eUdlNHBfcUpLSW1LR1NDQjYwV1pHMks4YXZzNFZ3S0lHVFgzY21Pb1pFX3pxblhfVmJ1U0Uw?oc=5",
+          "source": "飞象网",
+          "published_at": "2026-10-15T18:28:43+08:00",
+          "type": "媒体",
+          "summary": "桂林移动5G护航千年灵渠与世界对话 飞象网",
+          "image": ""
+        },
+        {
           "title": "算力网4万亿之后，谁能把算力“用起来”？ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnSmhsU2prSUhvWnhGc3VYM1RERUdpNmtzeEZDbDdYV0ZBQTFrclM0bkpHQ29obElQN1dlRW5mRnNya3l2cTBycWgwM1NYZw?oc=5",
           "source": "36Kr",
@@ -360,15 +369,6 @@
           "published_at": "2026-10-12T05:31:00+08:00",
           "type": "媒体",
           "summary": "23亿，AI Infra独角兽又拿到大额融资 36Kr",
-          "image": ""
-        },
-        {
-          "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36氪",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSnVBNE45VGlDbjAzdUpRVFRCRFZ0VHB4eEE4a3E1ekRTY3BZcUJ3eDBLYWpYMGZXbGw1d19lWGxIUDRFR0JwbTMzdjF6dw?oc=5",
-          "source": "36氪",
-          "published_at": "2026-10-11T22:55:00+08:00",
-          "type": "媒体",
-          "summary": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 36氪",
           "image": ""
         }
       ]
@@ -731,6 +731,15 @@
           "image": ""
         },
         {
+          "title": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tYkQtSU5SQmhKd0luVWM1cXBmSy04RE9fVlVJazFYN3REaHllUHZiS2FTc1lvNkZZYzJ1RU1JWjY2TV9WeGItUk9aTzBSc2QwLUE?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-15T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026 WAIC重磅前瞻｜首个AI+核能跨界论坛登陆上海，资深院士领衔全球首创技术路线 搜狐网",
+          "image": ""
+        },
+        {
           "title": "努比亚公布WAIC 2026产品阵容：全球首款AI智能体手机、AI宠物、直播神器 - 驱动之家",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hNlVLVGNRNUxCUGhBWEpnQnVrNllNN3ZWanhwZWlmQTVjYnBSZnExWG5zUWFiVmdNUG5KSXJwMlZlODJZeHpvMmlXMDlNbjlBTjh2VkZ0Tmg?oc=5",
           "source": "驱动之家",
@@ -746,15 +755,6 @@
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
           "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-06-28T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36Kr",
           "image": ""
         },
         {
