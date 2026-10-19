@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-19T12:29:30.919917+08:00",
+  "generated_at": "2026-10-19T18:13:21.407791+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月19日 12:29",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月19日 18:13",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 123 条、直播 21 条、观点 1 条、论坛 29 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 124 条、直播 20 条、观点 1 条、论坛 29 条，已按企业家阅读场景分组。",
     "虎嗅网：第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
     "虎嗅网：“夹缝”中找生意的无问芯穹，要IPO了 - 虎嗅网",
     "36Kr：2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 - 36Kr",
@@ -363,12 +363,12 @@
           "image": ""
         },
         {
-          "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36氪",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSnVBNE45VGlDbjAzdUpRVFRCRFZ0VHB4eEE4a3E1ekRTY3BZcUJ3eDBLYWpYMGZXbGw1d19lWGxIUDRFR0JwbTMzdjF6dw?oc=5",
-          "source": "36氪",
-          "published_at": "2026-10-11T22:55:00+08:00",
+          "title": "华为全联接大会演播室 - Huawei",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WUtxd0F4cnZsT1ZxbWtIS0lpLVhIei1ZVlh3VWxlcEhsanlKTXg2alNoLTJYV1JuSDJ6NVk3RFRULXJZdUl4SmYzMnotSHNKWVdza3hkZmRJQQ?oc=5",
+          "source": "Huawei",
+          "published_at": "2026-09-16T15:00:00+08:00",
           "type": "媒体",
-          "summary": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 36氪",
+          "summary": "华为全联接大会演播室 Huawei",
           "image": ""
         }
       ]
@@ -622,15 +622,6 @@
           "type": "直播",
           "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
           "image": ""
-        },
-        {
-          "title": "京东采销带你云逛展2025 CHINA P&E 直播整点抽奖赢好礼 - 飞象网",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90czhMNmQ3dndlOHVfelFPenB4OVUwc2xrSTVJSmYweXNMX1JSbTlSeEVSNlNVOG1ZUFMyZF9jVmUxUEhTVzJ1akM4Z2tLdFpEZ19QcUY4Q2lxUTdITEE?oc=5",
-          "source": "飞象网",
-          "published_at": "2025-05-16T15:00:00+08:00",
-          "type": "直播",
-          "summary": "京东采销带你云逛展2025 CHINA P&E 直播整点抽奖赢好礼 飞象网",
-          "image": ""
         }
       ]
     },
@@ -871,12 +862,12 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
-      "source": "飞象网",
-      "title": "京东采销带你云逛展2025 CHINA P&E 直播整点抽奖赢好礼",
-      "point": "京东采销带你云逛展2025 CHINA P&E 直播整点抽奖赢好礼 飞象网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90czhMNmQ3dndlOHVfelFPenB4OVUwc2xrSTVJSmYweXNMX1JSbTlSeEVSNlNVOG1ZUFMyZF9jVmUxUEhTVzJ1akM4Z2tLdFpEZ19QcUY4Q2lxUTdITEE?oc=5",
-      "published_at": "2025-05-16T15:00:00+08:00",
-      "type": "直播"
+      "source": "虎嗅网",
+      "title": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现",
+      "point": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IaEVneklzTXhzcEFYVmNpUl8wNG5qUmE2MEpNNXZGbGlBOHRCSWJHZVhRMEd3NTdBbkVjYkhzellUUldIdEtmV2dscTJPRS1mcXc?oc=5",
+      "published_at": "2026-08-25T17:48:21+08:00",
+      "type": "论坛"
     },
     {
       "channel": "嘉宾 / 自媒体",
