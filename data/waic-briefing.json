@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-20T13:54:00.527417+08:00",
+  "generated_at": "2026-10-20T19:11:21.285103+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月20日 13:54",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月20日 19:11",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 124 条、直播 22 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 122 条、直播 24 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
+    "36Kr：再访Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law - 36Kr",
     "飞象网：“世界古代水利建筑明珠”的千年脉动 - 飞象网",
     "虎嗅网：第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
     "虎嗅网：“夹缝”中找生意的无问芯穹，要IPO了 - 虎嗅网",
-    "36Kr：2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 - 36Kr",
-    "36Kr：“夹缝”中找生意的无问芯穹，要IPO了 - 36Kr"
+    "36Kr：2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 - 36Kr"
   ],
   "sections": [
     {
@@ -178,21 +178,21 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
-          "source": "QQ News",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
+          "source": "QQ News",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
           "image": ""
         },
         {
@@ -223,21 +223,21 @@
           "image": ""
         },
         {
+          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wQTZRU2lrTVBaZGlVTGhDT1E0OUMxZXM3NzJ6ZFc1Y0JXbkZIYnhLajI4NFpBNTBEUHlOekgxS3dBX3FVOGdSekdzNmRIME9YcWc?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 搜狐网",
+          "image": ""
+        },
+        {
           "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 中华网",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGYUc5cUpva0JFVHcxamFhb19iSlpyVUJ2dUxEcUF5RFE0Z19EeF95elpoeTNmdHg2MkR3ZWdtcE9KRjNVNlVCR29wX0EtekRWeEFKWVJVSEtVck5haEQ0QzdLdy12TG0zR0VUdEhn?oc=5",
           "source": "中华网",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 中华网",
-          "image": ""
-        },
-        {
-          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eUtoTzg1NG1mU0w1bUk0TkNLMmtfZHgzcFNHTVNVYlZPQXRUd3pENzVFemhHeWZFUXZYNVdHR3RZSzJ1OUJXalpSR0d4QzhsOVY5X0JKbjhKS2VIclJF?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-16T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
           "image": ""
         }
       ]
@@ -263,6 +263,15 @@
       "title": "媒体快讯与产业发布",
       "en": "Media updates and industry announcements",
       "items": [
+        {
+          "title": "再访Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DYkRwb0hLeGo4SXdCQW41dEx5U0pubUlySlBFMEh3ZnZkNF9haFVIYTdZRUxxNURBZGRKRVVoWDhHbDFfbTNWdTZwRlpkdw?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-10-20T00:27:00+08:00",
+          "type": "媒体",
+          "summary": "再访Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law 36Kr",
+          "image": ""
+        },
         {
           "title": "“世界古代水利建筑明珠”的千年脉动 - 飞象网",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OOEluTmJTWmlVb1UtNHhVS3lXb1ZTeDhvc0p4LW94T2F3cU9aU2NoWS1hS1ZxQkJrUVdmTXRtc0EzWlZRcXh5aXhoN2t5eFZ5bEdza21jVTNnXzRxbnA4?oc=5",
@@ -354,21 +363,12 @@
           "image": ""
         },
         {
-          "title": "2026年超节点算力竞赛升温：华为、浪潮等厂商布局千亿市场，金融租赁与光互联成关键 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpTEgybHZiLVlXS0w0NUJOWXltZ0cwX1hFdVdRUHREV0p3Q1doNFFQaXNlS2lUQ1dXUEhKd1FFSGhZSDNOSng0VzV2ZlAwR1JtbWo1Yg?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-10-13T14:37:09+08:00",
+          "title": "WRC 2026世界机器人大会现场随感：这一次，它们终于走出“秀场”了_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhdDFlX0xsUVZjSUItUGY3WktjX0c0MTVmc24zWkxsYXBoVnh5TnQzN0RrOEY3R1I3SU5jY3BTMHhDV0dmcnlfVExMUU93eXFhNGRIUUwyYw?oc=5",
+          "source": "Bilibili",
+          "published_at": "2026-08-24T15:00:00+08:00",
           "type": "媒体",
-          "summary": "2026年超节点算力竞赛升温：华为、浪潮等厂商布局千亿市场，金融租赁与光互联成关键 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "华为全联接大会演播室 - Huawei",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WUtxd0F4cnZsT1ZxbWtIS0lpLVhIei1ZVlh3VWxlcEhsanlKTXg2alNoLTJYV1JuSDJ6NVk3RFRULXJZdUl4SmYzMnotSHNKWVdza3hkZmRJQQ?oc=5",
-          "source": "Huawei",
-          "published_at": "2026-09-16T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "华为全联接大会演播室 Huawei",
+          "summary": "WRC 2026世界机器人大会现场随感：这一次，它们终于走出“秀场”了_哔哩哔哩 Bilibili",
           "image": ""
         }
       ]
@@ -695,15 +695,6 @@
           "image": ""
         },
         {
-          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
-          "source": "QQ News",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
-          "image": ""
-        },
-        {
           "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
           "source": "上观新闻",
@@ -713,12 +704,30 @@
           "image": ""
         },
         {
+          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
+          "source": "QQ News",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
+          "image": ""
+        },
+        {
           "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 搜狐网",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNUtNNVpHRjk2ZHdfelA4RnlMOXFuZnFqWGxPdWFVRDhVSXJ4OUJtRDMtU2c0MHEtWGpuZFV6UzR1SEsxNzZMT0Q4RmpKNzVBY2c?oc=5",
           "source": "搜狐网",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 搜狐网",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wQTZRU2lrTVBaZGlVTGhDT1E0OUMxZXM3NzJ6ZFc1Y0JXbkZIYnhLajI4NFpBNTBEUHlOekgxS3dBX3FVOGdSekdzNmRIME9YcWc?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 搜狐网",
           "image": ""
         },
         {
@@ -801,6 +810,15 @@
           "type": "直播",
           "summary": "上海世界AI大会直播机器人拒跳舞 网友笑翻 阿波罗新闻网",
           "image": ""
+        },
+        {
+          "title": "刘强东“分身”直播首秀带火AI数字人直播 万兴科技百度等厂商受关注 - 飞象网",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rS2NPVnFtbEp2ZU9EWFk4Q184MTN3dHI2SnNHRzFVbUk0Qy1oOUhvVklPQnItdlRNVnNieVItcHJqVWh6NUstbU1rLVpnMEdTTlNOc3ZDZV9BaDFZVEE?oc=5",
+          "source": "飞象网",
+          "published_at": "2024-04-18T15:00:00+08:00",
+          "type": "直播",
+          "summary": "刘强东“分身”直播首秀带火AI数字人直播 万兴科技百度等厂商受关注 飞象网",
+          "image": ""
         }
       ]
     }
@@ -839,6 +857,16 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
+      "source": "36Kr",
+      "title": "再访Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law",
+      "point": "再访Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DYkRwb0hLeGo4SXdCQW41dEx5U0pubUlySlBFMEh3ZnZkNF9haFVIYTdZRUxxNURBZGRKRVVoWDhHbDFfbTNWdTZwRlpkdw?oc=5",
+      "published_at": "2026-10-20T00:27:00+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
       "source": "飞象网",
       "title": "“世界古代水利建筑明珠”的千年脉动",
       "point": "“世界古代水利建筑明珠”的千年脉动 飞象网",
@@ -854,16 +882,6 @@
       "point": "第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4WHdVTWdIWFQwNnFzNTBrNjBYajk0azlicGJwUmZuOUYyczFILW9DTkRWajNOV2JNOXQ3TVNkb2o5UlVTYllvZTNXOGFDMzN2WThuWg?oc=5",
       "published_at": "2026-10-16T18:10:14+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "虎嗅网",
-      "title": "“夹缝”中找生意的无问芯穹，要IPO了",
-      "point": "“夹缝”中找生意的无问芯穹，要IPO了 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQy04UTBaZW1HYlM3cmE4UWt1WUNudFpIaUJkZjhZZXhxNlpEOXFpS1ozcHlhbGplc3hYS1cwYUhqMW9PaU5Qa0RMUEEwbmFiUGExRw?oc=5",
-      "published_at": "2026-10-16T16:04:14+08:00",
       "type": "媒体"
     },
     {
