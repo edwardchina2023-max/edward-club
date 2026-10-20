@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-20T08:58:28.327926+08:00",
+  "generated_at": "2026-10-20T13:54:00.527417+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月20日 08:58",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月20日 13:54",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 123 条、直播 23 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 124 条、直播 22 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
+    "飞象网：“世界古代水利建筑明珠”的千年脉动 - 飞象网",
     "虎嗅网：第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
     "虎嗅网：“夹缝”中找生意的无问芯穹，要IPO了 - 虎嗅网",
     "36Kr：2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 - 36Kr",
-    "36Kr：“夹缝”中找生意的无问芯穹，要IPO了 - 36Kr",
-    "36Kr：算力网4万亿之后，谁能把算力“用起来”？ - 36Kr"
+    "36Kr：“夹缝”中找生意的无问芯穹，要IPO了 - 36Kr"
   ],
   "sections": [
     {
@@ -178,21 +178,21 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
           "source": "QQ News",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
           "image": ""
         },
         {
@@ -263,6 +263,15 @@
       "title": "媒体快讯与产业发布",
       "en": "Media updates and industry announcements",
       "items": [
+        {
+          "title": "“世界古代水利建筑明珠”的千年脉动 - 飞象网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OOEluTmJTWmlVb1UtNHhVS3lXb1ZTeDhvc0p4LW94T2F3cU9aU2NoWS1hS1ZxQkJrUVdmTXRtc0EzWlZRcXh5aXhoN2t5eFZ5bEdza21jVTNnXzRxbnA4?oc=5",
+          "source": "飞象网",
+          "published_at": "2026-10-19T16:57:31+08:00",
+          "type": "媒体",
+          "summary": "“世界古代水利建筑明珠”的千年脉动 飞象网",
+          "image": ""
+        },
         {
           "title": "第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4WHdVTWdIWFQwNnFzNTBrNjBYajk0azlicGJwUmZuOUYyczFILW9DTkRWajNOV2JNOXQ3TVNkb2o5UlVTYllvZTNXOGFDMzN2WThuWg?oc=5",
@@ -351,15 +360,6 @@
           "published_at": "2026-10-13T14:37:09+08:00",
           "type": "媒体",
           "summary": "2026年超节点算力竞赛升温：华为、浪潮等厂商布局千亿市场，金融租赁与光互联成关键 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "2026国际具身智能技能大赛将于10月23日在沪举行——真机实训，打造全国具身智能实景实战示范平台 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXRnU2SzdmV0pQMGkxVFByUnBOUjVpUXBJR3RKaVRRTWxXNFNsTEU4YlNFMk83OHhPM25LNFVNT3EzME1tSkJ6SHg5d2FjZw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-10-12T19:22:00+08:00",
-          "type": "媒体",
-          "summary": "2026国际具身智能技能大赛将于10月23日在沪举行——真机实训，打造全国具身智能实景实战示范平台 36Kr",
           "image": ""
         },
         {
@@ -526,15 +526,6 @@
           "image": ""
         },
         {
-          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36氪",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVzRjSzVVMWNqbXRYYUNIUFJZX2FoUlBKa2tJOXZRazlXYTljNTZ0c0RzazdDcnJhd2U3R21MVHg4QTR0MVZONndHS1h6Zw?oc=5",
-          "source": "36氪",
-          "published_at": "2026-07-15T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36氪",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - C114通信网",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ1BCNGVsMURQNmNVbEd5U19wTWhkM2JMWjNianlNdVl1UGt3V3VYemtJQ1hmc05RY3ZvWURZOGxfLVRnRnNpTUc3a1FYTVk?oc=5",
           "source": "C114通信网",
@@ -568,6 +559,15 @@
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
           "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "image": ""
+        },
+        {
+          "title": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdFRlc2RwRW1RRUlzT1pzYm15dm5XWHM4eGd5LWViWjdrbnZ0SUZZUE1QdGg0Zjl5Q1VyZWpvby1FbjVlejJYU0tQN1ozUQ?oc=5",
+          "source": "36Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36Kr",
           "image": ""
         },
         {
@@ -695,21 +695,21 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
           "source": "QQ News",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
           "image": ""
         },
         {
@@ -767,15 +767,6 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-09T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
-          "image": ""
-        },
-        {
           "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
           "source": "36Kr",
@@ -791,15 +782,6 @@
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
           "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月28日 - 央视网",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jYkVmcTJ3c2FkeExieGpJTTdIZlhyc1hPaHpOVlc4anpIVEhFZTI0UHZIUzFUMXZFX2lCSGtvLWNGT3dMM1BtR1hYcDB0SFA3dnFPSlM1a043YWVKVmZHUXdUX0NVZFc5aWlaTE4tR2ZuWGQ0cVRfaUk4QVY2QQ?oc=5",
-          "source": "央视网",
-          "published_at": "2025-07-28T15:00:00+08:00",
-          "type": "直播",
-          "summary": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月28日 央视网",
           "image": ""
         },
         {
@@ -857,6 +839,16 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
+      "source": "飞象网",
+      "title": "“世界古代水利建筑明珠”的千年脉动",
+      "point": "“世界古代水利建筑明珠”的千年脉动 飞象网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OOEluTmJTWmlVb1UtNHhVS3lXb1ZTeDhvc0p4LW94T2F3cU9aU2NoWS1hS1ZxQkJrUVdmTXRtc0EzWlZRcXh5aXhoN2t5eFZ5bEdza21jVTNnXzRxbnA4?oc=5",
+      "published_at": "2026-10-19T16:57:31+08:00",
+      "type": "媒体"
+    },
+    {
+      "channel": "媒体快讯",
+      "en": "Media Signals",
       "source": "虎嗅网",
       "title": "第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期",
       "point": "第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 虎嗅网",
@@ -872,16 +864,6 @@
       "point": "“夹缝”中找生意的无问芯穹，要IPO了 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQy04UTBaZW1HYlM3cmE4UWt1WUNudFpIaUJkZjhZZXhxNlpEOXFpS1ozcHlhbGplc3hYS1cwYUhqMW9PaU5Qa0RMUEEwbmFiUGExRw?oc=5",
       "published_at": "2026-10-16T16:04:14+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "媒体快讯",
-      "en": "Media Signals",
-      "source": "36Kr",
-      "title": "2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析",
-      "point": "2024国产GPU竞逐超节点赛道 落地场景与付费需求深度解析 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tN1Y0bERMa1RjM0pXa29uWFJqbzlNNFdTTWlzWTl2cTVLVmZlSk40emk4TDVmUl9SR1hLRlpSZTR0ZDhYQXN0dGZTTU9FQl9yWVNj?oc=5",
-      "published_at": "2026-10-16T05:04:00+08:00",
       "type": "媒体"
     },
     {
