@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-20T19:11:21.285103+08:00",
+  "generated_at": "2026-10-20T23:47:47.564707+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月20日 19:11",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月20日 23:47",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 122 条、直播 24 条、观点 1 条、论坛 26 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 123 条、直播 21 条、观点 1 条、论坛 27 条，已按企业家阅读场景分组。",
     "36Kr：再访Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law - 36Kr",
     "飞象网：“世界古代水利建筑明珠”的千年脉动 - 飞象网",
     "虎嗅网：第26届工博会观察：具身智能展台转向工业场景，机器人进厂仍处验证期 - 虎嗅网",
@@ -355,7 +355,7 @@
         },
         {
           "title": "卡奥斯主导工业世界模型 IEEE 国际标准成功立项 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5UjZRc0RzUHpBT2sxY29KenpEYzZYeVlveUZMcFFDelpoX19IMDhiYkVwMXpXSmZBMEVWa3lrTnZTaXBOUlF3Z0lfSQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10RURXejJJc1AyUHg5NW1FWEJBRG1yZ2hZb0VaMG9rTGIydTlhdlpCZWtyQnM3OXgzcTNPOE5MM1o0amVWQmFoRXhOS0x1UQ?oc=5",
           "source": "36Kr",
           "published_at": "2026-10-14T02:35:00+08:00",
           "type": "媒体",
@@ -363,12 +363,12 @@
           "image": ""
         },
         {
-          "title": "WRC 2026世界机器人大会现场随感：这一次，它们终于走出“秀场”了_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhdDFlX0xsUVZjSUItUGY3WktjX0c0MTVmc24zWkxsYXBoVnh5TnQzN0RrOEY3R1I3SU5jY3BTMHhDV0dmcnlfVExMUU93eXFhNGRIUUwyYw?oc=5",
-          "source": "Bilibili",
-          "published_at": "2026-08-24T15:00:00+08:00",
+          "title": "华为全联接大会演播室 - Huawei",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WUtxd0F4cnZsT1ZxbWtIS0lpLVhIei1ZVlh3VWxlcEhsanlKTXg2alNoLTJYV1JuSDJ6NVk3RFRULXJZdUl4SmYzMnotSHNKWVdza3hkZmRJQQ?oc=5",
+          "source": "Huawei",
+          "published_at": "2026-09-16T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WRC 2026世界机器人大会现场随感：这一次，它们终于走出“秀场”了_哔哩哔哩 Bilibili",
+          "summary": "华为全联接大会演播室 Huawei",
           "image": ""
         }
       ]
@@ -526,6 +526,15 @@
           "image": ""
         },
         {
+          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36氪",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVzRjSzVVMWNqbXRYYUNIUFJZX2FoUlBKa2tJOXZRazlXYTljNTZ0c0RzazdDcnJhd2U3R21MVHg4QTR0MVZONndHS1h6Zw?oc=5",
+          "source": "36氪",
+          "published_at": "2026-07-15T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36氪",
+          "image": ""
+        },
+        {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议 - C114通信网",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ1BCNGVsMURQNmNVbEd5U19wTWhkM2JMWjNianlNdVl1UGt3V3VYemtJQ1hmc05RY3ZvWURZOGxfLVRnRnNpTUc3a1FYTVk?oc=5",
           "source": "C114通信网",
@@ -550,15 +559,6 @@
           "published_at": "2025-07-26T15:00:00+08:00",
           "type": "媒体",
           "summary": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议AI开源、教育、AI普惠、赋身智能、神经网络、超级智能大模型！_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
-          "title": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 - 智源社区",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkT1NhYU5QODFNMEVYMjgyNTQwd05uSWd0SUQ3SVNKTU1lQUxvX2hPSXN2a1E4UGhNakRCV1kzakRJOWNyaDBfMw?oc=5",
-          "source": "智源社区",
-          "published_at": "2025-07-21T15:00:00+08:00",
-          "type": "直播",
-          "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
           "image": ""
         },
         {
@@ -776,6 +776,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-07-09T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
+          "image": ""
+        },
+        {
           "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
           "source": "36Kr",
@@ -800,24 +809,6 @@
           "published_at": "2025-07-27T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月26日 央视网",
-          "image": ""
-        },
-        {
-          "title": "上海世界AI大会直播机器人拒跳舞 网友笑翻 - 阿波罗新闻网",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4YzBsZjZEWV9MMXgzNXJkNk9aNWV2SzdoREUyS00zVUtaVktTSVlBZ2x2UHRrVi0tV0V1MU5LWHhDYXl0ckpKRUNoNmM5WFZiNUVxVDBEeDF3OWhSeWfSAWNBVV95cUxOVDJuZzhrSU52eWxwVVh5TTQ2MTJEOUpiUWt4LVpEZnVZVzZQSDc5R1c1Yl9MbTBXdUxlbUpYSWZic3VQekFDZHdmbERkNEVWZ1NEU2tQRTM4RnYyMTRPRFV4UFk?oc=5",
-          "source": "阿波罗新闻网",
-          "published_at": "2024-07-09T15:00:00+08:00",
-          "type": "直播",
-          "summary": "上海世界AI大会直播机器人拒跳舞 网友笑翻 阿波罗新闻网",
-          "image": ""
-        },
-        {
-          "title": "刘强东“分身”直播首秀带火AI数字人直播 万兴科技百度等厂商受关注 - 飞象网",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rS2NPVnFtbEp2ZU9EWFk4Q184MTN3dHI2SnNHRzFVbUk0Qy1oOUhvVklPQnItdlRNVnNieVItcHJqVWh6NUstbU1rLVpnMEdTTlNOc3ZDZV9BaDFZVEE?oc=5",
-          "source": "飞象网",
-          "published_at": "2024-04-18T15:00:00+08:00",
-          "type": "直播",
-          "summary": "刘强东“分身”直播首秀带火AI数字人直播 万兴科技百度等厂商受关注 飞象网",
           "image": ""
         }
       ]
