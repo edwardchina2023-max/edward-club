@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-25T18:02:52.397715+08:00",
+  "generated_at": "2026-10-25T22:30:46.285016+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月25日 18:02",
+  "edition_title": "上海人工智能大会公开信号追踪 · 10月25日 22:30",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 116 条、直播 24 条、观点 1 条、论坛 30 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 119 条、直播 24 条、观点 1 条、论坛 28 条，已按企业家阅读场景分组。",
     "手机新浪网：国产AI走出屏幕，能为你做什么？来合肥科博展一探究竟 - 手机新浪网",
     "虎嗅网：特斯拉接连接入微信、豆包与支付宝，马斯克加速补齐中国本地化服务 - 虎嗅网",
-    "36Kr：AI终端创新背后的算力战场 - 36Kr",
+    "36氪：AI终端创新背后的算力战场 - 36氪",
     "上观新闻：从摇篮到床榻，AI全包了！西岸科技消费嘉年华开幕 - 上观新闻",
     "36kr：2026 企业级智能体平台选型指南：主流底座深度对比与实践参考-36氪 - 36kr"
   ],
@@ -99,15 +99,6 @@
           "image": ""
         },
         {
-          "title": "直击现场！WAIC这一论坛上，超多成果重磅发布！ - 上海市人民政府",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZHSlBPN211Q1NYNFduMG92RjFrVjkwZkE1WTRLTFFRVkhpaXgtYy1Va25zV1hFR2ExV2cyQ01UdGg3ODZ3YmU4d3ZXRjhLa2lXZjU4OFp3UjJXSzZWOFRnc01ZbHRhQ3dLTXRhWUphcFQyVUZxQ0JWVW1TMjBlRTJRSlIxMGo0M1E?oc=5",
-          "source": "上海市人民政府",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "直击现场！WAIC这一论坛上，超多成果重磅发布！ 上海市人民政府",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会“AI未来发展论坛” 聚焦产学研深度融合 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBta2wwLW0xZ0lpQkY1US1vYnhxd2U0M01mWGZCQ0U1cGVwS2VlTTlVZGlwc2ZISlAybTVzZ1o2YXZaeWxDLUxCVW5MSW5qNEhwdTBWdTBBX2NUMm8?oc=5",
           "source": "上观新闻",
@@ -123,6 +114,15 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
+          "source": "中国科技网",
+          "published_at": "2026-07-18T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
           "image": ""
         }
       ]
@@ -223,21 +223,21 @@
           "image": ""
         },
         {
+          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
+          "image": ""
+        },
+        {
           "title": "WAIC2026主论坛直播 - 广州日报新花城",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHJ5UTBORFZPMDhUVFZ1cFc2d2FYdG9FT0RuekdObWk2WEF4Zzc3UmpucjNfRk5qM2x2N1hiT1NvREV4QnR5RTRGMnVHNWV1WFExRlFRT0JWZjFYRjdyZ0hRUzEwR0Q2TTBQUHV3NHhHUTVaNzBfX2tJd2dVWWNSZjBvbzQxSnZP?oc=5",
           "source": "广州日报新花城",
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC2026主论坛直播 广州日报新花城",
-          "image": ""
-        },
-        {
-          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ULUhUNjFvd2hUVG5wNURQUDlhelVxNjVQQXNNclVTUjdjVDBTeWFURXdrVHotVG9JYjVNdnR4dTI0M0FwazcxN2pMWlhtUzUwTVBvdTQ4cXNYQQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-16T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
           "image": ""
         }
       ]
@@ -282,12 +282,12 @@
           "image": ""
         },
         {
-          "title": "AI终端创新背后的算力战场 - 36Kr",
+          "title": "AI终端创新背后的算力战场 - 36氪",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pQ1hYM2lPLUVrOU9EZzlzeHY4NTZMV2F0UjFqWGJEcnVzTWcydUM3cFJJakxiX0xLdXAzZXdwSFRVNzd1aF90MGZ6Vk8xdw?oc=5",
-          "source": "36Kr",
+          "source": "36氪",
           "published_at": "2026-10-23T03:37:00+08:00",
           "type": "媒体",
-          "summary": "AI终端创新背后的算力战场 36Kr",
+          "summary": "AI终端创新背后的算力战场 36氪",
           "image": ""
         },
         {
@@ -436,15 +436,6 @@
           "image": ""
         },
         {
-          "title": "直击现场！WAIC这一论坛上，超多成果重磅发布！ - 上海市人民政府",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZHSlBPN211Q1NYNFduMG92RjFrVjkwZkE1WTRLTFFRVkhpaXgtYy1Va25zV1hFR2ExV2cyQ01UdGg3ODZ3YmU4d3ZXRjhLa2lXZjU4OFp3UjJXSzZWOFRnc01ZbHRhQ3dLTXRhWUphcFQyVUZxQ0JWVW1TMjBlRTJRSlIxMGo0M1E?oc=5",
-          "source": "上海市人民政府",
-          "published_at": "2026-07-19T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "直击现场！WAIC这一论坛上，超多成果重磅发布！ 上海市人民政府",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会“AI未来发展论坛” 聚焦产学研深度融合 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBta2wwLW0xZ0lpQkY1US1vYnhxd2U0M01mWGZCQ0U1cGVwS2VlTTlVZGlwc2ZISlAybTVzZ1o2YXZaeWxDLUxCVW5MSW5qNEhwdTBWdTBBX2NUMm8?oc=5",
           "source": "上观新闻",
@@ -508,6 +499,15 @@
           "image": ""
         },
         {
+          "title": "WAIC论坛现场收到“太空问候” - 新华网",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WUkpsbTJ5WTJ5aE4yTFZKMmxRQ09VZGZiMG96NjByMk9WbVQ1RnRRbFlfOTJybzB3aVpDcDRySHZoQmJXaHlXM0N5bVVqMm1KdVFOVExjdFNDZUViLVphenZNYmZiZW9VVnNIQ0pYeWhvWG9oLVoyUzJLbk8?oc=5",
+          "source": "新华网",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC论坛现场收到“太空问候” 新华网",
+          "image": ""
+        },
+        {
           "title": "WAIC 2026“数学与人工智能”创新论坛召开 聚焦“共振之巅”——AI与数学的双向范式跃迁 - 新华网上海频道",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56SHh2RXdmOGZLTERpNlo3VzB2dkdMdlUyYXJ6V0xSWmI1ckdNTjFNcEJvdDRsMTZ1S2pHRWJvTjlUNlE3RnFWSHM1UXVLaE01MUlxbGFJbFpydGpDSTZFdTB3VGpTYkVNaXVpcjhRWlFYR09G?oc=5",
           "source": "新华网上海频道",
@@ -541,15 +541,6 @@
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会· 低空经济论坛将在长宁举办2026-07-16 上海市人民政府",
-          "image": ""
-        },
-        {
-          "title": "习近平主席出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 - 人民日报-有品质的新闻",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XdUtrajlwTkR0UjhpZGhNZExGQXBMdzY2UDBSZEItbHlBTnBmTDdWZGtXbHRqYUlyRVlOeTVRLXNHc0NRUFI0ek50eHp2TExOa2xyVmJfSWJQSFZVV1l4X2tHWW50YXc?oc=5",
-          "source": "人民日报-有品质的新闻",
-          "published_at": "2026-07-16T13:15:10+08:00",
-          "type": "论坛",
-          "summary": "习近平主席出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 人民日报-有品质的新闻",
           "image": ""
         },
         {
@@ -750,7 +741,7 @@
         },
         {
           "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ULUhUNjFvd2hUVG5wNURQUDlhelVxNjVQQXNNclVTUjdjVDBTeWFURXdrVHotVG9JYjVNdnR4dTI0M0FwazcxN2pMWlhtUzUwTVBvdTQ4cXNYQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-16T15:00:00+08:00",
           "type": "直播",
@@ -904,9 +895,9 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36Kr",
+      "source": "36氪",
       "title": "AI终端创新背后的算力战场",
-      "point": "AI终端创新背后的算力战场 36Kr",
+      "point": "AI终端创新背后的算力战场 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pQ1hYM2lPLUVrOU9EZzlzeHY4NTZMV2F0UjFqWGJEcnVzTWcydUM3cFJJakxiX0xLdXAzZXdwSFRVNzd1aF90MGZ6Vk8xdw?oc=5",
       "published_at": "2026-10-23T03:37:00+08:00",
       "type": "媒体"
