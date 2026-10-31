@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-31T19:05:25.734957+08:00",
+  "generated_at": "2026-11-01T00:15:22.916525+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 10月31日 19:05",
+  "edition_title": "上海人工智能大会公开信号追踪 · 11月01日 00:15",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 97 条、直播 16 条、论坛 27 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 111 条、直播 17 条、论坛 25 条，已按企业家阅读场景分组。",
     "虎嗅网：具身智能融资降温：头部集中与项目倒闭并行，行业进入现金流压力测试期 - 虎嗅网",
     "手机新浪网：2026WAIC探营：300余台真机集中亮相，大会建起一座机器人“伙伴之城” - 手机新浪网",
-    "36kr：具身机器人，凛冬将至-36氪 - 36kr",
-    "36Kr：雷军投的20家机器人企业 - 36Kr",
-    "Huawei：华为全联接大会演播室 - Huawei"
+    "36Kr：具身机器人，凛冬将至 - 36Kr",
+    "广西新闻网：三年蝶变 三日致远｜2026广西农博会广西日报全媒体报道合辑 - 广西新闻网",
+    "虎嗅：特斯拉接连接入微信、豆包与支付宝，马斯克加速补齐中国本地化服务 - 虎嗅"
   ],
   "sections": [
     {
@@ -45,12 +45,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mMmVqdUdEd1JvSkRSNnU2VlV6c0c0Ti1JckJmOTBLeWUzOFRwbDU0SDFraVhienB4WGJ1a3p2MklKWGlsSWdHU0JWbzN3NHEwelh2WWhsenpYaS1PMEZMeURXRDZvblZ5WkVvejdUR2pyZFEwenQ3RFc4T3E?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-19T15:00:00+08:00",
+          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
+          "source": "中国科技网",
+          "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 中国日报网",
+          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
           "image": ""
         },
         {
@@ -60,15 +60,6 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
-          "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
-          "source": "中国科技网",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
           "image": ""
         },
         {
@@ -124,6 +115,15 @@
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会：未来计算与未来算力论坛 21财经",
           "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 - 科学网—新闻",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcWxndFltSVdRaHVhQkd4YzV1SF9OQ2JzeGRSaDJ1am1tSFIyTm50SDN2UHRMa3NRYlNfbjd6SHQ2MXN6bGZHekg3anMwYUVGSHpSX3pqVzJpc3ZuMTNPTXItdTM?oc=5",
+          "source": "科学网—新闻",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会｜AI与先进核能共筑可持续智能未来论坛 科学网—新闻",
+          "image": ""
         }
       ]
     },
@@ -166,15 +166,6 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
-          "image": ""
-        },
-        {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 中华网",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGYUc5cUpva0JFVHcxamFhb19iSlpyVUJ2dUxEcUF5RFE0Z19EeF95elpoeTNmdHg2MkR3ZWdtcE9KRjNVNlVCR29wX0EtekRWeEFKWVJVSEtVck5haEQ0QzdLdy12TG0zR0VUdEhn?oc=5",
-          "source": "中华网",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 中华网",
           "image": ""
         },
         {
@@ -229,6 +220,15 @@
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36氪",
+          "image": ""
+        },
+        {
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-06-28T15:00:00+08:00",
+          "type": "直播",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
           "image": ""
         },
         {
@@ -300,21 +300,30 @@
           "image": ""
         },
         {
-          "title": "具身机器人，凛冬将至-36氪 - 36kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJLWV3cnBkRWYyYXYyQWpucnlQV09JYXcxMDNBVmUyOWx4aEk1U05jZHNPalRHeG5OUzY5bmxnVk82aU5qZ3gyU2NTMEtTWmpK?oc=5",
-          "source": "36kr",
+          "title": "具身机器人，凛冬将至 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90VXFydjBpWm0tSDlEX2lPdGpCNmFRWUl4dDU2MEtHRFgzWEJkSE1VQ2xaWmlMVDRzTjg2aEd5eWEyY25ZYzZnelBwT0M5UQ?oc=5",
+          "source": "36Kr",
           "published_at": "2026-10-29T20:36:00+08:00",
           "type": "媒体",
-          "summary": "具身机器人，凛冬将至-36氪 36kr",
+          "summary": "具身机器人，凛冬将至 36Kr",
           "image": ""
         },
         {
-          "title": "雷军投的20家机器人企业 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zZHRjc09HcDRIQ2VSNXdSdjEwSU1iZDhZMzJaazhobEd0c0xBTmdTX3BNbXhFa3JWRXhfX1NkUE5rbUlFbWZickZUd0w1Zw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-10-27T17:40:00+08:00",
+          "title": "三年蝶变 三日致远｜2026广西农博会广西日报全媒体报道合辑 - 广西新闻网",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOMU5yQzZqakZPaVpOaEVTb0VQbHN5OV9oYUJoSU5xM1ZJSHBZbGdIWnE4UC0zOXpwZmdTdklHbkppZ2JYemRHYWRCcERSNExqTy1UaHpxdUp5akc5M0NBQzl6bExsdGVaQm9QdnBtcXIzODRDRXB5Q0ZNZlVNbG8?oc=5",
+          "source": "广西新闻网",
+          "published_at": "2026-10-28T22:58:00+08:00",
           "type": "媒体",
-          "summary": "雷军投的20家机器人企业 36Kr",
+          "summary": "三年蝶变 三日致远｜2026广西农博会广西日报全媒体报道合辑 广西新闻网",
+          "image": ""
+        },
+        {
+          "title": "特斯拉接连接入微信、豆包与支付宝，马斯克加速补齐中国本地化服务 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nR29vU0tOdlFKNW5xZjBKUHM3ZFlfWTRLYTVfaUdhb3h6Tk5LQUx5bkFJYmt0akdTQkFoaXU4UV84ZHE1aXl1Qm5wQk5BMk1UUzloWA?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-10-23T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "特斯拉接连接入微信、豆包与支付宝，马斯克加速补齐中国本地化服务 虎嗅",
           "image": ""
         },
         {
@@ -327,12 +336,30 @@
           "image": ""
         },
         {
+          "title": "上海市人民政府新闻办公室 - 上海市人民政府新闻办公室",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkhrdXRiNFphYWc3MU9IV3YtSlFoZDJWODY0d1NQT2F3aW55cl9HUWlVcFRPczFhdmY2SnJCNGVOSjFFdVpybWsyanliYk1rZzFLdmFkMjRwYUNFMndkOEc0Mk9VaGJNY3hIamNHLUFLRGI2bGFvZy1ETVJfenRhYU1CUk45Ukhqem11V3JIZHZmdERWRHd6SQ?oc=5",
+          "source": "上海市人民政府新闻办公室",
+          "published_at": "2026-09-11T00:12:55+08:00",
+          "type": "媒体",
+          "summary": "上海市人民政府新闻办公室 上海市人民政府新闻办公室",
+          "image": ""
+        },
+        {
           "title": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 - 新浪网",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjVsMXF2WUY1WVBTMDRmZzJyTEUycE5sU0ppWHRCV2NuMnZXVlhuMFYzRUtBYUtGVFhGdWc1Q3J5LTc1ek4wdGsxbjBCWmg1YWdTbWNLNEN6aDh4NTZsWFdDTHY5UmswTWtzYnFYLU5rWnhVRmptckZnT3IwVlFDaUtmb21nRlE?oc=5",
           "source": "新浪网",
           "published_at": "2026-08-20T20:44:55+08:00",
           "type": "媒体",
           "summary": "WAIC前瞻:近30万AI人才上海如何成为创新强磁场|世界人工智能大会|看看新闻knews|商汤科技|上海市|大模型_手机新浪网 新浪网",
+          "image": ""
+        },
+        {
+          "title": "启明星 | 回顾一下！那些你在WAIC 2026意犹未尽的展览和演讲 - 启明创投",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNLUVKcVZwSnhMdzF5c2pOQ2xadTFyaG9jeEhuQk9sbDdGT1VCcXg5M1FqekRaVktlRF9jMFdQZzZpZ19MSFdpMjVZMi1UWFhEMWRnOE12YUE2c1dQT09nOW50c2xPYk9Wcmp0Q3poRVBRUElidC1IVjZfTHdPYnVqdDBkdTFITnhFbUQ0YmhreVJoQXoySVE0alhQT21VWHZwTG9BckdLSWJuRWduRTZxYVEtZHFHczZZcXp2VDgxTDAxUjRsNnZCXzlPZ2NIUlNWZzljOU1ieFlTb2Y1TUdHSE1oNlpUd3lERnNfX3JvYnItc3BOSWdybzV5M1ZNNnM5SEEySHkzN2N4Q0RYR001OTJwSzczQmRBOFRPQ2tPalpENzA3elN5RXZ6cEZRRnFaT1ZsdGpKcWlES05VT3EtdG1PYUxSTG9uSG9BZ0gwa0d0d0lhMjNpcms1a2hFQQ?oc=5",
+          "source": "启明创投",
+          "published_at": "2026-07-29T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "启明星 | 回顾一下！那些你在WAIC 2026意犹未尽的展览和演讲 启明创投",
           "image": ""
         },
         {
@@ -345,48 +372,21 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026展商精彩回顾_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FUHBLY1E5UkpHZjRBZnlpVHhFYkw0X3BoTEg1ZkNfYUdCbkdybzI2QUNmZlhQaVlUYktOZndTenEtWlVTa2FGQlZGc2p1VXhCY1R3dlBnaw?oc=5",
+          "source": "Bilibili",
+          "published_at": "2026-07-24T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "WAIC 2026展商精彩回顾_哔哩哔哩 Bilibili",
+          "image": ""
+        },
+        {
           "title": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 - 虎嗅",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GYlg5YVZTLUZhN1p5MzBwazZ4TGxoRExXSTlTUzJBUU5QYWdjMGZWR0VfWkhaQzNsRnRwU2habFJSUDhCcjAwN2JQUmlWRldEalFMZA?oc=5",
           "source": "虎嗅",
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "媒体",
           "summary": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ - 36氪",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51X05nYUU1cnJDUzdYTDZQQkZ5ZWxSdzhsSTVuMGRVQndsMEQ1SERnTGRPRUk3T1VqZFBDc1RtMEZIU1dkRGEtS0V1cDVKdw?oc=5",
-          "source": "36氪",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ 36氪",
-          "image": ""
-        },
-        {
-          "title": "SMG千人团队深度参与2026世界人工智能大会 - https://guan.media/",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRmdkMTRwMVd3ZWxmUU5mMHlRUEFaX1d0NUFkWmRNOFJORWtsdExzU0RmbnlLZ0pEYjdRLVQ2bVRSX1Fna0tQZlpJRHBkcWFxSEhQNVJLOV80R2ZwbnBhdEExZW1pOThJenc?oc=5",
-          "source": "https://guan.media/",
-          "published_at": "2026-07-22T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "SMG千人团队深度参与2026世界人工智能大会 https://guan.media/",
-          "image": ""
-        },
-        {
-          "title": "【展会活动】2026世界人工智能大会回顾_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VZThWRHlKQXI1YWlGVU9qeTBNby1JZGxfcnA2dGZ2ZVZoaVNBTGN3RDVCREprc2ZnanFLd3Jja1JmMWxkaDBKamRrc21HbnhNdHBwT1Q5MA?oc=5",
-          "source": "Bilibili",
-          "published_at": "2026-07-22T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "【展会活动】2026世界人工智能大会回顾_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
-          "title": "清闲动态人机工学椅亮相2026世界人工智能大会，多场景融入AI产业交流 - 观察者网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBROHBqT0ZrQ2wwQmlWd0Q3YWF1M1Z5dC1xcktucWRrc2JmenBNWUlCWnRlcERoYTByT1hCNW1PMEI2VUl4d1JRU1pjeU9mX0RGU1hST3ZRaUVIV3RnS3AxN0c3QQ?oc=5",
-          "source": "观察者网",
-          "published_at": "2026-07-22T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "清闲动态人机工学椅亮相2026世界人工智能大会，多场景融入AI产业交流 观察者网",
           "image": ""
         }
       ]
@@ -427,12 +427,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 - 中国日报网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mMmVqdUdEd1JvSkRSNnU2VlV6c0c0Ti1JckJmOTBLeWUzOFRwbDU0SDFraVhienB4WGJ1a3p2MklKWGlsSWdHU0JWbzN3NHEwelh2WWhsenpYaS1PMEZMeURXRDZvblZ5WkVvejdUR2pyZFEwenQ3RFc4T3E?oc=5",
-          "source": "中国日报网",
-          "published_at": "2026-07-19T15:00:00+08:00",
+          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
+          "source": "中国科技网",
+          "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
-          "summary": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办 中国日报网",
+          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
           "image": ""
         },
         {
@@ -442,15 +442,6 @@
           "published_at": "2026-07-18T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
-          "image": ""
-        },
-        {
-          "title": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 - 中国科技网",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnpzNGcySXdrQlAxaUZfS0dBNVhqQl83SGYxYkZaQkdTYU1iUGh2OVlJcXJCV2F1ZVNLVVE5WFE1ZGtVMVBmV2hEeUhGQWc0aVdYYXF4dzRsWFh1eFF2V096LUhxdTVPa0o2V0o2SVg?oc=5",
-          "source": "中国科技网",
-          "published_at": "2026-07-18T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "2026世界人工智能大会人工智能国际标准化论坛在沪召开 中国科技网",
           "image": ""
         },
         {
@@ -562,15 +553,6 @@
           "image": ""
         },
         {
-          "title": "【Geoffrey Hinton】WAIC 2025开幕式演讲_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuZUVwYzZCbTc1ZzhNRmRDSjNlUTFtQTZCalJPZFVLcndFMTBBWF9yQ0Q1N2V0RnhVOUVBTzZmQ0lpd2NLWXNZbGZ1YjYtdjdDRlpEQVhQVQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2025-11-17T16:00:00+08:00",
-          "type": "论坛",
-          "summary": "【Geoffrey Hinton】WAIC 2025开幕式演讲_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
           "title": "【主分会场合集】2025 WAIC 世界人工智能大会：人工智能全球治理高级别会议AI开源、教育、AI普惠、赋身智能、神经网络、超级智能大模型！_哔哩哔哩 - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ySVlHVFFVU0lKNFVNQ1VRZm5rMGRtQUZ1TzQ2SkVCeHNGQ0R4VjlPaFhsOEZ4Vmg2alBiM2N5RTd6dl81V2NycEZzcFZoOC1aR2poSXlKMA?oc=5",
           "source": "Bilibili",
@@ -598,12 +580,12 @@
           "image": ""
         },
         {
-          "title": "2024世界人工智能大会暨人工智能全球治理高级别会议在沪举办 - 中国社会科学网",
+          "title": "2024世界人工智能大会暨人工智能全球治理高级别会议在沪举办 - www.cssn.cn",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SUFVLNzRuRHh0X2dfNzFWVV9yVENhRFFKWGRwTU16QXZSNHE1RHd3T0JLXzZpbHJMMFJPc3liYTBVTEpMVGtId1FheDlvWHR4V1UzTXNONktiYkxxQ2cyWjdYMDNJN2ZmcExmXw?oc=5",
-          "source": "中国社会科学网",
+          "source": "www.cssn.cn",
           "published_at": "2024-07-06T15:00:00+08:00",
           "type": "媒体",
-          "summary": "2024世界人工智能大会暨人工智能全球治理高级别会议在沪举办 中国社会科学网",
+          "summary": "2024世界人工智能大会暨人工智能全球治理高级别会议在沪举办 www.cssn.cn",
           "image": ""
         },
         {
@@ -650,15 +632,6 @@
       "en": "Expo Walkthroughs",
       "description": "展区、展台、探馆、现场走访和新品展示类直播/回放入口。",
       "items": [
-        {
-          "title": "当emoji变成探展线索，百度智能云带你直击WAIC 2026具身智能展区现场。机器人不再只是动起来，而是真正用起来。 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvR1RUOFdlTkdIWFg3RWFPNmhRZlZhOVZsQXRacWR3aENqQjRkbV9XcWFuckwtMUNjSmlleVVnbW94bTJFaWU0UnBLTnFIZHBVM3dQbS04QQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "当emoji变成探展线索，百度智能云带你直击WAIC 2026具身智能展区现场。机器人不再只是动起来，而是真正用起来。 Bilibili",
-          "image": ""
-        },
         {
           "title": "WAIC 2026现场直击：10万平米“AI宇宙”开启，智能伙伴陪你逛展！ - 国际金融报",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WS19XcG11MFBlV3JyanptZkNfb0ZLdTR4UGh2X3ZjZFA2Y19NVWttQ1F3M1hseDVxMTJKMUlobVBYZ0xUQlhQRnFhbEQ4Z0ZaY3lYbmVINWxKVE1zcXE4?oc=5",
@@ -731,15 +704,6 @@
           "image": ""
         },
         {
-          "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 中华网",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGYUc5cUpva0JFVHcxamFhb19iSlpyVUJ2dUxEcUF5RFE0Z19EeF95elpoeTNmdHg2MkR3ZWdtcE9KRjNVNlVCR29wX0EtekRWeEFKWVJVSEtVck5haEQ0QzdLdy12TG0zR0VUdEhn?oc=5",
-          "source": "中华网",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 中华网",
-          "image": ""
-        },
-        {
           "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
           "source": "上观新闻",
@@ -785,6 +749,15 @@
           "image": ""
         },
         {
+          "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-06-28T15:00:00+08:00",
+          "type": "直播",
+          "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
+          "image": ""
+        },
+        {
           "title": "WAIC 2025：开普勒大黄蜂挑战8小时直播圆满收官，引领具身智能商业化新征程 - 飞象网",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oYWNJWHIxS1FON0pXa0Nxcm5EdzFIdFVKWk93dFdWYmpBNTFYclpCRWctQkJZNTVFS3ZINllNczBYY0ZTSnptYktBV3NlWk9PaHJ3WEsxNXlvZWRn?oc=5",
           "source": "飞象网",
@@ -809,6 +782,15 @@
           "published_at": "2025-07-13T07:57:28+08:00",
           "type": "直播",
           "summary": "WAIC 2025 氪话未来直播间 topics.36kr.com",
+          "image": ""
+        },
+        {
+          "title": "介绍2025世界数字教育大会有关情况[图文直播] - 中华人民共和国教育部政府门户网站",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3lOVkRIcG5VcnJwcURCMG5nemowaGFBekFDRGlCbnZDeDNfMGc3TkJYX2hncHV1aC1ZYVFyMlBZei1PRDBRejdHV0RvcEJmVnc2QWZ0VFozeDNlb0dOZTZaQ3lXanAyLWpUaGpvOG1QNVJTbXBzVjhhdFFuUzR6U0Vn?oc=5",
+          "source": "中华人民共和国教育部政府门户网站",
+          "published_at": "2025-05-09T15:00:00+08:00",
+          "type": "直播",
+          "summary": "介绍2025世界数字教育大会有关情况[图文直播] 中华人民共和国教育部政府门户网站",
           "image": ""
         },
         {
@@ -877,21 +859,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36kr",
-      "title": "具身机器人，凛冬将至-36氪",
-      "point": "具身机器人，凛冬将至-36氪 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJLWV3cnBkRWYyYXYyQWpucnlQV09JYXcxMDNBVmUyOWx4aEk1U05jZHNPalRHeG5OUzY5bmxnVk82aU5qZ3gyU2NTMEtTWmpK?oc=5",
+      "source": "36Kr",
+      "title": "具身机器人，凛冬将至",
+      "point": "具身机器人，凛冬将至 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90VXFydjBpWm0tSDlEX2lPdGpCNmFRWUl4dDU2MEtHRFgzWEJkSE1VQ2xaWmlMVDRzTjg2aEd5eWEyY25ZYzZnelBwT0M5UQ?oc=5",
       "published_at": "2026-10-29T20:36:00+08:00",
-      "type": "媒体"
-    },
-    {
-      "channel": "直播 / 逛展",
-      "en": "Live & Expo",
-      "source": "Bilibili",
-      "title": "当emoji变成探展线索，百度智能云带你直击WAIC 2026具身智能展区现场。机器人不再只是动起来，而是真正用起来。",
-      "point": "当emoji变成探展线索，百度智能云带你直击WAIC 2026具身智能展区现场。机器人不再只是动起来，而是真正用起来。 Bilibili",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvR1RUOFdlTkdIWFg3RWFPNmhRZlZhOVZsQXRacWR3aENqQjRkbV9XcWFuckwtMUNjSmlleVVnbW94bTJFaWU0UnBLTnFIZHBVM3dQbS04QQ?oc=5",
-      "published_at": "2026-07-20T15:00:00+08:00",
       "type": "媒体"
     },
     {
@@ -912,6 +884,16 @@
       "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
       "published_at": "2026-07-14T15:00:00+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "直播 / 逛展",
+      "en": "Live & Expo",
+      "source": "搜狐网",
+      "title": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会",
+      "point": "蓝鲸新闻×WAIC 2026｜视频探馆、现场直播间、专场活动、私享局，邀您共赴盛会 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wN3EzWnhjaXRLUDVWaU1Wc3JONGtlZ2VGMFFGc0lsdVE2dG1EM2V0MVRTVDZrdUpQbmNjaUxvYUgya3VXTG9QV212dEl3cmFFTmc?oc=5",
+      "published_at": "2026-07-07T15:00:00+08:00",
       "type": "直播"
     },
     {
