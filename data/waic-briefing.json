@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-06T03:51:39.094038+08:00",
+  "generated_at": "2026-11-06T08:54:14.228331+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 11月06日 03:51",
+  "edition_title": "上海人工智能大会公开信号追踪 · 11月06日 08:54",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 87 条、直播 16 条、观点 1 条、论坛 31 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 87 条、直播 16 条、观点 1 条、论坛 29 条，已按企业家阅读场景分组。",
     "36氪：我写了Hinton署名的那篇 RSI论文，未来几年 AI 研发可能提速十倍｜Sören Mindermann - 36氪",
     "36氪：具身智能大脑混战：9家头部公司跑出了4条路，「类脑架构」初露锋芒 - 36氪",
     "Huawei：华为全联接大会演播室 - Huawei",
@@ -42,15 +42,6 @@
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会“人机共育·重塑大学”人工智能+教育论坛在上海举行 清华大学",
-          "image": ""
-        },
-        {
-          "title": "世界模型六小龙论坛：物理AI需从视频生成转向因果规律与可靠行动 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92cHhIeUxWX2xXc0VUY3o1Y3lTNzBhNzFMNzdhdlpOZDBqUExMdHpUMWlYcm5nSGRrZk9XVkVsSHJTQkRsYll0b255VEIwVUM2aUozQQ?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-07-21T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界模型六小龙论坛：物理AI需从视频生成转向因果规律与可靠行动 虎嗅网",
           "image": ""
         },
         {
@@ -124,6 +115,15 @@
           "type": "论坛",
           "summary": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界 36氪",
           "image": ""
+        },
+        {
+          "title": "三地四馆、规模创纪录，WAIC 2026今日开幕 - 观察者网",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSE95eVVKV2IxbHd4amRvSV9zVE4tVjFLTEw2VXV1MWY0eDBucVkyZVVZNkQ5MHJ0OTI2djlpQVQzSzFhWEgxZWFrSFZ0allkeFFDLVR3LUZacGdPVmJHZ3VyRTJKZw?oc=5",
+          "source": "观察者网",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕 观察者网",
+          "image": ""
         }
       ]
     },
@@ -160,8 +160,17 @@
           "image": ""
         },
         {
+          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
+          "image": ""
+        },
+        {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBydjRrMkwyNVdKd01NbzBVZ280UlVqSHhOUEFCTk4wOUlfd2l0V014T2s2Q19fNVI0M21hLVp1UlpyY2haVmp5WVRqQVd5UHpISTVUV3VfOA?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
@@ -169,21 +178,12 @@
           "image": ""
         },
         {
-          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-16T15:00:00+08:00",
+          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNUtNNVpHRjk2ZHdfelA4RnlMOXFuZnFqWGxPdWFVRDhVSXJ4OUJtRDMtU2c0MHEtWGpuZFV6UzR1SEsxNzZMT0Q4RmpKNzVBY2c?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
-          "image": ""
-        },
-        {
-          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eUtoTzg1NG1mU0w1bUk0TkNLMmtfZHgzcFNHTVNVYlZPQXRUd3pENzVFemhHeWZFUXZYNVdHR3RZSzJ1OUJXalpSR0d4QzhsOVY5X0JKbjhKS2VIclJF?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-16T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
+          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 搜狐网",
           "image": ""
         },
         {
@@ -309,6 +309,15 @@
           "image": ""
         },
         {
+          "title": "AI手机大战全面开打：端侧AI备案落地，系统级智能体走向前台 - 虎嗅",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aaGFkbDJ3cWwycWxQX0dFWndLSW5BTTZhbG5fdmRac2dPRzl1amZlZDh3eUMxRFVUeUl5SGgwWmtiZG5oUEh0ZEU4SDFFa1VzZ3FBMQ?oc=5",
+          "source": "虎嗅",
+          "published_at": "2026-07-24T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "AI手机大战全面开打：端侧AI备案落地，系统级智能体走向前台 虎嗅",
+          "image": ""
+        },
+        {
           "title": "同济大学科技园硬科技企业组团亮相2026世界人工智能大会 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SE50SlRUaEY0S2dFYnl3Xy1FOWJrOXJmQVAyeG1rTVNoa3JXWENtM04wUEpvXzhZc3JaQS1DOWxWTmNHRmNkUUdTSExWNFZha01yZzNIYmRQZw?oc=5",
           "source": "同济大学新闻网",
@@ -361,15 +370,6 @@
           "type": "媒体",
           "summary": "清闲动态人机工学椅亮相2026世界人工智能大会，多场景融入AI产业交流 观察者网",
           "image": ""
-        },
-        {
-          "title": "10万步暴走WAIC，10个问题看懂AI产业下一程：从聊天，到抢「身体」干活 - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wYm1pNWE4Vmw0cW5VSDFURVI4TDB3WnVyNnhQWmdyeDhJckdxU3NGbnhxVklLVTNzanBmOVg1eHVhcWxBdURKTWk4Qm80Zw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-21T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "10万步暴走WAIC，10个问题看懂AI产业下一程：从聊天，到抢「身体」干活 36Kr",
-          "image": ""
         }
       ]
     }
@@ -406,15 +406,6 @@
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会“人机共育·重塑大学”人工智能+教育论坛在上海举行 清华大学",
-          "image": ""
-        },
-        {
-          "title": "世界模型六小龙论坛：物理AI需从视频生成转向因果规律与可靠行动 - 虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92cHhIeUxWX2xXc0VUY3o1Y3lTNzBhNzFMNzdhdlpOZDBqUExMdHpUMWlYcm5nSGRrZk9XVkVsSHJTQkRsYll0b255VEIwVUM2aUozQQ?oc=5",
-          "source": "虎嗅网",
-          "published_at": "2026-07-21T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "世界模型六小龙论坛：物理AI需从视频生成转向因果规律与可靠行动 虎嗅网",
           "image": ""
         },
         {
@@ -571,15 +562,6 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 36氪",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13QU5yWkg2ejIwUExWOEk3bXhHTFgyQ0p2SjNTLVlrNjFEMVFZWmM1OFZfMXhSdzhodjE4OVF4ekpndnZwRzV2VC1JSUxTdw?oc=5",
-          "source": "36氪",
-          "published_at": "2026-07-07T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 36氪",
-          "image": ""
-        },
-        {
           "title": "【Geoffrey Hinton】WAIC 2025开幕式演讲_哔哩哔哩 - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuZUVwYzZCbTc1ZzhNRmRDSjNlUTFtQTZCalJPZFVLcndFMTBBWF9yQ0Q1N2V0RnhVOUVBTzZmQ0lpd2NLWXNZbGZ1YjYtdjdDRlpEQVhQVQ?oc=5",
           "source": "Bilibili",
@@ -613,6 +595,15 @@
           "published_at": "2025-07-21T15:00:00+08:00",
           "type": "直播",
           "summary": "即将开始！2025世界人工智能大会论坛攻略来了｜附直播预约 智源社区",
+          "image": ""
+        },
+        {
+          "title": "论坛排片｜WAIC 2025最新活动日程安排上新！ - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wV25Xei1CTWFLWmtuZ09uVDc3M1BRZFY0QjUzaTNnM3YtR1M4NWJhY201el9Od3kyN1ZTVzZfZk52eENHbVJVeVh1ZnhEdw?oc=5",
+          "source": "36Kr",
+          "published_at": "2025-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "论坛排片｜WAIC 2025最新活动日程安排上新！ 36Kr",
           "image": ""
         },
         {
@@ -686,12 +677,21 @@
           "image": ""
         },
         {
-          "title": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnc1ZkZXFYVDVIaV9VNjFtT0VoRTZEN3BwUTE4UEVMdGZBWFpEQURTb2RwOFhnZzQzY0N3X2xrNzBPRkJrSVZGeTFFOFkwWElHaHV2bkJDQQ?oc=5",
+          "title": "【直播】2026世界人工智能大会专属光影展演来了 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcDc0Y01Pd1c5X0R4QkVZVUhBcTBmQUVacURnZ3hmWVNKTVFiSGJvbjdxZXdVWHo0VHJRdkwyelhJdk5kdVFzSG5iUHUyOEZHaDEwUXJGNU93QQ?oc=5",
           "source": "上观新闻",
-          "published_at": "2026-07-16T15:00:00+08:00",
+          "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
-          "summary": "【直播】探营2026世界人工智能大会 抢先感受盛会氛围、体验精彩展项 上观新闻",
+          "summary": "【直播】2026世界人工智能大会专属光影展演来了 上观新闻",
+          "image": ""
+        },
+        {
+          "title": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 - 搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNUtNNVpHRjk2ZHdfelA4RnlMOXFuZnFqWGxPdWFVRDhVSXJ4OUJtRDMtU2c0MHEtWGpuZFV6UzR1SEsxNzZMT0Q4RmpKNzVBY2c?oc=5",
+          "source": "搜狐网",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "逛WAIC不用到场！京东“Aidol创造营”直播带你解锁全品类AI智能装备 搜狐网",
           "image": ""
         },
         {
