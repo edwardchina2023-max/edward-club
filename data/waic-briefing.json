@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-07T22:47:35.215357+08:00",
+  "generated_at": "2026-11-08T03:17:45.622708+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 11月07日 22:47",
+  "edition_title": "上海人工智能大会公开信号追踪 · 11月08日 03:17",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 89 条、直播 17 条、观点 1 条、论坛 29 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 89 条、直播 16 条、观点 1 条、论坛 31 条，已按企业家阅读场景分组。",
     "凤凰网财经：“新”动了！智能经济新形态，到底新在哪？ - 凤凰网财经",
     "36氪：我写了Hinton署名的那篇 RSI论文，未来几年 AI 研发可能提速十倍｜Sören Mindermann - 36氪",
     "36Kr：具身智能大脑混战：9家头部公司跑出了4条路，「类脑架构」初露锋芒 - 36Kr",
@@ -336,12 +336,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 - 虎嗅",
+          "title": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GYlg5YVZTLUZhN1p5MzBwazZ4TGxoRExXSTlTUzJBUU5QYWdjMGZWR0VfWkhaQzNsRnRwU2habFJSUDhCcjAwN2JQUmlWRldEalFMZA?oc=5",
-          "source": "虎嗅",
+          "source": "虎嗅网",
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "媒体",
-          "summary": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 虎嗅",
+          "summary": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 虎嗅网",
           "image": ""
         },
         {
@@ -517,12 +517,21 @@
           "image": ""
         },
         {
-          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36Kr",
+          "title": "2026世界人工智能大会· 低空经济论坛将在长宁举办2026-07-16 - 上海市人民政府",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ24xajRVQW9iV2prNlMwU29Db2ZZWjliZ0NBZGdSdTBBRUFyVHFxQ0t6a25JUHNLa1ZXMDhOWG9CalpSQWdIV0UwbEJNdU5uZnRIR1BXem56Ni1FNC1Pb29YM1RsM0hwdFB1SFZNRWpSNnNzQ0NxTXFSRERYWGhnMWpUU3lLOEdyVUE?oc=5",
+          "source": "上海市人民政府",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会· 低空经济论坛将在长宁举办2026-07-16 上海市人民政府",
+          "image": ""
+        },
+        {
+          "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36氪",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVzRjSzVVMWNqbXRYYUNIUFJZX2FoUlBKa2tJOXZRazlXYTljNTZ0c0RzazdDcnJhd2U3R21MVHg4QTR0MVZONndHS1h6Zw?oc=5",
-          "source": "36Kr",
+          "source": "36氪",
           "published_at": "2026-07-15T15:00:00+08:00",
           "type": "论坛",
-          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36Kr",
+          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ 36氪",
           "image": ""
         },
         {
@@ -586,6 +595,15 @@
           "published_at": "2025-07-17T15:00:00+08:00",
           "type": "论坛",
           "summary": "论坛综述 | WAIC 2025 论坛攻略：探秘理论深水・直击实战热场・逐航规则新域 36氪",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2024｜投融资主题论坛“AI规模新经济”在上海世博中心成功举办！_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LNElqQ1dhbmVHOU5QRDI2YzVDaWxqbmNSNlphdlZtZF9neDN4MmVGUXh0cVowR1JrQmlUQjVselFFNGNZUFRGSkh5ZTYwX2pXU2VDSHlscw?oc=5",
+          "source": "Bilibili",
+          "published_at": "2024-07-06T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2024｜投融资主题论坛“AI规模新经济”在上海世博中心成功举办！_哔哩哔哩 Bilibili",
           "image": ""
         },
         {
@@ -749,21 +767,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2025 氪话未来直播间 - 36Kr",
+          "title": "WAIC 2025 氪话未来直播间 - 36氪",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QN1FDdFo2QWdSN1NhbXVjQjVIODY2YkE2M0JqR0NJTi1uSkdqZkt4elpOTFZpQThvTXhwV3R6bm1VdjRoSXNkMjN1anl0T1U?oc=5",
-          "source": "36Kr",
+          "source": "36氪",
           "published_at": "2025-07-13T07:57:28+08:00",
           "type": "直播",
-          "summary": "WAIC 2025 氪话未来直播间 36Kr",
-          "image": ""
-        },
-        {
-          "title": "直播回放 | 共享善智正当时 探营2024世界人工智能大会 - xinmin.cn",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSXZIZFVvWnkzZU0yOGU2UEZ5OEM5TjRST0h3OVBYZUp3MTZOZ0NTUk90YWZUSDZSYXZBRi1oM1ZYc3E2MkpKZ0k2N1NhZ1EtcVloSThB?oc=5",
-          "source": "xinmin.cn",
-          "published_at": "2024-07-04T15:00:00+08:00",
-          "type": "直播",
-          "summary": "直播回放 | 共享善智正当时 探营2024世界人工智能大会 xinmin.cn",
+          "summary": "WAIC 2025 氪话未来直播间 36氪",
           "image": ""
         }
       ]
