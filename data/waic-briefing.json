@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T02:31:54.117123+08:00",
+  "generated_at": "2026-11-10T09:55:41.520947+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 11月10日 02:31",
+  "edition_title": "上海人工智能大会公开信号追踪 · 11月10日 09:55",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 88 条、直播 18 条、观点 1 条、论坛 30 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 89 条、直播 18 条、观点 1 条、论坛 32 条，已按企业家阅读场景分组。",
     "36氪：超节点走向规模交付，算力军备升级了 - 36氪",
-    "凤凰网财经：“新”动了！智能经济新形态，到底新在哪？ - 凤凰网财经",
-    "36氪：我写了Hinton署名的那篇 RSI论文，未来几年 AI 研发可能提速十倍｜Sören Mindermann - 36氪",
+    "DoNews：“新”动了！智能经济新形态，到底新在哪？ - DoNews",
+    "京报网：以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 - 京报网",
     "Huawei：华为全联接大会演播室 - Huawei",
     "京报网：2026年服贸会海淀展区，探馆看这里→ - 京报网"
   ],
@@ -161,7 +161,7 @@
         },
         {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQ0UtYUpIdTJ2XzRGUy04cGh3amIxMzJvV3BnQVNnUnBxaFRFVHpvT1Azc21NTTEtaHJBVk1rM282SlpwZGZQbUtYMDJjLUh6MTdSNkZlTTkxUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZOFp3NGVyN3dwMDc0T3dDTUV2bFozbS1pQnFiQ21TTTdQcjExeXUxZ0NvSlZ5cElGZ1BmYTBHZWNLWXEzNzZMMDYwSFFmUWFJMWpzOVJWU192TUtNOWc?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
@@ -273,21 +273,21 @@
           "image": ""
         },
         {
-          "title": "“新”动了！智能经济新形态，到底新在哪？ - 凤凰网财经",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Da1lRc3hiX2U5N2JKcmN1Mks1VUU5MWRkczFZY3dQT1hFNUdmSGVYWTk0U0VUa1VSSmdUODBWbmMyTmhJUGdvbXJFdWRzYXlF?oc=5",
-          "source": "凤凰网财经",
-          "published_at": "2026-11-06T22:25:35+08:00",
+          "title": "“新”动了！智能经济新形态，到底新在哪？ - DoNews",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3aVhBRGhiaVRoNkhqZWFLblowYmR4VnRNaERhTGpsT0xmQ1hEajZlWmJGQjBob19uRUU5U2ZXNHNoaE1DcTkwY1ZHNzczWkJSTTZQUTlqOHF3S2c1cmc?oc=5",
+          "source": "DoNews",
+          "published_at": "2026-11-07T15:01:29+08:00",
           "type": "媒体",
-          "summary": "“新”动了！智能经济新形态，到底新在哪？ 凤凰网财经",
+          "summary": "“新”动了！智能经济新形态，到底新在哪？ DoNews",
           "image": ""
         },
         {
-          "title": "我写了Hinton署名的那篇 RSI论文，未来几年 AI 研发可能提速十倍｜Sören Mindermann - 36氪",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53THhtSGc0TnJiQzI2VzlhNExlREU3aFZDUGhqcUtLT3N2Q3BRRWE1TG5HQnc0OER4X05ENld0dERmZW9iajJTckROLW5SQQ?oc=5",
-          "source": "36氪",
-          "published_at": "2026-11-05T03:19:00+08:00",
+          "title": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 - 京报网",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pYXpwRG5mSUlsazh1MGstQTBLTFlEeENIblVjUjhmVGc1TXFINEJmZEFiUEpCT2RaX2FNZUpNMmViczUxM3ZGcVFGUk02Wkk0M0pNTktndF9vZnk2ZVAzS1dNMTlrdFFmUnhGbFFMS0lZZw?oc=5",
+          "source": "京报网",
+          "published_at": "2026-11-02T17:04:00+08:00",
           "type": "媒体",
-          "summary": "我写了Hinton署名的那篇 RSI论文，未来几年 AI 研发可能提速十倍｜Sören Mindermann 36氪",
+          "summary": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 京报网",
           "image": ""
         },
         {
@@ -517,6 +517,15 @@
           "image": ""
         },
         {
+          "title": "2026世界人工智能大会· 低空经济论坛将在长宁举办2026-07-16 - 上海市人民政府",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ24xajRVQW9iV2prNlMwU29Db2ZZWjliZ0NBZGdSdTBBRUFyVHFxQ0t6a25JUHNLa1ZXMDhOWG9CalpSQWdIV0UwbEJNdU5uZnRIR1BXem56Ni1FNC1Pb29YM1RsM0hwdFB1SFZNRWpSNnNzQ0NxTXFSRERYWGhnMWpUU3lLOEdyVUE?oc=5",
+          "source": "上海市人民政府",
+          "published_at": "2026-07-16T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2026世界人工智能大会· 低空经济论坛将在长宁举办2026-07-16 上海市人民政府",
+          "image": ""
+        },
+        {
           "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVzRjSzVVMWNqbXRYYUNIUFJZX2FoUlBKa2tJOXZRazlXYTljNTZ0c0RzazdDcnJhd2U3R21MVHg4QTR0MVZONndHS1h6Zw?oc=5",
           "source": "36Kr",
@@ -598,6 +607,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2024｜投融资主题论坛“AI规模新经济”在上海世博中心成功举办！_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LNElqQ1dhbmVHOU5QRDI2YzVDaWxqbmNSNlphdlZtZF9neDN4MmVGUXh0cVowR1JrQmlUQjVselFFNGNZUFRGSkh5ZTYwX2pXU2VDSHlscw?oc=5",
+          "source": "Bilibili",
+          "published_at": "2024-07-06T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2024｜投融资主题论坛“AI规模新经济”在上海世博中心成功举办！_哔哩哔哩 Bilibili",
+          "image": ""
+        },
+        {
           "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察者网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRXNBNzAxajh5NkJQUjFXUHlaa0xJcTRaUG5UMHBQQmVlRzVFcW5ZQXV0eVljbjdJUE1HUklwTW4xdnhqSXVOYldDakRqYUtzdVpHYzdtMzZfWXBYcjc1eUY1V1ZfVUZURHRzMlFXOEU?oc=5",
           "source": "观察者网",
@@ -631,15 +649,6 @@
           "published_at": "2020-07-01T15:00:00+08:00",
           "type": "论坛",
           "summary": "仅剩九天！令人满怀期待的2020世界人工智能健康云峰会就来咯！_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
-          "title": "倒计时30天，2020世界人工智能大会云端峰会7月9日至11日在沪举行 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZXZxZDZycElld3ZPdjBZTDh3Wk1lTmVjVV9xOWhxNzV6V3dLQVNoRDhTVzNBX3NkN1RsaDVFeExOcWNZelZ6QmQzbUJfSzBVaDU0Wl96ZmxtQQ?oc=5",
-          "source": "上观新闻",
-          "published_at": "2020-06-09T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "倒计时30天，2020世界人工智能大会云端峰会7月9日至11日在沪举行 上观新闻",
           "image": ""
         }
       ]
@@ -740,6 +749,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-07-09T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
+          "image": ""
+        },
+        {
           "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
           "source": "36Kr",
@@ -749,12 +767,12 @@
           "image": ""
         },
         {
-          "title": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月26日 - 央视网",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaLWJSVDNpUU9Ob2hOLUpfZ1ZyNHpqRXNGZ2Q0bm93aVE3ZlV6aUp4WnB3dDA0Z0Yzc2ozbEwxVm1BTXJ6YXllRkY1LWVqYnYyLWVIRmJQTXJrXzFCVjA5TjhoWS1BYTY3NnVIcDlGVDRZR1dvUERmQ3hfUmZaUQ?oc=5",
+          "title": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月28日 - 央视网",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jYkVmcTJ3c2FkeExieGpJTTdIZlhyc1hPaHpOVlc4anpIVEhFZTI0UHZIUzFUMXZFX2lCSGtvLWNGT3dMM1BtR1hYcDB0SFA3dnFPSlM1a043YWVKVmZHUXdUX0NVZFc5aWlaTE4tR2ZuWGQ0cVRfaUk4QVY2QQ?oc=5",
           "source": "央视网",
-          "published_at": "2025-07-27T15:00:00+08:00",
+          "published_at": "2025-07-28T15:00:00+08:00",
           "type": "直播",
-          "summary": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月26日 央视网",
+          "summary": "WAIC 2025世界人工智能大会 | 魔盒直播间 7月28日 央视网",
           "image": ""
         },
         {
@@ -831,21 +849,21 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "凤凰网财经",
+      "source": "DoNews",
       "title": "“新”动了！智能经济新形态，到底新在哪？",
-      "point": "“新”动了！智能经济新形态，到底新在哪？ 凤凰网财经",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Da1lRc3hiX2U5N2JKcmN1Mks1VUU5MWRkczFZY3dQT1hFNUdmSGVYWTk0U0VUa1VSSmdUODBWbmMyTmhJUGdvbXJFdWRzYXlF?oc=5",
-      "published_at": "2026-11-06T22:25:35+08:00",
+      "point": "“新”动了！智能经济新形态，到底新在哪？ DoNews",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3aVhBRGhiaVRoNkhqZWFLblowYmR4VnRNaERhTGpsT0xmQ1hEajZlWmJGQjBob19uRUU5U2ZXNHNoaE1DcTkwY1ZHNzczWkJSTTZQUTlqOHF3S2c1cmc?oc=5",
+      "published_at": "2026-11-07T15:01:29+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36氪",
-      "title": "我写了Hinton署名的那篇 RSI论文，未来几年 AI 研发可能提速十倍｜Sören Mindermann",
-      "point": "我写了Hinton署名的那篇 RSI论文，未来几年 AI 研发可能提速十倍｜Sören Mindermann 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53THhtSGc0TnJiQzI2VzlhNExlREU3aFZDUGhqcUtLT3N2Q3BRRWE1TG5HQnc0OER4X05ENld0dERmZW9iajJTckROLW5SQQ?oc=5",
-      "published_at": "2026-11-05T03:19:00+08:00",
+      "source": "京报网",
+      "title": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看",
+      "point": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pYXpwRG5mSUlsazh1MGstQTBLTFlEeENIblVjUjhmVGc1TXFINEJmZEFiUEpCT2RaX2FNZUpNMmViczUxM3ZGcVFGUk02Wkk0M0pNTktndF9vZnk2ZVAzS1dNMTlrdFFmUnhGbFFMS0lZZw?oc=5",
+      "published_at": "2026-11-02T17:04:00+08:00",
       "type": "媒体"
     },
     {
