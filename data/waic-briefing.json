@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-10T17:30:02.205218+08:00",
+  "generated_at": "2026-11-11T01:15:08.905797+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 11月10日 17:30",
+  "edition_title": "上海人工智能大会公开信号追踪 · 11月11日 01:15",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 94 条、直播 17 条、观点 1 条、论坛 32 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 95 条、直播 19 条、观点 1 条、论坛 30 条，已按企业家阅读场景分组。",
     "36氪：超节点走向规模交付，算力军备升级了 - 36氪",
     "DoNews：“新”动了！智能经济新形态，到底新在哪？ - DoNews",
     "京报网：以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 - 京报网",
@@ -51,15 +51,6 @@
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会“数据要素×行业智能体”分论坛举办 新华网客户端",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026世界人工智能大会闭幕式论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
-          "source": "21财经",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
           "image": ""
         },
         {
@@ -124,6 +115,15 @@
           "type": "论坛",
           "summary": "2026世界人工智能大会在上海开幕 中国新闻网",
           "image": ""
+        },
+        {
+          "title": "三地四馆、规模创纪录，WAIC 2026今日开幕 - 观察者网",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSE95eVVKV2IxbHd4amRvSV9zVE4tVjFLTEw2VXV1MWY0eDBucVkyZVVZNkQ5MHJ0OTI2djlpQVQzSzFhWEgxZWFrSFZ0allkeFFDLVR3LUZacGdPVmJHZ3VyRTJKZw?oc=5",
+          "source": "观察者网",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕 观察者网",
+          "image": ""
         }
       ]
     },
@@ -142,21 +142,21 @@
           "image": ""
         },
         {
-          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "直播",
-          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
-          "image": ""
-        },
-        {
           "title": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 - QQ News",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS0VHOFNsUG04YjRYVTItbnk3U1NqTG5MYU1Qc2FXb2RLZ1ctOXQ5Wk80UENUSW9rWF9leDgzYXlYWDMtdjgtaV9hZl9PZVpISXVIeEJ3?oc=5",
           "source": "QQ News",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
           "summary": "2026世界人工智能大会今日开幕，观察者网高端直播间全程陪伴 QQ News",
+          "image": ""
+        },
+        {
+          "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
+          "source": "上观新闻",
+          "published_at": "2026-07-17T15:00:00+08:00",
+          "type": "直播",
+          "summary": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 上观新闻",
           "image": ""
         },
         {
@@ -318,6 +318,15 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026展商精彩回顾_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FUHBLY1E5UkpHZjRBZnlpVHhFYkw0X3BoTEg1ZkNfYUdCbkdybzI2QUNmZlhQaVlUYktOZndTenEtWlVTa2FGQlZGc2p1VXhCY1R3dlBnaw?oc=5",
+          "source": "Bilibili",
+          "published_at": "2026-07-24T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "WAIC 2026展商精彩回顾_哔哩哔哩 Bilibili",
+          "image": ""
+        },
+        {
           "title": "同济大学科技园硬科技企业组团亮相2026世界人工智能大会 - 同济大学新闻网",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SE50SlRUaEY0S2dFYnl3Xy1FOWJrOXJmQVAyeG1rTVNoa3JXWENtM04wUEpvXzhZc3JaQS1DOWxWTmNHRmNkUUdTSExWNFZha01yZzNIYmRQZw?oc=5",
           "source": "同济大学新闻网",
@@ -360,15 +369,6 @@
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "媒体",
           "summary": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 虎嗅网",
-          "image": ""
-        },
-        {
-          "title": "SMG千人团队深度参与2026世界人工智能大会 - https://guan.media/",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRmdkMTRwMVd3ZWxmUU5mMHlRUEFaX1d0NUFkWmRNOFJORWtsdExzU0RmbnlLZ0pEYjdRLVQ2bVRSX1Fna0tQZlpJRHBkcWFxSEhQNVJLOV80R2ZwbnBhdEExZW1pOThJenc?oc=5",
-          "source": "https://guan.media/",
-          "published_at": "2026-07-22T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "SMG千人团队深度参与2026世界人工智能大会 https://guan.media/",
           "image": ""
         }
       ]
@@ -415,15 +415,6 @@
           "published_at": "2026-07-21T15:00:00+08:00",
           "type": "论坛",
           "summary": "2026世界人工智能大会“数据要素×行业智能体”分论坛举办 新华网客户端",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026世界人工智能大会闭幕式论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNU91Ym9jOF9VallZS25GLTNHd3JycWdGN2VrT3pMTmJOdTdnQzJVTWFKVmJud2VBZkxGV1U5VVFwaFpiZ2JRZ3l3NGVEeERDekJF?oc=5",
-          "source": "21财经",
-          "published_at": "2026-07-20T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会闭幕式论坛 21财经",
           "image": ""
         },
         {
@@ -550,15 +541,6 @@
           "published_at": "2026-07-09T17:23:22+08:00",
           "type": "媒体",
           "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议 C114通信网",
-          "image": ""
-        },
-        {
-          "title": "【Geoffrey Hinton】WAIC 2025开幕式演讲_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuZUVwYzZCbTc1ZzhNRmRDSjNlUTFtQTZCalJPZFVLcndFMTBBWF9yQ0Q1N2V0RnhVOUVBTzZmQ0lpd2NLWXNZbGZ1YjYtdjdDRlpEQVhQVQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2025-11-17T16:00:00+08:00",
-          "type": "论坛",
-          "summary": "【Geoffrey Hinton】WAIC 2025开幕式演讲_哔哩哔哩 Bilibili",
           "image": ""
         },
         {
@@ -749,12 +731,30 @@
           "image": ""
         },
         {
+          "title": "WAIC 2026 宣传片_精彩视频为您呈现 - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSEpBWGxjNEVZWEVsRU5ZTV9VZkwtX0hLOGVLT2VPRVJ2dHpHYTgxVU1rQ1JmMHI5aTQtbm1WZEZORzJoWXFwVXYwS0loOXUyanlN?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-07-09T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "WAIC 2026 宣传片_精彩视频为您呈现 36Kr",
+          "image": ""
+        },
+        {
           "title": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2M1d5eHpGYklHQ3Z1Z0s0Q0pUT1JYOTg4eE5FZVhZTzIwUWJUYWNwaHNWaGVUNlZuaDNZLTB3Vk5HcGxDbDM0RERRREVWS3BQZTlZ?oc=5",
           "source": "36Kr",
           "published_at": "2026-06-28T15:00:00+08:00",
           "type": "直播",
           "summary": "2026世界人工智能大会（WAIC 2026）× 36氪「氪话未来直播间」：携AI奔赴前线 36Kr",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 - 36氪",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNUEtMXVjbEQzam5uamVaRU85aWh4Q19RdHVRRnFBQ2xoSkptMUpVSGNTeVVtdmZKRmJrZXJMcUNVaUYtZjJ3VlNuTGJEQQ?oc=5",
+          "source": "36氪",
+          "published_at": "2026-06-28T15:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线 36氪",
           "image": ""
         },
         {
@@ -782,6 +782,15 @@
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "直播",
           "summary": "直播回放 | 共享善智正当时 探营2024世界人工智能大会 xinmin.cn",
+          "image": ""
+        },
+        {
+          "title": "魔盒直播间精彩不断-视觉篇_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBONDM2dVdGbnVlWEd0T012c2NMcmdGTXo1SF9kZnZBMFJOZjNiQ1dTbW43NmVXN1FjNGxDYS11UU5GOG92VXJiQzJmdUtuanZMZ0lQUFdlQQ?oc=5",
+          "source": "Bilibili",
+          "published_at": "2021-07-08T15:00:00+08:00",
+          "type": "直播",
+          "summary": "魔盒直播间精彩不断-视觉篇_哔哩哔哩 Bilibili",
           "image": ""
         }
       ]
