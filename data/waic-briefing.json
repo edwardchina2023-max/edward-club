@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-14T22:00:10.985096+08:00",
+  "generated_at": "2026-11-15T03:03:33.864526+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 11月14日 22:00",
+  "edition_title": "上海人工智能大会公开信号追踪 · 11月15日 03:03",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 93 条、直播 17 条、论坛 30 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 94 条、直播 17 条、论坛 31 条，已按企业家阅读场景分组。",
     "www.icloudnews.net：逛展攻略|超1300家展商名单及展位图、Live Lab 模拟实验室、论坛议程、逛展打卡...一文尽览 - www.icloudnews.net",
     "36Kr：从聊天到办事：“华米荣OV”的AI助手之争 - 36Kr",
     "虎嗅：AI替我们省下的时间，正在成为新的生意？ - 虎嗅",
@@ -90,15 +90,6 @@
           "image": ""
         },
         {
-          "title": "简报国家发布《人工智能合作发展行动计划》和案例集。WAIC 2026世界人工智能智能大会上海开幕式上发布。2026年7月17日。_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BWlZ5M1YxSF8wVXNQUjgyWmJzY0RtTDRXN1hzejExUjVSOUdaSm9JMU9NSEVKRGxwdkE2OG9kMlVjNHBKZ0dPM1dWUUpxYktlX0FjZllyRQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "简报国家发布《人工智能合作发展行动计划》和案例集。WAIC 2026世界人工智能智能大会上海开幕式上发布。2026年7月17日。_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
           "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03YlJJOEpRNHg3VG1kYWlYenRLOWJGTkptOEkyLWoteHFjWHNDSlBjU0VjeTNKYklQWjdUYkpXMzN2dGRnN0JCZ09rLXowdw?oc=5",
           "source": "36Kr",
@@ -123,6 +114,15 @@
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "论坛",
           "summary": "三地四馆、规模创纪录，WAIC 2026今日开幕 观察者网",
+          "image": ""
+        },
+        {
+          "title": "WAIC 2026世界人工智能大会主论坛 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FeVdpdXg3Zi1GblFHTE5IbWlDRXhWMlI1VmFBdkVleXZYRm9PQmJrTG9GcUQ4T19sVXMzZUlGSzdBWi1GdWlUUW5PX0J0dkdPSmJB?oc=5",
+          "source": "21财经",
+          "published_at": "2026-07-16T20:59:33+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
           "image": ""
         }
       ]
@@ -354,21 +354,21 @@
           "image": ""
         },
         {
-          "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ - 36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51X05nYUU1cnJDUzdYTDZQQkZ5ZWxSdzhsSTVuMGRVQndsMEQ1SERnTGRPRUk3T1VqZFBDc1RtMEZIU1dkRGEtS0V1cDVKdw?oc=5",
-          "source": "36Kr",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ 36Kr",
-          "image": ""
-        },
-        {
           "title": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GYlg5YVZTLUZhN1p5MzBwazZ4TGxoRExXSTlTUzJBUU5QYWdjMGZWR0VfWkhaQzNsRnRwU2habFJSUDhCcjAwN2JQUmlWRldEalFMZA?oc=5",
           "source": "虎嗅网",
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "媒体",
           "summary": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ - 36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51X05nYUU1cnJDUzdYTDZQQkZ5ZWxSdzhsSTVuMGRVQndsMEQ1SERnTGRPRUk3T1VqZFBDc1RtMEZIU1dkRGEtS0V1cDVKdw?oc=5",
+          "source": "36Kr",
+          "published_at": "2026-07-23T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ 36Kr",
           "image": ""
         },
         {
@@ -481,15 +481,6 @@
           "image": ""
         },
         {
-          "title": "简报国家发布《人工智能合作发展行动计划》和案例集。WAIC 2026世界人工智能智能大会上海开幕式上发布。2026年7月17日。_哔哩哔哩 - Bilibili",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BWlZ5M1YxSF8wVXNQUjgyWmJzY0RtTDRXN1hzejExUjVSOUdaSm9JMU9NSEVKRGxwdkE2OG9kMlVjNHBKZ0dPM1dWUUpxYktlX0FjZllyRQ?oc=5",
-          "source": "Bilibili",
-          "published_at": "2026-07-17T15:00:00+08:00",
-          "type": "论坛",
-          "summary": "简报国家发布《人工智能合作发展行动计划》和案例集。WAIC 2026世界人工智能智能大会上海开幕式上发布。2026年7月17日。_哔哩哔哩 Bilibili",
-          "image": ""
-        },
-        {
           "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界 - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03YlJJOEpRNHg3VG1kYWlYenRLOWJGTkptOEkyLWoteHFjWHNDSlBjU0VjeTNKYklQWjdUYkpXMzN2dGRnN0JCZ09rLXowdw?oc=5",
           "source": "36Kr",
@@ -589,12 +580,30 @@
           "image": ""
         },
         {
+          "title": "WAIC 2024｜投融资主题论坛“AI规模新经济”在上海世博中心成功举办！_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LNElqQ1dhbmVHOU5QRDI2YzVDaWxqbmNSNlphdlZtZF9neDN4MmVGUXh0cVowR1JrQmlUQjVselFFNGNZUFRGSkh5ZTYwX2pXU2VDSHlscw?oc=5",
+          "source": "Bilibili",
+          "published_at": "2024-07-06T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "WAIC 2024｜投融资主题论坛“AI规模新经济”在上海世博中心成功举办！_哔哩哔哩 Bilibili",
+          "image": ""
+        },
+        {
           "title": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ - 观察者网",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRXNBNzAxajh5NkJQUjFXUHlaa0xJcTRaUG5UMHBQQmVlRzVFcW5ZQXV0eVljbjdJUE1HUklwTW4xdnhqSXVOYldDakRqYUtzdVpHYzdtMzZfWXBYcjc1eUY1V1ZfVUZURHRzMlFXOEU?oc=5",
           "source": "观察者网",
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "直播",
           "summary": "WAIC 2024直播不断！3*24小时“全程大放送”持续加码，“AI魔盒直播间”焕新启动，打造WAIC云端峰会！ 观察者网",
+          "image": ""
+        },
+        {
+          "title": "2023年世界人工智能大会智能教育主题论坛举行 - 华东师范大学",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45R0Zfam5zYWVERXJXdncyN3FfOXc2eDhVQzNoVWJmc1RSLVZGQTFHd1NzZm44SGNRU3NBc21SakMxSlRXZjdQOXBmMXVHS2FPTEFHTW1B?oc=5",
+          "source": "华东师范大学",
+          "published_at": "2023-07-09T15:00:00+08:00",
+          "type": "论坛",
+          "summary": "2023年世界人工智能大会智能教育主题论坛举行 华东师范大学",
           "image": ""
         },
         {
