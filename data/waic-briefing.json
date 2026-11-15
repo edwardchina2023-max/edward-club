@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-15T18:41:03.617743+08:00",
+  "generated_at": "2026-11-16T01:37:37.714044+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 11月15日 18:41",
+  "edition_title": "上海人工智能大会公开信号追踪 · 11月16日 01:37",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 102 条、直播 18 条、论坛 29 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 98 条、直播 19 条、论坛 29 条，已按企业家阅读场景分组。",
     "www.icloudnews.net：逛展攻略|超1300家展商名单及展位图、Live Lab 模拟实验室、论坛议程、逛展打卡...一文尽览 - www.icloudnews.net",
     "36Kr：从聊天到办事：“华米荣OV”的AI助手之争 - 36Kr",
     "虎嗅：AI替我们省下的时间，正在成为新的生意？ - 虎嗅",
@@ -223,21 +223,21 @@
           "image": ""
         },
         {
-          "title": "新民直播 | 智能伙伴共创未来 探营2026世界人工智能大会 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5YTFQY0NpNHE0MW8yZ01WbEJka3NNbDNqZzNwVm1CNWRwdTJxR3ZWX2xXXzhxekJWbXJFeUUweHRpU29OdkZGd292aDR3ZFBRQW1jR0trWFFqdw?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-15T15:00:00+08:00",
-          "type": "直播",
-          "summary": "新民直播 | 智能伙伴共创未来 探营2026世界人工智能大会 上观新闻",
-          "image": ""
-        },
-        {
           "title": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 - 凤凰网",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RSlVNQzZSQXQzaEZ2aDRfelp5aDZVb0pqX05wVHR4RTk4eFdVOHYtcTgtczc5N2JKQW01MVhvSVdnbUVDQURkOEhBV0I?oc=5",
           "source": "凤凰网",
           "published_at": "2026-07-15T15:00:00+08:00",
           "type": "直播",
           "summary": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 凤凰网",
+          "image": ""
+        },
+        {
+          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
+          "source": "智源社区",
+          "published_at": "2026-07-14T15:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
           "image": ""
         }
       ]
@@ -354,15 +354,6 @@
           "image": ""
         },
         {
-          "title": "趣丸科技亮相WAIC 2026，引领AI文娱应用新范式 - 新华网",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TSkstSFdsZ2F5R05IN3lVX1Itb3lWZnRzTHA2U1Izb1BzZHhIYnlTbkFRcDRSLUN0YkdGcXlVakVOT2RYVkJhLWllRWpQb2Z1Sm5leFRTeF82ZWVJMk1MR0RxRjJWWXlocU5nVVY4dmxpcnFmYjdjTmw4SVI?oc=5",
-          "source": "新华网",
-          "published_at": "2026-07-23T15:00:00+08:00",
-          "type": "媒体",
-          "summary": "趣丸科技亮相WAIC 2026，引领AI文娱应用新范式 新华网",
-          "image": ""
-        },
-        {
           "title": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地 - 虎嗅网",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GYlg5YVZTLUZhN1p5MzBwazZ4TGxoRExXSTlTUzJBUU5QYWdjMGZWR0VfWkhaQzNsRnRwU2habFJSUDhCcjAwN2JQUmlWRldEalFMZA?oc=5",
           "source": "虎嗅网",
@@ -378,6 +369,15 @@
           "published_at": "2026-07-23T15:00:00+08:00",
           "type": "媒体",
           "summary": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！ 36Kr",
+          "image": ""
+        },
+        {
+          "title": "【展会活动】2026世界人工智能大会回顾_哔哩哔哩 - Bilibili",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VZThWRHlKQXI1YWlGVU9qeTBNby1JZGxfcnA2dGZ2ZVZoaVNBTGN3RDVCREprc2ZnanFLd3Jja1JmMWxkaDBKamRrc21HbnhNdHBwT1Q5MA?oc=5",
+          "source": "Bilibili",
+          "published_at": "2026-07-22T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "【展会活动】2026世界人工智能大会回顾_哔哩哔哩 Bilibili",
           "image": ""
         },
         {
@@ -544,12 +544,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 36Kr",
+          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 36氪",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13QU5yWkg2ejIwUExWOEk3bXhHTFgyQ0p2SjNTLVlrNjFEMVFZWmM1OFZfMXhSdzhodjE4OVF4ekpndnZwRzV2VC1JSUxTdw?oc=5",
-          "source": "36Kr",
+          "source": "36氪",
           "published_at": "2026-07-07T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 36Kr",
+          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 36氪",
           "image": ""
         },
         {
@@ -649,6 +649,15 @@
           "type": "直播",
           "summary": "逛展攻略|超1300家展商名单及展位图、Live Lab 模拟实验室、论坛议程、逛展打卡...一文尽览 www.icloudnews.net",
           "image": ""
+        },
+        {
+          "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI - 智源社区",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
+          "source": "智源社区",
+          "published_at": "2026-07-14T15:00:00+08:00",
+          "type": "直播",
+          "summary": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+          "image": ""
         }
       ]
     },
@@ -713,15 +722,6 @@
           "image": ""
         },
         {
-          "title": "新民直播 | 智能伙伴共创未来 探营2026世界人工智能大会 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5YTFQY0NpNHE0MW8yZ01WbEJka3NNbDNqZzNwVm1CNWRwdTJxR3ZWX2xXXzhxekJWbXJFeUUweHRpU29OdkZGd292aDR3ZFBRQW1jR0trWFFqdw?oc=5",
-          "source": "上观新闻",
-          "published_at": "2026-07-15T15:00:00+08:00",
-          "type": "直播",
-          "summary": "新民直播 | 智能伙伴共创未来 探营2026世界人工智能大会 上观新闻",
-          "image": ""
-        },
-        {
           "title": "【直播预告】WAIC 2026周五开幕，观察者网高端直播间全程陪伴 - 凤凰网",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RSlVNQzZSQXQzaEZ2aDRfelp5aDZVb0pqX05wVHR4RTk4eFdVOHYtcTgtczc5N2JKQW01MVhvSVdnbUVDQURkOEhBV0I?oc=5",
           "source": "凤凰网",
@@ -773,6 +773,15 @@
           "published_at": "2024-07-04T15:00:00+08:00",
           "type": "直播",
           "summary": "直播回放 | 共享善智正当时 探营2024世界人工智能大会 xinmin.cn",
+          "image": ""
+        },
+        {
+          "title": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 - 21财经",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fMmFDV0l4UzB5eWtiR25wYTJVUHd1UnA1UDZXSm92djZrQ3FFbHF2UWFuTHVYRWVLZ1hENmhOSWF5WGVTM2Z6OHMzeVZLOUkya0E?oc=5",
+          "source": "21财经",
+          "published_at": "2023-02-12T16:32:04+08:00",
+          "type": "直播",
+          "summary": "【直播回顾】WAIC开幕式现场直击01：沈南鹏孙正义等重磅嘉宾畅想对论 21财经",
           "image": ""
         }
       ]
@@ -852,21 +861,21 @@
     {
       "channel": "直播 / 逛展",
       "en": "Live & Expo",
+      "source": "智源社区",
+      "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI",
+      "point": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZmxId1hRWFB0R2s2NXFkMVFUWGZPQk83Umk2MW9uVjItd3pad2xFNGtNQUozc1R0dXRsVHd4dFo5SmpzUFRxdw?oc=5",
+      "published_at": "2026-07-14T15:00:00+08:00",
+      "type": "直播"
+    },
+    {
+      "channel": "直播 / 逛展",
+      "en": "Live & Expo",
       "source": "虎嗅网",
       "title": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现",
       "point": "2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IaEVneklzTXhzcEFYVmNpUl8wNG5qUmE2MEpNNXZGbGlBOHRCSWJHZVhRMEd3NTdBbkVjYkhzellUUldIdEtmV2dscTJPRS1mcXc?oc=5",
       "published_at": "2026-08-25T17:48:21+08:00",
-      "type": "论坛"
-    },
-    {
-      "channel": "直播 / 逛展",
-      "en": "Live & Expo",
-      "source": "智慧城市行业分析",
-      "title": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势",
-      "point": "【重磅合集】2026WAIC 世界人工智能大会 20+专业论坛演讲稿，助您了解 AI 新前沿新趋势 智慧城市行业分析",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlMGxJRlB6MzV1UjlNcnc4SnVMT003RUZzNmJtbnZjR1BVZ3g4QnlQS0ZnZllMZFpBZmJHX0lLTDFBTm1qM3hQX01VVjBVaU1TdXJDWGEtTGpwcWJB?oc=5",
-      "published_at": "2026-07-27T15:00:00+08:00",
       "type": "论坛"
     },
     {
