@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-16T01:37:37.714044+08:00",
+  "generated_at": "2026-11-16T06:38:45.228995+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 11月16日 01:37",
+  "edition_title": "上海人工智能大会公开信号追踪 · 11月16日 06:38",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 98 条、直播 19 条、论坛 29 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 97 条、直播 19 条、论坛 29 条，已按企业家阅读场景分组。",
     "www.icloudnews.net：逛展攻略|超1300家展商名单及展位图、Live Lab 模拟实验室、论坛议程、逛展打卡...一文尽览 - www.icloudnews.net",
     "36Kr：从聊天到办事：“华米荣OV”的AI助手之争 - 36Kr",
     "虎嗅：AI替我们省下的时间，正在成为新的生意？ - 虎嗅",
-    "36氪：超节点走向规模交付，算力军备升级了 - 36氪",
-    "京报网：以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 - 京报网"
+    "京报网：以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 - 京报网",
+    "Huawei：华为全联接大会演播室 - Huawei"
   ],
   "sections": [
     {
@@ -300,15 +300,6 @@
           "image": ""
         },
         {
-          "title": "超节点走向规模交付，算力军备升级了 - 36氪",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81NTAtcjV6TklHMkdrXy1KVEZsU1o4bkNhbEtMUW9OZk5QNjB0bWFCdk9MVm5XWHkxMXJSQW9Ta1hYckw4X2hkLUQ5aXk3Zw?oc=5",
-          "source": "36氪",
-          "published_at": "2026-11-09T04:38:00+08:00",
-          "type": "媒体",
-          "summary": "超节点走向规模交付，算力军备升级了 36氪",
-          "image": ""
-        },
-        {
           "title": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 - 京报网",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pYXpwRG5mSUlsazh1MGstQTBLTFlEeENIblVjUjhmVGc1TXFINEJmZEFiUEpCT2RaX2FNZUpNMmViczUxM3ZGcVFGUk02Wkk0M0pNTktndF9vZnk2ZVAzS1dNMTlrdFFmUnhGbFFMS0lZZw?oc=5",
           "source": "京报网",
@@ -387,6 +378,15 @@
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "媒体",
           "summary": "WAIC 2026世界人工智能大会聚焦AI从炫技走向实干，五大关键词揭示产业趋势 虎嗅网",
+          "image": ""
+        },
+        {
+          "title": "SMG千人团队深度参与2026世界人工智能大会 - guan.media",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FU1BueTFZM2ZXT2xEemNWY29KMmNQWF9VUGRTczhCTXB4ZEJ0Znp2Q3NaY2VHMUlkRXdIcnVGTWdRRzZFV0lwcDBfSnZZcENwcTdZ?oc=5",
+          "source": "guan.media",
+          "published_at": "2026-07-22T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "SMG千人团队深度参与2026世界人工智能大会 guan.media",
           "image": ""
         }
       ]
@@ -544,12 +544,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 36氪",
+          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 36Kr",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13QU5yWkg2ejIwUExWOEk3bXhHTFgyQ0p2SjNTLVlrNjFEMVFZWmM1OFZfMXhSdzhodjE4OVF4ekpndnZwRzV2VC1JSUxTdw?oc=5",
-          "source": "36氪",
+          "source": "36Kr",
           "published_at": "2026-07-07T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 36氪",
+          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 36Kr",
           "image": ""
         },
         {
@@ -841,11 +841,11 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "36氪",
-      "title": "超节点走向规模交付，算力军备升级了",
-      "point": "超节点走向规模交付，算力军备升级了 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81NTAtcjV6TklHMkdrXy1KVEZsU1o4bkNhbEtMUW9OZk5QNjB0bWFCdk9MVm5XWHkxMXJSQW9Ta1hYckw4X2hkLUQ5aXk3Zw?oc=5",
-      "published_at": "2026-11-09T04:38:00+08:00",
+      "source": "京报网",
+      "title": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看",
+      "point": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pYXpwRG5mSUlsazh1MGstQTBLTFlEeENIblVjUjhmVGc1TXFINEJmZEFiUEpCT2RaX2FNZUpNMmViczUxM3ZGcVFGUk02Wkk0M0pNTktndF9vZnk2ZVAzS1dNMTlrdFFmUnhGbFFMS0lZZw?oc=5",
+      "published_at": "2026-11-02T16:00:00+08:00",
       "type": "媒体"
     },
     {
