@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-16T06:38:45.228995+08:00",
+  "generated_at": "2026-11-16T10:38:15.649673+08:00",
   "status": "auto",
-  "edition_title": "上海人工智能大会公开信号追踪 · 11月16日 06:38",
+  "edition_title": "上海人工智能大会公开信号追踪 · 11月16日 10:38",
   "summary": "本简报由自动任务从公开搜索源与可访问页面中生成，供企业家快速浏览大会论坛、直播、媒体报道与科技创作者观点。请以原始链接为准做最终核验。",
   "highlights": [
-    "本轮抓取到 媒体 97 条、直播 19 条、论坛 29 条，已按企业家阅读场景分组。",
+    "本轮抓取到 媒体 99 条、直播 19 条、论坛 28 条，已按企业家阅读场景分组。",
     "www.icloudnews.net：逛展攻略|超1300家展商名单及展位图、Live Lab 模拟实验室、论坛议程、逛展打卡...一文尽览 - www.icloudnews.net",
     "36Kr：从聊天到办事：“华米荣OV”的AI助手之争 - 36Kr",
-    "虎嗅：AI替我们省下的时间，正在成为新的生意？ - 虎嗅",
-    "京报网：以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 - 京报网",
-    "Huawei：华为全联接大会演播室 - Huawei"
+    "Huawei：华为全联接大会演播室 - Huawei",
+    "京报网：2026年服贸会海淀展区，探馆看这里→ - 京报网",
+    "虎嗅网：2026年夏季全球AI治理峰会密集召开，中美双轨竞争格局显现 - 虎嗅网"
   ],
   "sections": [
     {
@@ -143,7 +143,7 @@
         },
         {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZOFp3NGVyN3dwMDc0T3dDTUV2bFozbS1pQnFiQ21TTTdQcjExeXUxZ0NvSlZ5cElGZ1BmYTBHZWNLWXEzNzZMMDYwSFFmUWFJMWpzOVJWU192TUtNOWc?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
@@ -291,24 +291,6 @@
           "image": ""
         },
         {
-          "title": "AI替我们省下的时间，正在成为新的生意？ - 虎嗅",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81SHpGNUVJTldrU0hHUHJ6VUNHRmF1UHZ1YWt2WEVuZl9WN0J6RnhJdHlWazRTUDFsdnFHNmpIN2pTT1FDU2ZoelVWdVdoN0RqWU04ag?oc=5",
-          "source": "虎嗅",
-          "published_at": "2026-11-10T20:49:59+08:00",
-          "type": "媒体",
-          "summary": "AI替我们省下的时间，正在成为新的生意？ 虎嗅",
-          "image": ""
-        },
-        {
-          "title": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 - 京报网",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pYXpwRG5mSUlsazh1MGstQTBLTFlEeENIblVjUjhmVGc1TXFINEJmZEFiUEpCT2RaX2FNZUpNMmViczUxM3ZGcVFGUk02Wkk0M0pNTktndF9vZnk2ZVAzS1dNMTlrdFFmUnhGbFFMS0lZZw?oc=5",
-          "source": "京报网",
-          "published_at": "2026-11-02T16:00:00+08:00",
-          "type": "媒体",
-          "summary": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 京报网",
-          "image": ""
-        },
-        {
           "title": "华为全联接大会演播室 - Huawei",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WUtxd0F4cnZsT1ZxbWtIS0lpLVhIei1ZVlh3VWxlcEhsanlKTXg2alNoLTJYV1JuSDJ6NVk3RFRULXJZdUl4SmYzMnotSHNKWVdza3hkZmRJQQ?oc=5",
           "source": "Huawei",
@@ -363,6 +345,15 @@
           "image": ""
         },
         {
+          "title": "SMG千人团队深度参与2026世界人工智能大会 - guan.media",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FU1BueTFZM2ZXT2xEemNWY29KMmNQWF9VUGRTczhCTXB4ZEJ0Znp2Q3NaY2VHMUlkRXdIcnVGTWdRRzZFV0lwcDBfSnZZcENwcTdZ?oc=5",
+          "source": "guan.media",
+          "published_at": "2026-07-22T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "SMG千人团队深度参与2026世界人工智能大会 guan.media",
+          "image": ""
+        },
+        {
           "title": "【展会活动】2026世界人工智能大会回顾_哔哩哔哩 - Bilibili",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VZThWRHlKQXI1YWlGVU9qeTBNby1JZGxfcnA2dGZ2ZVZoaVNBTGN3RDVCREprc2ZnanFLd3Jja1JmMWxkaDBKamRrc21HbnhNdHBwT1Q5MA?oc=5",
           "source": "Bilibili",
@@ -381,12 +372,21 @@
           "image": ""
         },
         {
-          "title": "SMG千人团队深度参与2026世界人工智能大会 - guan.media",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FU1BueTFZM2ZXT2xEemNWY29KMmNQWF9VUGRTczhCTXB4ZEJ0Znp2Q3NaY2VHMUlkRXdIcnVGTWdRRzZFV0lwcDBfSnZZcENwcTdZ?oc=5",
-          "source": "guan.media",
+          "title": "SMG千人团队深度参与2026世界人工智能大会 - https://guan.media/",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRmdkMTRwMVd3ZWxmUU5mMHlRUEFaX1d0NUFkWmRNOFJORWtsdExzU0RmbnlLZ0pEYjdRLVQ2bVRSX1Fna0tQZlpJRHBkcWFxSEhQNVJLOV80R2ZwbnBhdEExZW1pOThJenc?oc=5",
+          "source": "https://guan.media/",
           "published_at": "2026-07-22T15:00:00+08:00",
           "type": "媒体",
-          "summary": "SMG千人团队深度参与2026世界人工智能大会 guan.media",
+          "summary": "SMG千人团队深度参与2026世界人工智能大会 https://guan.media/",
+          "image": ""
+        },
+        {
+          "title": "清闲动态人机工学椅亮相2026世界人工智能大会，多场景融入AI产业交流 - 观察者网",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBROHBqT0ZrQ2wwQmlWd0Q3YWF1M1Z5dC1xcktucWRrc2JmenBNWUlCWnRlcERoYTByT1hCNW1PMEI2VUl4d1JRU1pjeU9mX0RGU1hST3ZRaUVIV3RnS3AxN0c3QQ?oc=5",
+          "source": "观察者网",
+          "published_at": "2026-07-22T15:00:00+08:00",
+          "type": "媒体",
+          "summary": "清闲动态人机工学椅亮相2026世界人工智能大会，多场景融入AI产业交流 观察者网",
           "image": ""
         }
       ]
@@ -473,7 +473,7 @@
         },
         {
           "title": "【直播】2026世界人工智能大会暨人工智能全球治理高级别会议主论坛 - 上观新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11TWthMDdkNnhjclItNWZaTS1UQWhQdXhsaFlyYk9pU3FNT3Yta1hOeEN1WmlNMjMydmFKZFM4RVI3a1RxY2paVkNUbnhLUVIwd0RCY3ZadFliUVpE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZOFp3NGVyN3dwMDc0T3dDTUV2bFozbS1pQnFiQ21TTTdQcjExeXUxZ0NvSlZ5cElGZ1BmYTBHZWNLWXEzNzZMMDYwSFFmUWFJMWpzOVJWU192TUtNOWc?oc=5",
           "source": "上观新闻",
           "published_at": "2026-07-17T15:00:00+08:00",
           "type": "直播",
@@ -496,15 +496,6 @@
           "published_at": "2026-07-16T20:59:33+08:00",
           "type": "论坛",
           "summary": "WAIC 2026世界人工智能大会主论坛 21财经",
-          "image": ""
-        },
-        {
-          "title": "WAIC 2026世界人工智能大会：科学前沿论坛 - 21财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maHFlcVhWdjVmYXJ6M1BfNFVoeXBrbC15Slo0dUh5ZkV2X1dyZ0praW5Hc3BKTzFVNFBsZEFNZDU2TUhNS2pneEpWR0ZyWGs3aTNz?oc=5",
-          "source": "21财经",
-          "published_at": "2026-07-16T20:59:33+08:00",
-          "type": "论坛",
-          "summary": "WAIC 2026世界人工智能大会：科学前沿论坛 21财经",
           "image": ""
         },
         {
@@ -544,12 +535,12 @@
           "image": ""
         },
         {
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 36Kr",
+          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ - 36氪",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13QU5yWkg2ejIwUExWOEk3bXhHTFgyQ0p2SjNTLVlrNjFEMVFZWmM1OFZfMXhSdzhodjE4OVF4ekpndnZwRzV2VC1JSUxTdw?oc=5",
-          "source": "36Kr",
+          "source": "36氪",
           "published_at": "2026-07-07T15:00:00+08:00",
           "type": "论坛",
-          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 36Kr",
+          "summary": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！ 36氪",
           "image": ""
         },
         {
@@ -831,21 +822,21 @@
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
-      "source": "虎嗅",
-      "title": "AI替我们省下的时间，正在成为新的生意？",
-      "point": "AI替我们省下的时间，正在成为新的生意？ 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81SHpGNUVJTldrU0hHUHJ6VUNHRmF1UHZ1YWt2WEVuZl9WN0J6RnhJdHlWazRTUDFsdnFHNmpIN2pTT1FDU2ZoelVWdVdoN0RqWU04ag?oc=5",
-      "published_at": "2026-11-10T20:49:59+08:00",
+      "source": "Huawei",
+      "title": "华为全联接大会演播室",
+      "point": "华为全联接大会演播室 Huawei",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WUtxd0F4cnZsT1ZxbWtIS0lpLVhIei1ZVlh3VWxlcEhsanlKTXg2alNoLTJYV1JuSDJ6NVk3RFRULXJZdUl4SmYzMnotSHNKWVdza3hkZmRJQQ?oc=5",
+      "published_at": "2026-09-16T15:00:00+08:00",
       "type": "媒体"
     },
     {
       "channel": "媒体快讯",
       "en": "Media Signals",
       "source": "京报网",
-      "title": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看",
-      "point": "以“上海定制”解锁专属精彩，2026进博会上海馆抢先看 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pYXpwRG5mSUlsazh1MGstQTBLTFlEeENIblVjUjhmVGc1TXFINEJmZEFiUEpCT2RaX2FNZUpNMmViczUxM3ZGcVFGUk02Wkk0M0pNTktndF9vZnk2ZVAzS1dNMTlrdFFmUnhGbFFMS0lZZw?oc=5",
-      "published_at": "2026-11-02T16:00:00+08:00",
+      "title": "2026年服贸会海淀展区，探馆看这里→",
+      "point": "2026年服贸会海淀展区，探馆看这里→ 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLRmlrWnMyUnRBRy1vbG5YWWM2eU1wb0dXTF9SUVBjcjNMUFoxblVLcVBQa3BfRUJOSnp4bEhmaVItWnA3dHNENmVoVGxfeHZLMnBWZUI5WWhNOGhtemJnWDJ2aHFGbVRlMTh3RXNGVkxCZw?oc=5",
+      "published_at": "2026-09-09T15:00:00+08:00",
       "type": "媒体"
     },
     {
